@@ -1,0 +1,1 @@
+What laboratory conditions make Targeted Memory Reactivation (TMR) successful, and which of those conditions can realistically be reproduced in an autonomous consumer wearable system?
