@@ -1,6 +1,6 @@
 # **Principles and Practice of Sleep Medicine**
 
-**Authors:** [Meir H. Kryger, Thomas Roth, William C. Dement] | **Year:**  [2021, 7th Edition] 
+**Authors:** [Meir H. Kryger, Thomas Roth, William C. Dement] | **Year:**  [2017, 6th Edition] 
 
 
 **Reason for Selection:** 
