@@ -1,1 +1,1 @@
-Can our current understanding of sleep-dependent memory consolidation, combined with modern wearable sensing and intelligent algorithms, be translated into a safe, evidence-based technology that helps people learn more effectively?
+Do you want to strengthen your memory processing during sleep?
