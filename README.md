@@ -1,1 +1,1 @@
-Do you want to strengthen your memory processing during sleep?
+Do you want to strengthen your memory consolidation during sleep?
