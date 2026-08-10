@@ -1,0 +1,91 @@
+Newly acquired memories are not fixed at the moment of encoding. They remain
+susceptible to interference and undergo post-learning processes that stabilize,
+reorganize, and integrate them into longer-term representations. Sleep supports
+this transformation through coordinated neural activity during non-rapid eye
+movement (NREM) sleep, including the temporal interaction of slow oscillations,
+sleep spindles, and hippocampal sharp-wave ripples
+\citep{diekelmann2010memory,rasch2013sleep,klinzing2019mechanisms}.
+These processes contribute to the reactivation and reorganization of recently
+encoded information rather than merely protecting memory from continued waking
+interference.
+
+Targeted Memory Reactivation (TMR) provides an experimental means of influencing
+this endogenous consolidation process. In a typical TMR paradigm, sensory cues
+are associated with specific learning material during wakefulness and are
+subsequently re-presented during sleep to bias reactivation toward the
+corresponding memories \citep{oudiette2013upgrading}. Across experimental
+paradigms, appropriately delivered cues have produced a modest average benefit
+for later memory, with a meta-analytic effect size of Hedges'
+\(g=0.29\). The magnitude and reliability of this effect nevertheless vary with
+memory domain, encoding quality, cueing protocol, and physiological context
+\citep{hu2020promoting}. TMR should therefore be understood as a
+condition-dependent modulation of memory consolidation rather than as a general
+or guaranteed method of memory enhancement.
+
+The principal translational difficulty is that experimental efficacy does not
+by itself define a practical intervention system. Laboratory TMR commonly
+depends on physiological recording, controlled cue timing, continuous
+observation, and the ability to suspend stimulation when sleep becomes unstable.
+A system intended to operate outside this environment must reproduce the
+intervention-relevant functions of that workflow rather than merely generate a
+retrospective description of the night. It must acquire physiological
+information during ongoing sleep, determine whether the current interval is
+suitable for cueing, execute stimulation with bounded and measurable timing,
+and evaluate whether the cue has disrupted the state it was intended to exploit.
+
+Recent studies provide proof-of-concept evidence that portions of this process
+can be automated in home environments. SleepStim used smartwatch-derived
+movement and cardiac information to guide auditory cue delivery, demonstrating
+the feasibility of peripheral-sensor-based automated TMR while also showing that
+outcomes depend on stimulation conditions and the avoidance of sleep disruption
+\citep{whitmore2022improving}. A subsequent study used a wearable EEG
+headband to deliver vocabulary cues during detected slow-wave activity and
+reported a benefit for cued material under home conditions
+\citep{salfi2025promoting}. These studies narrow the distance between
+laboratory TMR and wearable implementation, but they do not establish that all
+sensing approaches provide equivalent control reliability or behavioral
+efficacy.
+
+A critical distinction therefore remains between general sleep assessment and
+intervention-ready physiological monitoring. A sensing modality may classify
+sleep adequately in retrospective analysis while lacking the continuous signal
+access, causal state estimation, uncertainty handling, cue synchronization, or
+post-stimulation monitoring required for real-time closed-loop operation.
+Wearable EEG and peripheral sensing, including photoplethysmography (PPG), should
+consequently be evaluated not only by their agreement with conventional sleep
+staging, but by whether they can support the physiological decisions on which
+effective and interpretable TMR depends. The relevant translational problem is
+not whether the necessary components exist independently, but whether the
+available evidence supports their combination within a coherent
+first-generation pathway without converting unresolved assumptions into system
+requirements.
+
+This paper addresses the following central research question:
+
+\begin{quote}
+\textit{How can current evidence on sleep-dependent memory consolidation,
+Targeted Memory Reactivation, and wearable sleep monitoring be translated into
+a scientifically defensible first-generation pathway for real-time closed-loop
+TMR?}
+\end{quote}
+
+To answer this question, the study develops and applies a structured
+evidence-to-engineering methodology. Biological and experimental findings are
+first translated into system-level requirements, after which candidate
+EEG-based and peripheral-sensor-based implementation pathways are evaluated
+according to physiological relevance, temporal suitability, evidence maturity,
+and validation risk. The intended contribution is not a new biological
+mechanism, engineering algorithm, or validated product. It is a traceable
+translational analysis that distinguishes established findings from unresolved
+implementation assumptions and identifies the first-generation direction most
+strongly justified for subsequent investigation.
+
+The remainder of the paper is organized as follows. Section~2 defines the
+research scope and evidence-to-engineering methodology. Section~3 introduces the
+neuroscientific mechanisms required to interpret sleep-dependent memory
+processing, and Section~4 examines the biological rationale and experimental
+evidence for TMR. Section~5 evaluates wearable sleep monitoring in relation to
+real-time intervention requirements. Section~6 translates the combined evidence
+into system-level requirements and compares first-generation implementation
+pathways. Sections~7 and~8 define the limitations and future research
+directions, respectively, and Section~9 presents the final conclusions.

@@ -1,0 +1,502 @@
+\subsection{Translational Requirements Derived from the Evidence}
+
+The purpose of the present section is not to introduce additional biological
+claims, but to apply the evidence-to-engineering procedure defined in
+Section~2 to the findings established in Sections~3--5. The central
+translational question is whether the experimental conditions under which TMR
+has demonstrated measurable effects can be represented as system-level
+requirements without converting unresolved biological or technical assumptions
+into apparent capabilities.
+The seven general requirement categories defined in Section~2 are consolidated
+here into five intervention-specific requirements because measurement quality,
+intervention control, operational reliability, and empirical validation span
+multiple TMR-specific functions rather than forming independent implementation
+requirements.
+
+Five requirements follow consistently from the preceding evidence.
+
+First, the intervention requires \textbf{traceable memory preparation}. TMR
+depends on an association established before sleep, but the literature does not
+support a universal pre-sleep performance threshold below which cueing becomes
+invalid. Prior memory strength and the structure of cue--memory associations
+influence subsequent TMR effects in a condition-dependent manner
+\citep{creery2015priorlearning,cairney2016benefits}. A first-generation system
+should therefore preserve the identity of cue--memory mappings and record
+pre-sleep learning performance, while treating any numerical eligibility
+threshold as a parameter requiring prospective validation.
+
+Second, the intervention requires \textbf{physiological eligibility}. Cue
+presentation should be restricted to sleep conditions supported by the TMR
+literature rather than governed solely by elapsed time. Meta-analytic evidence
+supports significant average effects during NREM stage~2 and slow-wave sleep,
+although neither state is universally optimal across all paradigms
+\citep{hu2020promoting}. An autonomous system must therefore estimate whether
+the current physiological interval is eligible for stimulation and must be
+capable of withholding intervention when that judgment is unsupported.
+
+Third, the system requires \textbf{conservative disturbance control}. TMR
+depends on preserving the sleep physiology within which cueing occurs.
+Unsupervised and automated home studies indicate that stimulus intensity and
+sleep disturbance can materially influence behavioral outcome
+\citep{goldi2019home,whitmore2022improving}. Cue delivery should therefore be
+governed by signal quality, physiological stability, recent stimulation
+history, and evidence of arousal or state transition. The literature does not
+establish universal thresholds for these variables; those thresholds remain
+implementation-specific validation questions.
+
+Fourth, the intervention requires \textbf{temporal validity}. Physiological
+information used to authorize cueing must remain relevant when the cue is
+actually delivered. The system must therefore measure the delay between signal
+acquisition, state estimation, decision logic, scheduling, and physical cue
+onset. No single maximum acceptable latency can be derived from the present
+evidence because the relevant timescale depends on whether control is based on
+broad sleep stage, transient events, or oscillatory phase. End-to-end latency
+should consequently be treated as a measurable system property whose acceptable
+range must be established relative to the physiological target.
+
+Fifth, experimental validation requires \textbf{intervention traceability}.
+Delivered and withheld cues should be reconstructable in relation to the
+physiological evidence available at the time of the decision. At minimum, the
+validation system should retain synchronized information concerning cue
+identity, physiological state estimate, signal quality or confidence,
+decision time, actual cue onset, and subsequent evidence of sleep disruption.
+Behavioral outcomes can then be interpreted in relation to how the system
+actually operated rather than according to its intended protocol alone.
+
+These requirements do not imply that every variable must ultimately appear in
+a deployed product. Some, particularly detailed intervention logging and
+cued--uncued behavioral comparisons, are requirements of scientific validation
+rather than permanent user-facing functionality. The purpose of the
+first-generation system is to make the intervention experimentally
+interpretable before optimization for usability or scale.
+
+Table~\ref{tab:translation_requirements} summarizes the translation from
+scientific evidence to system requirement while retaining the principal
+uncertainty associated with each step.
+
+\begin{table*}[t]
+
+\centering
+
+\caption{
+Evidence-derived requirements for a first-generation closed-loop TMR system.
+The final column identifies assumptions that remain to be established
+prospectively rather than treated as settled design parameters.
+}
+
+\label{tab:translation_requirements}
+
+\footnotesize
+\setlength{\tabcolsep}{4.5pt}
+\renewcommand{\arraystretch}{1.22}
+
+\begin{tabularx}{\textwidth}{
+@{}
+>{\raggedright\arraybackslash}p{2.7cm}
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+@{}
+}
+
+\toprule
+
+\textbf{Evidence basis}
+&
+\textbf{Translational implication}
+&
+\textbf{System-level requirement}
+&
+\textbf{Unresolved validation question}
+\\
+
+\midrule
+
+\textbf{Cue--memory association}
+&
+TMR operates on information associated with sensory cues before sleep.
+&
+Preserve cue--memory identity and record pre-sleep learning performance.
+&
+What encoding or retrieval criterion, if any, should determine eligibility for
+overnight cueing?
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{State-dependent efficacy}
+&
+Cueing effects depend on the physiological context in which stimulation occurs.
+&
+Estimate intervention eligibility causally and permit abstention during
+unsupported or unstable states.
+&
+What state definition and confidence criterion provide adequate intervention
+reliability?
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Sensitivity to disturbance}
+&
+Excessive or poorly controlled stimulation may disrupt sleep and reduce or
+reverse behavioral benefit.
+&
+Control cue exposure and reassess physiological stability following
+stimulation.
+&
+Which post-cue signals and thresholds best identify biologically consequential
+disturbance?
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Temporal dependence}
+&
+The physiological evidence authorizing stimulation may become outdated before
+cue onset.
+&
+Measure and synchronize the complete sensing-to-stimulation pathway.
+&
+What end-to-end delay is acceptable for the selected level of physiological
+targeting?
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Condition-dependent behavioral effect}
+&
+System operation must be interpretable in relation to actual cueing conditions.
+&
+Maintain synchronized intervention records during experimental validation.
+&
+Which operational variables best predict successful versus unsuccessful TMR
+trials?
+\\
+
+\bottomrule
+
+\end{tabularx}
+
+\end{table*}
+
+
+\subsection{Comparison of First-Generation Implementation Pathways}
+
+The requirements above constrain the implementation space but do not uniquely
+identify a device or architecture. Selection therefore requires comparison of
+candidate pathways according to two distinct questions: how strongly each
+pathway is connected to the existing evidence, and how many additional
+assumptions must be validated before an unsuccessful or successful result can
+be interpreted.
+
+\noindent\textbf{Fixed-schedule versus physiology-guided cueing.}
+
+The relevant distinction is not between all ``open-loop'' and ``closed-loop''
+TMR experiments. Many foundational studies achieved physiological control
+through researcher-supervised PSG rather than through an automated feedback
+algorithm. The translational problem arises when an autonomous system delivers
+cues according to elapsed time or a predetermined schedule without verifying
+that the sleeper remains in an appropriate state.
+
+For an unsupervised system, physiology-guided control provides substantially
+greater interpretability. Current-state information can determine whether a cue
+is authorized, delayed, or withheld, while post-cue information can determine
+whether stimulation should continue. This introduces additional sensing and
+control complexity, but that complexity serves a scientific function: it
+preserves the relationship between the intervention and the physiological
+conditions under which TMR efficacy has been demonstrated. Closed-loop control
+is therefore selected here as a requirement of \textit{autonomous
+state-dependent implementation}, not as a claim that TMR itself is invalid
+without an automated closed loop.
+
+
+\noindent\textbf{Wearable EEG versus peripheral physiological inference.}
+
+The sensing comparison requires particular caution because the available
+evidence supports both approaches, but at different levels of physiological
+observability.
+
+Wearable EEG retains access to scalp electrophysiology used to characterize
+sleep state and selected events relevant to TMR. Reduced-montage systems have
+demonstrated substantial sleep-staging capability, although performance and
+signal usability vary across devices, populations, and recording conditions
+\citep{arnal2020dreem,ravindran2025dreem}. More importantly for the present
+translation problem, wearable EEG has already been incorporated into automated
+home TMR: Salfi et al.\ used real-time EEG-derived slow-wave detection to guide
+vocabulary cueing and reported a behavioral advantage for cued material
+\citep{salfi2025promoting}.
+
+Peripheral sensing should not be characterized as experimentally unvalidated.
+PPG and related signals can provide substantial information about sleep state
+\citep{korkalainen2020ppg}, and SleepStim demonstrated that smartwatch-derived
+cardiac and inertial information can govern automated TMR cue delivery at home
+\citep{whitmore2022improving}. Its behavioral results also demonstrated,
+however, the importance of stimulus intensity and intervention conditions.
+The current evidence therefore establishes peripheral closed-loop feasibility,
+but does not establish that peripheral-state estimates provide intervention
+control equivalent to electrophysiological monitoring across TMR protocols.
+
+No direct head-to-head experiment currently demonstrates that an EEG-guided TMR
+controller produces greater behavioral efficacy than an otherwise equivalent
+peripheral controller. The choice between these pathways must therefore remain a
+translational inference rather than an experimentally established ranking.
+EEG offers closer continuity with the electrophysiological measurements used in
+much of the controlled TMR literature, whereas peripheral sensing reduces
+measurement burden at the cost of an additional inference between measured
+autonomic physiology and the cortical state relevant to the intervention.
+
+
+\noindent\textbf{Stage-aware versus event- or phase-aware targeting.}
+
+The literature also supports different levels of temporal specificity.
+Meta-analytic evidence demonstrates TMR benefits when cueing is restricted to
+broad NREM conditions, particularly N2 and slow-wave sleep
+\citep{hu2020promoting}. At finer temporal scales, spindle-related findings and
+closed-loop experiments indicate that the momentary oscillatory context of cue
+presentation can influence subsequent memory
+\citep{antony2018spindle,shimizu2018closedloop,ngo2022shaping,
+nicolas2025phase}.
+
+Phase-specific control therefore has direct experimental support and should not
+be treated merely as a mechanistically plausible future extension. However,
+the available evidence remains narrower across memory domains, protocols, and
+independent replications than the evidence supporting TMR within broader NREM
+conditions. Moreover, existing phase-specific studies do not establish a
+universal incremental advantage over well-controlled stage-aware TMR. For
+example, Nicolas et al.\ found superior performance for UP- relative to
+DOWN-state cueing, but the UP-reactivated condition did not significantly
+outperform the non-reactivated condition \citep{nicolas2025phase}.
+
+Greater temporal specificity also introduces additional dependencies on
+real-time event detection, phase estimation, causal processing,
+synchronization, and physical cue timing. For the initial reference pathway,
+the relevant distinction is therefore not between a scientifically valid and
+an invalid strategy, but between two evidence-supported strategies with
+different levels of implementation dependency.
+
+The first-generation pathway is consequently defined here as stage-aware and
+non-phase-locked. This choice should be interpreted as a sequencing decision,
+not as evidence that phase-aware control is ineffective or unnecessary.
+Fine-scale slow-wave or spindle information may be recorded during
+first-generation validation, while the incremental value of phase-aware control
+should subsequently be tested against the characterized reference
+configuration.
+
+
+\noindent\textbf{Existing-platform integration versus proprietary hardware.}
+
+The decision to begin with existing wearable EEG hardware follows a different
+type of reasoning. It is not a biological conclusion but an engineering
+sequencing judgment. Developing new sensing hardware simultaneously with a new
+closed-loop intervention would introduce additional uncertainty concerning
+electrode design, acquisition quality, synchronization, comfort, durability,
+and hardware reliability. Failure of the integrated experiment could then be
+difficult to localize.
+
+Using existing hardware narrows this first validation problem only if the
+platform exposes the functions required by the intervention. A candidate device
+must provide sufficiently usable physiological signals in real time, reliable
+timestamps or synchronization, access compatible with causal processing, and a
+means of coordinating cue delivery with the recorded physiology. If no
+available platform satisfies these conditions, existing-platform integration
+cannot be assumed to be preferable simply because the hardware already exists.
+
+The initial platform strategy should therefore be stated conditionally:
+development should preferentially integrate with a compatible and sufficiently
+validated wearable EEG platform rather than begin with proprietary hardware.
+The specific device remains an engineering-selection question outside the
+evidentiary conclusion of this paper.
+
+
+\begin{table*}[t]
+
+\centering
+
+\caption{
+Comparison of candidate implementation choices for a first-generation
+closed-loop TMR reference system. The table separates demonstrated evidence
+from uncertainties that would accompany each pathway.
+}
+
+\label{tab:implementation_tradeoffs}
+
+\footnotesize
+\setlength{\tabcolsep}{4.5pt}
+\renewcommand{\arraystretch}{1.22}
+
+\begin{tabularx}{\textwidth}{
+@{}
+>{\raggedright\arraybackslash}p{2.5cm}
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+@{}
+}
+
+\toprule
+
+\textbf{Decision axis}
+&
+\textbf{Candidate options}
+&
+\textbf{Evidence-supported interpretation}
+&
+\textbf{First-generation implication}
+\\
+
+\midrule
+
+\textbf{Cue control}
+&
+Fixed-schedule autonomous cueing versus physiology-guided closed-loop control.
+&
+TMR efficacy is state-dependent; autonomous fixed scheduling cannot verify the
+physiology present at cue onset.
+&
+Use physiology-guided control with explicit ability to withhold stimulation.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Sensing}
+&
+Peripheral physiological inference versus wearable EEG.
+&
+Both have participated in automated home TMR. Peripheral sensing infers neural
+state indirectly; EEG preserves scalp electrophysiological observability
+\citep{whitmore2022improving,salfi2025promoting}.
+&
+Use wearable EEG as the initial reference pathway while retaining peripheral
+control as an experimentally viable alternative.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Temporal targeting}
+&
+Stage-aware versus event- or phase-aware cueing.
+&
+NREM stage-dependent efficacy is established more broadly than any incremental
+benefit of precise phase targeting
+\citep{hu2020promoting,antony2018spindle}.
+&
+Begin with stage-aware, non-phase-locked control; test finer temporal targeting
+subsequently.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Platform}
+&
+Compatible existing wearable EEG versus newly developed hardware.
+&
+No biological evidence requires proprietary hardware; new hardware would add
+an independent acquisition and validation problem.
+&
+Prefer existing-platform integration when real-time signal access,
+synchronization, and intervention control are technically available.
+\\
+
+\bottomrule
+
+\end{tabularx}
+
+\vspace{1mm}
+
+\begin{minipage}{\textwidth}
+\footnotesize
+\textit{Note.}
+The table does not rank technologies by universal quality. It identifies the
+pathway that introduces the fewest additional assumptions into the initial
+test of the closed-loop TMR intervention.
+\end{minipage}
+
+\end{table*}
+
+
+\subsection{Evidence-Based Selection of the First-Generation Reference Pathway}
+
+The preceding comparison does not demonstrate that one architecture is
+universally superior. No study identified in the present synthesis directly
+compares complete EEG-guided and peripheral-guided TMR systems under identical
+participants, learning tasks, cueing policies, and outcome measures. The
+first-generation decision must therefore be understood as an
+\textit{evidence-based translational judgment}: the preferred pathway is the one
+that allows the central intervention hypothesis to be tested while introducing
+the fewest additional unvalidated dependencies.
+
+On this basis, the most defensible first-generation reference pathway is an
+\textbf{EEG-guided, stage-aware, real-time closed-loop TMR software layer
+intended for integration with compatible existing wearable EEG hardware}.
+This selection follows from the convergence of several observations rather than
+from any single study.
+
+Controlled TMR evidence establishes that cueing efficacy depends on
+physiological state and produces a modest, condition-dependent behavioral effect
+\citep{hu2020promoting}. Wearable EEG has demonstrated that substantial
+sleep-related electrophysiological information can be retained in reduced,
+portable systems, while also revealing practical limitations related to signal
+quality and population generalization
+\citep{arnal2020dreem,ravindran2025dreem}. Most directly, EEG-guided automated
+TMR has produced a measurable vocabulary benefit under home conditions
+\citep{salfi2025promoting}. Together, these findings provide an empirical chain
+from laboratory physiology to wearable measurement to automated intervention.
+
+Peripheral sensing remains scientifically credible. Sleep-stage inference from
+cardiac and multimodal peripheral signals is well supported, and SleepStim
+provides direct evidence that peripheral physiology can control automated home
+TMR \citep{korkalainen2020ppg,whitmore2022improving}. The reason for not
+selecting it as the initial reference is therefore not absence of feasibility.
+Instead, a peripheral-first system would require the first validation program
+to establish both the TMR intervention and the adequacy of an indirect
+physiological control signal at the same time. EEG retains greater
+electrophysiological observability and allows failures in cueing, sleep-state
+detection, and post-stimulation response to be investigated more directly.
+
+Stage-aware rather than phase-locked control follows the same sequencing
+principle. The behavioral evidence for NREM-targeted TMR is broader than the
+evidence that precise oscillatory-phase targeting yields additional behavioral
+benefit \citep{hu2020promoting}. Beginning with non-phase-locked control reduces
+the number of timing assumptions that must be validated simultaneously.
+Fine-scale slow-wave or spindle information remains scientifically valuable and
+may be recorded during first-generation experiments, but it should become a
+mandatory control variable only if prospective comparison demonstrates an
+advantage over the simpler reference policy.
+
+Existing-platform integration similarly reduces the number of independent
+technical problems introduced into the first experiment. This choice remains
+conditional rather than absolute: an existing EEG device is suitable only if
+its signal access, timing behavior, data quality, and integration interfaces can
+satisfy the requirements established above. The paper therefore selects a
+\textit{platform strategy}, not a specific commercial device.
+
+The resulting decision can be expressed as a sequence of controlled
+uncertainty:
+
+\begin{quote}
+    validated TMR evidence $\rightarrow$ electrophysiological state observation $\rightarrow$ causal eligibility decision $\rightarrow$ controlled cue delivery $\rightarrow$ post-cue observation $\rightarrow$ behavioral validation.
+\end{quote}
+
+The value of the selected pathway is that each link can be observed and tested
+without simultaneously requiring a new sensing modality, a phase-sensitive
+controller, and a newly developed hardware platform to succeed.
+
+This selection is deliberately revisable. Evidence that a peripheral system
+can reproduce cue-eligibility decisions, intervention timing, sleep stability,
+and behavioral outcomes relative to an EEG reference would weaken the rationale
+for retaining EEG in later generations. Similarly, a replicated behavioral
+advantage from event- or phase-aware control would justify increasing temporal
+specificity, while failure of existing wearable EEG platforms to provide
+adequate causal signal access or synchronization could justify dedicated
+hardware development.
+
+The first-generation pathway should therefore not be interpreted as a claim
+that EEG is permanently superior to peripheral sensing, that stage-aware cueing
+is physiologically optimal, or that existing hardware will necessarily satisfy
+implementation requirements. It is a testable reference configuration chosen
+because the current evidence provides the clearest traceable path from
+established TMR physiology to an interpretable automated experiment. Detailed
+algorithm design, numerical operating thresholds, device selection, deployment
+format, and product validation remain subsequent research questions rather than
+conclusions of the present synthesis.

@@ -1,0 +1,190 @@
+\subsection{Limitations of the Evidence-Synthesis Process}
+
+The conclusions of this study are constrained first by the design of the
+evidence synthesis itself. The literature was identified through predefined
+translational research questions spanning memory neuroscience, sleep
+physiology, TMR, wearable sensing, real-time state estimation, and closed-loop
+intervention. This structure enabled evidence from otherwise separate fields to
+be evaluated within a common development problem, but it was not designed to
+provide exhaustive retrieval of every publication within each domain.
+
+The resulting evidence base may therefore omit relevant work because of
+differences in terminology, indexing, disciplinary boundaries, publication
+access, or the progressive refinement of the research questions. This affects
+the comprehensiveness and reproducibility of the synthesis more directly than
+the validity of any single cited experiment. The pathway selected in Section~6
+should consequently remain revisable if additional evidence materially changes
+the relative support for competing implementation strategies.
+
+A second limitation is reviewer-dependent judgment. Source identification,
+critical appraisal, and translational interpretation were conducted by a single
+reviewer without duplicate screening, independent extraction, formal
+risk-of-bias scoring, or standardized certainty grading. The predefined
+research-question structure, explicit source-function criteria, preference for
+primary and independently validated evidence, and claim-level traceability
+described in Section~2 provided safeguards against unrestricted source
+selection, but they do not eliminate subjective judgment.
+
+No new quantitative synthesis was performed. Effect estimates were taken from
+published meta-analyses or individual studies rather than recomputed across the
+assembled literature. The present study therefore cannot provide a new pooled
+estimate of TMR efficacy, formally rank the certainty of competing sensing
+pathways, or assign quantitative confidence to the pathway comparison. Its
+outputs should be interpreted as evidence-supported translational judgments
+rather than as systematic-review certainty estimates or independently pooled
+effect sizes.
+
+
+\subsection{Limitations of the Available Scientific Evidence}
+
+The TMR literature itself places important limits on translation. Experimental
+protocols vary in memory domain, initial learning strength, cue modality,
+stimulus intensity, sleep stage, cue timing, physiological monitoring,
+participant characteristics, retention interval, and behavioral outcome.
+Accordingly, TMR should not be treated as a single standardized intervention.
+The meta-analysis by Hu et al.\ identified a positive average effect
+(\(g=0.29\)) together with substantial between-study heterogeneity
+(\(I^2=71\%\)) \citep{hu2020promoting}. The same analysis identified funnel-plot
+asymmetry consistent with possible publication bias; under one trim-and-fill
+analysis, the estimated effect was reduced while remaining positive
+\citep{hu2020promoting}. The pooled value should therefore be interpreted as an
+estimate across heterogeneous experimental conditions rather than as an
+expected performance target for an engineered system.
+
+External validity is also limited. Much of the evidence relevant to TMR derives
+from healthy participants completing tightly controlled memory tasks over one
+or a small number of nights. Such experiments are well suited to identifying
+causal effects, but they provide much less information about repeated
+unsupervised use, night-to-night reliability, long retention intervals,
+habituation to cues, adherence, age-related variation, atypical sleep
+architecture, or clinical populations. Existing home studies extend ecological
+validity but remain limited in number, scale, duration, and task diversity
+\citep{goldi2019home,whitmore2022improving,salfi2025promoting}.
+
+The long-term behavioral and physiological consequences of repeated TMR also
+remain insufficiently characterized. Short experimental protocols can determine
+whether appropriately delivered cues alter subsequent memory without
+establishing whether repeated intervention across weeks or months remains
+effective, produces habituation, changes normal sleep architecture, or affects
+memory processes beyond the intended material. The present evidence does not
+demonstrate such adverse effects, but neither does it justify treating their
+absence in short studies as evidence of long-term safety. Claims concerning
+durability, cumulative benefit, and repeated unsupervised exposure must
+therefore await longitudinal evaluation.
+
+Mechanistic interpretation remains incomplete as well. Cue-evoked spindle
+activity, content-related EEG patterns, and temporal sensitivity to endogenous
+oscillatory dynamics are consistent with contemporary models of memory
+reactivation, but no single neurophysiological marker has been established as a
+validated surrogate for behavioral TMR success. Consequently, a system should
+not infer successful memory enhancement solely from detection of a spindle,
+slow wave, classifier output, or other physiological response.
+
+The wearable literature introduces a further evidence boundary. Studies of
+wearable EEG, PPG, and consumer sleep-tracking systems differ substantially in
+population, hardware, signal preprocessing, class definitions, reference
+scoring, algorithm version, and validation setting
+\citep{arnal2020dreem,korkalainen2020ppg,chinoy2021consumer,
+ravindran2025dreem}. Performance reported for one device or algorithm cannot
+therefore be generalized to an entire sensing modality. Furthermore, much of
+the wearable evidence concerns retrospective agreement with PSG rather than
+causal operation within an intervention loop. Real-time TMR requires additional
+properties---including usable continuous signals, uncertainty handling,
+synchronization, bounded sensing-to-cue delay, abstention during unreliable
+intervals, and post-cue monitoring---that are rarely validated together in the
+same system.
+
+
+\subsection{Limitations of Translational Inference}
+
+The central translational limitation is that evidence for individual components
+does not constitute validation of their integration. The preceding sections
+provide support for several separate propositions: TMR can produce a modest
+memory-specific behavioral effect; sleep physiology can be observed through
+EEG and estimated through peripheral signals; reduced wearable systems can
+operate outside full PSG; and both EEG- and peripheral-guided systems have been
+used to automate cue delivery at home
+\citep{whitmore2022improving,salfi2025promoting}. None of these findings
+individually demonstrates that the first-generation configuration selected in
+Section~6 will operate reliably as an integrated system.
+
+Integration creates new failure modes at the interfaces among sensing,
+preprocessing, state estimation, control logic, communication, cue execution,
+and post-stimulation monitoring. A physiological classifier may perform
+adequately while the end-to-end intervention fails because of signal loss,
+timing error, synchronization failure, inappropriate thresholds, or an
+unrecognized post-cue transition. Conversely, a technically reliable
+closed-loop implementation may operate exactly as intended without producing a
+measurable behavioral benefit. Technical validity and biological efficacy must
+therefore be demonstrated separately before they can be interpreted jointly.
+
+The EEG-first decision is also not the result of direct comparative
+validation. No evidence reviewed in this study establishes that an EEG-guided
+controller is behaviorally superior to an otherwise equivalent PPG- or
+multimodal-peripheral controller under matched participants, learning tasks,
+cue policies, and physiological conditions. Similarly, the evidence does not
+establish that stage-aware stimulation is superior to phase-aware control, or
+that integration with existing hardware is superior to proprietary hardware in
+all relevant dimensions.
+
+The selected reference pathway is consequently a sequencing decision based on
+evidentiary continuity and the number of additional assumptions introduced into
+the initial validation problem. EEG was selected because it preserves closer
+access to the electrophysiological domain used to characterize sleep and has
+already supported automated home TMR, not because permanent superiority over
+peripheral sensing has been demonstrated. Stage-aware control was selected
+because its behavioral evidence base is broader and its implementation requires
+fewer timing assumptions than phase-locked control, not because it has been
+shown to be physiologically optimal.
+
+The translation from scientific evidence to system requirements is itself
+qualitative. Requirements such as physiological eligibility, conservative
+abstention, temporal validity, and post-cue monitoring follow from the reviewed
+evidence, but the literature does not provide universal numerical thresholds
+for implementing them. The present analysis therefore identifies
+\textit{what must be validated} more strongly than it determines
+\textit{the numerical values at which validation will succeed}.
+
+
+\subsection{Boundaries of the Present Conclusions}
+
+Within these limitations, the evidence supports controlled development and
+prospective evaluation of an EEG-guided, stage-aware, real-time closed-loop TMR
+reference pathway. It does not establish that the resulting system will produce
+reliable memory benefits across participants, tasks, recording nights, devices,
+or broader populations. It also does not establish that an integrated system
+can yet maintain sufficient signal quality, state-estimation reliability,
+timing accuracy, disturbance control, or behavioral efficacy during extended
+unsupervised operation.
+
+The present study does not provide validated numerical thresholds for sleep-state
+confidence, signal quality, cue intensity, cue spacing, state stability,
+acceptable latency, or post-stimulation arousal. These variables should remain
+configurable during experimental development and should be determined through
+platform-specific physiological and behavioral validation rather than fixed
+from indirect literature estimates.
+
+Nor does the paper establish a finalized system architecture, production
+hardware configuration, deployable software product, clinical intervention, or
+consumer-ready memory-enhancement technology. The selected configuration is a
+\textit{first-generation reference pathway}: a testable arrangement chosen to
+provide an interpretable starting point for engineering and experimental
+validation.
+
+The conclusions can therefore be stated at four different levels. The
+\textbf{biological evidence} supports TMR as a condition-dependent means of
+influencing sleep-dependent memory processing. The \textbf{experimental
+evidence} supports a modest average behavioral effect under appropriate
+conditions. The \textbf{translational analysis} supports EEG-guided,
+stage-aware closed-loop control as the most defensible initial reference
+pathway under the evidence reviewed. The \textbf{product-level evidence},
+however, remains insufficient because the proposed integrated system has not
+yet been implemented and prospectively validated.
+
+These boundaries are not peripheral qualifications to the central conclusion;
+they define its valid scope. The present work narrows the development space,
+identifies the physiological and measurement functions that should be preserved,
+and establishes a reference configuration against which subsequent engineering
+choices can be tested. The remaining uncertainties therefore become explicit
+research questions rather than hidden assumptions, providing the basis for the
+validation priorities described in Section~8.

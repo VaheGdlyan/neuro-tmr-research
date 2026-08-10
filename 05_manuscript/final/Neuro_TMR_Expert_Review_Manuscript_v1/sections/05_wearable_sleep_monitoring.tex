@@ -1,0 +1,531 @@
+\subsection{Polysomnography and the Physiological Measurement Target}
+
+Polysomnography (PSG) provides the reference framework for characterizing human
+sleep because sleep stages are defined from multiple physiological signals rather
+than from behavior or movement alone. Standard PSG combines
+electroencephalography (EEG), electrooculography (EOG), and electromyography
+(EMG), with additional respiratory and cardiovascular channels included when
+required. Under conventional scoring rules, these signals are interpreted
+together to classify successive 30-s epochs as wake, N1, N2, N3, or rapid eye
+movement (REM) sleep \citep{silber2007scoring}.
+
+For TMR, the relevance of PSG extends beyond the categorical stage label. EEG
+also preserves information about transient electrophysiological events such as
+slow waves, sleep spindles, K-complexes, and cortical arousals. These events can
+occur at substantially shorter timescales than the epochs used for conventional
+sleep staging. A recording may therefore be correctly classified as N2 or N3
+while still containing moment-to-moment physiological variation relevant to
+whether stimulation should occur.
+
+PSG should nevertheless be treated as a standardized reference rather than as
+an error-free representation of a continuously evolving brain state. Human sleep
+scoring contains genuine ambiguity, particularly near stage transitions.
+Rosenberg and Van Hout reported an average inter-scorer stage agreement of
+82.6\% in the American Academy of Sleep Medicine inter-scorer program, with
+lower agreement for N3 and especially N1 than for several other stages
+\citep{rosenberg2013interscorer}. Wearable performance should consequently be
+interpreted relative to a high-quality physiological reference whose own
+categorical labels contain uncertainty.
+
+The translational objective is therefore not to reproduce the complete PSG
+laboratory in wearable form. It is to determine which components of the
+physiological information available in PSG must remain observable for a
+particular closed-loop decision. This distinction permits reduced sensing
+systems to be evaluated according to functional adequacy rather than according
+to whether they reproduce every channel used in clinical polysomnography.
+
+
+\subsection{Wearable EEG: Preserving Electrophysiological Observability}
+
+Wearable EEG attempts to preserve access to scalp electrophysiology while
+reducing the recording burden of full PSG. Compared with peripheral sensing,
+its principal scientific advantage is not that it measures sleep ``directly,''
+but that the recorded signal contains electrophysiological features from which
+sleep stages and several intervention-relevant events are conventionally
+defined. Depending on montage and signal quality, wearable EEG may preserve
+information about slow-wave activity, sleep spindles, stage transitions, and
+cortical responses to sensory stimulation.
+
+Reducing the number of electrodes introduces important trade-offs. Fewer
+channels reduce spatial coverage and redundancy and may make it more difficult
+to distinguish localized artifact from genuine physiology. They do not,
+however, inherently remove EEG's high temporal resolution. The relevant
+question is whether a particular montage preserves the signal features required
+by the intended decision and whether those features remain reliable throughout
+overnight use.
+
+Empirical validation demonstrates both the potential and the limitations of
+this approach. In a developer-associated validation of the Dreem headband,
+Arnal et al.\ compared simultaneous headband and PSG recordings in 25
+participants. Automatic sleep staging achieved a mean overall accuracy of
+\(83.5\pm6.4\%\), compared with \(86.4\pm8.0\%\) average agreement for five
+human sleep experts in the same study
+\citep{arnal2020dreem}. These results showed that reduced-montage wearable EEG
+can preserve substantial sleep-staging information under controlled recording
+conditions.
+
+Performance should not, however, be generalized from a single device,
+population, or validation design. An independent evaluation of the same
+headband in 62 older adults, including participants with Alzheimer's disease,
+reported moderate five-stage epoch-level performance
+(\(\mathrm{MCC}=0.54\pm0.14\)); after artifact removal, 73\% of recordings were
+usable for quantitative EEG analysis
+\citep{ravindran2025dreem}. The contrast between these studies illustrates that
+wearable EEG performance depends on population, signal quality, recording
+conditions, algorithm behavior, and the physiological quantity being extracted.
+
+This evidence supports wearable EEG as a plausible means of retaining
+electrophysiological observability outside full PSG, but not as an automatically
+reliable solution. For closed-loop TMR, stage classification must therefore be
+evaluated together with signal-quality detection, availability of continuous
+data, preservation of intervention-relevant EEG features, and the ability to
+withhold interpretation during corrupted intervals.
+
+
+\subsection{PPG and Peripheral Sleep-State Inference}
+
+Photoplethysmography (PPG) approaches sleep monitoring from a different
+physiological level. PPG measures peripheral blood-volume changes associated
+with the cardiac cycle, from which pulse rate, pulse-rate variability, waveform
+characteristics, and respiratory-related information can be derived. Because
+autonomic regulation changes across wakefulness, NREM sleep, and REM sleep,
+these signals contain information that can be used to estimate sleep state
+probabilistically \citep{dezambotti2019wearable}.
+
+The distinction from EEG is therefore one of observability rather than simple
+accuracy. PPG does not observe the cortical electrical phenomena used to define
+slow waves, sleep spindles, or cortical arousals. Instead, an algorithm infers
+sleep state from peripheral physiological correlates. Actigraphy, temperature,
+respiration, electrodermal activity, and other peripheral channels can be added
+to reduce ambiguity, but the resulting estimate remains an inference from
+signals downstream from or correlated with the neural state being estimated.
+
+This inferential distance does not imply that PPG-based sleep staging is
+ineffective. Korkalainen et al.\ trained deep-learning models using PPG
+recordings from 894 patients undergoing diagnostic PSG. In an independent test
+set, three-stage classification of wake, NREM, and REM reached 80.1\% accuracy
+with Cohen's \(\kappa=0.65\). Performance declined as the classification problem
+became more specific: four-stage classification reached 68.5\%
+(\(\kappa=0.54\)), while five-stage classification reached 64.1\%
+(\(\kappa=0.51\))
+\citep{korkalainen2020ppg}. These results demonstrate that peripheral cardiac
+information contains substantial sleep-state information while also showing the
+cost of resolving more specific physiological categories.
+
+Consumer and multisensor devices show similarly variable results. Chinoy
+et al.\ compared seven consumer sleep-tracking systems with simultaneous PSG in
+healthy young adults. Sleep sensitivity was high across devices
+(\(\geq0.93\)), but wake specificity ranged from 0.18 to 0.54, sleep-stage
+performance was inconsistent, and several devices performed worse during
+disrupted sleep
+\citep{chinoy2021consumer}. A more recent multi-night study of the Oura Ring
+Generation~3 reported strong agreement with PSG for several global sleep
+measures and stage-specific classification, although the study received
+financial support from the device manufacturer and should be interpreted in
+that context \citep{svensson2024oura}. Together, these studies show that
+peripheral sensing can provide useful and sometimes strong retrospective sleep
+estimates, but performance is device-, algorithm-, population-, and
+condition-dependent.
+
+Importantly, peripheral sensing has already progressed beyond retrospective
+sleep summaries in TMR research. SleepStim used smartwatch-derived heart-rate
+and inertial signals to estimate the probability of N3 sleep in real time and
+to govern auditory cue delivery at home \citep{whitmore2022improving}. This
+constitutes direct proof of concept that peripheral physiological information
+can participate in automated TMR control. It does not establish equivalence to
+EEG-based control, nor does it demonstrate that general consumer sleep-stage
+outputs are automatically suitable for TMR. Instead, it shows that the
+scientific question must be framed at the level of the complete decision
+process rather than sensor type alone.
+
+
+\begin{table*}[t]
+
+\centering
+
+\caption{
+Comparison of sleep-monitoring modalities relevant to closed-loop TMR.
+The table distinguishes the physiological information observed by each modality
+from the inference or intervention decision subsequently made from that
+information.
+}
+
+\label{tab:sensing_modalities_conceptual}
+
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.22}
+
+\begin{tabularx}{\textwidth}{
+@{}
+>{\raggedright\arraybackslash}p{2.1cm}
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+@{}
+}
+
+\toprule
+
+\textbf{Modality}
+&
+\textbf{Physiological information}
+&
+\textbf{Representative evidence}
+&
+\textbf{TMR-relevant limitation}
+\\
+
+\midrule
+
+\textbf{PSG}
+&
+Multimodal EEG, EOG, and EMG, with additional physiological channels as
+required.
+&
+Reference framework for standardized sleep staging and observation of
+stage-specific electrophysiology
+\citep{silber2007scoring}.
+&
+High measurement burden; conventional stage labels remain epoch-based and
+contain scorer uncertainty.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Wearable EEG}
+&
+Reduced-montage scalp electrophysiology with device-dependent access to
+slow-wave, spindle, arousal, and stage-related features.
+&
+Dreem validation reported \(83.5\%\) mean staging accuracy in one controlled
+study; performance was more moderate in an independent older population
+\citep{arnal2020dreem,ravindran2025dreem}.
+&
+Reduced spatial redundancy and vulnerability to overnight artifact and
+electrode-contact loss; performance is configuration- and population-specific.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{PPG / cardiac}
+&
+Peripheral pulse and autonomic dynamics associated with sleep-state changes.
+&
+PPG-only models have demonstrated moderate-to-substantial agreement with PSG,
+with performance declining as stage specificity increases
+\citep{korkalainen2020ppg}.
+&
+Does not directly observe cortical slow waves, spindles, or cortical arousal;
+stage must be inferred from peripheral correlates.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Multimodal peripheral}
+&
+PPG combined with movement and potentially temperature, respiration, or other
+peripheral channels.
+&
+Consumer systems can provide useful sleep estimates, but performance varies
+substantially across devices and recording conditions
+\citep{chinoy2021consumer,svensson2024oura}.
+&
+Additional signals may improve stage inference without establishing
+electrophysiological equivalence or intervention readiness.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Actigraphy}
+&
+Movement and sustained immobility measured through accelerometry.
+&
+Well suited to longitudinal sleep--wake estimation but provides limited
+physiological stage information \citep{dezambotti2019wearable}.
+&
+Insufficient alone for distinguishing the electrophysiologically defined NREM
+states required by stage-aware TMR.
+\\
+
+\bottomrule
+
+\end{tabularx}
+
+\vspace{1mm}
+
+\begin{minipage}{\textwidth}
+\footnotesize
+\textit{Note.}
+Performance values are not intrinsic properties of sensor modalities.
+They depend on device configuration, preprocessing, classification algorithm,
+population, recording environment, reference scoring procedure, and validation
+design.
+\end{minipage}
+
+\end{table*}
+
+
+\subsection{Validation Evidence and What Accuracy Means}
+
+Validation of wearable sleep monitoring generally relies on simultaneous
+recording with PSG followed by epoch-level or summary-level comparison. Such a
+comparison is necessary but not sufficient for interpretation. The apparent
+performance of a system depends on the definition of the classification task,
+the composition of the validation population, the independence of the test
+data, the quality of the reference scoring, and the metrics used to summarize
+error \citep{dezambotti2019wearable}.
+
+The number of predicted classes is particularly important. Sleep--wake
+classification, three-stage classification, four-stage classification, and
+full five-stage scoring are progressively different problems. Results obtained
+for one should not be presented as evidence for another. The PPG results
+reported by Korkalainen et al., for example, decreased from 80.1\% accuracy for
+three-stage classification to 64.1\% for five-stage classification
+\citep{korkalainen2020ppg}. A single headline accuracy value therefore has
+little meaning unless the target classes are specified.
+
+Overall accuracy can also conceal stage-specific failure. Sensitivity indicates
+how often a true target state is recognized; precision indicates how often a
+predicted target state is actually correct; specificity quantifies rejection of
+non-target states; and confusion matrices reveal which physiological states are
+systematically mistaken for one another. Cohen's kappa, Matthews correlation
+coefficient, macro-F1, and related measures can reduce some distortions caused
+by class imbalance, although no single metric captures every operational
+consequence.
+
+For TMR, false-negative and false-positive errors have different implications.
+Failing to recognize one eligible NREM interval may simply remove an opportunity
+for stimulation. Incorrectly declaring an unsuitable interval eligible may
+cause a cue to be delivered outside the physiological conditions supported by
+the evidence. The relative importance of sensitivity and precision must
+therefore be determined from the intervention policy rather than from generic
+sleep-staging conventions.
+
+Generalization is equally important. Consumer-device studies show that
+performance can deteriorate during disrupted sleep and vary across algorithms
+and devices \citep{chinoy2021consumer}. Wearable EEG evidence likewise changes
+across populations and signal-quality conditions
+\citep{arnal2020dreem,ravindran2025dreem}. Validation results should therefore
+be interpreted as properties of a particular sensor--algorithm--population
+combination, not as universal properties of ``EEG'' or ``PPG.''
+
+Independence of validation also matters. Developer- or manufacturer-supported
+studies can provide valuable peer-reviewed evidence, but their provenance should
+remain visible and their results should be considered together with independent
+validation. The purpose of this distinction is not to discard industry-linked
+evidence, but to avoid treating a single favorable validation as sufficient for
+a modality-level conclusion.
+
+
+\subsection{From Retrospective Scoring to Real-Time Closed-Loop Control}
+
+Retrospective sleep scoring and real-time intervention control solve different
+problems. An offline algorithm may use complete-night context, future epochs,
+temporal smoothing, repeated preprocessing, and manual artifact review before
+assigning the final hypnogram. A causal controller has access only to data
+already acquired and must make a decision before the physiological opportunity
+for stimulation has passed.
+
+This distinction does not imply that all non-automated TMR protocols are
+scientifically invalid. Foundational TMR experiments often relied on
+experimenters who monitored sleep physiology and manually controlled
+stimulation. The limitation arises when an autonomous system uses a fixed or
+unsupervised schedule without verifying that the sleeper remains in an eligible
+state. For such a system, physiological state must influence whether cue
+delivery proceeds, is delayed, or is withheld.
+
+Latency becomes meaningful within this causal setting. End-to-end delay includes
+signal acquisition, window formation, preprocessing, inference, decision logic,
+communication, and physical cue onset. A classifier may correctly describe the
+data from which its estimate was produced while that estimate becomes less
+relevant before the sound is delivered. Longer contextual windows can improve
+classification stability but also make the underlying evidence older. The
+appropriate latency threshold therefore cannot be assigned from computational
+speed alone; it must be evaluated relative to the temporal stability of the
+physiological condition being targeted.
+
+SleepStim illustrates that peripheral sensing can meet at least some of these
+requirements in practice. Its smartwatch transmitted heart-rate and inertial
+data approximately once per second, and the system reported roughly 1~s latency
+between acquisition and availability of its N3 probability estimate. Cueing was
+suspended when signal transmission failed or the estimated probability of N3
+fell below predefined thresholds
+\citep{whitmore2022improving}. This is stronger evidence for closed-loop
+readiness than retrospective stage agreement alone because the physiological
+estimate actually governed intervention.
+
+Wearable EEG has likewise been used within real-time home TMR. Salfi et al.\
+used a wearable EEG headband to identify slow-wave activity and trigger
+vocabulary-associated cues during home sleep
+\citep{salfi2025promoting}. This demonstrates that electrophysiological
+information can also be incorporated into an autonomous home intervention.
+Neither study, however, establishes a universal architecture or a definitive
+performance threshold for future systems.
+
+Uncertainty must also be treated as part of control rather than hidden behind
+a forced stage label. Signal degradation, state transitions, disagreement
+between signals, or low classifier confidence may leave the system without
+sufficient evidence to justify stimulation. An explicit abstention state is
+therefore preferable to mandatory classification when the cost of an
+inappropriate cue exceeds the cost of missing one opportunity.
+
+Finally, the measurement task continues after stimulation. A cue may leave the
+physiological state largely unchanged, or it may produce movement, cortical
+activation, autonomic change, a transition to lighter sleep, or awakening.
+Post-cue information can therefore determine whether subsequent stimulation
+should continue, be delayed, or be suspended. Closed-loop TMR should be
+understood as a recurrent measurement--decision--intervention process rather
+than as a sleep-stage classifier connected directly to audio output.
+
+
+\begin{table*}[t]
+
+\centering
+
+\caption{
+Operational distinction between retrospective sleep scoring, causal
+real-time state estimation, and closed-loop TMR.
+}
+
+\label{tab:closed_loop_requirements}
+
+\footnotesize
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.22}
+
+\begin{tabularx}{\textwidth}{
+@{}
+>{\raggedright\arraybackslash}p{2.7cm}
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+>{\raggedright\arraybackslash}X
+@{}
+}
+
+\toprule
+
+\textbf{Property}
+&
+\textbf{Retrospective scoring}
+&
+\textbf{Causal state estimation}
+&
+\textbf{Closed-loop TMR}
+\\
+
+\midrule
+
+\textbf{Objective}
+&
+Reconstruct sleep architecture after recording.
+&
+Estimate the current physiological state as sleep unfolds.
+&
+Use physiological evidence to authorize and adapt intervention.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Temporal context}
+&
+Past and future epochs may be available.
+&
+Only previously acquired data are available.
+&
+Causal estimates are combined with cue history and subsequent physiological
+responses.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Latency}
+&
+Generally not intervention-limiting.
+&
+Estimate must remain relevant to the current state.
+&
+Complete sensing-to-cue delay must preserve the validity of the intervention
+decision.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Uncertainty}
+&
+Ambiguous epochs may be reconsidered retrospectively.
+&
+Confidence and signal quality must be available when the estimate is produced.
+&
+Insufficient evidence should result in delayed or withheld stimulation.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Signal loss}
+&
+Corrupted intervals can be removed or reviewed later.
+&
+Reduces or prevents current-state estimation.
+&
+Should produce abstention until usable physiological evidence returns.
+\\
+
+\addlinespace[1.2mm]
+
+\textbf{Post-cue monitoring}
+&
+Not applicable.
+&
+Observation may continue without affecting an intervention.
+&
+Physiological responses influence whether subsequent cueing continues,
+changes, or stops.
+\\
+
+\bottomrule
+
+\end{tabularx}
+
+\vspace{1mm}
+
+\begin{minipage}{\textwidth}
+\footnotesize
+\textit{Note.}
+Closed-loop readiness is defined here as a translational operating requirement,
+not as a standardized clinical sleep-staging metric.
+\end{minipage}
+
+\end{table*}
+
+
+\subsection{Evidence Boundary for Sensing-Pathway Selection}
+
+The wearable literature supports three conclusions relevant to the translation
+problem. First, reduced-montage EEG can preserve substantial
+electrophysiological information and can support automated sleep staging outside
+full PSG, although signal quality and performance vary across devices,
+populations, and recording conditions
+\citep{arnal2020dreem,ravindran2025dreem}. Second, PPG and multimodal peripheral
+signals contain sufficient information to estimate broad sleep state and, in
+some systems, more detailed sleep architecture
+\citep{korkalainen2020ppg,chinoy2021consumer,svensson2024oura}. Third,
+retrospective agreement with PSG is not equivalent to successful real-time
+intervention control.
+
+The relevant comparison for TMR is therefore not ``EEG accuracy versus PPG
+accuracy'' in the abstract. Candidate pathways must instead be evaluated
+against the functions established in the preceding sections: recognition of
+physiologically supported cueing conditions, causal availability of the
+measurement, signal-quality awareness, bounded sensing-to-intervention delay,
+conservative handling of uncertainty, and detection of physiological
+disturbance following stimulation.
+
+Existing home TMR studies demonstrate that both peripheral and EEG-based
+approaches can participate in automated cueing
+\citep{whitmore2022improving,salfi2025promoting}. The available evidence does
+not, within this section alone, establish equivalence between them or determine
+which should serve as the first-generation implementation pathway. That
+decision requires comparison of evidentiary continuity, physiological
+observability, implementation uncertainty, and validation risk. Section~6
+performs that translation using the requirements derived here.

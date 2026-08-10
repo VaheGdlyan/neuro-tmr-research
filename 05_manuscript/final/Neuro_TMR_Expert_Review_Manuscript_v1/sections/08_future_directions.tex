@@ -1,0 +1,288 @@
+\subsection{Prospective Validation of the First-Generation Reference Pathway}
+
+The immediate research priority is not expansion of the proposed system, but
+prospective validation of the first-generation reference pathway identified in
+Section~6. The central question is whether an EEG-guided, stage-aware,
+closed-loop TMR system can reproduce the physiological control and measurable
+behavioral effect required for the translational argument to remain valid.
+Validation should therefore address two related but analytically distinct
+problems: whether the intervention is executed as intended and whether correctly
+executed intervention produces the expected memory effect.
+
+\noindent\textbf{Intervention fidelity.}
+
+The first requirement is to establish that closed-loop operation can be
+reconstructed objectively from synchronized physiological and intervention
+records. Validation should determine whether usable EEG can be maintained
+during overnight recording, whether state estimates are generated causally,
+whether low-quality or ambiguous intervals lead to abstention, and whether
+actual cue onset occurs while the physiological evidence supporting the
+decision remains valid. Post-cue monitoring should determine whether
+stimulation is followed by arousal, stage transition, signal degradation, or
+other changes relevant to subsequent cueing.
+
+These outcomes should be evaluated at the intervention level rather than only
+through whole-night summary statistics. For each potential cueing opportunity,
+the system should permit reconstruction of the physiological evidence available
+at the time, the resulting control decision, whether a cue was actually
+delivered, and the physiological state surrounding cue onset. Such
+intervention-level traceability would distinguish failure of sensing or control
+from absence of a biological TMR effect.
+
+No universal thresholds for state confidence, signal quality, latency, cue
+spacing, or arousal detection are established by the present synthesis.
+Initial studies should therefore estimate these operating ranges empirically
+rather than embedding literature-derived values as fixed specifications. The
+objective is not to maximize stimulation frequency, but to identify operating
+conditions under which intervention decisions remain physiologically
+interpretable.
+
+\noindent\textbf{Behavioral efficacy under verified closed-loop operation.}
+
+Behavioral validation should use controlled paradigms in which pre-sleep
+learning, cue--memory associations, cue exposure, physiological state at
+stimulation, and post-sleep retention can be linked at the item or trial level.
+Cued and uncued material should be appropriately matched so that any observed
+difference can be distinguished from ordinary sleep-dependent consolidation or
+general practice effects.
+
+The principal question is not merely whether mean memory performance improves,
+but whether a reproducible TMR effect is observed when the system demonstrably
+executes the intended protocol. Given the modest and heterogeneous effect
+reported in the broader literature \citep{hu2020promoting}, a single positive
+experiment would provide insufficient evidence for reference-system validation.
+Replication across participants, recording nights, and preferably independent
+experimental samples should establish whether the behavioral effect persists
+when intervention fidelity is controlled.
+
+Technical and behavioral outcomes need not be evaluated in completely separate
+studies, but behavioral efficacy should not be interpreted independently of
+technical fidelity. A null behavioral result obtained during unreliable state
+estimation or mistimed cue delivery would not constitute a clean test of TMR.
+Conversely, repeated null effects obtained despite verified physiological
+operation would challenge the assumption that the selected reference pathway
+preserves the intervention conditions necessary for measurable benefit.
+
+This distinction creates an explicit falsification criterion for the
+first-generation hypothesis. If reliable EEG acquisition, causal
+state-dependent control, and disturbance-limited cue delivery can be
+demonstrated but replicated behavioral benefit cannot, development should not
+progress automatically toward greater algorithmic complexity. The scientific
+premise, task selection, cueing protocol, or practical value of the pathway
+would instead require re-evaluation.
+
+
+\subsection{Identifying the Physiological Variables That Improve Control}
+
+Once the reference pathway can be evaluated reproducibly, the next question is
+which additional physiological information actually improves intervention
+outcomes. Future development should distinguish variables that are merely
+measurable from variables that provide causal or predictive value for deciding
+when and how to stimulate.
+
+\noindent\textbf{Adaptive control as a testable hypothesis.}
+
+Individual and night-to-night differences in sleep architecture, sensory
+threshold, pre-sleep memory strength, cue history, and response to previous
+stimulation provide plausible inputs for adaptive control. However, adding
+adaptive variables increases model flexibility and creates opportunities for
+overfitting, unstable decision policies, and post-hoc explanations of
+successful or unsuccessful trials.
+
+Each adaptive feature should therefore be introduced through prospective
+comparison with a simpler reference policy. A variable should influence cue
+eligibility, intensity, spacing, repetition, or temporary suspension only when
+its inclusion improves at least one predefined outcome: behavioral efficacy,
+preservation of sleep, intervention precision, or reliability of abstention.
+Prediction of outcome within the same dataset is not sufficient evidence that a
+variable should control future stimulation.
+
+Where personalization is investigated, validation should distinguish
+population-level predictive effects from individual-specific adaptation.
+Apparent subject-specific patterns may reflect noise when only a small number of
+nights or cueing events are available. Adaptive policies should therefore be
+evaluated prospectively and, where feasible, against fixed-policy or
+cross-validated baselines before being interpreted as genuine personalization.
+
+\noindent\textbf{Stage-aware versus event- and phase-aware targeting.}
+
+A separate question concerns the temporal resolution at which TMR should
+operate. The rationale for finer targeting is supported not only by the
+association of memory processing with slow oscillations and sleep spindles, but
+also by closed-loop experiments demonstrating phase-dependent behavioral and
+electrophysiological effects
+\citep{staresina2015nesting,cairney2018spindle,antony2018spindle,
+shimizu2018closedloop,ngo2022shaping,nicolas2025phase}.
+These findings establish phase-aware TMR as an experimentally supported
+alternative rather than a purely theoretical extension. They do not yet
+establish that phase-aware stimulation provides a robust and generalizable
+incremental advantage over well-controlled stage-aware cueing across memory
+domains and implementation conditions.
+
+This question should therefore be tested directly rather than resolved through
+mechanistic plausibility. Stage-aware and temporally refined policies should be
+compared under matched learning tasks, sensing conditions, cue exposure, and
+outcome measures. Evaluation should include behavioral effect size, trigger
+precision, missed opportunities, end-to-end timing error, artifact
+susceptibility, sleep disruption, and reproducibility across participants and
+nights.
+
+Fine temporal control should be adopted only if its additional physiological
+specificity translates into a reproducible advantage that exceeds the cost of
+greater detection and synchronization complexity. A failure to demonstrate such
+an advantage would itself be informative: it would support retaining
+stage-aware control as the more parsimonious intervention strategy rather than
+treating increased temporal precision as inherently superior.
+
+
+\subsection{Comparative Sensing and Sensor-Reduction Experiments}
+
+The EEG-first decision made in Section~6 should ultimately be tested rather than
+preserved by assumption. Once a sufficiently characterized EEG-guided reference
+configuration exists, it can provide the experimental basis for determining how
+much physiological sensing is actually necessary for effective TMR.
+
+\noindent\textbf{Hybrid sensing and complementary physiological information.}
+
+Initial comparative studies should acquire EEG and peripheral signals
+synchronously rather than replacing EEG immediately. Candidate peripheral
+signals include PPG, accelerometry, respiratory information, and other measures
+that may contribute information about movement, arousal, sleep stability, or
+signal reliability.
+
+The relevant question is not whether peripheral sensors improve agreement with
+conventional sleep-stage labels. Their value should be measured by whether they
+improve intervention decisions. Examples include identifying intervals in which
+EEG is unreliable, detecting physiological disturbance following stimulation,
+supporting abstention decisions, or reducing uncertainty about state
+transitions.
+
+A hybrid configuration would therefore be justified when the additional signal
+provides measurable information beyond the EEG reference that improves
+intervention reliability, behavioral outcome, or preservation of sleep.
+Conversely, a sensor should not be retained merely because its data can be
+acquired.
+
+\noindent\textbf{Reduced EEG and peripheral-dominant control.}
+
+Sensor reduction should be evaluated prospectively as an intervention problem
+rather than solely as a sleep-staging problem. Reduced-channel EEG,
+EEG--peripheral hybrid systems, and eventually PPG-dominant controllers should
+be compared with the reference configuration using synchronized recordings and,
+where possible, identical cueing opportunities.
+
+Relevant endpoints include agreement in cue-eligibility decisions, false
+authorization of stimulation, abstention during uncertain intervals,
+sensing-to-cue timing, detection of post-cue disturbance, preservation of sleep
+continuity, and behavioral TMR outcome. A reduced-sensor system that reproduces
+retrospective stage labels but systematically changes which cues are delivered
+has not demonstrated equivalence at the intervention level.
+
+Peripheral control should therefore not be required to reproduce every EEG
+feature. The more meaningful question is whether the reduction in neural
+observability produces an unacceptable loss of intervention validity.
+A peripheral or hybrid pathway could justify progression if it preserves
+behavioral efficacy and physiological safety within prospectively defined
+bounds while materially reducing measurement burden.
+
+This creates a testable route toward later-generation sensing rather than a
+permanent EEG dependency. If peripheral signals can reproduce the decisions and
+outcomes required for effective closed-loop TMR, the rationale for retaining
+EEG would weaken. Conversely, systematic disagreement in physiologically
+important intervals would identify functions for which direct
+electrophysiological observation remains necessary.
+
+
+\subsection{Generalization, Longitudinal Evaluation, and Responsible Translation}
+
+Demonstration of a reference-system effect would establish neither broad
+cognitive enhancement nor readiness for deployment. The final research phase
+must determine whether the intervention survives changes in task, population,
+time scale, and operating environment without losing efficacy,
+interpretability, or acceptable effects on sleep.
+
+\noindent\textbf{Generalization across memory domains.}
+
+TMR effects should be evaluated separately across memory systems and learning
+tasks rather than generalized from a single successful paradigm. Verbal paired
+associates, spatial learning, procedural skills, emotional memories, and more
+complex educational material differ in encoding structure, neural dependence,
+cue representation, and behavioral outcome. The effect observed in one domain
+should therefore be treated as evidence for that experimental class until
+cross-domain replication demonstrates broader applicability.
+
+Generalization studies should preserve task-appropriate controls and report both
+absolute learning performance and the differential effect of cueing. Transfer
+to uncued but related knowledge should be measured explicitly rather than
+assumed. Evidence that TMR strengthens one set of cued items does not by itself
+support claims of general improvement in learning ability, intelligence, or
+memory capacity.
+
+\noindent\textbf{Population heterogeneity and individual response.}
+
+Future studies should progressively include participants differing in age,
+baseline memory performance, sleep architecture, sensory threshold, and other
+characteristics likely to influence intervention response. Expansion to
+clinical populations should occur only when the intended therapeutic question
+is independently justified and when the physiological and behavioral outcome
+measures are appropriate to that population.
+
+Group-level efficacy should not be treated as evidence of predictable
+individual benefit. Future trials should characterize the distribution of
+responses, including reproducible non-response and possible adverse-response
+patterns, and should distinguish stable individual differences from
+night-to-night variability.
+
+\noindent\textbf{Longitudinal efficacy and sleep integrity.}
+
+Repeated-night studies are necessary to determine whether TMR effects persist,
+accumulate, diminish, or vary across extended use. Relevant outcomes include
+retention over longer intervals, night-to-night effect stability, cue
+habituation, changes in sensory responsiveness, sleep continuity, stage
+distribution, arousal burden, and effects on uncued material.
+
+Potential outcomes such as habituation, progressive sleep fragmentation, or
+interference with other memory processes should be treated as hypotheses to be
+measured rather than consequences assumed to occur. Longitudinal validation
+should therefore evaluate both efficacy and the preservation of normal sleep
+physiology under repeated exposure.
+
+A sustained intervention should be considered scientifically supported only
+when behavioral benefit remains reproducible without evidence that the
+procedure progressively compromises the physiological state on which the
+intervention depends.
+
+\noindent\textbf{Responsible translation and evidentiary claims.}
+
+The ethical problem surrounding closed-loop TMR extends beyond data protection
+because the system intervenes in memory processing during a state in which the
+user cannot actively supervise each decision. Future studies should therefore
+address not only informed consent and protection of physiological data, but also
+control over which memories are eligible for cueing, transparency regarding
+automated intervention, the ability to suspend or withdraw participation, and
+the distinction between experimentally demonstrated effects and speculative
+enhancement claims.
+
+EEG recordings, sleep profiles, learning performance, and intervention histories
+should be collected according to data-minimization principles and protected
+according to the sensitivity and intended use of the information. Expansion
+toward educational, occupational, clinical, or enhancement contexts should not
+be treated as equivalent because the acceptable evidence, risk, and oversight
+requirements differ across those applications.
+
+Communication of efficacy should remain proportional to the evidence. A modest
+average TMR effect should not be represented as guaranteed improvement, and
+successful performance in a constrained task should not be advertised as
+general memory enhancement. Particular caution is required before research is
+extended to populations with reduced capacity to consent or to applications in
+which participation could become coercive.
+
+The long-term research objective is therefore not simply to produce a smaller,
+more adaptive, or more scalable TMR system. It is to determine the minimal
+physiological information and intervention complexity required to produce a
+reproducible memory effect while preserving sleep and maintaining an
+interpretable relationship between measurement, stimulation, and outcome.
+Progression beyond the first-generation reference pathway should occur only
+when an alternative demonstrates a measurable improvement in efficacy,
+reliability, safety, or measurement burden without introducing greater
+unresolved uncertainty.

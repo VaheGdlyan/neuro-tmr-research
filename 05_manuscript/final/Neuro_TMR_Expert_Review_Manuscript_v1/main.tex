@@ -1,0 +1,197 @@
+\documentclass[pdflatex,sn-basic]{sn-jnl}
+
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage[title]{appendix}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage{booktabs}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{rotating}
+
+\theoremstyle{thmstyleone}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}[theorem]{Proposition}
+
+\theoremstyle{thmstyletwo}
+\newtheorem{example}{Example}
+\newtheorem{remark}{Remark}
+
+\raggedbottom
+
+\begin{document}
+
+\title{From Neuroscience to Neurotechnology:
+Evidence-Based Translation of Targeted Memory Reactivation into a
+First-Generation Closed-Loop Reference Pathway}
+
+\author*[1]{\fnm{Vahe} \sur{Gdlyan}}\email{gdlyanvahe31@gmail.com} 
+
+\affil[1]{\orgname{Independent Researcher}, \orgaddress{\city{Yerevan}, \country{Armenia}}}
+
+\abstract{
+Targeted Memory Reactivation (TMR), in which sensory cues associated with
+previous learning are re-presented during sleep, can influence subsequent
+memory performance under controlled experimental conditions. Meta-analytic
+evidence indicates a modest overall benefit, with an average effect size of
+Hedges' \(g=0.29\). Translating this experimental paradigm into practical
+neurotechnology nevertheless remains difficult because laboratory efficacy
+does not by itself establish the sensing, timing, uncertainty-management,
+and feedback capabilities required for automated closed-loop intervention.
+
+This study presents a structured evidence-to-engineering analysis of TMR,
+integrating findings from sleep-dependent memory consolidation, TMR
+experiments, wearable sleep monitoring, real-time state estimation, and
+closed-loop stimulation. The analysis compares EEG-based and
+peripheral-sensor-based pathways according to physiological relevance,
+temporal suitability, evidence maturity, and the number of unresolved
+assumptions introduced into a first-generation implementation.
+
+Peripheral sensing has demonstrated proof-of-concept feasibility for automated
+home TMR, but its intervention-specific control reliability has not been
+directly established as equivalent to electrophysiological monitoring, and the
+available behavioral evidence remains limited. Wearable EEG introduces greater
+measurement and usability burdens, yet preserves closer continuity with the
+physiological signals and experimental conditions used in established TMR
+research. Home-based EEG-guided closed-loop TMR has also demonstrated
+proof-of-concept feasibility and measurable behavioral benefit, although
+end-to-end reliability and generalizability remain unverified.
+
+On this basis, an EEG-guided, stage-aware, real-time closed-loop TMR software
+layer intended for integration with compatible existing EEG hardware is
+identified as the most scientifically defensible first-generation pathway.
+This conclusion represents an evidence-bounded development hypothesis rather
+than a validated product or proof of technological superiority. The principal
+contribution of the study is a traceable methodology for translating
+neuroscientific evidence into system-level requirements while preserving the
+distinction between established findings, translational inference, and
+assumptions requiring subsequent engineering and experimental validation.
+}
+
+\keywords{
+Targeted Memory Reactivation,
+Memory Consolidation,
+Sleep Neuroscience,
+Closed-Loop Systems,
+Electroencephalography,
+Wearable Neurotechnology,
+Translational Neuroscience,
+Evidence-to-Engineering Translation
+}
+
+\maketitle
+
+\section{Introduction}
+\input{sections/01_introduction}
+
+\section{Research Scope and Methodology}
+\input{sections/02_methodology}
+
+\section{Neuroscientific Foundations of Memory and Sleep}
+\input{sections/03_neuroscientific_foundations}
+
+\section{Targeted Memory Reactivation: From Biological Mechanism to Closed-Loop Intervention}
+\input{sections/04_targeted_memory_reactivation}
+
+\section{Wearable Sleep Monitoring}
+\input{sections/05_wearable_sleep_monitoring}
+
+\section{Technology Translation:
+From Scientific Evidence to a First-Generation Reference Pathway}
+\input{sections/06_technology_translation}
+
+\section{Limitations and Translational Boundaries}
+\input{sections/07_limitations}
+
+\section{Future Directions}
+\input{sections/08_future_directions}
+
+\section{Conclusion}
+\input{sections/09_conclusion}
+
+
+\section*{Declarations}
+
+\subsection*{Funding}
+
+The author received no funding, grants, or other financial support for the
+conduct of this research or the preparation of this manuscript.
+
+
+\subsection*{Competing Interests}
+
+The author declares no current financial interests, patents, patent applications,
+commercial agreements, or affiliations with organizations that could benefit
+financially from the publication of this work. The author intends to explore
+the potential future development and commercialization of technologies related
+to the research direction described in this manuscript. At the time of
+submission, no company, commercial entity, or proprietary technology associated
+with this work has been established.
+
+
+\subsection*{Ethics Approval}
+
+Not applicable. This study is a literature-based translational evidence
+synthesis and did not involve the recruitment of human participants, the
+collection of new human participant data, or research involving animals.
+
+
+\subsection*{Consent to Participate}
+
+Not applicable. No human participants were recruited for this study.
+
+
+\subsection*{Consent for Publication}
+
+Not applicable. The manuscript contains no identifiable personal information
+or participant-level material requiring consent for publication.
+
+
+\subsection*{Data Availability}
+
+No new empirical datasets were generated or analyzed in this study. The
+scientific evidence synthesized in this work was derived from the published
+literature cited in the manuscript.
+
+% Add after creation of the publication archive:
+% A publication-specific archive containing the evidence-to-translation
+% matrix, research-question mapping, and supporting literature record is
+% available at [repository/DOI].
+
+
+\subsection*{Materials Availability}
+
+Not applicable. No unique experimental materials were generated or used in
+this study.
+
+
+\subsection*{Code Availability}
+
+Not applicable. No original software, computational model, or analysis code
+was developed or used to generate the findings reported in this study.
+
+
+\subsection*{Author Contributions}
+
+V.G. conceived the study, formulated the research questions, conducted the
+literature identification and critical review, developed the evidence-to-
+engineering methodology, performed the evidence synthesis and translational
+analysis, developed the conceptual figures and tables, and wrote and revised
+the manuscript. The author approved the final manuscript and takes
+responsibility for its scientific content.
+
+
+\subsection*{Acknowledgements}
+
+The author used AI Assistant during manuscript preparation for assistance
+with manuscript organization and language refinement. All scientific claims, interpretations, references, and final text were independently reviewed and verified by the author, who takes full
+responsibility for the content of the manuscript.
+
+\bibliography{references}
+
+\end{document}
