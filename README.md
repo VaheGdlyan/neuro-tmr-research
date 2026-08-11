@@ -27,7 +27,7 @@ Accessible write-ups that explain the core ideas behind the research — written
 
 [![Medium Article 1](https://img.shields.io/badge/Medium-How%20Does%20Your%20Brain%20Strengthen%20Memories%20While%20You%20Sleep%3F-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gdlyanvahe31/how-does-your-brain-strengthen-memories-while-you-sleep-f5d6b73ffa9b)
 
-![Medium Article 2](https://img.shields.io/badge/Medium-Article%202%20—%20Coming%20Soon-888888?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium Article 2](https://img.shields.io/badge/Medium-Can%20We%20Influence%20Memory%20While%20We%20Sleep%3F-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gdlyanvahe31/can-we-influence-memory-while-we-sleep-6c963213864a)
 
 ---
 
