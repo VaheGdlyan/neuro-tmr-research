@@ -33,7 +33,7 @@ Accessible write-ups that explain the core ideas behind the research — written
 
 ## Why This Project Exists
 
-The sleeping brain participates actively in memory consolidation. TMR research — including a meta-analysis of 91 experiments yielding an average effect size of Hedges' *g* = 0.29 — shows that cue-triggered reactivation during NREM sleep can produce a modest, condition-dependent improvement in subsequent memory. The effect is real but not universal: it depends on memory domain, encoding quality, cueing protocol, sleep stage, and physiological context.
+The sleeping brain participates actively in memory consolidation. TMR research — including a meta-analysis of 91 experiments yielding an average effect size of Hedges' *g* = 0.29 — shows that cue-triggered reactivation during NREM sleep can produce a modest, condition-dependent improvement in subsequent memory. The effect is real but not universal: it depends on many things including type of memory, encoding quality, cueing protocol, sleep stage, and physiological context.
 
 The problem is that **experimental efficacy does not equal a working intervention system.**
 
