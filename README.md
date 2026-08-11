@@ -148,7 +148,7 @@ The integrated closed-loop system described in the manuscript has **not** been p
 
 **Author:** Vahe Gdlyan · Independent Researcher · Yerevan, Armenia
 
-[![Email](https://img.shields.io/badge/Email-gdlyanvahe31%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdlyanvahe31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gdlyanvahe31%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:gdlyanvahe31@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%40gdlyanvahe31-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gdlyanvahe31)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vahe%20Gdlyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-gdlyan-1415873a7/)
 
