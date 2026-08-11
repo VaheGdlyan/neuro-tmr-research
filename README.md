@@ -1,4 +1,8 @@
-# 🧠 Neuro-TMR Research
+# Neuro-TMR Research
+
+<p align="center">
+  <img src="assets/Brain_Image.jpg" alt="Neuro-TMR Research — from neuroscience to neurotechnology" width="720"/>
+</p>
 
 > **Can the neuroscience of sleep-dependent memory consolidation be translated into a scientifically defensible closed-loop neurotechnology pathway — without converting unresolved assumptions into engineering claims?**
 
@@ -14,6 +18,16 @@ This repository documents the structured research journey from neuroscience foun
 
 📄 **Manuscript:** [From Neuroscience to Neurotechnology: Evidence-Based Translation of Targeted Memory Reactivation into a First-Generation Closed-Loop Reference Pathway](05_manuscript/final/Neuro_TMR_Expert_Review_Manuscript_v1/Neuro_TMR_Paper.pdf)
 Vahe Gdlyan · Independent Researcher (Yerevan, Armenia) · Frozen August 2026 · v1
+
+---
+
+## Medium Articles
+
+Accessible write-ups that explain the core ideas behind the research — written for curious readers who want the science without the LaTeX.
+
+[![Medium Article 1](https://img.shields.io/badge/Medium-How%20Does%20Your%20Brain%20Strengthen%20Memories%20While%20You%20Sleep%3F-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gdlyanvahe31/how-does-your-brain-strengthen-memories-while-you-sleep-f5d6b73ffa9b)
+
+![Medium Article 2](https://img.shields.io/badge/Medium-Article%202%20—%20Coming%20Soon-888888?style=for-the-badge&logo=medium&logoColor=white)
 
 ---
 
@@ -134,7 +148,9 @@ The integrated closed-loop system described in the manuscript has **not** been p
 
 **Author:** Vahe Gdlyan · Independent Researcher · Yerevan, Armenia
 
-📧 gdlyanvahe31@gmail.com
+[![Email](https://img.shields.io/badge/Email-gdlyanvahe31%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdlyanvahe31@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%40gdlyanvahe31-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gdlyanvahe31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vahe%20Gdlyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-gdlyan-1415873a7/)
 
 If you work in sleep neuroscience, TMR, wearable EEG, closed-loop systems, or related areas and are open to discussing this work — scientific critique, methodological feedback, or potential collaboration — I would be glad to hear from you.
 
