@@ -34,7 +34,7 @@ Identify and approach relevant researchers and laboratories working in areas suc
 
 The goal is to explore opportunities for expert guidance, scientific collaboration, and eventually prospective validation.
 
-### 3. Preliminary Technical Validation
+### 3. Preliminary Technical Validation - Path E
 
 While external review and outreach are ongoing, begin working with **publicly available sleep EEG datasets** to study and reproduce sleep-stage classification.
 
