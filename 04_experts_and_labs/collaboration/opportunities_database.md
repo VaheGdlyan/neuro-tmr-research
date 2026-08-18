@@ -1,20 +1,17 @@
-## Opportunity Name
+# Path E — Opportunity Database
 
+## Opportunity 001
+
+- **Name:**
 - **Organization:**
 - **Country:**
 - **Geographic lane:** Global / Armenia / Diaspora
 - **Opportunity type:**
-- **Research area:**
 - **Capability tags:**
-- **Relevant work / program:**
 - **Why it may matter:**
-- **Potential contribution to Phase II:**
-- **Path-A question it may help resolve:**
+- **Plausible mechanism of value:**
+- **Potential Path-A question addressed:**
 - **Potential Path-V contribution:**
-- **Scientific fit:** Pending
-- **Practical accessibility:** Pending
-- **Potential impact:** Pending
-- **Contact information:**
+- **Source / URL:**
 - **Status:** Discovered
-- **Source / evidence:**
 - **Notes:**
