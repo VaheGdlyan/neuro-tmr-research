@@ -86,14 +86,48 @@ His recent work also makes him valuable for discussing target specificity and th
 - Personalization notes: Connect the 2020 meta-analysis directly to his newer memory-editing work rather than treating them as separate areas.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
-Hu is one of the strongest experts for challenging the interpretation of the evidence itself because Phase I directly relies on his meta-analysis.
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [x] Personalized LinkedIn note used
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Substantive response received
+
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-19
+* **Channel:** Academic email
+* **Email:** [xiaoqinghu@hku.hk](mailto:xiaoqinghu@hku.hk)
+* **Subject:** A question on what current TMR evidence supports
+* **Scientific focus:** What translational claim is actually justified by the heterogeneous aggregate TMR evidence, particularly in light of newer work showing that sleep-based reactivation can support different forms and directions of memory modification.
+* **Primary Phase-I assumption challenged:** The current evidence base is sufficiently mature to frame a first-generation TMR pathway primarily around general memory enhancement.
+* **Core decision under review:** Whether V1 should target broad memory enhancement or instead be explicitly restricted to a defined memory type, task, and intended direction of change.
+* **Evidence basis:** Hu et al. (2020) served as one of the central quantitative evidence sources in Phase I, while Professor Hu's more recent work on unwanted and aversive memories motivates reconsideration of the broader "memory enhancement" framing.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://hk.linkedin.com/in/xiaoqing-hu-b3953a366
+* **Connection request:** Sent
+* **Personalized note:** Sent
+* **Priority:** One of the limited personalized invitations reserved for highest-priority Path-A experts
+* **Purpose:** Secondary professional recognition only; the substantive scientific request remains in the academic email.
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Professor Hu is one of the highest-priority Path-A reviewers because his work directly spans quantitative evaluation of TMR efficacy and experimental research on memory updating and modification.
+
+His feedback is particularly important for determining whether the Phase-I translational framing is appropriately conservative and whether "general memory enhancement" is too broad a target for a first-generation system.
+
+No additional contact should be made unless Professor Hu responds or a later follow-up becomes appropriate.
