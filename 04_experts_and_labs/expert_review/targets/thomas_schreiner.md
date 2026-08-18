@@ -80,14 +80,41 @@ Schreiner can evaluate whether:
 - Personalization notes: Connect his original vocabulary-TMR work with his newer respiration/SO-spindle research.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
-His recent brain-body work is especially interesting because it may complicate a simple EEG-versus-PPG framing: peripheral physiology could potentially complement EEG rather than replace it.
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [ ] Follow-up sent
+* [ ] Substantive response received
+
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [Thomas.Schreiner@psy.lmu.de](mailto:Thomas.Schreiner@psy.lmu.de)
+* **Subject:** A question on brain-body signals in closed-loop TMR
+* **Scientific focus:** Whether EEG should be treated as the primary and sufficient physiological control signal for first-generation closed-loop TMR, or whether peripheral physiological signals such as respiration may provide complementary information for identifying memory-relevant cueing windows.
+* **Primary Phase-I assumption challenged:** EEG-based sleep-state and electrophysiological monitoring contains the principal physiological information required for first-generation intervention control.
+* **Secondary implication:** Peripheral physiology may not need to be framed only as a lower-fidelity alternative to EEG; some signals may provide complementary information within a hybrid sensing architecture.
+* **Related unresolved question:** This outreach also addresses part of the still-open question raised during the Ken Paller review concerning the minimum physiological information that an automated TMR system actually needs to observe.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Status:** No outreach
+* **Reason:** No LinkedIn profile was confidently verified during target research. No connection request was sent to avoid contacting an uncertain account.
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email.
+
+Dr. Schreiner is particularly relevant for evaluating whether the current Neuro-TMR sensing model is too EEG-centric and whether brain-body physiological information, especially respiration, should be considered complementary rather than merely alternative sensing information.
+
+No additional contact should be made unless Dr. Schreiner responds or a later follow-up becomes appropriate.
