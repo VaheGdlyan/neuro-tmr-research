@@ -146,18 +146,36 @@ He is especially useful for distinguishing **successful cue delivery** from **su
 - Personalization notes: Lead with the 2023 context-reinstatement work. The strongest question is not "Is TMR selective?" but how a future system should represent target specificity when reactivation propagates through learned context. His machine-learning work on decoding memory-related neural content provides a natural bridge to the closed-loop question.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [ ] Follow-up sent
+* [ ] Response received
 
-- His recent findings should not be interpreted as proving that TMR is universally non-selective. They demonstrate important context-dependent limitations and unsuccessful selectivity in specific paradigms.
-- The concurrent odor-and-sound study concerns interactions between two sensory memory cues. It does NOT imply that using EEG/PPG sensors together with auditory cue delivery would create the same interference, because physiological sensors do not themselves present competing memory cues.
-- Schechtman's strongest Path-A value is that he can challenge whether Neuro-TMR is closing the loop around the correct variable: sleep state alone versus sleep state plus evidence about memory processing.
-- A+E potential exists because the CogNoS Lab actively combines TMR, EEG and computational decoding, but no collaboration interest should be assumed.
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [eitans@uci.edu](mailto:eitans@uci.edu)
+* **Subject:** A question on memory-level feedback in closed-loop TMR
+* **Scientific focus:** Whether a closed-loop TMR system can be considered scientifically sufficient when it controls sleep state, cue delivery, and arousal without directly estimating whether the intended memory representation was actually reactivated.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Status:** No outreach
+* **Reason:** No LinkedIn profile was confidently verified during target research. No connection request was sent to avoid contacting an uncertain account.
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email.
+
+No additional contact should be made unless Professor Schechtman responds or a later follow-up becomes appropriate.
