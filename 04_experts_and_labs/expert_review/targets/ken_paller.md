@@ -124,12 +124,18 @@ His current scientific direction also remains highly relevant to translation. In
 * [x] LinkedIn checked
 * [x] Questions finalized
 * [x] Email drafted
-* [x] Email sent
-* [x] LinkedIn connection sent
-* [x] Personalized LinkedIn note used
+* [x] Initial email sent
+* [x] Personalized LinkedIn connection sent
+* [x] Automatic response received
+* [x] Expert response received
+* [x] Thank-you reply sent
+* [x] Offer to circulate question received
+* [x] Generic field-level question prepared
+* [x] Generic field-level question sent to Professor Paller
 * [ ] LinkedIn connection accepted
-* [ ] Follow-up sent
-* [x] Response received
+* [ ] Direct scientific answer to EEG-first question received
+* [ ] External researcher responses received through circulation
+* [ ] Additional follow-up required
 
 ## Outreach Log
 
@@ -139,51 +145,179 @@ His current scientific direction also remains highly relevant to translation. In
 * **Channel:** Academic email
 * **Email:** [kap@northwestern.edu](mailto:kap@northwestern.edu)
 * **Subject:** A question prompted by SleepStim and an EEG-first TMR pathway
-* **Scientific focus:** Whether the Phase-I selection of EEG as the most defensible first-generation sensing pathway is scientifically justified, or whether the SleepStim results indicate that sensing should instead be evaluated according to the minimum physiological information required to identify safe and effective TMR cueing opportunities.
+* **Scientific focus:** Whether EEG is scientifically justified as the most defensible first-generation sensing pathway for automated TMR, or whether simpler peripheral sensing may be sufficient when it can reliably identify appropriate cueing periods and avoid sleep disruption.
 * **Primary Phase-I assumption challenged:** EEG-guided sensing should be preferred for V1 because it provides more direct access to TMR-relevant sleep physiology.
-* **Status:** Sent — awaiting response
+* **Status:** Responded
 
 ### LinkedIn
 
 * **Profile:** https://www.linkedin.com/in/ken-paller-a08aa46b
 * **Connection request:** Sent
-* **Personalized note:** Sent — one of the limited personalized invitations reserved for highest-priority Path-A experts
-* **Purpose:** Secondary professional recognition only; the scientific request remains in the academic email.
+* **Personalized note:** Sent
+* **Priority:** One of the limited personalized invitations reserved for highest-priority Path-A experts
+* **Purpose:** Secondary professional recognition; the substantive scientific request remained in the academic email.
 * **Status:** Awaiting acceptance
 
-## Current Status
+## Automatic Response
 
-### Expert Response
+* **Date received:** 2026-08-18
+* **Type:** Automatic availability/delivery notice
+* **Message summary:** Receipt of the email might be delayed.
+* **Action:** No action required.
 
-- **Date received:** 2026-08-18
-- **Type:** Positive acknowledgement / non-substantive scientific response
-- **Status:** Responded
+## Expert Response
 
-Those are very interesting ideas and unanswered questions.
-Good luck with your work on these exciting topics.
+### First Response
 
- _____________________________________________________________
- Ken A. Paller                                                        kenpaller.com
- Professor of Psychology
- James Padilla Chair in Arts & Sciences
- Director of the Cognitive Neuroscience Program
- Weinberg College of Arts & Sciences, Northwestern University
- 2029 Sheridan Rd., Evanston IL 60208-2710, USA
-The university benefits from unceded ancestral lands of the Ojibwe, Odawa,
-and Potawatomi, as well as historic lands of the Ho-Chunk, Menominee, and Miami.
-_____________________________________________________________
+* **Date received:** 2026-08-18
+* **Type:** Positive scientific acknowledgement
+* **Direct scientific answer:** No
 
-### Response Summary
-
-Professor Paller described the questions raised in the outreach as
-"very interesting ideas and unanswered questions" and wished the project
-success.
+Professor Paller characterized the ideas and questions raised in the outreach as interesting and unresolved and encouraged continued work on the topic.
 
 ### Interpretation
 
-- The response indicates that the translational questions posed are scientifically
-  relevant and remain open.
-- No explicit position was provided on EEG-first versus peripheral sensing.
-- The response should therefore not be treated as validation or rejection of the
-  current Phase-I sensing pathway.
-- No immediate scientific follow-up is warranted.
+This response should **not** be treated as validation of the EEG-first pathway.
+
+It does, however, provide an important scientific signal:
+
+* the translational questions being investigated are legitimate and non-trivial;
+* the sensing question is not obviously settled by the existing literature;
+* the current project is operating within an area containing meaningful unresolved scientific problems;
+* further investigation of the minimum sensing requirements for automated TMR is justified.
+
+### Phase-I Impact
+
+**Status: Question remains open.**
+
+Professor Paller did not provide a position on whether EEG should be preferred over peripheral sensing.
+
+Therefore:
+
+> The Phase-I EEG-first conclusion is neither confirmed nor rejected by this response.
+
+The question should remain in the expert-review unresolved-question pool.
+
+## Network Amplification Opportunity
+
+After the initial exchange, Professor Paller voluntarily offered to post a generalized version of the question so that other researchers working in the area could see and potentially respond to it.
+
+This was not requested in the original outreach.
+
+### Significance
+
+This changes the role of the Paller outreach from a one-to-one expert request into a potential broader field-level inquiry.
+
+Instead of treating the absence of a direct answer as the end of the question:
+
+> individual expert question
+> → acknowledged as interesting and unresolved
+> → generalized for circulation
+> → potential input from additional researchers
+
+## Generalized Research Question
+
+### Core Question
+
+**What minimum physiological information does an automated TMR system actually need?**
+
+Most laboratory TMR paradigms rely on EEG/PSG to identify sleep state and, in some cases, memory-relevant physiology such as slow oscillations and spindles. Automated home approaches have also used peripheral wearable signals to estimate sleep and guide cue delivery.
+
+**Is EEG-derived information necessary for safe and effective TMR, or can peripheral sensing be sufficient if it reliably identifies appropriate cueing periods and avoids sleep disruption?**
+
+Put differently:
+
+> Where is the boundary between physiological information that is useful to observe and information that is necessary for the intervention itself?
+
+### Circulation Status
+
+* **Date generalized version sent:** 2026-08-18
+* **Sent to:** Professor Ken Paller
+* **Purpose:** Allow Professor Paller to circulate or reshape the question for other researchers in the field
+* **Repository link:** Provided separately as optional context
+* **Distribution channel:** Not specified by Professor Paller
+* **External responses:** None received yet
+* **Action:** Wait. Do not ask where or whether the question was posted.
+
+## Unresolved Question
+
+### UQ-01 — Minimum Physiological Sensing Requirements for Automated TMR
+
+**Question**
+
+What physiological information must a first-generation automated TMR system observe in order to identify sufficiently safe and effective cueing opportunities?
+
+### Competing Possibilities
+
+**EEG-first interpretation**
+
+EEG may be required because it provides direct access to:
+
+* NREM sleep stage;
+* slow oscillations;
+* spindle activity;
+* event-level sleep physiology;
+* potential phase-aware control.
+
+**Minimum-sufficient-sensing interpretation**
+
+EEG-level observability may not be essential if peripheral sensing can reliably:
+
+* distinguish sleep from wakefulness;
+* identify sufficiently appropriate cueing periods;
+* avoid excessive arousal and sleep disruption;
+* support a reproducible behavioral TMR effect.
+
+**Hybrid interpretation**
+
+Peripheral physiology may complement EEG rather than simply compete with it as a lower-fidelity replacement.
+
+### Current Evidence Status
+
+**OPEN**
+
+Professor Paller identified the broader topic as interesting and unresolved but did not provide a direct answer.
+
+The question is therefore being pursued through:
+
+* circulation to additional researchers via Professor Paller;
+* remaining expert feedback where relevant;
+* later synthesis with evidence from automated home TMR and physiological sensing studies.
+
+## Relationship to Other Expert Feedback
+
+### Eitan Schechtman
+
+Schechtman's feedback clarified that direct neural proof of memory reactivation is not necessarily required for a scientifically defensible system if robust behavioral efficacy is demonstrated and cueing does not materially disrupt sleep.
+
+This sharpens the Paller sensing question:
+
+> If direct memory-level neural confirmation is not required, how much physiological observability is actually necessary before cue delivery?
+
+The two expert interactions therefore address complementary parts of the same first-generation validation boundary.
+
+## Current Scientific Interpretation
+
+Professor Paller's interaction should currently be classified as:
+
+**Scientifically valuable, but non-decisive regarding the EEG-first conclusion.**
+
+The primary value of the interaction is threefold:
+
+1. It confirms that the translational sensing question is a legitimate unresolved research problem.
+2. It prevents the Phase-I EEG-first choice from being treated as settled scientific fact.
+3. It created an opportunity to expose the question to a broader group of researchers through Professor Paller's voluntary offer to circulate it.
+
+## Current Status
+
+**RESPONDED — CORE QUESTION STILL OPEN — FIELD CIRCULATION PENDING**
+
+No additional direct contact should be made at this stage.
+
+Wait for:
+
+* any responses Professor Paller may forward;
+* any external researcher engagement generated by circulation;
+* relevant answers from other Path-A experts.
+
+The EEG-first versus minimum-sufficient-sensing question should remain explicitly open until the available expert feedback and evidence can be synthesized.
