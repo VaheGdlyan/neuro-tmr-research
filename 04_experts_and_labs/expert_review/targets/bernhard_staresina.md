@@ -134,17 +134,18 @@ He is also highly relevant to the EEG-first decision because the physiological e
 - Personalization notes: The 2022 Ngo & Staresina closed-loop TMR study should be the primary personalization point. His 2023 and 2024 work on coupled sleep rhythms can be mentioned as the mechanistic reason his opinion is especially relevant.
 
 ## Outreach Status
+
 - [x] Research complete
 - [x] Email verified
 - [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
+- [x] Questions finalized
+- [x] Email drafted
+- [x] Email sent
 - [ ] Follow-up sent
 - [ ] Response received
 
-## Notes
+### Outreach Log
 
-- The earlier assumption that Staresina was currently based at the Max Planck Institute was incorrect; his current official affiliation is the University of Oxford.
-- He should primarily be treated as a Path-A expert. A+E potential exists because he leads an active sleep-memory research group, but no collaboration interest should be assumed before contact.
-- His value is not that his work proves phase-aware TMR must replace stage-aware TMR. His value is that he is unusually qualified to tell us whether the existing evidence makes phase precision a requirement, an optimization, or an unresolved question.
+- Initial email sent: 2026-08-18
+- Channel: Academic email
+- Subject: A question prompted by your closed-loop TMR work
