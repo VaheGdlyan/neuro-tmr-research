@@ -114,17 +114,40 @@ Finally, her current laboratory's interest in real-time brain activity and non-i
 - Personalization notes: The strongest hook is not simply that she works on TMR. It is that her own comparative experiment directly pressures one of our current design assumptions. Her laboratory's current real-time/applied direction can then naturally lead into the closed-loop question.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Response received
 
-- Earlier information placing Forcato primarily at UBA/IFIBYNE is outdated for our current outreach purposes. Her current official profile identifies her as a researcher and associate professor at ITBA and director of the Sleep and Memory Lab.
-- She has particularly interesting A+E potential because the current laboratory explicitly combines basic and applied neuroscience and includes engineering-oriented researchers. This does not imply that she is interested in collaboration with Neuro-TMR.
-- The 2024 SWS-vs-N2 paper should not be interpreted as proving that N2 and SWS are universally equivalent for TMR. It demonstrates that SWS did not produce a significant behavioral advantage in that specific experimental paradigm.
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [cforcato@itba.edu.ar](mailto:cforcato@itba.edu.ar)
+* **Subject:** A question on cue design in closed-loop TMR
+* **Scientific focus:** Whether cue selection and reminder properties should be treated as explicit control variables in a closed-loop TMR architecture.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://ar.linkedin.com/in/cecilia-forcato-4a398a250
+* **Connection request:** Sent
+* **Personalized note:** Sent
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email. LinkedIn is being used only as a secondary professional connection channel.
+
+No additional contact should be made unless Professor Forcato responds or a later follow-up becomes appropriate.
