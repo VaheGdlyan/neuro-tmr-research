@@ -146,6 +146,7 @@ He is also highly relevant to the EEG-first decision because the physiological e
 
 ### Outreach Log
 
-- Initial email sent: 2026-08-18
-- Channel: Academic email
-- Subject: A question prompted by your closed-loop TMR work
+* **Initial email sent:** 2026-08-18
+* **Channel:** Academic email
+* **Subject:** A question prompted by your closed-loop TMR work
+* **Status:** Sent — awaiting respons
