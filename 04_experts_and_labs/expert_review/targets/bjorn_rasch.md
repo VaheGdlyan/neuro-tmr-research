@@ -164,7 +164,7 @@ His involvement in work on real-time sleep stimulation gives him a useful perspe
 * [x] Questions finalized
 * [x] Email drafted
 * [x] Email sent
-* [ ] LinkedIn connection sent
+* [x] LinkedIn connection sent
 * [ ] LinkedIn connection accepted
 * [ ] Follow-up sent
 * [ ] Response received
