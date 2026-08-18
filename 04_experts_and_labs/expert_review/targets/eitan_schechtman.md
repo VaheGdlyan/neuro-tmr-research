@@ -154,7 +154,7 @@ He is especially useful for distinguishing **successful cue delivery** from **su
 * [x] Email drafted
 * [x] Email sent
 * [ ] Follow-up sent
-* [ ] Response received
+* [x] Response received
 
 ## Outreach Log
 
