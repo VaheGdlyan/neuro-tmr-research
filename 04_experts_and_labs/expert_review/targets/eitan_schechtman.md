@@ -238,5 +238,5 @@ stage-aware vs phase-aware control, or the optimal sleep stage.
 ### Follow-Up Status
 
 - [x] Substantive response received
-- [ ] Thank-you reply sent
+- [x] Thank-you reply sent
 - [ ] Additional scientific follow-up required
