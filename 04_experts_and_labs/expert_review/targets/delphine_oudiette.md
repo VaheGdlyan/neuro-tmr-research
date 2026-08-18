@@ -149,17 +149,17 @@ These are not necessarily the same event.
 
 ## Outreach Status
 
-* [x] Research complete
-* [x] Email verified
-* [x] LinkedIn checked
-* [x] Questions finalized
-* [x] Email drafted
-* [x] Email sent
-* [x] LinkedIn connection sent
-* [ ] LinkedIn connection accepted
-* [ ] Follow-up sent
-* [ ] Response received
-
+- [x] Research complete
+- [x] Email verified
+- [x] LinkedIn checked
+- [x] Questions finalized
+- [x] Email drafted
+- [x] Email sent
+- [x] Automatic response received
+- [x] LinkedIn connection sent
+- [ ] LinkedIn connection accepted
+- [ ] Substantive response received
+- [ ] Follow-up sent
 ## Outreach Log
 
 ### Initial Email
