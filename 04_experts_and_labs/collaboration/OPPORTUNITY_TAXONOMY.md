@@ -91,3 +91,48 @@ Conference
 Unrelated-looking biosignal lab
 → arousal detection expertise
 → post-cue safety monitoring
+
+# 3. Proactive Research Initiation / Co-Creation Opportunities
+
+Not every useful collaboration opportunity must already exist.
+
+Some laboratories, institutions, or researchers may possess the
+scientific expertise, infrastructure, or technical capability required
+for Neuro-TMR even if they are not currently conducting TMR research.
+
+In these cases, Path E may consider a proactive collaboration model:
+
+> Neuro-TMR brings a developed scientific question, evidence synthesis,
+> research direction, and validation hypothesis, while the external
+> researcher or institution contributes complementary expertise,
+> infrastructure, supervision, data, or experimental capability.
+
+The opportunity is therefore not:
+
+> "Join an existing TMR project."
+
+It may instead be:
+
+> "Create a new TMR-related investigation together."
+
+Examples may include:
+
+- neuroscience laboratories without an existing TMR program;
+- EEG laboratories;
+- sleep laboratories;
+- memory research groups;
+- biomedical signal-processing groups;
+- wearable neurotechnology laboratories;
+- Armenian neuroscience or neurophysiology groups;
+- laboratories with relevant equipment but no existing sleep-memory research.
+
+A proactive research-initiation opportunity should be considered when:
+
+1. the organization has at least one capability genuinely relevant to the proposed research;
+2. Neuro-TMR can contribute something concrete rather than only asking for support;
+3. a scientifically meaningful shared question can be defined;
+4. the proposed work is realistic relative to the group's expertise and infrastructure;
+5. the collaboration would create value for both sides.
+
+The fact that a laboratory does not currently study TMR should not by itself
+be a reason for exclusion.
