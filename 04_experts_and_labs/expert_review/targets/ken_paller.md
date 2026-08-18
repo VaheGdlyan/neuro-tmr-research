@@ -129,7 +129,7 @@ His current scientific direction also remains highly relevant to translation. In
 * [x] Personalized LinkedIn note used
 * [ ] LinkedIn connection accepted
 * [ ] Follow-up sent
-* [ ] Response received
+* [x] Response received
 
 ## Outreach Log
 
@@ -153,10 +153,37 @@ His current scientific direction also remains highly relevant to translation. In
 
 ## Current Status
 
-### Automatic Response
+### Expert Response
 
 - **Date received:** 2026-08-18
-- **Type:** Automatic delivery/availability notice
-- **Message:** "Receipt of your message may be delayed."
-- **Interpretation:** Email reached the institutional system, but message processing or review may be delayed.
-- **Action:** No immediate follow-up. Continue waiting for a substantive response.
+- **Type:** Positive acknowledgement / non-substantive scientific response
+- **Status:** Responded
+
+Those are very interesting ideas and unanswered questions.
+Good luck with your work on these exciting topics.
+
+ _____________________________________________________________
+ Ken A. Paller                                                        kenpaller.com
+ Professor of Psychology
+ James Padilla Chair in Arts & Sciences
+ Director of the Cognitive Neuroscience Program
+ Weinberg College of Arts & Sciences, Northwestern University
+ 2029 Sheridan Rd., Evanston IL 60208-2710, USA
+The university benefits from unceded ancestral lands of the Ojibwe, Odawa,
+and Potawatomi, as well as historic lands of the Ho-Chunk, Menominee, and Miami.
+_____________________________________________________________
+
+### Response Summary
+
+Professor Paller described the questions raised in the outreach as
+"very interesting ideas and unanswered questions" and wished the project
+success.
+
+### Interpretation
+
+- The response indicates that the translational questions posed are scientifically
+  relevant and remain open.
+- No explicit position was provided on EEG-first versus peripheral sensing.
+- The response should therefore not be treated as validation or rejection of the
+  current Phase-I sensing pathway.
+- No immediate scientific follow-up is warranted.
