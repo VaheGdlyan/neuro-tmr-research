@@ -12,7 +12,9 @@
 
 ## 2. Original Scientific Question
 
-The outreach challenged whether a stage-aware first-generation TMR system is sufficient, or whether the timing of stimulation relative to slow oscillations and other electrophysiological events should be treated as a fundamental requirement rather than a later optimization.
+Based on the evidence available today, can NREM/stage-aware cueing without oscillatory phase targeting be considered a scientifically defensible first-generation TMR approach, or should phase-specific timing already be treated as a core requirement?
+
+For a real-time EEG-guided system, what physiological information would you consider minimally necessary for intervention timing: sleep stage alone, sleep stage plus slow-oscillation phase, or additional event-level information such as spindle activity?
 
 **Core question:** Is stage-aware cueing scientifically adequate for a first-generation closed-loop TMR system, or does the evidence imply that phase/event-level timing should already be considered essential?
 

@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach asked whether a scientifically defensible closed-loop TMR system must directly verify that the intended memory representation was reactivated, or whether system-level and behavioral validation can be sufficient.
+Based on the current evidence, is a first-generation TMR system scientifically defensible if its closed loop monitors sleep state, cue delivery, and arousal, but does not directly estimate whether the intended memory representation was reactivated? Or should some form of memory-level feedback already be considered part of the core control problem—and, if so, what neural evidence would you consider minimally convincing?
 
 **Core question:** Does V1 need memory-level neural confirmation of reactivation, or can it remain scientifically defensible without such decoding if cue delivery is controlled and a robust behavioral effect is demonstrated?
 

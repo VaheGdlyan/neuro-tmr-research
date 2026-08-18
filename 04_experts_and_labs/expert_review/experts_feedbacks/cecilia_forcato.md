@@ -12,7 +12,9 @@
 
 ## 2. Original Scientific Question
 
-The outreach focused on whether cue design and reminder properties should be treated as explicit control variables in an automated TMR system, rather than assuming that correct sleep-stage timing is the dominant determinant of success.
+Based on the evidence available today, how strongly should a first-generation TMR system prioritize N3/SWS rather than broader NREM cueing? Do you view N3 as a generally preferable intervention window, or is the optimal sleep stage likely to depend substantially on the task and memory being targeted?
+
+Beyond reliable sleep-state detection, if you had to identify one additional constraint as the highest-priority target for validating an automated home TMR system, what would it be?
 
 **Core question:** How strongly should cue selection, cue-memory association quality, and the state of the target memory constrain whether and how a cue is replayed during sleep?
 

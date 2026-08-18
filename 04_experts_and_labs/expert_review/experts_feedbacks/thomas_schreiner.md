@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach reframed the sensing problem around brain-body physiology.
+Based on the current evidence, should a first-generation closed-loop TMR system treat EEG as the primary and sufficient physiological control signal, or do signals such as respiration provide information that could materially improve the identification of memory-relevant cueing windows? More broadly, what minimum physiological information would you want such a system to observe before intervention?
 
 **Core question:** Is EEG appropriately treated as the primary/sufficient physiological source for closed-loop TMR, or could respiration and other peripheral signals provide complementary information that makes a hybrid sensing architecture more scientifically defensible than a simple EEG-versus-peripheral choice?
 

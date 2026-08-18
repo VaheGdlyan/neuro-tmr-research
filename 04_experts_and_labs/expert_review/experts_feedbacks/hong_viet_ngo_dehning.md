@@ -12,7 +12,9 @@
 
 ## 2. Original Scientific Question
 
-The outreach focused on the minimum real-time control precision required for a closed-loop TMR system.
+If you were defining the minimum scientifically meaningful real-time architecture for closed-loop TMR, would reliable NREM/N3 detection alone be a defensible first-generation control signal, or would slow-oscillation event/phase information already be necessary?
+
+From your experience with real-time sleep stimulation, which technical constraint would you consider most critical to get right first: EEG signal quality, event detection, phase estimation, end-to-end latency, stimulation timing, or another factor that is often underestimated?
 
 **Core question:** For a scientifically meaningful first-generation system, is coarse NREM/N3 state estimation sufficient, or do event-level / phase-level detection, latency control, and precise synchronization become fundamental requirements?
 

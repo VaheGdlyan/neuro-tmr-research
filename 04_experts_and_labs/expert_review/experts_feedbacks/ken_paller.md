@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The original outreach challenged the EEG-first translational decision.
+Based on the evidence available today and your experience with SleepStim, is EEG-guided sleep-state estimation scientifically justified as the most defensible first-generation sensing pathway for automated TMR, or should the sensing modality instead be judged primarily by whether it can identify sufficiently safe and effective opportunities for cue delivery? Put differently, what physiological information does a first-generation TMR system genuinely need to observe before intervention?
 
 **Core question:** Does a first-generation automated TMR system truly require EEG-level physiological observability, or can peripheral sensing be scientifically sufficient if it reliably identifies safe and effective cueing opportunities?
 

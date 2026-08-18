@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach challenged the project at a higher level: whether the field is scientifically mature enough to justify translation into engineering validation at all.
+Based on the current state of TMR evidence, what do you consider the most important scientific uncertainty that should be resolved before an automated real-time TMR system can be considered a defensible next step?
 
 **Core question:** What unresolved scientific uncertainty would you consider most important to resolve before moving from evidence synthesis toward a first-generation engineering/validation effort?
 

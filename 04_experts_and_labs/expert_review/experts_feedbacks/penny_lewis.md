@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach challenged the idea that one sleep stage should be treated as the default target independently of the intended memory outcome.
+Based on the evidence available today, is it scientifically defensible for a first-generation TMR system to use N3/NREM as a general-purpose intervention state, or should sleep-stage selection already be treated as outcome-dependent — for example according to whether the goal is strengthening, transformation, procedural learning, or emotional-memory modification?
 
 **Core question:** Should sleep-stage selection in TMR depend on what kind of memory change is intended (e.g., strengthening, transformation, procedural learning, emotional memory), rather than assuming a single generic N3/NREM target?
 

@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach focused on the translational claim justified by the aggregate TMR evidence and newer memory-updating work.
+Given both the heterogeneity in the aggregate TMR evidence and the newer work on memory updating, what translational claim do you think the current science actually supports? Is it scientifically defensible to design a first-generation system around general memory enhancement, or should it be scoped much more narrowly around a specific memory type, task, and intended direction of change?
 
 **Core question:** Given the heterogeneity in the TMR literature and evidence that reactivation can produce different directions of memory change depending on intervention and context, is it scientifically defensible to design a first-generation system around general memory enhancement, or should it be scoped narrowly around a specific memory type, task, and intended direction of change?
 

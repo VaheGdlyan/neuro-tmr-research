@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach examined whether an automated TMR system should begin with a pre-sleep memory-eligibility layer rather than assuming every encoded item is equally suitable for reactivation.
+Based on the current evidence, should a first-generation TMR system include an explicit pre-sleep memory-eligibility step — assessing factors such as memory accuracy/strength and the quality of the cue–memory association before deciding what to reactivate? If so, what minimum evidence would you want before considering a particular memory suitable for automated cueing?
 
 **Core question:** Should memory strength, retrieval accuracy, cue-memory association quality, and intended direction of change be assessed before a memory becomes eligible for automated TMR?
 

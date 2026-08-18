@@ -12,7 +12,9 @@
 
 ## 2. Original Scientific Question
 
-The outreach examined whether N3/SWS should remain the default first-generation target state for TMR, or whether broader NREM targeting may be scientifically reasonable depending on task and system constraints.
+Based on the evidence available today, how strongly should a first-generation TMR system prioritize N3/SWS rather than broader NREM cueing? Do you view N3 as a generally preferable intervention window, or is the optimal sleep stage likely to depend substantially on the task and memory being targeted?
+
+Beyond reliable sleep-state detection, if you had to identify one additional constraint as the highest-priority target for validating an automated home TMR system, what would it be?
 
 **Core question:** Is prioritizing N3/SWS a defensible generic V1 strategy, and what additional validation constraint would you consider essential before engineering?
 

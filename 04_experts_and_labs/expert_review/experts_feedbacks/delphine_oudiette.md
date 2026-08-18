@@ -12,7 +12,7 @@
 
 ## 2. Original Scientific Question
 
-The outreach challenged the assumption that detecting the correct sleep stage is sufficient to make a cue appropriate for delivery.
+Based on the current evidence on sensory processing and transient responsiveness during sleep, is conventional sleep-stage classification a defensible first-generation proxy for TMR cue eligibility, or should a closed-loop system also attempt to estimate moment-to-moment receptivity to external information? If the latter, what evidence would you consider most informative for establishing that a cue was meaningfully processed rather than merely presented?
 
 **Core question:** Does correct sleep-stage classification imply that the brain is currently receptive to an external memory cue, or should moment-to-moment sensory responsiveness / cue eligibility be treated as a separate control variable?
 
