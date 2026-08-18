@@ -157,18 +157,36 @@ His involvement in work on real-time sleep stimulation gives him a useful perspe
 - Personalization notes: The strongest personalization is the progression across his own work: foundational SWS TMR → vocabulary TMR → unsupervised home TMR → N2-vs-SWS comparison → encoding-difficulty effects. This makes him ideal for assessing whether our proposed architecture is oversimplifying the conditions required for successful TMR.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [ ] LinkedIn connection sent
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Response received
 
-- Rasch should be treated primarily as a very high-priority Path-A reviewer.
-- A+E potential is plausible because he leads an active, fully equipped sleep laboratory and continues to conduct sleep and memory research, but no collaboration interest should be assumed before contact.
-- His strongest value for Phase II is not simply confirming that TMR works. His own research exposes several conditions that can complicate translation: sleep stage, prior encoding, sleep disturbance, habituation, and cue modality.
-- The N2-vs-SWS result is particularly important for our project because it directly prevents us from treating N3 superiority as an established universal fact.
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [bjoern.rasch@unifr.ch](mailto:bjoern.rasch@unifr.ch)
+* **Subject:** A question on sleep-stage targeting in TMR
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://ch.linkedin.com/in/bj%C3%B6rn-rasch-77003027
+* **Status:** Connection request pending
+* **Approach:** Short connection note only; do not repeat the scientific questions or send a second version of the email through LinkedIn.
+
+## Current Status
+
+**Awaiting response**
+
+The primary scientific outreach has been completed by academic email. LinkedIn is being used only as a secondary professional connection channel. No additional message should be sent unless Professor Rasch responds or a later follow-up becomes appropriate.
