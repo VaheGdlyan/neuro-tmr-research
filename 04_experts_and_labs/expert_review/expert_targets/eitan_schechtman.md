@@ -153,7 +153,6 @@ He is especially useful for distinguishing **successful cue delivery** from **su
 * [x] Questions finalized
 * [x] Email drafted
 * [x] Email sent
-* [ ] Follow-up sent
 * [x] Response received
 
 ## Outreach Log
@@ -172,71 +171,3 @@ He is especially useful for distinguishing **successful cue delivery** from **su
 * **Status:** No outreach
 * **Reason:** No LinkedIn profile was confidently verified during target research. No connection request was sent to avoid contacting an uncertain account.
 
-## Current Status
-
-## Expert Response
-
-### Response Received
-
-- **Date:** 2026-08-18
-- **Type:** Substantive scientific response
-- **Status:** Responded
-
-### Key Feedback
-
-Dear Vahe, 
-I think that a device or algorithm that produces a robust behavioral effect would be scientifically defensible, even without direct evidence for reactivation. You would likely need to provide evidence that cues didn't substantially change sleep architecture (ie, didn't cause too many arousals and compromise sleep) and that they were presented during sleep and not wakefulness. 
-Good luck! 
-
-Eitan
-
-
-
-               Eitan Schechtman-Drayman
-               --------------------------------------------
-                      Assistant Professor
-           Dept. of Neurobiology & Behavior
-    Cntr for Neurobio of Learning & Memory
-              University of California, Irvine
-                   Pronouns: He/Him/His
-                   
-
-Professor Schechtman indicated that a device or algorithm producing a robust
-behavioral effect could be scientifically defensible even without direct neural
-evidence that memory reactivation occurred.
-
-He emphasized two additional validation requirements:
-
-1. Demonstrate that cue presentation did not substantially alter sleep architecture
-   or cause excessive arousals that compromise sleep.
-
-2. Demonstrate that cues were delivered during sleep rather than during wakefulness.
-
-### Implications for Neuro-TMR
-
-- Direct neural decoding or confirmation of memory reactivation does not appear to
-  be a necessary first-generation validation requirement.
-- Behavioral efficacy can serve as the primary intervention-level outcome.
-- Sleep integrity / arousal monitoring should be treated as a core validation
-  requirement rather than a secondary feature.
-- Accurate confirmation that cues occur during sleep remains essential.
-- Memory-level neural feedback may be better treated as a later mechanistic or
-  advanced closed-loop capability rather than a prerequisite for V1.
-
-### Phase-I Assumption Impact
-
-**Partially supports current simplified closed-loop pathway.**
-
-The feedback supports a first-generation architecture centered on sleep-state
-verification, controlled cue delivery, arousal/sleep-disruption monitoring, and
-behavioral outcome validation without requiring direct proof of neural memory
-reactivation.
-
-This response does not resolve questions concerning EEG vs peripheral sensing,
-stage-aware vs phase-aware control, or the optimal sleep stage.
-
-### Follow-Up Status
-
-- [x] Substantive response received
-- [x] Thank-you reply sent
-- [ ] Additional scientific follow-up required

@@ -177,13 +177,3 @@ These are not necessarily the same event.
 * **Connection request:** Sent
 * **Personalized note:** Not used — limited personalized invitations reserved for priority targets
 * **Status:** Awaiting acceptance
-
-## Current Status
-
-### Automatic Response
-
-- **Date received:** 2026-08-18
-- **Type:** Out-of-office
-- **Message:** Dr. Oudiette is away until **2026-10-27** and indicated that she will respond after returning.
-- **Action:** No additional contact before her return.
-- **Planned follow-up window:** Early November 2026, only if no substantive response is received after her return.

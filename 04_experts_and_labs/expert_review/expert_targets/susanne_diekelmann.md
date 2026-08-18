@@ -106,8 +106,3 @@ Diekelmann can critically assess:
 
 ### Automatic Response
 
-- **Date received:** 2026-08-18
-- **Type:** Out-of-office
-- **Message:** Dr. Diekelmann is out of office until **2026-08-19** and will not have access to email during that time.
-- **Action:** No immediate follow-up.
-- **Follow-up policy:** Wait several working days after her return before considering any follow-up.
