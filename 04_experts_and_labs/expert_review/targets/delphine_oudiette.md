@@ -148,18 +148,40 @@ These are not necessarily the same event.
 - Personalization notes: The strongest personalized bridge is: foundational TMR work → current finding that sleeping brains move through transient periods of external responsiveness. This lets us ask a genuinely current question rather than contacting her only about research she published more than a decade ago.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Response received
 
-- Oudiette's current research does not establish that stage-aware TMR is inadequate. It makes the sufficiency of stage-level information an important empirical question.
-- Her 2023 work is especially valuable because it distinguishes being physiologically asleep from being completely disconnected from external information.
-- The DREAM database is not a TMR validation dataset. Its relevance here is that EEG contains information about ongoing sleep-related experience beyond a single categorical stage label.
-- A+E potential exists because she co-leads an active interdisciplinary sleep research team with advanced electrophysiological infrastructure, but no collaboration interest should be assumed.
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [delphine.oudiette@icm-institute.org](mailto:delphine.oudiette@icm-institute.org)
+* **Subject:** A question on cue eligibility in closed-loop TMR
+* **Scientific focus:** Whether conventional sleep-stage classification is a sufficient proxy for cue eligibility, or whether moment-to-moment receptivity to external information should also be considered in closed-loop TMR.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://fr.linkedin.com/in/delphine-oudiette-94aa1326b
+* **Connection request:** Sent
+* **Personalized note:** Not used — limited personalized invitations reserved for priority targets
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email. LinkedIn is being used only as a secondary professional connection channel.
+
+No additional contact should be made unless Dr. Oudiette responds or a later follow-up becomes appropriate.
