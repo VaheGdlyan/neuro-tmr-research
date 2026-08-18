@@ -80,14 +80,40 @@ He is particularly relevant to:
 - Personalization notes: Lead with the 2022 closed-loop TMR paper rather than generic sleep-memory expertise.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
-His expertise overlaps with Bernhard Staresina, but Ngo-Dehning is particularly valuable from the real-time stimulation and implementation-methodology side.
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Response received
+
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [h.v.ngo-dehning@essex.ac.uk](mailto:h.v.ngo-dehning@essex.ac.uk)
+* **Subject:** A question on real-time control requirements for closed-loop TMR
+* **Scientific focus:** Minimum real-time physiological and technical requirements for scientifically meaningful closed-loop TMR, including whether NREM/N3 detection is sufficient for a first-generation system or whether slow-oscillation event/phase information is already necessary.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://uk.linkedin.com/in/hong-viet-v-ngo-dehning-b9313883
+* **Connection request:** Sent
+* **Personalized note:** Not used — limited personalized invitations reserved for priority targets
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email. LinkedIn is being used only as a secondary professional connection channel.
+
+No additional contact should be made unless Dr. Ngo-Dehning responds or a later follow-up becomes appropriate.
