@@ -79,14 +79,44 @@ Cairney can challenge whether:
 - Personalization notes: Reference his 2016 finding on memory accuracy/cue association and current work on unwanted-memory processing.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
-Cairney is especially useful for challenging the memory-side assumptions of the system rather than only the sensing architecture.
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Substantive response received
+
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [scott.cairney@york.ac.uk](mailto:scott.cairney@york.ac.uk)
+* **Subject:** A question on memory eligibility in automated TMR
+* **Scientific focus:** Whether an automated TMR system should include an explicit pre-sleep memory-eligibility stage that evaluates memory strength/accuracy and cue–memory association before deciding which memories should be reactivated.
+* **Primary Phase-I assumption challenged:** Once an adequate cue–memory association has been formed, the central control problem begins during sleep with physiological state detection and cue scheduling.
+* **Secondary implication:** TMR outcomes should not necessarily be represented exclusively as memory strengthening; the intended direction of memory modification may need to be defined explicitly.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://uk.linkedin.com/in/scott-a-cairney
+* **Connection request:** Sent
+* **Personalized note:** Not used — limited personalized invitations reserved for highest-priority targets
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email. LinkedIn is being used only as a secondary professional connection channel.
+
+Professor Cairney is particularly relevant for evaluating whether the current architecture begins too late by focusing primarily on physiological control during sleep rather than explicitly determining memory eligibility before sleep.
+
+No additional contact should be made unless Professor Cairney responds or a later follow-up becomes appropriate.
