@@ -81,14 +81,43 @@ Her work also raises the distinction between:
 - Personalization notes: Mention her recent REM-TMR and neural-reactivation work rather than relying only on older TMR publications.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
-Her lab is particularly useful for examining whether "TMR system" should mean more than stage detection plus cue delivery.
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Response received
+
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [LewisP8@cardiff.ac.uk](mailto:LewisP8@cardiff.ac.uk)
+* **Subject:** A question on outcome-dependent sleep-stage targeting in TMR
+* **Scientific focus:** Whether N3/NREM can be treated as a general-purpose first-generation TMR intervention state, or whether sleep-stage selection should depend on the intended memory process or behavioral outcome.
+* **Primary Phase-I assumption challenged:** N3/NREM should serve as the default first-generation intervention state across TMR applications.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://uk.linkedin.com/in/penny-lewis-696429148
+* **Connection request:** Sent
+* **Personalized note:** Not used — limited personalized invitations reserved for highest-priority targets
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Primary scientific outreach was completed through academic email. LinkedIn is being used only as a secondary professional connection channel.
+
+Professor Lewis is particularly relevant for evaluating whether the current N3-centered architecture is too narrow given evidence across NREM, REM, procedural, emotional, and other memory outcomes.
+
+No additional contact should be made unless Professor Lewis responds or a later follow-up becomes appropriate.
