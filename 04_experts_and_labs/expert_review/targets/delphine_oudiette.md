@@ -180,8 +180,10 @@ These are not necessarily the same event.
 
 ## Current Status
 
-**Awaiting response**
+### Automatic Response
 
-Primary scientific outreach was completed through academic email. LinkedIn is being used only as a secondary professional connection channel.
-
-No additional contact should be made unless Dr. Oudiette responds or a later follow-up becomes appropriate.
+- **Date received:** 2026-08-18
+- **Type:** Out-of-office
+- **Message:** Dr. Oudiette is away until **2026-10-27** and indicated that she will respond after returning.
+- **Action:** No additional contact before her return.
+- **Planned follow-up window:** Early November 2026, only if no substantive response is received after her return.
