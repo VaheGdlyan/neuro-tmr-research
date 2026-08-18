@@ -118,18 +118,43 @@ His current scientific direction also remains highly relevant to translation. In
 - **Personalization notes:** Mention his foundational role in auditory TMR and the Hu et al. meta-analysis briefly, but make **SleepStim and the current translation question** the main personalized hook. His recent interest in wearable/home approaches for amplifying sleep benefits makes this substantially more relevant than a generic request for manuscript feedback.
 
 ## Outreach Status
-- [x] Research complete
-- [x] Email verified
-- [x] LinkedIn checked
-- [ ] Questions finalized
-- [ ] Email drafted
-- [ ] Email sent
-- [ ] Follow-up sent
-- [ ] Response received
 
-## Notes
+* [x] Research complete
+* [x] Email verified
+* [x] LinkedIn checked
+* [x] Questions finalized
+* [x] Email drafted
+* [x] Email sent
+* [x] LinkedIn connection sent
+* [x] Personalized LinkedIn note used
+* [ ] LinkedIn connection accepted
+* [ ] Follow-up sent
+* [ ] Response received
 
-- Paller should be treated as one of the highest-value Path-A reviewers because his work directly spans **TMR evidence → automated implementation → home use**.
-- The **SleepStim study is especially important for our outreach**. Rather than contacting someone likely to confirm our EEG-first reasoning, we can explicitly invite Paller to challenge it using his own experience with peripheral-sensor-guided automated TMR.
-- SleepStim should not be interpreted as proving that peripheral sensing is superior to EEG; it demonstrates that automated home TMR can operate without EEG under at least some conditions. This makes the sensor-selection question scientifically worth asking rather than assuming.
-- His 2025 work and presentations indicate continued interest in influencing sleep cognition and exploring home/wearable approaches, so **A+E potential exists**, but no collaboration interest should be assumed before contact.
+## Outreach Log
+
+### Initial Email
+
+* **Date sent:** 2026-08-18
+* **Channel:** Academic email
+* **Email:** [kap@northwestern.edu](mailto:kap@northwestern.edu)
+* **Subject:** A question prompted by SleepStim and an EEG-first TMR pathway
+* **Scientific focus:** Whether the Phase-I selection of EEG as the most defensible first-generation sensing pathway is scientifically justified, or whether the SleepStim results indicate that sensing should instead be evaluated according to the minimum physiological information required to identify safe and effective TMR cueing opportunities.
+* **Primary Phase-I assumption challenged:** EEG-guided sensing should be preferred for V1 because it provides more direct access to TMR-relevant sleep physiology.
+* **Status:** Sent — awaiting response
+
+### LinkedIn
+
+* **Profile:** https://www.linkedin.com/in/ken-paller-a08aa46b
+* **Connection request:** Sent
+* **Personalized note:** Sent — one of the limited personalized invitations reserved for highest-priority Path-A experts
+* **Purpose:** Secondary professional recognition only; the scientific request remains in the academic email.
+* **Status:** Awaiting acceptance
+
+## Current Status
+
+**Awaiting response**
+
+Professor Paller is one of the highest-priority Path-A reviewers because his work spans foundational TMR evidence, quantitative evidence synthesis, and automated home implementation through SleepStim.
+
+No additional contact should be made unless Professor Paller responds or a later follow-up becomes appropriate.
