@@ -153,8 +153,10 @@ His current scientific direction also remains highly relevant to translation. In
 
 ## Current Status
 
-**Awaiting response**
+### Automatic Response
 
-Professor Paller is one of the highest-priority Path-A reviewers because his work spans foundational TMR evidence, quantitative evidence synthesis, and automated home implementation through SleepStim.
-
-No additional contact should be made unless Professor Paller responds or a later follow-up becomes appropriate.
+- **Date received:** 2026-08-18
+- **Type:** Automatic delivery/availability notice
+- **Message:** "Receipt of your message may be delayed."
+- **Interpretation:** Email reached the institutional system, but message processing or review may be delayed.
+- **Action:** No immediate follow-up. Continue waiting for a substantive response.
