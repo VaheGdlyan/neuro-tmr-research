@@ -3249,4 +3249,266 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Next Action:** Cross-reference with Section 04 diaspora clinicians during qualification  
 **Notes:** Network multiplier rather than direct scientific collaboration target.
 
+## 11 — Research Governance, Ethics & Institutional Enablement
+
+> Discovery status: **Section 11 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, selected as institutional pathways, or used for any ethics/regulatory submission**.
+>
+> Section 11 captures institutional, ethical, regulatory, data-governance, research-integrity, and multi-site research mechanisms that could enable legitimate future Neuro-TMR human research.
+>
+> Because the Opportunity Universe already contains more than 145 entries, this section intentionally prioritizes **concrete enablement mechanisms** rather than building a general catalogue of ethics guidelines or regulations.
+
+### OPP-146 — YSMU Ethics Committee
+
+**Name:** YSMU Ethics Committee  
+**Organization:** Yerevan State Medical University  
+**Country:** Armenia  
+**Opportunity Type:** Institutional ethics review / human-research governance  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Biomedical research; human-participant research; research ethics  
+**Relevant Capabilities:** Protocol review; risk-benefit assessment; informed consent review; participant protection; research-design review; formal ethics decisions  
+**Relevant Work / Program:** Institutional committee reviewing biomedical and human-participant research conducted within the YSMU research environment.  
+**Why It May Matter:** Provides one of the clearest Armenian institutional pathways through which a future Neuro-TMR human EEG / sleep study could potentially receive legitimate ethical review.  
+**Potential Contribution to Phase II / Future Development:** Ethics approval pathway; protocol review; participant-protection oversight; institutional research legitimacy.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Likely requires institutional affiliation, responsible investigator, approved protocol, and supporting documentation; exact requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with YSMU scientific opportunities during institutional qualification  
+**Notes:** Particularly important because YSMU already appears elsewhere in the database as a neuroscience and clinical opportunity.
+
+### OPP-147 — AUA Institutional Review Boards
+
+**Name:** American University of Armenia Institutional Review Boards  
+**Organization:** American University of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** Institutional IRB / human-subjects research governance  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Clinical and non-clinical human-participant research  
+**Relevant Capabilities:** Ethical review; informed consent; human-subject protection; institutional research oversight; research training requirements  
+**Relevant Work / Program:** AUA maintains institutional review structures for human-participant research and requires human-subject protection procedures and training.  
+**Why It May Matter:** Could potentially enable suitable behavioral, cognitive, EEG, or other non-device human research conducted through an AUA-affiliated investigator or team.  
+**Potential Contribution to Phase II / Future Development:** Ethics review; early human-research governance; behavioral/observational validation support.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Current submission rules appear tied to AUA affiliation; current guidance also limits medical-device / clinical-trial review scope  
+**Status:** Discovered — unqualified  
+**Next Action:** Verify exact scope if an AUA collaboration becomes real  
+**Notes:** Potentially useful for appropriate non-clinical research, but should not be assumed to cover future regulated device studies.
+
+### OPP-148 — AUA Office of Sponsored Programs & Technology Transfer
+
+**Name:** Office of Sponsored Programs & Technology Transfer (OSP&TT)  
+**Organization:** American University of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** Institutional research administration / technology-transfer support  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Research administration; grants; compliance; IP; technology transfer  
+**Relevant Capabilities:** Grant identification; proposal development; compliance review; budgeting; award administration; IP evaluation; licensing; industry agreements  
+**Relevant Work / Program:** Institutional office supporting sponsored research and technology transfer from proposal stage through grant administration, IP, licensing, and external partnerships.  
+**Why It May Matter:** Could provide the institutional machinery required to move Neuro-TMR from an independent project toward funded collaborative research and, later, legitimate technology translation.  
+**Potential Contribution to Phase II / Future Development:** Grant administration; institutional contracts; research agreements; IP support; industry collaboration; licensing.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Requires meaningful AUA institutional relationship or affiliation  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Section 03 AUA researchers and Section 06/07 funding opportunities  
+**Notes:** Strong example of institutional enablement beyond laboratory access.
+
+### OPP-149 — YSMU Science Coordination Council
+
+**Name:** Science Coordination Council  
+**Organization:** Yerevan State Medical University  
+**Country:** Armenia  
+**Opportunity Type:** Institutional scientific governance  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Research programme approval; scientific coordination; institutional research oversight  
+**Relevant Capabilities:** Scientific programme review; research-direction coordination; expert committees; state-funded research oversight  
+**Relevant Work / Program:** Formal YSMU body coordinating scientific directions and institutional research programmes.  
+**Why It May Matter:** Shows that a future YSMU-hosted Neuro-TMR project would need and potentially benefit from a formal internal scientific-governance pathway rather than operating only through an individual laboratory.  
+**Potential Contribution to Phase II / Future Development:** Institutional approval; scientific coordination; programme legitimacy; integration into university research structures.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Requires formal institutional pathway and responsible university investigators  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate only if YSMU becomes a substantive host/collaborator  
+**Notes:** Complements OPP-146 Ethics Committee and Section 03 YSMU scientific opportunities.
+
+### OPP-150 — Armenian Medical-Device Clinical Investigation Regulatory Pathway
+
+**Name:** Armenian Medical-Device Clinical Investigation Regulatory Pathway  
+**Organization:** Ministry of Health of the Republic of Armenia / relevant expert and ethics structures  
+**Country:** Armenia  
+**Opportunity Type:** National medical-device regulatory / clinical-investigation pathway  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Medical devices; clinical investigation; regulatory oversight  
+**Relevant Capabilities:** Clinical-investigation authorization; expert review; ethical oversight; medical-device regulatory pathway  
+**Relevant Work / Program:** Armenian regulatory framework provides formal processes for clinical investigation and expert/ethical review of medical devices.  
+**Why It May Matter:** If Neuro-TMR eventually becomes a software/device system making regulated medical or therapeutic claims, human validation may need to move beyond academic IRB review into formal medical-device oversight.  
+**Potential Contribution to Phase II / Future Development:** Regulatory pathway; clinical investigation; device-study legitimacy; translational enablement.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Depends on future intended use, claims, device/software classification, study type, and Armenian regulatory requirements  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for future regulatory qualification only after actual product/study definition exists  
+**Notes:** Neuro-TMR should not be classified as a medical device during discovery; this is a future pathway, not a present determination.
+
+### OPP-151 — Republic of Armenia Personal Data Protection Agency
+
+**Name:** Personal Data Protection Agency  
+**Organization:** Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** National privacy / data-protection authority  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Personal data; health data; privacy; cross-border data processing  
+**Relevant Capabilities:** Data-protection oversight; guidance; regulatory interpretation; special-category data governance  
+**Relevant Work / Program:** Armenian supervisory authority for personal-data protection under national law.  
+**Why It May Matter:** Future Neuro-TMR research could involve EEG, sleep physiology, behavioral performance, health information, participant identifiers, and international data sharing.  
+**Potential Contribution to Phase II / Future Development:** Data-governance compliance; cross-border data-transfer reasoning; participant privacy; institutional data-management planning.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Exact obligations depend on study design, data categories, processing locations, cloud services, and institutional agreements  
+**Status:** Discovered — unqualified  
+**Next Action:** Include in later human-study data-governance review  
+**Notes:** Especially important if Armenian participant data are accessed or processed internationally.
+
+### OPP-152 — REDCap Consortium / Secure Research Data Infrastructure
+
+**Name:** REDCap Consortium / Secure Research Data Infrastructure  
+**Organization:** REDCap Consortium  
+**Country:** International  
+**Opportunity Type:** Research data-management infrastructure  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Human-research data collection; electronic consent; study data governance  
+**Relevant Capabilities:** Role-based access; audit trails; authentication; electronic forms; electronic consent; multi-site data capture  
+**Relevant Work / Program:** Widely used research-data platform supporting secure collection and management of human-research data.  
+**Why It May Matter:** Could provide the operational data layer underneath a legitimate Neuro-TMR human study, particularly for participant metadata, questionnaires, consent workflows, and structured outcomes.  
+**Potential Contribution to Phase II / Future Development:** Study data management; auditability; participant-data collection; multi-site coordination; governance support.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Usually deployed through participating institutions; regulatory compliance depends on institutional configuration and study design  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate only when a real human-study host and data-management plan exist  
+**Notes:** Infrastructure does not itself provide ethics or legal compliance.
+
+### OPP-153 — Open Science Framework Registrations / EEG-ERP Preregistration
+
+**Name:** Open Science Framework Registrations / EEG-ERP Methods Preregistration  
+**Organization:** Center for Open Science / OSF  
+**Country:** International  
+**Opportunity Type:** Research-integrity / preregistration infrastructure  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Reproducibility; preregistration; EEG methodology; open science  
+**Relevant Capabilities:** Time-stamped preregistration; hypothesis specification; analysis-plan registration; EEG/ERP methodology templates  
+**Relevant Work / Program:** OSF provides formal study registrations and dedicated methodological templates, including EEG/ERP-specific preregistration structures.  
+**Why It May Matter:** Could substantially strengthen the credibility of a future Neuro-TMR validation study by recording hypotheses, preprocessing decisions, exclusion criteria, outcomes, and analysis plans before results are known.  
+**Potential Contribution to Phase II / Future Development:** Preregistration; methodological transparency; reproducibility; stronger publication/review credibility.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Public/private registration choices and study-specific content require later design  
+**Status:** Discovered — unqualified  
+**Next Action:** Strongly consider when a future human or confirmatory Path V study reaches protocol stage  
+**Notes:** Particularly compatible with Neuro-TMR's evidence-before-engineering philosophy.
+
+### OPP-154 — ClinicalTrials.gov Protocol Registration and Results System
+
+**Name:** ClinicalTrials.gov Protocol Registration and Results System (PRS)  
+**Organization:** U.S. National Library of Medicine / NIH  
+**Country:** United States / International  
+**Opportunity Type:** Public clinical-study registration infrastructure  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Human biomedical and health research  
+**Relevant Capabilities:** Public protocol registration; study transparency; results reporting; structured trial information  
+**Relevant Work / Program:** International registry infrastructure for eligible clinical studies and other qualifying human biomedical research.  
+**Why It May Matter:** A future Neuro-TMR human intervention study may benefit from or, depending on regulatory/funding circumstances, require formal study registration.  
+**Potential Contribution to Phase II / Future Development:** Public protocol transparency; trial registration; research credibility; results reporting.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Study eligibility, responsible organization, ethics status, and applicable registration obligations require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate when a concrete human intervention protocol exists  
+**Notes:** Complements preregistration but serves a different clinical-study transparency role.
+
+### OPP-155 — SMART IRB
+
+**Name:** SMART IRB  
+**Organization:** NIH-supported U.S. research-reliance network  
+**Country:** United States  
+**Opportunity Type:** Multi-site IRB reliance infrastructure  
+**Global / Armenia / Diaspora:** Global / U.S.-linked  
+**Research Area:** Multi-site human-subjects research governance  
+**Relevant Capabilities:** Single-IRB reliance; institutional agreements; multi-site research coordination  
+**Relevant Work / Program:** Allows participating institutions to use standardized reliance arrangements so one IRB can serve as the reviewing IRB for eligible multi-site studies.  
+**Why It May Matter:** Could simplify governance if Neuro-TMR eventually becomes part of a multi-institution U.S.-linked human study.  
+**Potential Contribution to Phase II / Future Development:** Multi-site collaboration; governance simplification; institutional coordination.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Participating institutional status and study-specific reliance arrangements required  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for future U.S. multi-site research scenarios  
+**Notes:** SMART IRB does not itself conduct ethical review.
+
+### OPP-156 — OHRP Federalwide Assurance Pathway
+
+**Name:** OHRP Federalwide Assurance (FWA) Pathway  
+**Organization:** U.S. Office for Human Research Protections  
+**Country:** United States / International institutions  
+**Opportunity Type:** Institutional human-research assurance mechanism  
+**Global / Armenia / Diaspora:** Global / U.S.-linked  
+**Research Area:** Human-subject protections; federally supported international research  
+**Relevant Capabilities:** Institutional assurance; compatibility with HHS-supported human research; international research governance  
+**Relevant Work / Program:** Non-U.S. institutions involved in applicable U.S. HHS-supported human research may operate under an approved Federalwide Assurance.  
+**Why It May Matter:** Could become relevant if an Armenian institutional partner joins a U.S. federally funded human Neuro-TMR collaboration.  
+**Potential Contribution to Phase II / Future Development:** Institutional compatibility with HHS-funded studies; international governance; U.S.-Armenia research enablement.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Relevant only under specific U.S. federal funding and human-research circumstances  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for future NIH/HHS-linked collaboration qualification  
+**Notes:** Far-future mechanism but strategically important for international institutional compatibility.
+
+### OPP-157 — WCG Independent IRB / Research Ethics Support
+
+**Name:** WCG Independent IRB / Research Ethics Support  
+**Organization:** WCG  
+**Country:** United States / International research support  
+**Opportunity Type:** Independent / central IRB and research-ethics service  
+**Global / Armenia / Diaspora:** Global / U.S.-linked  
+**Research Area:** Clinical research; device research; behavioral research; human-subject protection  
+**Relevant Capabilities:** Independent IRB review; centralized ethics infrastructure; device-study review; research compliance support  
+**Relevant Work / Program:** Provides external IRB and research-ethics services for academic, clinical, device, behavioral, and industry research.  
+**Why It May Matter:** Could provide an external/centralized ethics pathway in a future multinational or industry-sponsored Neuro-TMR programme where independent review is appropriate.  
+**Potential Contribution to Phase II / Future Development:** Independent ethics review; centralized multi-site support; clinical/device research enablement.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Governance Requirements:** Cost, jurisdiction, sponsor, institutional agreements, and local Armenian requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as a later-stage external review mechanism  
+**Notes:** Would not automatically replace Armenian national or institutional requirements.
+
 
