@@ -1697,3 +1697,319 @@ The section also avoided:
 - The purpose should not be speculation for its own sake. Every Section 12 entry should have a plausible mechanism for future Neuro-TMR relevance.
 
 
+---
+
+## 2026-08-20 — Section 12
+
+### Search Lane
+Future-Horizon Strategic Opportunities
+
+### Search Focus
+- technologies that could materially change the Neuro-TMR V2/V3 architecture
+- sleep and EEG foundation models
+- multimodal physiological representation learning
+- memory-reactivation decoding
+- adaptive / personalized TMR
+- phase-aware and sleep-microstate-aware closed-loop stimulation
+- next-generation integrated EEG + audio hardware
+- privacy-preserving multi-site AI validation
+- long-horizon personalized brain simulation
+
+### Research Strategy Adjustment
+Section 12 was the final Opportunity Universe discovery section.
+
+The database had already reached 157 opportunities before this search, so Section 12 used the strictest inclusion rule in the entire discovery phase:
+
+> **Do not add something because it is technologically interesting. Include it only if there is a credible scientific, technical, or infrastructure mechanism through which it could materially alter future Neuro-TMR sensing, decision-making, intervention, personalization, validation, or scale.**
+
+The purpose was not to speculate about futuristic neuroscience.
+
+The purpose was to make sure the project remains aware of emerging capabilities that could eventually justify changing the current EEG-first reference architecture.
+
+### Research Limits Used
+- three bounded search passes
+- six conceptual lanes:
+  1. next-generation physiological / neural models
+  2. memory-reactivation decoding
+  3. adaptive and personalized TMR
+  4. oscillation / microstate-aware closed-loop control
+  5. future integrated sensing + stimulation hardware
+  6. large-scale privacy-preserving / simulation infrastructure
+- final count: 10 opportunities
+- deliberately below the earlier 12–15 opportunity target because quality was prioritized over quantity
+- stopped when additional results became speculative, duplicated existing sections, or lacked a credible Neuro-TMR mechanism
+- no V2/V3 architecture decision made
+
+### Sources Explored
+- primary peer-reviewed sleep / TMR publications
+- primary neural-decoding research
+- official/open model repositories
+- sleep foundation-model research
+- EEG foundation-model research
+- open physiological foundation-model projects
+- closed-loop stimulation publications
+- emerging ear-EEG research
+- MLCommons MedPerf
+- The Virtual Brain
+- official datasets / code repositories where available
+
+### Opportunities Added
+- OPP-158 — SleepFM — Multimodal Sleep Foundation Model
+- OPP-159 — Sleep Interpreter — Real-Time Semantic Memory-Reactivation Decoding
+- OPP-160 — Open EEG Foundation-Model Ecosystem — EEGPT / LaBraM
+- OPP-161 — PaPaGei — Open PPG Foundation Model
+- OPP-162 — Personalized TMR Based on Memory Difficulty
+- OPP-163 — Phase-Specific Closed-Loop TMR — Open Data + Code Research Stack
+- OPP-164 — Portiloop / Closed-Loop Sleep-Spindle Targeting
+- OPP-165 — Integrated In-Ear EEG + Auditory Stimulation Platform
+- OPP-166 — MLCommons MedPerf — Federated / Privacy-Preserving Multi-Institution AI Evaluation
+- OPP-167 — The Virtual Brain / Personalized Brain-Twin Ecosystem
+
+### Interesting Patterns
+- Section 12 does **not** undermine the current EEG-first V1 decision.
+- Instead, it reveals several possible layers that could eventually be added to or replace parts of the V1 architecture after sufficient evidence exists.
+- Future development appears to be moving from:
+  - categorical sleep staging
+  toward
+  - continuous physiological representation
+  - oscillation / spindle awareness
+  - individualized cue policy
+  - post-cue neural feedback
+- Sleep-specific foundation models may eventually be more relevant to Neuro-TMR than generic EEG foundation models because they are trained directly on heterogeneous polysomnography and sleep physiology.
+- Generic EEG foundation models remain promising but should be compared directly against strong specialist sleep models rather than assumed superior.
+- PPG foundation models do not remove the current evidence gap for PPG-only closed-loop TMR, but they may improve future autonomic/arousal modelling when combined with EEG.
+- Personalized TMR introduces a second dimension of adaptation:
+  - not only **when** to cue
+  - but also **which memory** should receive cueing and how often
+- Phase-aware and spindle-aware research suggests that "N2/N3 detected" may eventually be too coarse for advanced cue scheduling.
+- Memory-reactivation decoding creates the possibility of eventually adding a new variable to the control loop:
+  - not only whether a cue was delivered
+  - but whether measurable evidence suggests memory-related reactivation followed
+- Integrated in-ear EEG + auditory stimulation suggests a possible future hardware route where sensing and cue delivery exist within the same wearable interface.
+- Federated evaluation may become important if Neuro-TMR eventually needs validation across hospitals/labs that cannot centrally share sensitive EEG data.
+- Personalized brain simulation remains far-horizon and should not influence current V1 engineering decisions.
+
+### Future Neuro-TMR Architecture Horizons
+
+#### V1 — Evidence-Bounded Reference System
+**EEG**
+
+↓
+
+**sleep-state detection**
+
+↓
+
+**cue eligibility**
+
+↓
+
+**auditory TMR**
+
+↓
+
+**arousal / disturbance monitoring**
+
+This remains the current reference hypothesis.
+
+#### V2 — Physiology-Aware Closed Loop
+Potential additions:
+
+- slow-oscillation state
+- slow-oscillation phase
+- spindle detection
+- spindle timing / refractory periods
+- finer arousal probability
+- more individualized cue timing
+
+Possible supporting opportunities:
+- OPP-163
+- OPP-164
+- OPP-158
+
+#### V3 — Personalized Memory Controller
+Potential additions:
+
+- pre-sleep memory strength
+- item difficulty
+- cue priority
+- adaptive cue repetition
+- individual response history
+
+Possible supporting opportunity:
+- OPP-162
+
+#### V4 — Reactivation-Aware Closed Loop
+Potential addition:
+
+**post-cue EEG**
+
+↓
+
+**memory-reactivation estimate**
+
+↓
+
+**update next cue decision**
+
+Possible supporting opportunity:
+- OPP-159
+
+This remains a future research direction, not a demonstrated Neuro-TMR architecture.
+
+### Possible Hardware Horizon
+
+**research-grade EEG**
+
+↓
+
+**frontal wearable EEG**
+
+↓
+
+**reduced-channel / ear-EEG**
+
+↓
+
+**integrated EEG + audio interface**
+
+Potential supporting opportunities include:
+- Section 02 ear/wearable EEG groups
+- Section 09 reduced-channel sleep hardware
+- OPP-165 integrated ear-EEG + auditory stimulation
+
+### Possible Model Horizon
+
+**task-specific classifier**
+
+↓
+
+**pretrained sleep representation**
+
+↓
+
+**multimodal physiological representation**
+
+↓
+
+**personalized online adaptation**
+
+Potential supporting opportunities:
+- OPP-158
+- OPP-160
+- OPP-161
+
+### Possible Scaling Horizon
+
+**single public dataset**
+
+↓
+
+**multiple public datasets**
+
+↓
+
+**institutional study**
+
+↓
+
+**multi-site validation**
+
+↓
+
+**privacy-preserving / federated evaluation**
+
+Potential supporting opportunity:
+- OPP-166
+
+### Particularly Important Opportunities for Later Path V Clarification
+Without assigning formal priority yet, several Section 12 opportunities deserve especially careful attention during later Path V clarification:
+
+- OPP-158 — SleepFM
+- OPP-159 — Sleep Interpreter
+- OPP-162 — Personalized TMR
+- OPP-163 — Phase-Specific Closed-Loop TMR
+- OPP-164 — Portiloop / Spindle Targeting
+- OPP-165 — Integrated In-Ear EEG + Audio
+
+Reasons include direct relevance to future sleep-state modelling, adaptive cueing, real-time closed-loop architecture, memory-reactivation measurement, or next-generation hardware.
+
+This list is **not yet a ranking or implementation decision**.
+
+### Cross-Section Relationships
+- Section 05 provides datasets that may later be used to test foundation-model and reduced-channel hypotheses.
+- Section 09 provides current-generation hardware against which future Section 12 sensing technologies can be compared.
+- Section 01 / 02 researchers may provide expertise required to interpret advanced oscillatory and memory-reactivation methods.
+- Section 06 / 07 funding may eventually support high-risk future-horizon research after scientific justification exists.
+- Section 11 governance becomes increasingly important as adaptive, multi-site, or clinically framed Neuro-TMR studies become more complex.
+- Section 12 technologies should be treated as future options, not reasons to bypass current validation.
+
+### Opportunities Deliberately Excluded
+Section 12 intentionally excluded:
+
+- generic large language models
+- generic healthcare AI
+- unrelated brain-computer interfaces
+- invasive neural implants
+- brain organoids
+- speculative consciousness decoding
+- unsupported "mind reading" claims
+- quantum-neuroscience speculation
+- generic ultrasound / electrical-stimulation technologies without a concrete Neuro-TMR mechanism
+- generic digital-health platforms
+- generic radar sleep tracking
+- every newly published EEG model
+- technologies already represented adequately in Sections 01–11
+
+Existing opportunities such as:
+- Aarhus ear-EEG
+- SleepLoopFM
+- wearable bioelectronics groups
+- FRENZ
+- Elemind
+- Bitbrain
+- CGX
+- other Section 09 hardware
+
+should be cross-referenced rather than duplicated.
+
+### Final Discovery-Phase Status
+
+With completion of Section 12:
+
+- Section 01 — Global Scientific Collaboration ✅
+- Section 02 — Global Adjacent Scientific Capability ✅
+- Section 03 — Armenian Scientific Ecosystem ✅
+- Section 04 — Armenian Diaspora Scientific Bridges ✅
+- Section 05 — Validation Data, Research Infrastructure & Experimental Access ✅
+- Section 06 — Global Funding & Research Support ✅
+- Section 07 — Armenian Funding & National Support ✅
+- Section 08 — Fellowships, Placements & Research Programs ✅
+- Section 09 — Industry, Hardware & Technology Access ✅
+- Section 10 — Networks, Events & Second-Order Opportunities ✅
+- Section 11 — Research Governance, Ethics & Institutional Enablement ✅
+- Section 12 — Future-Horizon Strategic Opportunities ✅
+
+**Total discovered Opportunity Universe: OPP-001 → OPP-167.**
+
+All opportunities remain subject to the later:
+
+**verification → enrichment → deduplication → qualification → prioritization → outreach/action planning**
+
+process.
+
+Discovery quantity should now stop expanding unless a genuinely new high-value opportunity emerges through external responses, networks, or later research.
+
+### Discovery Phase Closure Principle
+
+The Opportunity Universe is now broad enough to support serious decision-making.
+
+The next objective is no longer:
+
+> "What else can we find?"
+
+It becomes:
+
+> **"Which of the 167 discovered opportunities are real, current, accessible, scientifically valuable, strategically distinct, and worth acting on?"**
+
+
