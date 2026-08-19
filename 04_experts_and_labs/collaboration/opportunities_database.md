@@ -2966,3 +2966,287 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Notes:** Do not assume hardware or API access until explicitly confirmed.
 
 
+## 10 — Networks, Events & Second-Order Opportunities
+
+> Discovery status: **Section 10 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, selected for attendance, or selected for outreach**.
+>
+> Section 10 captures scientific societies, professional communities, conferences, network ecosystems, and second-order opportunities capable of multiplying Neuro-TMR access to researchers, collaborators, methods, funding, hardware, visibility, mentorship, or institutional introductions.
+>
+> Because the Opportunity Universe already contains more than 130 entries, this section intentionally prioritizes **network multipliers and distinct access mechanisms over event quantity**.
+
+### OPP-133 — Society for Neuroscience (SfN) / Neuroscience Annual Meeting
+
+**Name:** Society for Neuroscience (SfN) / Neuroscience Annual Meeting  
+**Organization:** Society for Neuroscience  
+**Country:** United States / International  
+**Opportunity Type:** Global neuroscience society / major scientific meeting  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience across molecular, systems, cognitive, computational, clinical, and technological domains  
+**Relevant Capabilities:** Large-scale scientific networking; research presentations; professional development; interdisciplinary exposure; collaborator discovery  
+**Relevant Work / Program:** SfN operates one of the world's largest neuroscience professional communities and hosts the annual Neuroscience meeting.  
+**Why It May Matter:** Provides access to a very broad neuroscience ecosystem including sleep, memory, electrophysiology, computational neuroscience, neurotechnology, and neural engineering.  
+**Potential Contribution to Phase II / Future Development:** Research visibility; collaborator discovery; expert introductions; conference presentation; scientific-network expansion.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Membership, registration, abstract, travel, and timing requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for later event/network qualification  
+**Notes:** Broad neuroscience multiplier rather than a TMR-specific network.
+
+### OPP-134 — European Sleep Research Society / Sleep Europe
+
+**Name:** European Sleep Research Society (ESRS) / Sleep Europe  
+**Organization:** European Sleep Research Society  
+**Country:** Europe / International  
+**Opportunity Type:** Sleep-science society / congress ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep neuroscience; sleep medicine; sleep technology; human sleep research  
+**Relevant Capabilities:** Sleep-specific scientific network; sleep-technology exposure; research presentations; collaborator discovery; clinical/research integration  
+**Relevant Work / Program:** ESRS connects the European sleep-science community and organizes Sleep Europe, including tracks spanning basic human sleep research, clinical science, and sleep technology.  
+**Why It May Matter:** One of the closest network-level matches to Neuro-TMR because it combines sleep science with emerging sleep technology and translational research.  
+**Potential Contribution to Phase II / Future Development:** Sleep-scientist networking; collaboration discovery; validation partnerships; future conference visibility; technology discussions.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Membership, congress registration, abstract, and travel requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Give strong attention during later qualification  
+**Notes:** One of the strongest network multipliers for direct Neuro-TMR scientific relevance.
+
+### OPP-135 — Sleep Research Society / SLEEP + ASCS
+
+**Name:** Sleep Research Society (SRS) — SLEEP + Advances in Sleep & Circadian Science  
+**Organization:** Sleep Research Society  
+**Country:** United States / International  
+**Opportunity Type:** Sleep research society / scientific meeting ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep research; circadian science; sleep physiology; translational sleep science  
+**Relevant Capabilities:** Scientific networking; research presentation; interdisciplinary sleep community; early-career development; smaller research-focused meetings  
+**Relevant Work / Program:** SRS supports the sleep-research community through major meetings including SLEEP and Advances in Sleep & Circadian Science.  
+**Why It May Matter:** Provides access to both large-scale and more focused scientific environments where sleep-memory, physiology, staging, arousal, and closed-loop research may be discussed.  
+**Potential Contribution to Phase II / Future Development:** Scientific relationships; sleep-research visibility; collaboration; mentorship; future presentation route.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Membership and meeting-specific requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later sleep-network qualification  
+**Notes:** Covers both broad and smaller research-oriented sleep events without duplicating them as separate IDs.
+
+### OPP-136 — World Sleep Society / World Sleep Congress
+
+**Name:** World Sleep Society / World Sleep Congress  
+**Organization:** World Sleep Society  
+**Country:** International  
+**Opportunity Type:** Global sleep-science / sleep-medicine network  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep science; sleep medicine; sleep health; international training  
+**Relevant Capabilities:** International sleep network; research presentations; education; global collaborator discovery  
+**Relevant Work / Program:** Operates an international sleep-science and medicine community and organizes the World Sleep Congress.  
+**Why It May Matter:** Could expose Neuro-TMR to a broader geographic and institutional sleep network beyond primarily European and US ecosystems.  
+**Potential Contribution to Phase II / Future Development:** Global sleep-science contacts; international visibility; collaborators; clinical/research relationships.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Meeting, membership, travel, and abstract requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for international network qualification  
+**Notes:** Particularly useful as a global sleep-science multiplier.
+
+### OPP-137 — Federation of European Neuroscience Societies / FENS Forum
+
+**Name:** Federation of European Neuroscience Societies (FENS) / FENS Forum  
+**Organization:** FENS  
+**Country:** Europe / International  
+**Opportunity Type:** European neuroscience federation / scientific meeting ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience; electrophysiology; cognition; memory; computational neuroscience; neurotechnology  
+**Relevant Capabilities:** Scientific networking; technical workshops; research presentations; European collaborator discovery  
+**Relevant Work / Program:** FENS connects national neuroscience societies across Europe and organizes the FENS Forum and related scientific activities.  
+**Why It May Matter:** Complements sleep-specific networks by creating access to broader neuroscience disciplines relevant to Neuro-TMR's memory, EEG, computation, and neurotechnology components.  
+**Potential Contribution to Phase II / Future Development:** Collaboration; scientific exposure; technical methods; future presentation; European neuroscience-network access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Membership, event, abstract, and travel requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later European network qualification  
+**Notes:** Broad neuroscience complement to ESRS.
+
+### OPP-138 — International Brain Research Organization
+
+**Name:** International Brain Research Organization (IBRO)  
+**Organization:** IBRO  
+**Country:** International  
+**Opportunity Type:** Global neuroscience organization / opportunity ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience education; collaboration; training; research mobility  
+**Relevant Capabilities:** Global neuroscience network; fellowships; training; grants; congresses; international scientific-development programmes  
+**Relevant Work / Program:** IBRO operates a broad international neuroscience-support ecosystem including training, exchange, research support, and major scientific meetings.  
+**Why It May Matter:** Functions as a second-order gateway to additional fellowships, collaborations, training mechanisms, and researchers beyond individual opportunities already discovered.  
+**Potential Contribution to Phase II / Future Development:** Networking; mobility; researcher development; grant discovery; collaboration; scientific visibility.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Programme-specific eligibility requires later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Section 08 and later qualification  
+**Notes:** Particularly valuable because it generates multiple downstream opportunity types.
+
+### OPP-139 — NeuroTechX Global Community
+
+**Name:** NeuroTechX Global Community  
+**Organization:** NeuroTechX  
+**Country:** International  
+**Opportunity Type:** Neurotechnology community / industry-research network  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neurotechnology; BCI; EEG; neural engineering; open-source development  
+**Relevant Capabilities:** Local chapters; technical education; industry connections; open-source projects; BCI benchmarking; developer community  
+**Relevant Work / Program:** Global community connecting neurotechnology researchers, engineers, developers, companies, and students.  
+**Why It May Matter:** Could become a multiplier across many Section 09 companies and technical opportunities by providing direct exposure to industry, open-source tools, practitioners, and research collaboration.  
+**Potential Contribution to Phase II / Future Development:** Hardware connections; engineering mentorship; collaborators; technical learning; community visibility; potential partnerships.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Community, chapter, event, and project participation conditions require later review  
+**Status:** Discovered — unqualified  
+**Next Action:** Give strong attention during later engineering/network qualification  
+**Notes:** One of the strongest second-order opportunities on the engineering side.
+
+### OPP-140 — IEEE Engineering in Medicine and Biology Society / EMBC
+
+**Name:** IEEE Engineering in Medicine and Biology Society / EMBC  
+**Organization:** IEEE Engineering in Medicine and Biology Society  
+**Country:** International  
+**Opportunity Type:** Biomedical engineering society / conference ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Biomedical signal processing; neural engineering; wearable sensors; medical technology  
+**Relevant Capabilities:** Engineering research network; technical workshops; scientific presentation; biomedical device community; signal-processing expertise  
+**Relevant Work / Program:** EMBS connects biomedical engineers globally and organizes EMBC, covering biomedical signal processing, neural engineering, wearable sensors, and related technologies.  
+**Why It May Matter:** Could become a strong venue once Neuro-TMR produces meaningful signal-processing, wearable EEG, or closed-loop engineering results.  
+**Potential Contribution to Phase II / Future Development:** Engineering visibility; collaborator discovery; technical mentorship; future research presentation; industry/research connections.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** IEEE/EMBS and conference-specific requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later engineering-maturity stage  
+**Notes:** Stronger after Path V or hardware validation generates technical results.
+
+### OPP-141 — Cognitive Neuroscience Society
+
+**Name:** Cognitive Neuroscience Society (CNS)  
+**Organization:** Cognitive Neuroscience Society  
+**Country:** United States / International  
+**Opportunity Type:** Cognitive neuroscience society / annual meeting  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Memory; cognition; learning; cognitive neuroscience; computational cognition  
+**Relevant Capabilities:** Cognitive-science network; mentorship; research presentations; memory-research community  
+**Relevant Work / Program:** CNS connects researchers studying the neural and computational bases of cognition and supports annual scientific meetings and mentorship activities.  
+**Why It May Matter:** Particularly relevant to the memory, learning, and behavioral-validation side of Neuro-TMR.  
+**Potential Contribution to Phase II / Future Development:** Memory-science networking; behavioral-methodology input; future research presentation; collaboration discovery.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Meeting and membership conditions require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Path A memory/TMR experts during qualification  
+**Notes:** Strong cognitive complement to sleep-specific networks.
+
+### OPP-142 — Cognitive Computational Neuroscience
+
+**Name:** Cognitive Computational Neuroscience (CCN)  
+**Organization:** Cognitive Computational Neuroscience community  
+**Country:** International  
+**Opportunity Type:** Computational neuroscience / AI scientific community  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Computational neuroscience; cognitive science; machine learning; artificial intelligence  
+**Relevant Capabilities:** ML-neuroscience integration; computational modelling; neural decoding; interdisciplinary collaboration  
+**Relevant Work / Program:** Scientific community connecting cognitive science, neuroscience, and artificial intelligence through conferences and collaborative research exchange.  
+**Why It May Matter:** Particularly relevant if Path V evolves beyond engineering into publishable computational neuroscience or modelling work.  
+**Potential Contribution to Phase II / Future Development:** Computational-neuroscience credibility; research visibility; ML/neuroscience collaborators; future presentation venue.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Conference and submission requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for computational research maturity stage  
+**Notes:** Strong bridge between existing ML capability and formal neuroscience research.
+
+### OPP-143 — CuttingGardens / CuttingEEG Community
+
+**Name:** CuttingGardens / CuttingEEG Community  
+**Organization:** CuttingEEG  
+**Country:** International / Distributed  
+**Opportunity Type:** EEG methods community / distributed technical conference  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** EEG; MEG; electrophysiology; signal processing; neural decoding  
+**Relevant Capabilities:** EEG tutorials; preprocessing methods; AI decoding; technical networking; local/global community structure  
+**Relevant Work / Program:** Distributed global conference and research community focused specifically on modern EEG and MEG methods.  
+**Why It May Matter:** Directly aligned with the technical problems likely to arise in Path V, including preprocessing, artifact handling, decoding, and electrophysiological methodology.  
+**Potential Contribution to Phase II / Future Development:** EEG skill development; technical mentorship; methodology validation; computational contacts; Path V support.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Local Garden availability and annual participation rules require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Give attention during Path V technical qualification  
+**Notes:** Particularly practical because it is EEG-method focused rather than a broad neuroscience meeting.
+
+### OPP-144 — Meedk — Global Armenian Brain-Health Network
+
+**Name:** Meedk — Global Armenian Brain-Health Network  
+**Organization:** Meedk  
+**Country:** Global Armenian network  
+**Opportunity Type:** Armenian brain-health scientific network  
+**Global / Armenia / Diaspora:** Armenia + Diaspora  
+**Research Area:** Brain health; neuroscience; neuropsychology; mentorship; scientific education  
+**Relevant Capabilities:** Armenian scientific networking; mentorship; early-career support; diaspora connections; brain-health community building  
+**Relevant Work / Program:** Connects Armenian and Armenian-diaspora professionals and trainees around brain health, neuroscience, research, education, and mentorship.  
+**Why It May Matter:** Could connect Section 03's Armenian scientific ecosystem with Section 04's diaspora researchers through a domain-specific brain-health network.  
+**Potential Contribution to Phase II / Future Development:** Mentorship; introductions; Armenian scientific visibility; collaborator discovery; diaspora engagement.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Community and programme participation routes require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Give special attention during Armenian-network qualification  
+**Notes:** Intentionally deferred from Section 04 because the network itself is the opportunity.
+
+### OPP-145 — Armenian American Medical Society
+
+**Name:** Armenian American Medical Society (AAMS)  
+**Organization:** Armenian American Medical Society  
+**Country:** United States / Armenia-facing diaspora network  
+**Opportunity Type:** Armenian medical professional network  
+**Global / Armenia / Diaspora:** Diaspora + Armenia  
+**Research Area:** Medicine; clinical education; healthcare collaboration; diaspora professional networking  
+**Relevant Capabilities:** Armenian-diaspora physician network; clinical introductions; educational events; international medical collaboration  
+**Relevant Work / Program:** Maintains an Armenian-American healthcare-professional community, academic events, education, and Armenia-facing outreach.  
+**Why It May Matter:** Direct TMR specificity is low, but the network could provide introductions to neurologists, sleep physicians, neurophysiologists, and clinical institutions.  
+**Potential Contribution to Phase II / Future Development:** Clinical introductions; diaspora networking; medical mentorship; institutional access; possible future clinical bridge.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Participation / Access:** Membership, events, and outreach mechanisms require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Section 04 diaspora clinicians during qualification  
+**Notes:** Network multiplier rather than direct scientific collaboration target.
+
+
