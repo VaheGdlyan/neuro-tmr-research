@@ -2703,3 +2703,266 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Notes:** Potentially one of the strongest Armenia-to-global placement mechanisms discovered.
 
 
+## 09 — Industry, Hardware & Technology Access
+
+> Discovery status: **Section 09 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, selected for purchase, or selected for outreach**.
+>
+> Section 09 captures companies, hardware platforms, developer ecosystems, SDK/API access routes, research-device partnerships, real-time acquisition systems, physiological sensing platforms, and closed-loop neurotechnology technologies that could materially support Neuro-TMR validation or future engineering.
+>
+> Because the Opportunity Universe already contains more than 120 entries, this section intentionally prioritizes **distinct technical mechanisms and real access pathways over quantity**.
+
+### OPP-121 — Earable Neuroscience / FRENZ Research & B2B Partnership
+
+**Name:** Earable Neuroscience / FRENZ Research & B2B Partnership  
+**Organization:** Earable Neuroscience  
+**Country:** United States / International  
+**Opportunity Type:** Sleep neurotechnology platform / research partnership / hardware + API access  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Wearable sleep EEG; real-time physiological sensing; closed-loop audio; sleep neurotechnology  
+**Relevant Capabilities:** Raw EEG/EOG/EMG and biosignal access; real-time tracking; API access; personalized audio intervention; research hardware; joint R&D; technology licensing  
+**Relevant Work / Program:** FRENZ combines wearable physiological sensing with real-time sleep analysis and audio intervention, while Earable publicly offers research and B2B collaboration pathways.  
+**Why It May Matter:** This is unusually close to Neuro-TMR's intended sensing → inference → audio-intervention architecture and may provide both hardware and integration access rather than only an off-the-shelf consumer device.  
+**Potential Contribution to Phase II / Future Development:** Real-time sleep EEG access; API integration; closed-loop audio validation; joint research; possible hardware/software partnership.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Public research/B2B pathway identified; exact licensing and integration conditions require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Give strong attention during later qualification and verify research integration terms  
+**Notes:** One of the strongest direct industry fits discovered so far.
+
+### OPP-122 — InteraXon / Muse Research Partnership + Muse SDK
+
+**Name:** Muse Research Partnership + Muse SDK  
+**Organization:** InteraXon / Muse  
+**Country:** Canada / International  
+**Opportunity Type:** Consumer/research EEG platform / SDK access  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Wearable EEG; sleep EEG; developer integration; neurotechnology research  
+**Relevant Capabilities:** EEG sensor access; SDK; research partnership route; wearable overnight EEG; third-party application development  
+**Relevant Work / Program:** Muse provides a developer SDK for accessing headset sensor data and maintains pathways for academic and clinical research use.  
+**Why It May Matter:** Could provide a relatively accessible wearable EEG platform for early integration work without requiring custom hardware development.  
+**Potential Contribution to Phase II / Future Development:** EEG streaming; prototype integration; algorithm testing; wearable sleep experiments; research collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** SDK/research route publicly documented; exact device-level capabilities require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate hardware channels, real-time access, licensing, and sleep suitability during qualification  
+**Notes:** Potentially useful consumer-accessible EEG integration route.
+
+### OPP-123 — OpenBCI Cyton / Ganglion Open Hardware Ecosystem
+
+**Name:** OpenBCI Cyton / Ganglion Open Hardware Ecosystem  
+**Organization:** OpenBCI  
+**Country:** United States / International  
+**Opportunity Type:** Open EEG hardware / developer platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** EEG acquisition; BCI; open-source neurotechnology  
+**Relevant Capabilities:** Raw EEG; open hardware; firmware access; documented command protocols; third-party software integration; configurable channels  
+**Relevant Work / Program:** OpenBCI provides open EEG acquisition hardware and developer documentation for direct integration into custom software pipelines.  
+**Why It May Matter:** Gives Neuro-TMR unusually high control over acquisition and signal flow, which may be useful for early closed-loop engineering where openness matters more than comfort or final product form factor.  
+**Potential Contribution to Phase II / Future Development:** Custom real-time EEG pipeline; sleep-stage classification experiments; cue-trigger control; low-level software/hardware prototyping.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Open developer ecosystem; exact overnight/sleep suitability requires later evaluation  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as high-control prototyping option  
+**Notes:** Strong engineering flexibility; not necessarily ideal final sleep hardware.
+
+### OPP-124 — Bitbrain Ikon Sleep + SDK Ecosystem
+
+**Name:** Bitbrain Ikon Sleep + SDK Ecosystem  
+**Organization:** Bitbrain  
+**Country:** Spain  
+**Opportunity Type:** Sleep-specific EEG hardware / SDK / research ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Wearable sleep EEG; sleep staging; real-time acquisition  
+**Relevant Capabilities:** Frontal EEG; PPG; sleep-specific wearable design; SDK; real-time integration; LSL support; research dataset ecosystem  
+**Relevant Work / Program:** Ikon Sleep provides wearable sleep EEG/PPG capability, while Bitbrain offers software development tools for controlling acquisition and integrating real-time data.  
+**Why It May Matter:** Combines sleep-specific hardware, raw/real-time access, SDK support, and an existing simultaneous wearable/PSG validation dataset ecosystem.  
+**Potential Contribution to Phase II / Future Development:** Reduced-channel EEG testing; real-time sleep integration; hardware validation; Path V-to-prototype transition.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Research hardware and SDK ecosystem identified; commercial/research conditions require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with BOAS dataset from Section 05 during qualification  
+**Notes:** Strong combination of hardware + SDK + validation data.
+
+### OPP-125 — Beacon Biosignals Waveband (formerly Dreem 3S)
+
+**Name:** Waveband (formerly Dreem 3S)  
+**Organization:** Beacon Biosignals  
+**Country:** United States / International  
+**Opportunity Type:** Home sleep EEG platform / clinical research hardware  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Home sleep EEG; sleep staging; clinical research  
+**Relevant Capabilities:** Multi-channel EEG; at-home sleep staging; raw EDF output; clinical-trial deployment; validated home-sleep monitoring  
+**Relevant Work / Program:** Beacon acquired Dreem's R&D business and now deploys the former Dreem 3S technology as Waveband for research and clinical-trial use.  
+**Why It May Matter:** Represents one of the strongest existing home sleep-EEG systems with a research/clinical orientation and direct relevance to Neuro-TMR's original V1 assumptions.  
+**Potential Contribution to Phase II / Future Development:** Home EEG validation; sleep-stage comparison; future research partnership; clinical-grade wearable reference platform.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Institutional/research access appears stronger than open developer access; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate current research-access and raw-data integration possibilities  
+**Notes:** Current continuation of the Dreem research platform; important correction to older project assumptions.
+
+### OPP-126 — Brain Products + sync2brain Real-Time Closed-Loop EEG Stack
+
+**Name:** Brain Products + sync2brain Real-Time Closed-Loop EEG Stack  
+**Organization:** Brain Products / sync2brain  
+**Country:** Germany  
+**Opportunity Type:** Research-grade EEG / real-time closed-loop control platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Real-time EEG; oscillation detection; closed-loop stimulation; neural triggering  
+**Relevant Capabilities:** Low-latency EEG transfer; online oscillation detection; real-time brain-state estimation; external trigger output; research-grade acquisition  
+**Relevant Work / Program:** Existing research stack that ingests raw EEG, detects physiological state in real time, and triggers stimulation with very low latency.  
+**Why It May Matter:** Provides a direct engineering precedent for the conceptual Neuro-TMR loop: physiological signal → online analysis → decision → external intervention.  
+**Potential Contribution to Phase II / Future Development:** Closed-loop architecture reference; timing/latency benchmarking; event detection; laboratory validation platform.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Research-grade system; costs/licensing/access require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as reference implementation and potential research validation platform  
+**Notes:** Strong architectural precedent even if not a final wearable product path.
+
+### OPP-127 — Wearable Sensing DSI EEG + DSI API
+
+**Name:** DSI EEG + DSI API  
+**Organization:** Wearable Sensing  
+**Country:** United States  
+**Opportunity Type:** Dry wireless research EEG / developer API  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Mobile EEG; dry electrodes; real-time EEG; research neurotechnology  
+**Relevant Capabilities:** Python/C/C++ API; real-time EEG acquisition; configurable electrodes; dry wireless EEG; sample-level processing  
+**Relevant Work / Program:** DSI systems provide mobile research EEG together with a developer API for custom real-time software integration.  
+**Why It May Matter:** Could offer a middle ground between highly open prototype hardware and larger traditional research EEG systems.  
+**Potential Contribution to Phase II / Future Development:** Real-time EEG integration; reduced-burden experiments; custom algorithm deployment; home/mobile testing.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** API documented; commercial access and exact configuration require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Compare against OpenBCI, Bitbrain, Muse, and CGX during qualification  
+**Notes:** Strong developer access and dry-EEG flexibility.
+
+### OPP-128 — ANT Neuro eego rt / eego Research Ecosystem
+
+**Name:** eego rt / eego Research Ecosystem  
+**Organization:** ANT Neuro  
+**Country:** Netherlands / International  
+**Opportunity Type:** Research-grade real-time EEG platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** EEG; BCI; neurofeedback; real-time brain-signal acquisition  
+**Relevant Capabilities:** High-channel EEG; real-time streaming; SDK; LSL; custom acquisition and analysis; high sample rates  
+**Relevant Work / Program:** eego rt is built for real-time BCI and neurofeedback research with strong developer integration support.  
+**Why It May Matter:** Could provide a strong laboratory platform for validating Neuro-TMR algorithms under high-quality acquisition before reducing sensing complexity.  
+**Potential Contribution to Phase II / Future Development:** Reference-grade EEG validation; real-time classifier testing; custom trigger pipeline; BCI-style control architecture.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** SDK/LSL capability identified; commercial/institutional requirements need verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as high-quality validation hardware route  
+**Notes:** More suitable for rigorous research validation than consumer deployment.
+
+### OPP-129 — CGX Patch EEG + Sleep Technology / Partner Program
+
+**Name:** Patch EEG + Sleep Technology / Partner Program  
+**Organization:** CGX Systems  
+**Country:** United States  
+**Opportunity Type:** Low-channel sleep EEG / research partnership platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Forehead EEG; overnight sleep monitoring; low-channel wearable neurotechnology  
+**Relevant Capabilities:** Two-channel frontal EEG; overnight recordings; unrestricted raw EEG; sleep staging; demo programme; technology-partner route  
+**Relevant Work / Program:** Patch EEG is designed for low-burden overnight recording and CGX supports partner/demo pathways for research and integration.  
+**Why It May Matter:** Creates a practical reduced-channel sleep-EEG route that could be used after offline Path V work identifies how much information can be retained with minimal channels.  
+**Potential Contribution to Phase II / Future Development:** Reduced-channel validation; raw sleep EEG acquisition; algorithm integration; potential research partnership.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Raw access and partner/demo routes identified; exact real-time integration must be verified  
+**Status:** Discovered — unqualified  
+**Next Action:** Give special attention during hardware qualification  
+**Notes:** One of the more practical low-channel sleep-EEG discoveries.
+
+### OPP-130 — g.tec Unicorn Hybrid Black + g.Pype
+
+**Name:** Unicorn Hybrid Black + g.Pype  
+**Organization:** g.tec medical engineering  
+**Country:** Austria  
+**Opportunity Type:** Developer-oriented EEG / Python SDK platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** EEG; BCI; real-time physiological signal processing  
+**Relevant Capabilities:** Eight EEG channels; wireless acquisition; Python SDK; real-time processing; LSL integration  
+**Relevant Work / Program:** Unicorn Hybrid Black and g.Pype provide a relatively developer-friendly route into real-time EEG acquisition and custom signal-processing pipelines.  
+**Why It May Matter:** Could serve as an intermediate system between entry-level open hardware and higher-cost research-grade EEG platforms.  
+**Potential Contribution to Phase II / Future Development:** Real-time EEG development; Path V deployment; prototyping; signal-processing integration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Python SDK available; sleep suitability and licensing require later review  
+**Status:** Discovered — unqualified  
+**Next Action:** Compare with OpenBCI and Wearable Sensing during qualification  
+**Notes:** Strong developer ecosystem; less sleep-specific.
+
+### OPP-131 — Empatica EmbracePlus Research Platform
+
+**Name:** EmbracePlus Research Platform  
+**Organization:** Empatica  
+**Country:** United States / Italy / International  
+**Opportunity Type:** Multimodal physiological research wearable  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** PPG; EDA; temperature; motion; digital biomarkers  
+**Relevant Capabilities:** Raw PPG/BVP; electrodermal activity; skin temperature; motion; longitudinal physiological monitoring  
+**Relevant Work / Program:** EmbracePlus is Empatica's current research wearable platform following retirement of the E4.  
+**Why It May Matter:** Neuro-TMR may eventually benefit from peripheral signals for arousal, disturbance, autonomic state, or multimodal cue-eligibility monitoring alongside EEG.  
+**Potential Contribution to Phase II / Future Development:** Arousal monitoring; multimodal validation; peripheral-sensor comparison; hybrid EEG + autonomic studies.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** Research platform available; data/API conditions require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Path V arousal-monitoring questions during qualification  
+**Notes:** Complementary sensor platform, not a primary EEG replacement.
+
+### OPP-132 — Elemind Closed-Loop EEG Acoustic Neurotechnology
+
+**Name:** Elemind Closed-Loop EEG Acoustic Neurotechnology  
+**Organization:** Elemind  
+**Country:** United States  
+**Opportunity Type:** Closed-loop EEG + acoustic intervention platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** EEG; real-time neural-state detection; acoustic stimulation; sleep neurotechnology  
+**Relevant Capabilities:** Multi-electrode EEG; real-time signal processing; acoustic intervention; phase-specific closed-loop stimulation  
+**Relevant Work / Program:** Elemind develops wearable closed-loop neurotechnology that adapts acoustic stimulation to EEG-derived brain state and has published research relevant to phase-specific stimulation and memory.  
+**Why It May Matter:** Technically close to Neuro-TMR's eventual closed-loop auditory architecture and useful as a strategic/engineering reference.  
+**Potential Contribution to Phase II / Future Development:** Closed-loop architecture insight; potential future research/technology partnership; stimulation-method comparison.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Hardware / SDK Access:** No equivalent public SDK/research-access pathway confirmed during discovery  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as strategic partnership/reference opportunity and verify access later  
+**Notes:** Do not assume hardware or API access until explicitly confirmed.
+
+

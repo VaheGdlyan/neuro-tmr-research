@@ -995,3 +995,218 @@ Full degree programmes may be strategically important to long-term career develo
 - Generic consumer-device companies should not be added unless there is a credible mechanism for research access, integration, data access, SDK access, hardware support, or partnership.
 
 
+---
+
+## 2026-08-19 — Section 09
+
+### Search Lane
+Industry, Hardware & Technology Access
+
+### Search Focus
+- sleep-specific EEG hardware
+- wearable EEG with raw-data access
+- developer SDK / API access
+- research partnership programmes
+- real-time EEG acquisition
+- closed-loop EEG → decision → trigger architectures
+- reduced-channel sleep EEG
+- multimodal physiological monitoring
+- companies with credible pathways for integration, licensing, research collaboration, or hardware access
+
+### Research Strategy Adjustment
+The Opportunity Universe had already reached 120 entries before Section 09.
+
+Section 09 therefore used a strict mechanism-first rule:
+
+> **Do not add a company merely because it makes EEG or sleep hardware. Include only platforms with a plausible research, integration, raw-data, SDK/API, real-time, hardware-access, or strategic partnership mechanism.**
+
+### Research Limits Used
+- four bounded technical lanes:
+  1. sleep-specific / wearable EEG
+  2. developer-accessible EEG platforms
+  3. research-grade real-time / closed-loop systems
+  4. complementary physiological and acoustic neurotechnology
+- final count: 12 opportunities
+- stopped when additional vendors became technically redundant or lacked a credible access/integration pathway
+- no device purchase, final hardware selection, SDK licensing decision, or outreach performed
+
+### Sources Explored
+- official manufacturer product pages
+- official SDK / developer documentation
+- official research-partnership pages
+- official technical documentation
+- company research / clinical-trial pages
+- public hardware specifications
+- public integration and partner-program information
+
+### Opportunities Added
+- OPP-121 — Earable Neuroscience / FRENZ Research & B2B Partnership
+- OPP-122 — InteraXon / Muse Research Partnership + Muse SDK
+- OPP-123 — OpenBCI Cyton / Ganglion Open Hardware Ecosystem
+- OPP-124 — Bitbrain Ikon Sleep + SDK Ecosystem
+- OPP-125 — Beacon Biosignals Waveband (formerly Dreem 3S)
+- OPP-126 — Brain Products + sync2brain Real-Time Closed-Loop EEG Stack
+- OPP-127 — Wearable Sensing DSI EEG + DSI API
+- OPP-128 — ANT Neuro eego rt / eego Research Ecosystem
+- OPP-129 — CGX Patch EEG + Sleep Technology / Partner Program
+- OPP-130 — g.tec Unicorn Hybrid Black + g.Pype
+- OPP-131 — Empatica EmbracePlus Research Platform
+- OPP-132 — Elemind Closed-Loop EEG Acoustic Neurotechnology
+
+### Interesting Patterns
+- Section 09 reveals at least four different technical development pathways rather than one obvious "best EEG device."
+
+#### Open Engineering Prototype
+- OpenBCI
+- strong raw access
+- high developer freedom
+- useful for algorithm/control prototyping
+
+#### Wearable / Consumer Integration
+- Muse
+- FRENZ
+- lower-burden hardware
+- explicit SDK or research partnership mechanisms
+
+#### Research-Grade Validation
+- ANT Neuro
+- Brain Products / sync2brain
+- Wearable Sensing
+- higher-quality acquisition and stronger real-time control
+
+#### Reduced-Channel Sleep EEG
+- Bitbrain Ikon Sleep
+- CGX Patch EEG
+- Beacon Waveband
+- potential pathway toward validating how much EEG information is actually necessary
+
+- FRENZ is unusually close to Neuro-TMR because its public research/business pathway combines:
+  - real-time biosignals
+  - raw data
+  - API access
+  - personalized audio
+  - joint R&D
+  - research hardware
+- CGX Patch EEG provides a potentially practical low-channel overnight EEG route with raw access.
+- Brain Products + sync2brain provides a strong reference architecture for:
+  - EEG acquisition
+  - real-time brain-state detection
+  - low-latency trigger generation
+  - closed-loop intervention
+- Bitbrain creates a particularly useful ecosystem because Section 05 already identified the BOAS simultaneous PSG + wearable EEG dataset, while Section 09 identifies compatible sleep hardware and SDK capability.
+- Empatica is more relevant as a **complementary peripheral physiological layer** than as the main TMR sleep-state sensor.
+- Elemind demonstrates that commercial closed-loop EEG + acoustic neurotechnology is already technically possible, but public external-access mechanisms remain unclear.
+
+### Important Current-State Corrections
+- The former Dreem research platform should now be treated through **Beacon Biosignals / Waveband**, not as a standalone current Dreem collaboration target.
+- Empatica E4 has been retired; the current Empatica research platform is **EmbracePlus**.
+
+These updates should be respected during later hardware qualification and outreach.
+
+### Cross-Section Relationships
+- OPP-124 Bitbrain should be cross-referenced with **OPP-075 BOAS** from Section 05.
+- Section 02 opportunities such as:
+  - ETH SleepLoopFM
+  - Aarhus Ear-EEG
+  - mobile EEG / wearable bioelectronics groups
+  may provide methodological collaboration around Section 09 hardware.
+- Section 01 sleep/TMR laboratories may eventually help determine whether a given hardware platform preserves the physiology required for valid TMR.
+- Section 05 datasets should be used before hardware purchase where possible to test reduced-channel assumptions computationally.
+- Section 06 / 07 funding opportunities may later support research-device acquisition or experimental validation if scientifically justified.
+
+### Preliminary Hardware Development Ladder
+
+A discovery-stage hardware ladder became visible:
+
+#### Stage 1 — Offline Validation
+- public PSG / wearable datasets from Section 05
+
+#### Stage 2 — Open / Developer Prototype
+- OpenBCI
+- Muse
+- g.tec
+- Wearable Sensing
+
+#### Stage 3 — Sleep-Specific Reduced Hardware
+- CGX Patch EEG
+- Bitbrain Ikon Sleep
+- Beacon Waveband
+- FRENZ
+
+#### Stage 4 — Research-Grade Closed-Loop Validation
+- ANT Neuro
+- Brain Products + sync2brain
+
+#### Stage 5 — Multimodal / Advanced Closed-Loop Exploration
+- Empatica alongside EEG
+- Elemind-style closed-loop acoustic architecture
+
+This ladder is only a discovery-stage conceptual model and is **not a final V1 hardware roadmap**.
+
+### Particularly Important Opportunities for Later Qualification
+Without formal ranking yet, these deserve especially careful review later:
+
+- OPP-121 — FRENZ
+- OPP-124 — Bitbrain Ikon Sleep
+- OPP-125 — Beacon Waveband
+- OPP-126 — Brain Products + sync2brain
+- OPP-129 — CGX Patch EEG
+
+Reasons include direct sleep relevance, raw-data access, SDK integration, validated wearable use, or unusually close closed-loop architecture.
+
+This is **not yet a purchase or outreach decision**.
+
+### Important Qualification Requirements
+Later qualification should verify for each opportunity:
+
+- exact EEG channels and placement
+- sampling rate
+- raw EEG availability
+- real-time streaming availability
+- SDK / API language support
+- local vs cloud processing
+- latency
+- timestamp accuracy
+- LSL compatibility
+- ability to trigger external audio
+- overnight battery duration
+- comfort / sleep suitability
+- impedance / signal-quality monitoring
+- device cost
+- research pricing
+- shipping to Armenia
+- licensing restrictions
+- commercial-use restrictions
+- data ownership
+- privacy requirements
+- research partnership availability
+- whether custom algorithms can run in real time
+- whether vendor sleep-stage outputs can be bypassed
+- validation against PSG
+- current company/product status
+
+### Opportunities Deliberately Excluded
+Section 09 did not expand into:
+
+- generic consumer sleep trackers without meaningful research/developer access
+- EEG companies with no raw-data or integration pathway
+- redundant clinical amplifiers
+- generic headphones
+- unrelated stimulation hardware
+- PPG devices already adequately represented elsewhere
+- hardware vendors whose value was only product availability rather than research capability
+
+### New Search Directions
+- Section 10 should focus on **Networks, Events & Second-Order Opportunities**.
+- Because the Opportunity Universe now contains 132 entries, Section 10 should remain selective and focus on mechanisms that can multiply opportunities rather than simply adding more contacts.
+- High-value Section 10 targets should include:
+  - neuroscience societies
+  - sleep societies
+  - TMR / memory networks
+  - neurotechnology conferences
+  - brain-health consortia
+  - Armenian scientific networks
+  - industry/research events
+  - organizations capable of introductions, visibility, collaboration discovery, or funding discovery
+
+
