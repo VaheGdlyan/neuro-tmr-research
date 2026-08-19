@@ -1448,3 +1448,252 @@ Later qualification should determine for each network/event:
 - Generic legal organizations or broad ethics resources should not be added unless they create a concrete pathway for Neuro-TMR research.
 
 
+---
+
+## 2026-08-19 — Section 11
+
+### Search Lane
+Research Governance, Ethics & Institutional Enablement
+
+### Search Focus
+- Armenian institutional ethics / IRB pathways
+- Armenian scientific-governance structures
+- medical-device clinical-investigation pathways
+- personal-data and health-data governance
+- research data-management infrastructure
+- preregistration and research-integrity mechanisms
+- public clinical-study registration
+- multi-site international human-research governance
+- U.S.-linked institutional assurance / IRB reliance
+- independent ethics-review infrastructure
+
+### Research Strategy Adjustment
+The Opportunity Universe had already reached 145 entries before Section 11.
+
+Section 11 therefore used an enablement-first rule:
+
+> **Include only mechanisms that could materially enable legitimate future Neuro-TMR human research, institutional hosting, data governance, or multi-site collaboration.**
+
+The goal was not to create a general regulatory encyclopedia.
+
+### Research Limits Used
+- four bounded lanes:
+  1. Armenian ethics / institutional governance
+  2. Armenian regulatory and data-governance pathways
+  3. research-integrity / data infrastructure
+  4. international human-research enablement
+- final count: 12 opportunities
+- stopped once the major governance layers were represented
+- no IRB submission, regulatory classification, human-study protocol, or legal determination performed
+
+### Sources Explored
+- Yerevan State Medical University
+- American University of Armenia
+- Armenian Ministry of Health / relevant medical-device structures
+- Republic of Armenia personal-data protection framework
+- REDCap
+- Open Science Framework
+- ClinicalTrials.gov
+- SMART IRB
+- U.S. Office for Human Research Protections
+- WCG
+- official governance / institutional documentation
+
+### Opportunities Added
+- OPP-146 — YSMU Ethics Committee
+- OPP-147 — AUA Institutional Review Boards
+- OPP-148 — AUA Office of Sponsored Programs & Technology Transfer
+- OPP-149 — YSMU Science Coordination Council
+- OPP-150 — Armenian Medical-Device Clinical Investigation Regulatory Pathway
+- OPP-151 — Republic of Armenia Personal Data Protection Agency
+- OPP-152 — REDCap Consortium / Secure Research Data Infrastructure
+- OPP-153 — OSF Registrations / EEG-ERP Methods Preregistration
+- OPP-154 — ClinicalTrials.gov Protocol Registration and Results System
+- OPP-155 — SMART IRB
+- OPP-156 — OHRP Federalwide Assurance Pathway
+- OPP-157 — WCG Independent IRB / Research Ethics Support
+
+### Interesting Patterns
+- Human validation requires an **institutional layer between working code and participant recruitment**.
+- A defensible human-study pathway would likely involve:
+  - scientific collaborator / responsible investigator
+  - institutional host
+  - study protocol
+  - statistical / analysis plan
+  - ethics approval
+  - informed consent
+  - participant-protection procedures
+  - data-management and privacy plan
+  - preregistration / study registration where appropriate
+  - only then participant recruitment and experimentation
+- Armenian institutions already contain meaningful research-governance infrastructure rather than requiring Neuro-TMR to invent these structures from zero.
+- YSMU is especially notable because Section 03 already identified:
+  - neuroscience capability
+  - neurology / clinical infrastructure
+  - COBRAIN
+  while Section 11 adds:
+  - Ethics Committee
+  - Science Coordination Council
+- AUA presents a different institutional configuration:
+  - technical / computational researchers
+  - IRB infrastructure
+  - Sponsored Programs
+  - Technology Transfer / IP support
+- AUA's IRB scope should not be assumed to cover future medical-device clinical trials; study type and institutional rules matter.
+- Medical-device regulatory pathways become relevant only if the eventual Neuro-TMR intended purpose, claims, software/device architecture, and human study require them.
+- Data governance becomes increasingly important under international collaboration because EEG, sleep, behavioral, and health-related data may cross institutional and national boundaries.
+- OSF preregistration may provide unusually high scientific value at low operational cost by making future confirmatory studies more transparent.
+- International collaboration requires more than scientific agreement between researchers; institutional compatibility can involve:
+  - IRB reliance
+  - institutional assurances
+  - data-sharing agreements
+  - funding compliance
+  - local regulatory requirements
+
+### Preliminary Governance Stack
+
+#### Scientific Governance
+- YSMU Science Coordination Council
+- institutional scientific leadership / host structure
+
+#### Human-Participant Protection
+- YSMU Ethics Committee
+- AUA IRB where appropriate
+
+#### National Regulatory Oversight
+- Armenian medical-device clinical-investigation pathway when applicable
+
+#### Data Governance
+- Armenian Personal Data Protection framework
+- institutional data policy
+- REDCap-type secure research infrastructure
+
+#### Research Transparency
+- OSF preregistration
+
+#### Public Clinical-Study Registration
+- ClinicalTrials.gov when applicable
+
+#### International Multi-Site Compatibility
+- SMART IRB
+- OHRP Federalwide Assurance
+
+#### Independent / Central Ethics Review
+- WCG or equivalent mechanism when appropriate
+
+This is a **discovery-stage governance model only** and is not a finalized human-research pathway.
+
+### Preliminary Human Validation Sequence
+A discovery-stage sequence became visible:
+
+**Offline public-data validation**
+
+↓
+
+**Scientific collaborator / supervisor**
+
+↓
+
+**Institutional host**
+
+↓
+
+**Protocol + statistical plan**
+
+↓
+
+**Ethics review**
+
+↓
+
+**Participant information + informed consent**
+
+↓
+
+**Data-management / privacy plan**
+
+↓
+
+**Equipment / regulatory review where applicable**
+
+↓
+
+**Preregistration / study registration**
+
+↓
+
+**Participant recruitment**
+
+↓
+
+**Human study execution**
+
+This sequence is conceptual and must later be adapted to the actual study type and jurisdiction.
+
+### Cross-Section Relationships
+- OPP-146 and OPP-149 strengthen the institutional value of YSMU opportunities from Section 03.
+- OPP-147 and OPP-148 strengthen the institutional value of AUA opportunities from Section 03.
+- Section 01 / 04 international collaborators may later create multi-institution governance requirements.
+- Section 05 public datasets allow substantial validation before entering human-participant governance.
+- Section 06 / 07 funding opportunities may require formal institutional compliance and research administration.
+- Section 09 hardware choices may influence whether future studies remain academic research or enter medical-device / regulated validation pathways.
+
+### Important Qualification Requirements
+Later qualification should determine:
+
+- which Armenian institutions can legally sponsor / host the study
+- whether the responsible investigator must be faculty / physician / institutionally employed
+- which ethics committee has jurisdiction
+- whether the study is observational, behavioral, biomedical, or interventional
+- whether the EEG/audio system qualifies as a medical device under the intended use
+- whether medical-device clinical-investigation rules apply
+- participant age restrictions
+- informed-consent requirements
+- data-retention requirements
+- cross-border data-transfer rules
+- cloud-processing restrictions
+- health / biometric data classification
+- cybersecurity expectations
+- adverse-event / arousal monitoring requirements
+- insurance or sponsor obligations
+- public study-registration requirements
+- preregistration strategy
+- U.S. FWA / single-IRB requirements if U.S. federal collaborators/funding become involved
+
+### Opportunities Deliberately Excluded
+Section 11 did not assign separate opportunity IDs to general standards or ethical frameworks such as:
+
+- Declaration of Helsinki
+- Belmont Report
+- CIOMS Guidelines
+- ICH-GCP
+- GDPR
+- ISO 14155
+- EU MDR
+- generic cybersecurity frameworks
+
+These may become **requirements or reference frameworks** for a future protocol but are not distinct Path E opportunities by themselves.
+
+The section also avoided:
+- generic law firms
+- dozens of university IRBs
+- duplicate commercial IRB providers
+- broad ethics organizations without a concrete enablement pathway
+
+### New Search Directions
+- Section 12 should focus on **Future-Horizon Strategic Opportunities**.
+- Because the Opportunity Universe now reaches 157 entries, Section 12 should be the most selective section in the entire discovery phase.
+- Section 12 should include only opportunities that could materially alter the long-term Neuro-TMR trajectory but do not naturally belong in Sections 01–11.
+- Potential categories may include:
+  - next-generation sensing
+  - foundation models for physiological signals
+  - adaptive closed-loop AI
+  - emerging non-EEG neurotechnology
+  - advanced sleep interfaces
+  - future regulatory / clinical infrastructure
+  - large-scale brain-data initiatives
+  - platform technologies not yet mature enough for immediate use
+  - strategically important scientific directions that could redefine V2/V3
+- The purpose should not be speculation for its own sake. Every Section 12 entry should have a plausible mechanism for future Neuro-TMR relevance.
+
+
