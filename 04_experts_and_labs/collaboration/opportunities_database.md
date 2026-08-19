@@ -2116,3 +2116,327 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Notes:** Treat as a funding ecosystem rather than one specific grant.
 
 
+## 07 — Armenian Funding & National Support
+
+> Discovery status: **Section 07 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or selected for application**.
+>
+> Section 07 captures Armenian national research grants, science-capacity programmes, translational R&D support, infrastructure funding, compute support, innovation grants, and startup-development mechanisms that could potentially support Neuro-TMR at different stages.
+
+### OPP-094 — Young Scientific Groups Formation & Research Promotion 2026
+
+**Name:** Young Scientific Groups Formation & Research Promotion 2026  
+**Organization:** Higher Education and Science Committee / Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** Young-researcher scientific grant  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** All scientific fields; young research-team formation  
+**Relevant Capabilities:** Early research-team funding; scientific project support; young-researcher development  
+**Relevant Work / Program:** Armenian national competition supporting newly formed young scientific teams and research projects.  
+**Why It May Matter:** Could eventually support formation of an early Armenia-based Neuro-TMR research team if the project becomes institutionally hosted and eligibility conditions are satisfied.  
+**Potential Contribution to Phase II / Future Development:** Pilot research; small-team formation; initial validation work; early institutional research activity.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires later verification of age, affiliation, institutional, and team requirements  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for later funding qualification  
+**Notes:** Potentially relevant to an early Armenian academic research-team pathway.
+
+### OPP-095 — Remote Laboratories 2026
+
+**Name:** Remote Laboratories 2026  
+**Organization:** Higher Education and Science Committee / Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** International scientific-capacity / laboratory-building programme  
+**Global / Armenia / Diaspora:** Armenia + International  
+**Research Area:** Advanced scientific research; international scientific integration  
+**Relevant Capabilities:** Foreign scientific leadership; Armenia-based laboratory development; young-researcher integration; international knowledge transfer  
+**Relevant Work / Program:** Supports creation or strengthening of laboratories in Armenia under involvement of international scientific leaders and Armenia-based research teams.  
+**Why It May Matter:** Could provide a formal structure for building an Armenia-based Neuro-TMR research direction together with international sleep/neuroscience/neurotechnology collaborators.  
+**Potential Contribution to Phase II / Future Development:** Laboratory formation; scientific mentorship; international collaboration; local team development; experimental infrastructure.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires institutional and scientific-team configuration; verify future calls  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later institutional/consortium qualification  
+**Notes:** One of the strongest Armenian mechanisms for converting diaspora/global expertise into local research capacity.
+
+### OPP-096 — Integration of Foreign Scientists into the Scientific Community of Armenia
+
+**Name:** Integration of Foreign Scientists into the Scientific Community of Armenia  
+**Organization:** Higher Education and Science Committee / Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** International scientist integration programme  
+**Global / Armenia / Diaspora:** Armenia + International / Diaspora  
+**Research Area:** Scientific capacity building; international collaboration  
+**Relevant Capabilities:** Foreign PI integration; new research-direction formation; Armenian institutional research teams; scientific knowledge transfer  
+**Relevant Work / Program:** Supports Armenia-based research activity led or strongly guided by scientists working abroad.  
+**Why It May Matter:** Could create a direct mechanism for involving a Path A or Path E international expert in developing an Armenia-based Neuro-TMR research line.  
+**Potential Contribution to Phase II / Future Development:** International scientific leadership; local research-group development; mentorship; experimental programme creation.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires qualified international scientist and Armenian host structure  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for later expert + host matching  
+**Notes:** Strong example of how Path A, Path E, and Armenian institutional opportunities could converge.
+
+### OPP-097 — Experimental Development Projects
+
+**Name:** Experimental Development Projects  
+**Organization:** Armenian state science-support ecosystem  
+**Country:** Armenia  
+**Opportunity Type:** Translational R&D grant  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Experimental development; technology creation; applied research  
+**Relevant Capabilities:** Prototype development; TRL advancement; industry-research cooperation; applied technology validation  
+**Relevant Work / Program:** Supports creation or improvement of technologies, products, services, systems, and methods through research and experimental development.  
+**Why It May Matter:** Could become highly relevant once Neuro-TMR progresses from scientific validation toward a concrete working neurotechnology prototype.  
+**Potential Contribution to Phase II / Future Development:** Prototype development; technology maturation; experimental validation; research-industry collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Institutional and private-sector participation requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as science-to-technology pathway  
+**Notes:** Strong translation-stage opportunity rather than immediate research funding.
+
+### OPP-098 — Targeted Programs
+
+**Name:** Targeted Programs  
+**Organization:** Higher Education and Science Committee / Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** State-priority scientific research funding  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Strategic national scientific and technological priorities  
+**Relevant Capabilities:** Research-team funding; state-priority research; institutional scientific projects  
+**Relevant Work / Program:** Supports research addressing concrete strategic problems identified by Armenian state bodies, including health and high-technology areas.  
+**Why It May Matter:** Neuro-TMR could potentially become relevant if its future scientific or technological goals align with an explicit Armenian health, neurotechnology, or high-tech priority.  
+**Potential Contribution to Phase II / Future Development:** Applied scientific research; national validation programme; institutionally hosted research.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires eligible Armenian research organization and alignment with specific call priorities  
+**Status:** Discovered — unqualified  
+**Next Action:** Monitor future calls during qualification  
+**Notes:** Relevance depends strongly on future state-defined themes.
+
+### OPP-099 — Research Support Program for PhD Students & Young Applicants
+
+**Name:** Research Support Program for PhD Students & Young Applicants  
+**Organization:** Armenian national science-support ecosystem  
+**Country:** Armenia  
+**Opportunity Type:** Young-researcher / doctoral research funding  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Academic research across scientific disciplines  
+**Relevant Capabilities:** Research expenses; researcher support; scientific travel; materials/equipment support depending on call  
+**Relevant Work / Program:** Supports postgraduate and young researchers conducting research in Armenia.  
+**Why It May Matter:** Could become relevant if Neuro-TMR evolves into a formal postgraduate or early-career academic research direction.  
+**Potential Contribution to Phase II / Future Development:** Individual researcher support; experiments; research materials; academic development.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires future academic/career-stage eligibility  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as future researcher-development mechanism  
+**Notes:** More career-stage dependent than project-stage dependent.
+
+### OPP-100 — State Scientific Equipment Re-Equipment Programme
+
+**Name:** State Scientific Equipment Re-Equipment Programme  
+**Organization:** Republic of Armenia scientific funding system  
+**Country:** Armenia  
+**Opportunity Type:** Research infrastructure / equipment support  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Scientific infrastructure; laboratory modernization  
+**Relevant Capabilities:** Research-equipment acquisition; institutional laboratory modernization; experimental-capacity development  
+**Relevant Work / Program:** State programme supporting universities and scientific organizations in acquiring significant research equipment.  
+**Why It May Matter:** Through an Armenian institutional partner, this could potentially support acquisition of EEG, PSG, neurophysiology, sensing, or other equipment relevant to a future Neuro-TMR laboratory.  
+**Potential Contribution to Phase II / Future Development:** EEG/PSG equipment; experimental infrastructure; laboratory capacity.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Primarily institution-based; requires host organization  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Section 03 institutional opportunities during later qualification  
+**Notes:** Non-project funding with potentially major infrastructure value.
+
+### OPP-101 — ADVANCE Research Grants
+
+**Name:** ADVANCE Research Grants  
+**Organization:** FAST Foundation / Higher Education and Science Committee ecosystem  
+**Country:** Armenia  
+**Opportunity Type:** International PI-led research-group funding  
+**Global / Armenia / Diaspora:** Armenia + International  
+**Research Area:** Advanced research; international scientific collaboration  
+**Relevant Capabilities:** Distinguished international PI involvement; research-group creation; travel; research materials; publications; long-term scientific capacity building  
+**Relevant Work / Program:** Supports Armenia-based research groups operating under internationally established scientific leadership.  
+**Why It May Matter:** Closely matches Neuro-TMR's Path E co-creation model: a strong international expert combined with an Armenia-based research team and institutional environment.  
+**Potential Contribution to Phase II / Future Development:** Research-team formation; international mentorship; experiments; publication; scientific-network development.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Programme structure and future rounds require verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later international-PI collaboration qualification  
+**Notes:** One of the strongest conceptual matches to the Path E strategy.
+
+### OPP-102 — ANSEF Yervant Terzian Research Grants
+
+**Name:** ANSEF Yervant Terzian Research Grants  
+**Organization:** Armenian National Science & Education Fund (ANSEF)  
+**Country:** Armenia / Diaspora-supported  
+**Opportunity Type:** Small scientific research grant  
+**Global / Armenia / Diaspora:** Armenia + Diaspora support  
+**Research Area:** Scientific research across disciplines  
+**Relevant Capabilities:** Early-stage research funding; researcher stipends; support for graduate students, postdocs, and early-career researchers  
+**Relevant Work / Program:** Annual research grants supporting scientists conducting research in Armenia, with emphasis on younger researchers.  
+**Why It May Matter:** Smaller than state programmes but potentially suitable for focused early-stage research or validation work.  
+**Potential Contribution to Phase II / Future Development:** Pilot study support; researcher stipends; initial experimental work.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires later verification of applicant and institutional conditions  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for later accessibility evaluation  
+**Notes:** Potentially useful because smaller grants may be more realistic at an earlier maturity level.
+
+### OPP-103 — “From Idea to Business” — Idea Stage Grant
+
+**Name:** From Idea to Business — Idea Stage Grant  
+**Organization:** Ministry of High-Tech Industry of the Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** Early-stage technology startup grant  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Technology innovation; startup development  
+**Relevant Capabilities:** Prototype/idea-stage funding; company development; early commercialization support  
+**Relevant Work / Program:** Grant competition supporting Armenian technology companies at an early idea-development stage.  
+**Why It May Matter:** Could become relevant only after Neuro-TMR has crossed the scientific validation gate and has a justified technology-company direction.  
+**Potential Contribution to Phase II / Future Development:** Prototype development; company formation; early product work.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires eligible Armenian legal entity/company  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as post-validation startup pathway  
+**Notes:** Must not be used to prematurely push the project into commercialization.
+
+### OPP-104 — Artificial Intelligence Virtual Institute / HPC State Support
+
+**Name:** Artificial Intelligence Virtual Institute / HPC State Support  
+**Organization:** Ministry of High-Tech Industry of the Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** Compute / technical infrastructure support  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Artificial intelligence; high-performance computing; advanced computing  
+**Relevant Capabilities:** HPC access; cloud computing; AI experimentation; research-compute infrastructure  
+**Relevant Work / Program:** Armenian state-backed initiative providing AI computing resources and expanding national high-performance computing capacity.  
+**Why It May Matter:** Path V sleep-stage classification and later EEG/deep-learning experiments could require substantial compute without requiring Neuro-TMR to purchase hardware.  
+**Potential Contribution to Phase II / Future Development:** Model training; signal-processing workloads; reproducible experimentation; future deep-learning research.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Access rules and project eligibility require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate during Path V infrastructure qualification  
+**Notes:** Important example of non-cash national support.
+
+### OPP-105 — High-Tech Sector State Support
+
+**Name:** High-Tech Sector State Support  
+**Organization:** Ministry of High-Tech Industry of the Republic of Armenia  
+**Country:** Armenia  
+**Opportunity Type:** Company workforce / tax-linked support  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** High-tech industry development  
+**Relevant Capabilities:** Workforce subsidies; professional training support; talent attraction  
+**Relevant Work / Program:** State support mechanism for qualifying Armenian high-tech companies, including reimbursement linked to employment and training.  
+**Why It May Matter:** Could reduce personnel-development costs if Neuro-TMR eventually becomes an Armenia-based neurotechnology company with a technical team.  
+**Potential Contribution to Phase II / Future Development:** Hiring; training; workforce expansion; company scaling.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires qualifying Armenian high-tech business activity  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for future company-stage qualification  
+**Notes:** Not relevant to the current independent research stage.
+
+### OPP-106 — Tax Privileges for Qualified R&D Programs
+
+**Name:** Tax Privileges for Qualified R&D Programs  
+**Organization:** Republic of Armenia / Ministry of High-Tech Industry  
+**Country:** Armenia  
+**Opportunity Type:** R&D fiscal support  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Scientific research and experimental development  
+**Relevant Capabilities:** Reduced R&D operating costs; fiscal support for qualified research activities  
+**Relevant Work / Program:** Provides tax privileges to qualifying Armenian resident taxpayers carrying out formally recognized R&D activity.  
+**Why It May Matter:** Could support long-term sustainability of an Armenia-based Neuro-TMR R&D organization or company.  
+**Potential Contribution to Phase II / Future Development:** Reduced R&D costs; formal research-program support; company sustainability.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires formal R&D qualification and eligible Armenian entity  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later legal/company-stage qualification  
+**Notes:** Fiscal mechanism rather than direct research funding.
+
+### OPP-107 — “100 Ideas for Armenia” 2026
+
+**Name:** 100 Ideas for Armenia 2026  
+**Organization:** Republic of Armenia educational/scientific innovation ecosystem  
+**Country:** Armenia  
+**Opportunity Type:** Youth innovation competition  
+**Global / Armenia / Diaspora:** Armenia + Diaspora  
+**Research Area:** Innovation; science; technology; biomedical and neuropsychological themes  
+**Relevant Capabilities:** Youth innovation support; recognition; modest project funding; national visibility  
+**Relevant Work / Program:** National competition for young applicants from Armenia and the diaspora across multiple scientific and innovation categories.  
+**Why It May Matter:** Neuro-TMR could conceptually align with biomedical, healthcare, or neuropsychological innovation themes, depending on future competition framing.  
+**Potential Contribution to Phase II / Future Development:** Early recognition; small-scale funding; visibility; ecosystem entry.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Age and proposal conditions require qualification before action  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for later actionability review  
+**Notes:** Time-sensitive competition but should not interrupt scientific priorities without qualification.
+
+### OPP-108 — EIF Impact Acceleration Program
+
+**Name:** EIF Impact Acceleration Program  
+**Organization:** Enterprise Incubator Foundation (EIF)  
+**Country:** Armenia  
+**Opportunity Type:** Technology acceleration / investment pathway  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Deep tech; advanced sensing; technology startups  
+**Relevant Capabilities:** Acceleration; Engineering City access; business support; potential equity investment  
+**Relevant Work / Program:** Armenia-based acceleration pathway supporting technology startups with technical/business assistance and potential investment.  
+**Why It May Matter:** If Neuro-TMR eventually reaches a validated prototype and company stage, this could combine local technical infrastructure, commercialization support, and financing.  
+**Potential Contribution to Phase II / Future Development:** Prototype maturation; commercialization; infrastructure access; startup investment.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires startup/prototype maturity and programme-specific eligibility  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for post-validation company-stage qualification  
+**Notes:** Relevant later; should not substitute for scientific validation.
+
+
