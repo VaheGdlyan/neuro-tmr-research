@@ -624,3 +624,169 @@ No funding opportunity should be pursued simply because it offers a large amount
 * Section 08 should separately investigate fellowships, placements, research programmes, and structured opportunities for individual researcher development.
 
 
+---
+
+## 2026-08-19 — Section 07
+
+### Search Lane
+Armenian Funding & National Support
+
+### Search Focus
+- Armenian national scientific grants
+- young-researcher and research-team support
+- international-scientist integration into Armenia
+- laboratory and scientific-equipment programmes
+- science-to-technology / experimental-development funding
+- national AI and high-performance-computing support
+- early-stage innovation and startup grants
+- R&D fiscal support and technology-acceleration mechanisms
+
+### Research Limits Used
+- 4 bounded search lanes:
+  1. national scientific research funding
+  2. laboratory / infrastructure / international-scientist integration
+  3. science-to-technology and experimental-development support
+  4. innovation, compute, startup, and company-stage support
+- target: approximately 15 strategically distinct opportunities
+- final count: 15 opportunities
+- avoided duplicating programmes better suited to Section 08 or Section 10
+- no application recommendation, eligibility conclusion, host selection, or funding strategy finalized
+
+### Sources Explored
+- Higher Education and Science Committee
+- Ministry of Education, Science, Culture and Sport
+- Ministry of High-Tech Industry
+- FAST Foundation
+- ANSEF
+- Enterprise Incubator Foundation
+- official Armenian university / programme announcement pages where relevant
+- official national programme documentation
+
+### Opportunities Added
+- OPP-094 — Young Scientific Groups Formation & Research Promotion
+- OPP-095 — Remote Laboratories
+- OPP-096 — Integration of Foreign Scientists into the Scientific Community of Armenia
+- OPP-097 — Experimental Development Projects
+- OPP-098 — Targeted Programs
+- OPP-099 — Research Support Program for PhD Students & Young Applicants
+- OPP-100 — State Scientific Equipment Re-Equipment Programme
+- OPP-101 — ADVANCE Research Grants
+- OPP-102 — ANSEF Yervant Terzian Research Grants
+- OPP-103 — From Idea to Business — Idea Stage Grant
+- OPP-104 — Artificial Intelligence Virtual Institute / HPC State Support
+- OPP-105 — High-Tech Sector State Support
+- OPP-106 — Tax Privileges for Qualified R&D Programs
+- OPP-107 — 100 Ideas for Armenia
+- OPP-108 — EIF Impact Acceleration Program
+
+### Interesting Patterns
+- Armenian national support is not limited to small grants; it covers several distinct development layers:
+  - scientific research
+  - international scientist integration
+  - laboratory and infrastructure development
+  - experimental R&D
+  - compute support
+  - startup creation
+  - company-scale support
+- Several programmes explicitly create mechanisms for bringing international or diaspora scientific leadership into Armenia.
+- This makes Section 07 strongly complementary to:
+  - Section 01 global scientific collaborators
+  - Section 03 Armenian scientific institutions
+  - Section 04 diaspora scientific bridges
+- A possible future structure is:
+  - international expert / PI
+  - Armenian host institution
+  - Armenian national funding programme
+  - local young research team
+- Remote Laboratories, Foreign Scientist Integration, and ADVANCE are especially relevant to this co-creation model.
+- Experimental Development Projects could become important after scientific validation when Neuro-TMR needs to advance a prototype toward higher TRL.
+- Scientific-equipment funding may be strategically valuable because access to EEG / PSG / neurotechnology equipment could potentially come through an Armenian host institution rather than direct project purchase.
+- AI Virtual Institute / HPC support shows that national support can also be non-cash infrastructure rather than grants.
+- Startup grants, tax privileges, workforce support, and EIF acceleration should remain downstream of scientific validation.
+- Armenian funding should therefore be mapped by **development stage**, not simply by available money.
+
+### Preliminary Armenian Development Ladder
+
+#### Early Scientific Research
+- Young Scientific Groups
+- ANSEF Research Grants
+- PhD / Young Researcher Support
+
+#### International Scientific Co-Creation
+- Remote Laboratories
+- Integration of Foreign Scientists
+- ADVANCE Research Grants
+
+#### Institutional / Infrastructure Development
+- State Scientific Equipment Re-Equipment Programme
+- Targeted Programs
+
+#### Scientific Result → Technology
+- Experimental Development Projects
+- AI Virtual Institute / HPC access
+
+#### Early Innovation / Company Formation
+- 100 Ideas for Armenia
+- From Idea to Business
+
+#### Company / Scale Stage
+- High-Tech Sector State Support
+- R&D Tax Privileges
+- EIF Impact Acceleration Program
+
+This ladder is a **discovery-stage conceptual model only** and does not imply eligibility or recommended sequencing.
+
+### Cross-Track Implications
+- Section 03 Armenian universities and institutes may eventually serve as host organizations for several Section 07 programmes.
+- Section 04 diaspora researchers may potentially fit programmes designed to integrate foreign scientific leadership into Armenia.
+- Section 01 and Section 02 global researchers/labs could potentially participate in international-PI or laboratory-building pathways.
+- Section 05 datasets and Path V results may provide preliminary evidence needed before pursuing experimental-development or larger research funding.
+- Section 06 international funding and Section 07 national funding may eventually be complementary rather than competing pathways.
+
+### Opportunities Deliberately Deferred to Other Sections
+The following types were not fully included here because they fit better under Section 08:
+
+- PostDoc-Armenia
+- academic mobility programmes
+- professional scientific training
+- international placement programmes
+- structured fellowships
+- researcher exchange schemes
+
+General innovation networks, events, and professional communities should remain for Section 10.
+
+### Important Qualification Requirement
+Later funding qualification should determine for each Armenian opportunity:
+
+- current or recurring status
+- deadline / cycle
+- age requirements
+- Armenian citizenship / residency requirements
+- institutional affiliation requirements
+- host institution requirements
+- PI requirements
+- team-size rules
+- funding amount
+- eligible costs
+- private-sector co-funding requirements
+- TRL requirements
+- whether a company is required
+- whether an academic research organization is required
+- relevance to the actual Neuro-TMR stage
+
+No opportunity should be pursued simply because it is locally available.
+
+### New Search Directions
+- Section 08 should now focus on **Fellowships, Placements & Research Programs**.
+- Search should emphasize opportunities that develop the researcher directly through:
+  - placements in neuroscience / sleep / neurotechnology labs
+  - structured research internships
+  - visiting-researcher programmes
+  - fellowships
+  - summer schools
+  - scientific training programmes
+  - international mobility
+  - mentorship and lab immersion
+- Section 08 should remain distinct from grant funding: the core question is not “who gives money to the project?” but “what structured programme could place the researcher inside a stronger scientific environment?”
+
+
