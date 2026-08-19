@@ -1792,3 +1792,327 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Next Action:** Hold for later qualification and Path V architecture review
 **Notes:** Infrastructure opportunity rather than one dataset.
 
+## 06 — Global Funding & Research Support
+
+> Discovery status: **Section 06 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or selected for application**.
+>
+> Section 06 captures international funding mechanisms and research-support ecosystems that could eventually enable Neuro-TMR scientific collaboration, validation, institutional development, neurotechnology translation, or large-scale growth.
+
+### OPP-079 — Horizon Europe — Cluster 1: Health
+
+**Name:** Horizon Europe — Cluster 1: Health
+**Organization:** European Commission
+**Country:** European Union / Associated Countries
+**Opportunity Type:** International collaborative research funding
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Health research; biomedical innovation; digital health; medical technologies
+**Relevant Capabilities:** Multi-institution research funding; international collaboration; health technology research; translational research support
+**Relevant Work / Program:** Horizon Europe Cluster 1 supports collaborative research and innovation addressing health, technologies, tools, and health-system challenges. Armenia is associated with Horizon Europe.
+**Why It May Matter:** Could eventually support a scientifically mature Neuro-TMR consortium involving Armenian and international research institutions.
+**Potential Contribution to Phase II / Future Development:** Collaborative research funding; validation studies; international scientific partnerships; research infrastructure and personnel support.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires later verification of specific call and institutional eligibility
+**Status:** Discovered — unqualified
+**Next Action:** Hold for funding qualification and future call monitoring
+**Notes:** Major European research ecosystem; specific calls should later be evaluated individually.
+
+### OPP-080 — European Partnership for Brain Health (EP BrainHealth)
+
+**Name:** European Partnership for Brain Health (EP BrainHealth)
+**Organization:** European brain-health research partnership
+**Country:** Europe / International consortium
+**Opportunity Type:** Brain-specific transnational research funding ecosystem
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Brain health; neuroscience; neurological and mental-health research
+**Relevant Capabilities:** Brain-specific research calls; transnational collaboration; high-risk/high-reward research; industry and societal integration
+**Relevant Work / Program:** Long-term European brain-health partnership launched in 2026 with recurring transnational funding instruments and a large multi-year research programme.
+**Why It May Matter:** One of the most thematically aligned major funding ecosystems for Neuro-TMR because the project sits directly at the intersection of neuroscience, brain health, and neurotechnology.
+**Potential Contribution to Phase II / Future Development:** Multi-country neuroscience research; validation studies; collaborative funding; future brain-health programme participation.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Specific future calls and Armenian eligibility must be verified during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Monitor future calls and evaluate consortium requirements
+**Notes:** Potentially one of the strongest long-term thematic funding ecosystems discovered.
+
+### OPP-081 — Horizon Europe WIDERA — Twinning
+
+**Name:** Horizon Europe WIDERA — Twinning
+**Organization:** European Commission / European Research Executive Agency
+**Country:** European Union / Widening and Associated Countries
+**Opportunity Type:** Institutional research-capacity funding
+**Global / Armenia / Diaspora:** Global with potential Armenian relevance
+**Research Area:** Research excellence; institutional capacity; knowledge transfer
+**Relevant Capabilities:** Institutional partnerships; knowledge transfer; networking; research-capacity building; connection to leading European institutions
+**Relevant Work / Program:** Twinning supports research institutions in Widening countries in developing structured cooperation with leading European scientific organizations.
+**Why It May Matter:** If Neuro-TMR becomes anchored within an Armenian research institution, Twinning could potentially help build a formal neuroscience/neurotechnology relationship with stronger European laboratories.
+**Potential Contribution to Phase II / Future Development:** Institutional strengthening; scientific exchange; mentorship; international collaboration; research-network creation.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires eligible institutional consortium; verify in future call
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later institutional-host evaluation
+**Notes:** More relevant after an Armenian institutional partnership exists.
+
+### OPP-082 — Horizon Europe WIDERA — Excellence Hubs
+
+**Name:** Horizon Europe WIDERA — Excellence Hubs
+**Organization:** European Commission / European Research Executive Agency
+**Country:** European Union / Widening and Associated Countries
+**Opportunity Type:** Regional research and innovation ecosystem funding
+**Global / Armenia / Diaspora:** Global with potential Armenian relevance
+**Research Area:** Research ecosystems; innovation; regional scientific capacity
+**Relevant Capabilities:** Academia-industry-government collaboration; ecosystem development; international partnership; research and innovation capacity
+**Relevant Work / Program:** Excellence Hubs support connected regional innovation ecosystems involving research, industry, government, and other stakeholders.
+**Why It May Matter:** At a mature stage, Neuro-TMR could potentially participate in a broader Armenian neurotechnology or biomedical innovation ecosystem rather than functioning as an isolated project.
+**Potential Contribution to Phase II / Future Development:** Ecosystem building; international partnerships; institutional development; regional neurotechnology capacity.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires institutional/regional consortium; verify future calls
+**Status:** Discovered — unqualified
+**Next Action:** Hold for future-horizon institutional evaluation
+**Notes:** Large-scale ecosystem opportunity rather than an immediate research grant.
+
+### OPP-083 — European Research Council Starting Grant
+
+**Name:** ERC Starting Grant
+**Organization:** European Research Council
+**Country:** European Union / Associated Countries
+**Opportunity Type:** Investigator-led frontier research funding
+**Global / Armenia / Diaspora:** Global / Horizon-associated ecosystem
+**Research Area:** Bottom-up frontier research across all fields
+**Relevant Capabilities:** Long-term PI funding; research personnel; equipment; independent research programme support
+**Relevant Work / Program:** Supports early independent principal investigators developing ambitious frontier research programmes.
+**Why It May Matter:** Could eventually provide a route for Neuro-TMR to become an independent academic research programme led by a qualified investigator.
+**Potential Contribution to Phase II / Future Development:** Multi-year neuroscience research programme; staff; equipment; experimental validation; investigator independence.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires appropriate post-PhD career stage and eligible host institution
+**Status:** Discovered — unqualified
+**Next Action:** Preserve as long-term investigator-career funding pathway
+**Notes:** Future-career opportunity, not a present application mechanism.
+
+### OPP-084 — European Research Council Synergy Grant
+
+**Name:** ERC Synergy Grant
+**Organization:** European Research Council
+**Country:** European Union / Associated Countries
+**Opportunity Type:** Large-scale multi-PI frontier research funding
+**Global / Armenia / Diaspora:** Global / Horizon-associated ecosystem
+**Research Area:** High-complexity interdisciplinary frontier research
+**Relevant Capabilities:** Multi-PI collaboration; large-scale funding; interdisciplinary science; long-term research programme support
+**Relevant Work / Program:** Supports small groups of principal investigators tackling ambitious questions requiring complementary expertise.
+**Why It May Matter:** A mature Neuro-TMR programme could potentially require precisely this combination: sleep neuroscience + memory science + neuroengineering + machine learning + human validation.
+**Potential Contribution to Phase II / Future Development:** Large multi-lab validation programme; advanced infrastructure; personnel; international interdisciplinary research.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires highly established eligible PIs and host institutions
+**Status:** Discovered — unqualified
+**Next Action:** Preserve as future large-scale academic pathway
+**Notes:** Very high future impact, very low current accessibility.
+
+### OPP-085 — Wellcome Early-Career Award
+
+**Name:** Wellcome Early-Career Award
+**Organization:** Wellcome
+**Country:** International / eligible host countries
+**Opportunity Type:** Early-career health research funding
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Health-related discovery research
+**Relevant Capabilities:** Research salary; project expenses; research-development support; investigator development
+**Relevant Work / Program:** Supports researchers developing an independent research identity through innovative health-related research.
+**Why It May Matter:** Could eventually support the transition from individual Neuro-TMR research into an independent academic research line.
+**Potential Contribution to Phase II / Future Development:** Personnel support; experiments; research tools; scientific career development.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires appropriate research training and eligible administering organization
+**Status:** Discovered — unqualified
+**Next Action:** Preserve as future investigator-development opportunity
+**Notes:** Long-term pathway rather than current funding.
+
+### OPP-086 — Wellcome Career Development Award
+
+**Name:** Wellcome Career Development Award
+**Organization:** Wellcome
+**Country:** International / eligible host countries
+**Opportunity Type:** Independent research-programme funding
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Health-related research
+**Relevant Capabilities:** Multi-year programme funding; personnel; research costs; investigator leadership development
+**Relevant Work / Program:** Supports researchers ready to lead substantial independent research programmes and develop toward international scientific leadership.
+**Why It May Matter:** Could support Neuro-TMR if it evolves into a mature independent neuroscience/neurotechnology programme.
+**Potential Contribution to Phase II / Future Development:** Experimental research; team building; equipment; scientific staff; programme expansion.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Career-stage and host-organization requirements must be met
+**Status:** Discovered — unqualified
+**Next Action:** Preserve for long-term career/funding map
+**Notes:** Later-stage investigator pathway.
+
+### OPP-087 — Wellcome Discovery Award
+
+**Name:** Wellcome Discovery Award
+**Organization:** Wellcome
+**Country:** International / eligible host countries
+**Opportunity Type:** Large-scale discovery research funding
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Bold health-related discovery science
+**Relevant Capabilities:** Large research programme funding; interdisciplinary teams; long-duration support
+**Relevant Work / Program:** Supports established researchers and teams pursuing ambitious, creative health-related discovery research.
+**Why It May Matter:** A scientifically validated Neuro-TMR research programme could eventually fit a large interdisciplinary discovery framework.
+**Potential Contribution to Phase II / Future Development:** Large-scale experimental validation; team expansion; multi-year neuroscience programme.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires established investigators and eligible host institutions
+**Status:** Discovered — unqualified
+**Next Action:** Preserve as future large-scale foundation pathway
+**Notes:** Strong future funding potential but not currently actionable.
+
+### OPP-088 — Human Frontier Science Program Research Grants
+
+**Name:** Human Frontier Science Program (HFSP) Research Grants
+**Organization:** Human Frontier Science Program
+**Country:** International
+**Opportunity Type:** International interdisciplinary research grant
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Frontier life sciences; interdisciplinary biology and neuroscience
+**Relevant Capabilities:** International teams; high-risk research; cross-disciplinary collaboration; exploratory frontier science
+**Relevant Work / Program:** Supports small international teams pursuing innovative and highly interdisciplinary life-science questions.
+**Why It May Matter:** Neuro-TMR naturally combines neuroscience, sleep science, machine learning, signal processing, and neurotechnology, making HFSP conceptually relevant if a strong international team forms.
+**Potential Contribution to Phase II / Future Development:** International collaboration; exploratory experiments; interdisciplinary neuroscience research.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Principal applicant and team-country rules require later verification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for future consortium qualification
+**Notes:** Especially relevant if Path E creates a scientifically novel international team.
+
+### OPP-089 — EIC Pathfinder Open
+
+**Name:** EIC Pathfinder Open
+**Organization:** European Innovation Council
+**Country:** European Union / Associated Countries
+**Opportunity Type:** Early-stage breakthrough deep-tech research funding
+**Global / Armenia / Diaspora:** Global with Armenian Horizon relevance
+**Research Area:** High-risk / high-gain breakthrough technologies
+**Relevant Capabilities:** Early deep-tech R&D; multinational collaboration; proof-of-principle; advanced scientific technology development
+**Relevant Work / Program:** Supports ambitious high-risk technologies at early technology-readiness levels without requiring a predefined topic.
+**Why It May Matter:** A validated closed-loop TMR concept could eventually become a genuine high-risk neurotechnology research programme suitable for Pathfinder-level development.
+**Potential Contribution to Phase II / Future Development:** Prototype research; advanced sensing/control work; international team formation; technology validation.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Usually requires an eligible international consortium
+**Status:** Discovered — unqualified
+**Next Action:** Preserve for post-validation consortium pathway
+**Notes:** One of the strongest future science-to-neurotechnology funding mechanisms.
+
+### OPP-090 — EIC Transition
+
+**Name:** EIC Transition
+**Organization:** European Innovation Council
+**Country:** European Union / Associated Countries
+**Opportunity Type:** Research-result translation funding
+**Global / Armenia / Diaspora:** Global with Horizon-associated relevance
+**Research Area:** Technology maturation; validation; commercialization preparation
+**Relevant Capabilities:** Technology validation; prototype maturation; application development; market-readiness preparation
+**Relevant Work / Program:** Supports eligible prior European research results in progressing toward higher technology readiness and practical application.
+**Why It May Matter:** Could eventually bridge a successful funded Neuro-TMR research result into a validated translational technology programme.
+**Potential Contribution to Phase II / Future Development:** Prototype maturation; validation; translational development; commercialization preparation.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires qualifying prior funded project/result
+**Status:** Discovered — unqualified
+**Next Action:** Preserve as downstream funding pathway
+**Notes:** Not relevant until eligible research results exist.
+
+### OPP-091 — EIC Pre-Accelerator
+
+**Name:** EIC Pre-Accelerator
+**Organization:** European Innovation Council
+**Country:** European Widening countries including Armenia
+**Opportunity Type:** Deep-tech SME scale-up support
+**Global / Armenia / Diaspora:** Armenia-accessible European programme
+**Research Area:** Deep-tech innovation; startup development
+**Relevant Capabilities:** Grant funding; coaching; investor readiness; technology maturation; pathway toward EIC Accelerator
+**Relevant Work / Program:** Supports deep-tech SMEs from eligible Widening countries, including Armenia, in progressing toward stronger technical and commercial readiness.
+**Why It May Matter:** If Neuro-TMR eventually becomes an Armenian deep-tech company with sufficiently mature technology, this could become a concrete scale-up mechanism.
+**Potential Contribution to Phase II / Future Development:** Technology development; startup maturation; commercialization preparation; European deep-tech integration.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires eligible SME and minimum technology-readiness conditions
+**Status:** Discovered — unqualified
+**Next Action:** Preserve for future company-stage pathway
+**Notes:** Particularly notable because Armenia is explicitly within the programme's target geography.
+
+### OPP-092 — EIC Accelerator Open
+
+**Name:** EIC Accelerator Open
+**Organization:** European Innovation Council
+**Country:** European Union / Associated Countries
+**Opportunity Type:** Deep-tech startup scale-up funding
+**Global / Armenia / Diaspora:** Global with associated-country pathway
+**Research Area:** Breakthrough innovation; technology commercialization
+**Relevant Capabilities:** Large grant funding; equity investment; commercialization; scaling; investor access
+**Relevant Work / Program:** Supports highly innovative startups and SMEs pursuing high-risk deep-tech technologies with major market potential.
+**Why It May Matter:** Represents a possible late-stage pathway if Neuro-TMR evolves from validated research into a genuine neurotechnology company.
+**Potential Contribution to Phase II / Future Development:** Product engineering; regulatory development; hiring; commercialization; international scaling.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Requires startup/SME and mature technology/business case
+**Status:** Discovered — unqualified
+**Next Action:** Preserve as late-stage scale-up opportunity
+**Notes:** Downstream of scientific validation and company formation.
+
+### OPP-093 — NIH BRAIN Initiative Funding Ecosystem
+
+**Name:** NIH BRAIN Initiative Funding Ecosystem
+**Organization:** U.S. National Institutes of Health
+**Country:** United States
+**Opportunity Type:** Neurotechnology and neuroscience funding ecosystem
+**Global / Armenia / Diaspora:** Global / potential collaboration route
+**Research Area:** Brain measurement; neural modulation; neurotechnology; human neuroscience; data science
+**Relevant Capabilities:** Technology development; neural recording; modulation; human neuroscience; data analysis; translational neurotechnology
+**Relevant Work / Program:** The BRAIN Initiative supports multiple funding opportunities covering tools for recording and modulating neural activity, human neuroscience, data infrastructure, and neurotechnology translation.
+**Why It May Matter:** Neuro-TMR's eventual closed-loop sensing and intervention architecture overlaps with several BRAIN Initiative technology themes.
+**Potential Contribution to Phase II / Future Development:** Neurotechnology R&D; collaboration with US investigators; advanced neural-measurement or closed-loop research.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Eligibility / Access:** Eligibility varies substantially by individual NIH funding announcement; likely strongest through qualified institutional collaborators
+**Status:** Discovered — unqualified
+**Next Action:** Monitor relevant BRAIN Initiative calls during future qualification
+**Notes:** Treat as a funding ecosystem rather than one specific grant.
+
+
