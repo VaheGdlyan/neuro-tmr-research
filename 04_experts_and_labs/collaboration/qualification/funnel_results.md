@@ -199,6 +199,74 @@ Those questions remain reserved for later qualification layers.
 
 ### Next Layer
 
-**L4 — Neuro-TMR Contribution Relevance**
+---
+
+## L4 — Neuro-TMR Contribution Relevance
+
+**Date:** 2026-08-20
+
+**Starting Qualification Units:** 168
+
+### Decisions
+
+- `L4_DIRECT_HIGH`: **54**
+- `L4_STRONG_ADJACENT`: **58**
+- `L4_CONDITIONAL_FUTURE`: **43**
+- `L4_WEAK`: **12**
+- `L4_NONE`: **1**
+
+### Hard Relevance Exit
+
+- OPP-036 — Laboratory of Human and Animal Integrative and Adaptive Physiology
+  - `L4_NONE`
+  - Exit reason: `EXIT_NO_RELEVANCE`
+
+### Funnel Result
+
+**168 qualification units**
+
+↓
+
+**54 Direct High**
+
++
+
+**58 Strong Adjacent**
+
++
+
+**43 Conditional / Future**
+
++
+
+**12 Weak**
+
++
+
+**1 No Material Relevance**
+
+↓
+
+**167 units retained for L5**
+
+### Attrition
+
+**1**
+
+L4 is the first funnel layer to produce a hard relevance exit.
+
+The 12 `L4_WEAK` opportunities remain in the qualification universe because a limited but identifiable contribution still exists.
+
+Their survival does not imply quality or priority.
+
+### L4 Status
+
+**COMPLETE ✅**
+
+### Next Layer
+
+**L5 — Quality / Evidence / Distinct Value**
+
+**Starting Universe:** 167
 
 **Status:** NOT STARTED
