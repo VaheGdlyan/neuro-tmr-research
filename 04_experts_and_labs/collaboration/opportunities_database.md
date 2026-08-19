@@ -3512,3 +3512,226 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Notes:** Would not automatically replace Armenian national or institutional requirements.
 
 
+## 12 — Future-Horizon Strategic Opportunities
+
+> Discovery status: **Section 12 controlled discovery pass completed (2026-08-20).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or incorporated into the current Neuro-TMR architecture**.
+>
+> Section 12 captures emerging scientific capabilities, technologies, models, infrastructure, and research directions that could materially change Neuro-TMR beyond the current EEG-first reference pathway.
+>
+> This section uses the strictest inclusion standard in the Opportunity Universe. Entries must have a plausible mechanism for changing future sensing, closed-loop control, personalization, intervention, validation, or scale. Speculative technologies without a credible research or engineering pathway are excluded.
+>
+> Section 12 does **not** alter the current evidence-bounded V1 decision. Its purpose is to preserve strategic visibility into technologies and scientific developments that may justify future V2/V3 architecture changes.
+
+### OPP-158 — SleepFM — Multimodal Sleep Foundation Model
+
+**Name:** SleepFM  
+**Organization:** International academic sleep-AI research ecosystem  
+**Country:** International  
+**Opportunity Type:** Sleep-specific physiological foundation model  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep AI; polysomnography; representation learning; multimodal physiological modelling  
+**Relevant Capabilities:** Large-scale physiological pretraining; EEG/ECG/EMG/respiratory integration; heterogeneous channel support; downstream sleep-task transfer  
+**Relevant Work / Program:** SleepFM represents an emerging sleep-specific foundation-model approach trained across very large amounts of heterogeneous polysomnography and physiological data.  
+**Why It May Matter:** Future Neuro-TMR systems may not need to train every sleep-stage, arousal, or physiological representation model from scratch. A strong pretrained sleep representation could potentially reduce data requirements and improve transfer across datasets and sensing configurations.  
+**Potential Contribution to Future Neuro-TMR:** Sleep-state representations; transfer learning; reduced-data adaptation; multimodal modelling; future cue-eligibility modelling.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Model availability, licensing, inference requirements, downstream-task performance, and compatibility with Neuro-TMR datasets require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Revisit during Path V model-architecture clarification  
+**Notes:** More directly relevant to sleep than generic EEG foundation models. Potential downstream Neuro-TMR uses remain hypotheses until tested.
+
+### OPP-159 — Sleep Interpreter — Real-Time Semantic Memory-Reactivation Decoding
+
+**Name:** Sleep Interpreter  
+**Organization:** Academic sleep / memory / neural-decoding research ecosystem  
+**Country:** International  
+**Opportunity Type:** Memory-reactivation decoding model / open research resource  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep EEG; memory reactivation; semantic decoding; representation learning; real-time neural decoding  
+**Relevant Capabilities:** Cue-linked semantic decoding; wake-to-sleep representation alignment; real-time inference; sleep-stage / oscillation-aware analysis; public dataset and code  
+**Relevant Work / Program:** Research demonstrating above-chance decoding of cue-linked semantic information from sleeping EEG, with strongest performance under favorable slow-oscillation / spindle conditions and implementation of real-time decoding.  
+**Why It May Matter:** Current TMR systems generally know that a cue was presented but do not directly know whether memory-related neural information was reactivated. This research creates a possible future route toward estimating post-cue reactivation itself.  
+**Potential Contribution to Future Neuro-TMR:** Reactivation-aware feedback; post-cue neural monitoring; closed-loop decision updates; memory-state biomarkers; future V3/V4 architecture.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Public code/data identified; generalization, real-time computational requirements, semantic-task dependence, and compatibility with wearable EEG require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Give strong attention during future Path V / advanced-decoding clarification  
+**Notes:** Does not imply arbitrary memory reading. The demonstrated capability is much narrower: decoding experimentally defined cue-linked semantic information above chance.
+
+### OPP-160 — Open EEG Foundation-Model Ecosystem — EEGPT / LaBraM
+
+**Name:** Open EEG Foundation-Model Ecosystem — EEGPT / LaBraM  
+**Organization:** Open academic EEG-AI research ecosystem  
+**Country:** International  
+**Opportunity Type:** General EEG foundation-model ecosystem  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** EEG representation learning; self-supervised learning; neural foundation models  
+**Relevant Capabilities:** Large-scale EEG pretraining; transferable representations; open model implementations; pretrained checkpoints; cross-task adaptation  
+**Relevant Work / Program:** EEGPT, LaBraM, and related systems represent a developing class of general pretrained EEG models intended to transfer across multiple neural-signal tasks.  
+**Why It May Matter:** Future Neuro-TMR models for sleep staging, artifact handling, arousal estimation, event detection, or individual adaptation may benefit from pretrained EEG representations rather than isolated task-specific training.  
+**Potential Contribution to Future Neuro-TMR:** Transfer learning; low-data adaptation; cross-dataset representations; shared neural encoder; reduced model-development burden.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Open implementations exist, but performance must be tested directly against strong specialist sleep models  
+**Status:** Discovered — unqualified  
+**Next Action:** Compare against sleep-specific baselines during future Path V model clarification  
+**Notes:** Foundation-model scale should not be treated as evidence of superior performance. Specialist models remain important comparison points.
+
+### OPP-161 — PaPaGei — Open PPG Foundation Model
+
+**Name:** PaPaGei  
+**Organization:** Nokia Bell Labs / open physiological-AI research ecosystem  
+**Country:** International  
+**Opportunity Type:** PPG foundation model / peripheral physiological representation  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** PPG; physiological AI; representation learning; multimodal biosignals  
+**Relevant Capabilities:** Large-scale PPG pretraining; open model weights; transferable physiological representations; downstream health/sleep-related modelling  
+**Relevant Work / Program:** Open foundation model trained on very large quantities of PPG data and released for downstream physiological modelling.  
+**Why It May Matter:** Does not replace EEG for current Neuro-TMR V1, but could strengthen future peripheral-state estimation, autonomic monitoring, arousal prediction, or multimodal EEG + PPG architectures.  
+**Potential Contribution to Future Neuro-TMR:** Arousal modelling; autonomic-state estimation; multimodal fusion; reduced-sensor experimentation; future Gen-2/Gen-3 sensing.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Open model resources identified; sleep-specific utility and real-time wearable performance require validation  
+**Status:** Discovered — unqualified  
+**Next Action:** Revisit if Path V expands into multimodal EEG + peripheral sensing  
+**Notes:** Does not change the existing conclusion that PPG-only closed-loop TMR lacks sufficient evidence for V1.
+
+### OPP-162 — Personalized TMR Based on Memory Difficulty
+
+**Name:** Personalized TMR Based on Memory Difficulty  
+**Organization:** Korea University Brain and Cognitive Engineering / AI research ecosystem  
+**Country:** South Korea  
+**Opportunity Type:** Adaptive TMR research paradigm / open experimental data  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** TMR; memory consolidation; personalization; EEG; adaptive cue selection  
+**Relevant Capabilities:** Memory-specific cue prioritization; individualized stimulation policy; pre-sleep behavioral adaptation; EEG outcome analysis  
+**Relevant Work / Program:** Research in which TMR cue repetition was adapted according to individual retrieval performance and item-level memory difficulty rather than treating all memories equally.  
+**Why It May Matter:** Suggests that future Neuro-TMR personalization may involve not only detecting the right moment during sleep, but deciding **which memory deserves cueing and how often**.  
+**Potential Contribution to Future Neuro-TMR:** Adaptive memory scheduling; cue-priority models; individualized intervention; memory-strength-aware control policies.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Behavioral/EEG research resources identified; replication and generalization across memory domains require later evaluation  
+**Status:** Discovered — unqualified  
+**Next Action:** Revisit when Path V moves from sleep-state modelling toward TMR scheduler design  
+**Notes:** Important shift from physiological personalization alone toward memory-level personalization.
+
+### OPP-163 — Phase-Specific Closed-Loop TMR — Open Data + Code Research Stack
+
+**Name:** Phase-Specific Closed-Loop TMR Research Stack  
+**Organization:** Multi-institution academic research collaboration  
+**Country:** International  
+**Opportunity Type:** Closed-loop TMR methodology / open data and software  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** TMR; slow oscillations; phase-specific stimulation; closed-loop sleep intervention  
+**Relevant Capabilities:** Online slow-oscillation detection; phase-aware cue timing; real-time triggering; open source code; reusable experimental data  
+**Relevant Work / Program:** Research comparing TMR cues delivered at specific slow-oscillation phases and providing reusable code/data for phase-aware closed-loop experimentation.  
+**Why It May Matter:** Creates a concrete pathway for Neuro-TMR to evolve from stage-aware cueing toward oscillation-aware timing if future evidence justifies the added complexity.  
+**Potential Contribution to Future Neuro-TMR:** Phase-aware scheduler; online oscillation detection; closed-loop timing validation; reusable implementation reference.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Code and dataset identified; hardware timing precision and replication requirements need later evaluation  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as a future Path V / V2 closed-loop methodology resource  
+**Notes:** Results should not be overstated; phase-specific improvements were nuanced and did not establish universal superiority over no-reactivation conditions.
+
+### OPP-164 — Portiloop / Closed-Loop Sleep-Spindle Targeting
+
+**Name:** Portiloop / Closed-Loop Sleep-Spindle Targeting  
+**Organization:** Academic closed-loop sleep-neurotechnology ecosystem  
+**Country:** International  
+**Opportunity Type:** Real-time sleep-event detection / closed-loop stimulation platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep spindles; online event detection; acoustic stimulation; closed-loop sleep modulation  
+**Relevant Capabilities:** Real-time spindle detection; event-targeted stimulation; low-latency control; microstate-aware intervention  
+**Relevant Work / Program:** Research demonstrating online spindle detection and auditory stimulation targeting within individual spindle events.  
+**Why It May Matter:** Shows that future Neuro-TMR cue eligibility may need to consider fine-grained NREM microstates rather than relying only on categorical N2/N3 labels.  
+**Potential Contribution to Future Neuro-TMR:** Spindle-aware scheduling; microstate timing; refractory logic; disturbance avoidance; event-level closed-loop control.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Real-time implementation, hardware requirements, event-detection robustness, and applicability to TMR require later evaluation  
+**Status:** Discovered — unqualified  
+**Next Action:** Revisit when evaluating oscillation/event-aware V2 architecture  
+**Notes:** Particularly important because stimulation timing itself can influence the physiological event being targeted.
+
+### OPP-165 — Integrated In-Ear EEG + Auditory Stimulation Platform
+
+**Name:** Integrated In-Ear EEG + Auditory Stimulation Platform  
+**Organization:** University of California San Diego research ecosystem  
+**Country:** United States  
+**Opportunity Type:** Emerging integrated sensing + stimulation hardware  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Ear-EEG; wearable neurotechnology; acoustic stimulation; closed-loop interfaces  
+**Relevant Capabilities:** In-ear EEG acquisition; integrated audio delivery; personalized ear interface; potential adaptive closed-loop operation  
+**Relevant Work / Program:** Research prototype combining an in-ear EEG sensing system with auditory stimulation through the same wearable interface.  
+**Why It May Matter:** Future Neuro-TMR hardware could potentially combine EEG sensing and cue delivery into a single unobtrusive ear-level device rather than separate headband and audio systems.  
+**Potential Contribution to Future Neuro-TMR:** Integrated hardware; ear-level sleep sensing; acoustic cue delivery; reduced-form-factor closed-loop system.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Prototype-stage technology; overnight sleep performance, sleep-stage accuracy, SDK access, and TMR compatibility are not established  
+**Status:** Discovered — unqualified  
+**Next Action:** Monitor future validation and sleep-specific developments  
+**Notes:** Architecturally exciting but remains future-horizon rather than V1-ready.
+
+### OPP-166 — MLCommons MedPerf — Federated / Privacy-Preserving Multi-Institution AI Evaluation
+
+**Name:** MLCommons MedPerf  
+**Organization:** MLCommons  
+**Country:** International  
+**Opportunity Type:** Federated medical-AI evaluation infrastructure  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Federated learning/evaluation; medical AI; privacy-preserving validation  
+**Relevant Capabilities:** Model-to-data evaluation; multi-institution benchmarking; privacy preservation; federated orchestration; confidential-computing support  
+**Relevant Work / Program:** Open infrastructure enabling medical-AI models to be evaluated across participating institutions without requiring centralized movement of sensitive patient data.  
+**Why It May Matter:** A mature Neuro-TMR model may eventually need validation across multiple hospitals or sleep laboratories that cannot freely share raw EEG and health data.  
+**Potential Contribution to Future Neuro-TMR:** Multi-site validation; privacy-preserving benchmarking; international dataset access; federated evaluation.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** Participating institutions, deployment requirements, supported model stacks, and sleep/EEG suitability require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve for future multi-site validation architecture  
+**Notes:** Not sleep-specific, but potentially important if Neuro-TMR reaches serious institutional-scale validation.
+
+### OPP-167 — The Virtual Brain / Personalized Brain-Twin & Stimulation Simulation Ecosystem
+
+**Name:** The Virtual Brain / Personalized Brain-Twin Ecosystem  
+**Organization:** The Virtual Brain  
+**Country:** International  
+**Opportunity Type:** Computational brain simulation / digital-twin platform  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Large-scale brain modelling; personalized simulation; neural dynamics; stimulation modelling  
+**Relevant Capabilities:** Subject-specific network modelling; simulated electrophysiology; stimulation simulation; personalized brain-network models  
+**Relevant Work / Program:** Open modelling ecosystem for large-scale brain-network simulation, with emerging work toward personalized brain digital twins and stimulation modelling.  
+**Why It May Matter:** In a long-term future, individualized computational models could potentially help explore stimulation strategies before testing them in humans.  
+**Potential Contribution to Future Neuro-TMR:** Simulation; hypothesis generation; personalized intervention modelling; virtual testing of future stimulation strategies.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Access / Technical Requirements:** No current evidence that the platform predicts TMR efficacy or memory reactivation; relevance remains highly future-oriented  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as a long-horizon strategic watch item  
+**Notes:** Lowest immediate Neuro-TMR readiness in Section 12, but represents a potentially important future research paradigm.
+
+
