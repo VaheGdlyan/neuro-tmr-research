@@ -2440,3 +2440,266 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Notes:** Relevant later; should not substitute for scientific validation.
 
 
+## 08 — Fellowships, Placements & Research Programs
+
+> Discovery status: **Section 08 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or selected for application**.
+>
+> Section 08 captures structured opportunities that could place the researcher inside stronger neuroscience, sleep, neurotechnology, computational-neuroscience, or international research environments through internships, fellowships, research placements, advanced training, or mentored programmes.
+>
+> Because the Opportunity Universe already contains more than 100 entries, this section intentionally prioritizes **quality and distinct strategic value over quantity**.
+
+### OPP-109 — OIST Research Internship Program
+
+**Name:** OIST Research Internship Program  
+**Organization:** Okinawa Institute of Science and Technology (OIST)  
+**Country:** Japan  
+**Opportunity Type:** International laboratory research internship  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience; computational science; biology; interdisciplinary science  
+**Relevant Capabilities:** 4–6 month laboratory immersion; research mentorship; international scientific environment; hands-on research  
+**Relevant Work / Program:** Structured research internships allowing students to work directly within OIST research units under faculty supervision.  
+**Why It May Matter:** Could provide substantial real-world laboratory experience inside a highly interdisciplinary scientific environment rather than only short-term coursework or networking.  
+**Potential Contribution to Phase II / Future Development:** Research skills; laboratory experience; scientific mentorship; international network development; potential neuroscience placement.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Academic-stage, age, timing, and research-unit fit require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Track application cycles and evaluate specific neuroscience research units during qualification  
+**Notes:** Strong general research-immersion pathway.
+
+### OPP-110 — EPFL School of Life Sciences Summer Research Program
+
+**Name:** EPFL School of Life Sciences Summer Research Program  
+**Organization:** École Polytechnique Fédérale de Lausanne (EPFL)  
+**Country:** Switzerland  
+**Opportunity Type:** International summer research placement  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience; life sciences; computational biology; neuroengineering  
+**Relevant Capabilities:** Laboratory placement; research mentorship; Brain Mind Institute ecosystem; interdisciplinary neuroscience exposure  
+**Relevant Work / Program:** Summer research programme placing international students within EPFL life-science laboratories, including neuroscience-related environments.  
+**Why It May Matter:** EPFL's Brain Mind Institute and Neuro-X ecosystem sit directly at the intersection of neuroscience, computation, engineering, and advanced research methods.  
+**Potential Contribution to Phase II / Future Development:** Neuroscience training; laboratory immersion; international mentorship; possible neurotechnology/network access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Academic-stage and annual programme requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Track next application window and map relevant host laboratories during qualification  
+**Notes:** Strong bridge between computational background and experimental neuroscience.
+
+### OPP-111 — RIKEN Center for Brain Science Summer Program
+
+**Name:** RIKEN Center for Brain Science Summer Program  
+**Organization:** RIKEN Center for Brain Science  
+**Country:** Japan  
+**Opportunity Type:** Neuroscience research internship / intensive programme  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience; sleep; cognition; learning; neural systems  
+**Relevant Capabilities:** Laboratory placement; neuroscience lectures; hands-on research; international mentorship; sleep/cognition research access  
+**Relevant Work / Program:** Intensive neuroscience programme combining scientific training with laboratory internships across RIKEN CBS research teams.  
+**Why It May Matter:** Particularly relevant because RIKEN CBS includes research environments focused on sleep, cognition, learning, EEG, and sleep-dependent neural processes.  
+**Potential Contribution to Phase II / Future Development:** Sleep-neuroscience immersion; experimental training; EEG research exposure; mentorship; international collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Annual host-lab availability and applicant-stage requirements require verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Track future programme cycle and identify sleep/cognition host teams  
+**Notes:** One of the strongest Section 08 discoveries because of direct sleep + learning + neuroscience relevance.
+
+### OPP-112 — CaCTüS — Computation and Cognition Tübingen Summer Internship
+
+**Name:** CaCTüS — Computation and Cognition Tübingen Summer Internship  
+**Organization:** Max Planck Institutes / Tübingen AI and neuroscience ecosystem  
+**Country:** Germany  
+**Opportunity Type:** Paid computational neuroscience / cognition research internship  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Computational neuroscience; machine learning; cognition; behavioral science; engineering  
+**Relevant Capabilities:** Three-month research placement; ML; theoretical neuroscience; behavioral experimentation; data analysis; engineering methods  
+**Relevant Work / Program:** Structured paid research internship across the Max Planck and Tübingen computation/cognition ecosystem.  
+**Why It May Matter:** Closely matches Neuro-TMR's computational pathway by combining machine learning with neuroscience, cognition, behavioral research, and experimental methods.  
+**Potential Contribution to Phase II / Future Development:** Computational neuroscience training; Path V capability development; research mentorship; international laboratory experience.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Annual programme and academic-stage requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Track next application cycle and inspect relevant projects when announced  
+**Notes:** Particularly strong computational-neuroscience fit.
+
+### OPP-113 — ISTA Year-Round Scientific Internships
+
+**Name:** ISTA Year-Round Scientific Internships  
+**Organization:** Institute of Science and Technology Austria (ISTA)  
+**Country:** Austria  
+**Opportunity Type:** Direct faculty-based scientific internship  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience; computer science; data science; biology; interdisciplinary science  
+**Relevant Capabilities:** 2–12 month placements; direct faculty contact; flexible timing; research immersion  
+**Relevant Work / Program:** Allows bachelor and master's students to arrange research internships directly with ISTA faculty throughout the year.  
+**Why It May Matter:** Unlike annual centralized summer programmes, the direct-contact model could allow targeted pursuit of a laboratory closely aligned with neuroscience or computational research.  
+**Potential Contribution to Phase II / Future Development:** Long-duration research placement; mentorship; international research experience; targeted laboratory access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires suitable academic status and faculty willingness to host  
+**Status:** Discovered — unqualified  
+**Next Action:** Map relevant ISTA faculty/labs during qualification  
+**Notes:** Flexible pathway because it is not tied exclusively to one annual cohort.
+
+### OPP-114 — Cold Spring Harbor Laboratory Undergraduate Research Program
+
+**Name:** Undergraduate Research Program (URP)  
+**Organization:** Cold Spring Harbor Laboratory (CSHL)  
+**Country:** United States  
+**Opportunity Type:** Intensive undergraduate research programme  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neuroscience; quantitative biology; genomics; computational biology  
+**Relevant Capabilities:** Original laboratory research; research mentorship; advanced scientific facilities; quantitative and neuroscience training  
+**Relevant Work / Program:** International undergraduate summer programme where participants conduct original research in CSHL laboratories.  
+**Why It May Matter:** CSHL offers unusually strong scientific immersion and exposure to high-level neuroscience and quantitative biology environments.  
+**Potential Contribution to Phase II / Future Development:** Scientific training; laboratory research experience; international network; computational/experimental neuroscience exposure.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Undergraduate status and annual cycle requirements must be verified  
+**Status:** Discovered — unqualified  
+**Next Action:** Track future application cycle and relevant neuroscience laboratories  
+**Notes:** Strong research environment rather than topic-specific TMR programme.
+
+### OPP-115 — FENS / IBRO-PERC Exchange Fellowships Programme
+
+**Name:** FENS / IBRO-PERC Exchange Fellowships Programme  
+**Organization:** Federation of European Neuroscience Societies / IBRO-PERC  
+**Country:** Europe / International  
+**Opportunity Type:** Neuroscience research mobility fellowship  
+**Global / Armenia / Diaspora:** Global / Europe-oriented  
+**Research Area:** Neuroscience research and methods training  
+**Relevant Capabilities:** Temporary placement in another laboratory; method acquisition; collaboration building; neuroscience mobility support  
+**Relevant Work / Program:** Supports neuroscience trainees in visiting external European laboratories to acquire new techniques and develop collaborations.  
+**Why It May Matter:** Could provide a formal mechanism for converting a relationship with a Section 01 or Section 02 laboratory into an actual research placement.  
+**Potential Contribution to Phase II / Future Development:** Method training; temporary laboratory access; scientific collaboration; international networking.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Neuroscience affiliation, host-lab, and programme-specific requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate alongside future host-lab relationships  
+**Notes:** Particularly important as a mobility mechanism rather than a predefined internship.
+
+### OPP-116 — CAJAL Neurobiology of Sleep
+
+**Name:** Neurobiology of Sleep  
+**Organization:** CAJAL Advanced Neuroscience Training  
+**Country:** Europe / International  
+**Opportunity Type:** Intensive specialist neuroscience training programme  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Sleep neuroscience; EEG; memory; learning; sleep physiology  
+**Relevant Capabilities:** Human high-density EEG; sleep monitoring; auditory stimulation; NREM/REM physiology; learning and memory tasks; data analysis; computational modelling  
+**Relevant Work / Program:** Intensive multi-week advanced course combining lectures with practical experimental training in modern sleep-neuroscience approaches.  
+**Why It May Matter:** One of the most directly aligned structured programmes in the entire database because its technical content overlaps closely with Neuro-TMR's core scientific and engineering questions.  
+**Potential Contribution to Phase II / Future Development:** Sleep-neuroscience expertise; EEG methods; experimental design; auditory-stimulation methods; memory-task design; international sleep-research network.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Applicant career stage, programme dates, funding/stipend rules, and exact deadline must be verified before action  
+**Status:** Discovered — unqualified  
+**Next Action:** Give special attention during qualification and verify current application status directly from official programme portal  
+**Notes:** Discovery identified conflicting deadline information across programme pages; exact deadline requires verification before any action.
+
+### OPP-117 — Neuromatch Academy — Computational Neuroscience
+
+**Name:** Neuromatch Academy — Computational Neuroscience  
+**Organization:** Neuromatch  
+**Country:** International / Remote  
+**Opportunity Type:** Computational neuroscience training and research programme  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Computational neuroscience; machine learning; neural data; dynamical systems  
+**Relevant Capabilities:** Neural-data analysis; ML; signal processing; computational modelling; group research projects; international mentorship  
+**Relevant Work / Program:** Structured computational-neuroscience programme combining technical training with collaborative projects using real neural data.  
+**Why It May Matter:** Could strengthen the computational-neuroscience foundation needed for Path V without immediately requiring access to a physical sleep laboratory.  
+**Potential Contribution to Phase II / Future Development:** Path V skill development; neural-data analysis; research collaboration; computational neuroscience credibility.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Annual application requirements require later verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Track 2027 application cycle  
+**Notes:** Strong remote-access computational pathway.
+
+### OPP-118 — Neuromatch Impact Scholars Program
+
+**Name:** Neuromatch Impact Scholars Program  
+**Organization:** Neuromatch  
+**Country:** International / Remote  
+**Opportunity Type:** Mentored research programme  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Computational neuroscience; machine learning; research development  
+**Relevant Capabilities:** Six-month mentored research; collaborative projects; real datasets; research supervision; scientific outputs  
+**Relevant Work / Program:** Extended research programme allowing selected participants to continue from training into supervised research and produce scholarly outputs.  
+**Why It May Matter:** Creates a bridge from learning computational neuroscience to participating in a genuine longer-term research project.  
+**Potential Contribution to Phase II / Future Development:** Research experience; mentorship; publication/citable output; collaborative computational neuroscience work.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Depends on programme prerequisites and successful entry through relevant Neuromatch pathways  
+**Status:** Discovered — unqualified  
+**Next Action:** Evaluate together with OPP-117 during qualification  
+**Notes:** Particularly valuable because it extends beyond coursework into mentored research.
+
+### OPP-119 — MBL Neural Systems & Behavior
+
+**Name:** Neural Systems & Behavior  
+**Organization:** Marine Biological Laboratory (MBL)  
+**Country:** United States  
+**Opportunity Type:** Advanced intensive neuroscience training course  
+**Global / Armenia / Diaspora:** Global  
+**Research Area:** Neural systems; behavior; perception; cognition  
+**Relevant Capabilities:** Experimental neuroscience; intensive laboratory projects; advanced methods; international faculty interaction  
+**Relevant Work / Program:** Multi-week advanced course combining lectures and hands-on research projects investigating neural mechanisms of behavior and cognition.  
+**Why It May Matter:** Provides high-level experimental neuroscience immersion and access to an unusually concentrated international scientific community.  
+**Potential Contribution to Phase II / Future Development:** Experimental skills; neuroscience methodology; scientific network; advanced training.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Primarily suited to graduate students, postdocs, and investigators; exact stage requirements require verification  
+**Status:** Discovered — unqualified  
+**Next Action:** Preserve as future-stage advanced training pathway  
+**Notes:** Scientifically strong but likely less immediately accessible than undergraduate-oriented programmes.
+
+### OPP-120 — Armenia Professional Training Programme
+
+**Name:** Professional Training Programme  
+**Organization:** Armenian national science-support ecosystem  
+**Country:** Armenia + International host institutions  
+**Opportunity Type:** International research-placement funding programme  
+**Global / Armenia / Diaspora:** Armenia + Global  
+**Research Area:** Scientific professional development; international research mobility  
+**Relevant Capabilities:** 2–12 month placements; foreign laboratory access; advanced-method acquisition; international scientific collaboration  
+**Relevant Work / Program:** Supports researchers affiliated with Armenian universities and scientific organizations in undertaking professional scientific placements at international institutions.  
+**Why It May Matter:** Could become one of the most practical mechanisms for turning collaboration with an international Neuro-TMR-related laboratory into a funded long-duration research placement.  
+**Potential Contribution to Phase II / Future Development:** Laboratory immersion; method transfer; international collaboration; return of expertise to Armenia; long-term institutional relationship building.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Eligibility / Access:** Requires appropriate Armenian institutional affiliation and programme-specific conditions  
+**Status:** Discovered — unqualified  
+**Next Action:** Cross-reference with Section 03 host institutions and Section 01/02 international laboratories during qualification  
+**Notes:** Potentially one of the strongest Armenia-to-global placement mechanisms discovered.
+
+
