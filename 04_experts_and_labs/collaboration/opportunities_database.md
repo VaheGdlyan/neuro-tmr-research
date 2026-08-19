@@ -1131,3 +1131,326 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Status:** Discovered — unqualified  
 **Next Action:** Hold for post-discovery verification and qualification  
 **Notes:** Broader institutional-enablement opportunity.
+
+## 04 — Armenian Diaspora Scientific Bridges
+
+> Discovery status: **Section 04 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or selected for outreach**.
+>
+> Section 04 captures Armenian and Armenian-origin researchers working internationally whose scientific capabilities, institutional position, or demonstrated connection to Armenia may create meaningful bridges for Neuro-TMR.
+
+### OPP-049 — Ardem Patapoutian
+
+**Name:** Ardem Patapoutian
+**Organization:** Scripps Research
+**Country:** United States
+**Opportunity Type:** Senior scientist / scientific-network bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neuroscience; sensory neurobiology
+**Relevant Capabilities:** High-level neuroscience expertise; scientific mentorship; institutional network access; Armenia-facing scientific connection
+**Relevant Work / Program:** Nobel Prize-winning neuroscientist and Professor of Neuroscience at Scripps Research. Has previously engaged with YSMU's COBRAIN initiative and its scientific ecosystem.
+**Why It May Matter:** His direct scientific field is not TMR, but his international neuroscience stature combined with an existing Armenia-facing scientific relationship could make him a powerful mentorship, introduction, or network bridge.
+**Potential Contribution to Phase II:** Scientific introductions; strategic mentorship; connection to broader neuroscience networks; Armenia-facing institutional support.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Bridge value is stronger than direct TMR relevance.
+
+### OPP-050 — Paul Nuyujukian / Brain Interfacing Laboratory
+
+**Name:** Paul Nuyujukian / Brain Interfacing Laboratory
+**Organization:** Stanford University
+**Country:** United States
+**Opportunity Type:** Researcher / neuroengineering bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Brain-machine interfaces; neural decoding; neuroengineering
+**Relevant Capabilities:** Neural interfaces; real-time decoding; machine learning; closed-loop neurotechnology; neural-signal processing
+**Relevant Work / Program:** Stanford faculty member in Bioengineering and Neurosurgery working on brain-machine interfaces and neural decoding.
+**Why It May Matter:** One of the strongest diaspora matches to Neuro-TMR's engineering and real-time closed-loop side.
+**Potential Contribution to Phase II:** Closed-loop architecture guidance; neural decoding expertise; neuroengineering mentorship; possible institutional introductions.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Strong neuroengineering fit rather than direct sleep-memory specialization.
+
+### OPP-051 — Hrayr Attarian
+
+**Name:** Hrayr Attarian
+**Organization:** Northwestern University Feinberg School of Medicine / Northwestern Medicine
+**Country:** United States
+**Opportunity Type:** Academic sleep-medicine / clinical bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Sleep medicine; neurology; sleep neurophysiology
+**Relevant Capabilities:** Sleep medicine; EEG / PSG expertise; neurological expertise; clinical sleep research; academic mentorship
+**Relevant Work / Program:** Professor and sleep-medicine neurologist at Northwestern with documented prior academic engagement with YSMU as a visiting professor.
+**Why It May Matter:** Combines direct relevance to Neuro-TMR's sleep and EEG questions with an established Armenia-facing academic relationship.
+**Potential Contribution to Phase II:** Sleep-science consultation; PSG/EEG validation guidance; local-to-US academic bridge; potential introductions or mentorship.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Particularly strong diaspora opportunity for later qualification.
+
+### OPP-052 — Lorig Panossian
+
+**Name:** Lorig Panossian
+**Organization:** Northern California sleep-medicine / Armenian healthcare ecosystem
+**Country:** United States
+**Opportunity Type:** Sleep-medicine / community scientific bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Sleep medicine; neuroscience; clinical sleep care
+**Relevant Capabilities:** Sleep expertise; clinical perspective; Armenian professional-network access
+**Relevant Work / Program:** Sleep-medicine physician with neuroscience training and involvement in Armenian healthcare organizations in California.
+**Why It May Matter:** Combines direct sleep expertise with active Armenian professional-community participation.
+**Potential Contribution to Phase II:** Sleep-medicine consultation; diaspora introductions; clinical perspective; connection to Armenian-American healthcare networks.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Potentially more accessible than some senior academic targets.
+
+### OPP-053 — Talin Babikian
+
+**Name:** Talin Babikian
+**Organization:** UCLA Semel Institute / UCLA Health
+**Country:** United States
+**Opportunity Type:** Neuropsychology / academic bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Clinical neuropsychology; cognition; neuroimaging
+**Relevant Capabilities:** Cognitive assessment; behavioral validation; neuropsychology; neuroimaging; academic mentorship
+**Relevant Work / Program:** UCLA clinical neuropsychologist and faculty member with previous Visiting Professor involvement at YSMU.
+**Why It May Matter:** Could strengthen the cognitive and behavioral validation side of Neuro-TMR while also providing an established Armenia-facing academic connection.
+**Potential Contribution to Phase II:** Behavioral endpoint design; cognitive assessment; neuropsychological guidance; academic bridge.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** More relevant to outcome validation than sleep-state engineering.
+
+### OPP-054 — Nerses Sanossian
+
+**Name:** Nerses Sanossian
+**Organization:** University of Southern California (USC)
+**Country:** United States
+**Opportunity Type:** Academic neurology / Armenia-facing medical bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neurology; cerebrovascular disease; clinical neuroscience
+**Relevant Capabilities:** Clinical neurology; medical research; international academic linkage; Armenia-facing scientific network
+**Relevant Work / Program:** USC Professor of Neurology with a history of collaboration and capacity-building activity involving Armenian neurological and medical communities.
+**Why It May Matter:** Demonstrated ability to turn diaspora scientific relationships into concrete Armenia-facing clinical and educational activity.
+**Potential Contribution to Phase II:** Introductions; mentorship; connection to Armenian neurological networks; experience building US–Armenia scientific relationships.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Bridge capability is stronger than direct TMR fit.
+
+### OPP-055 — Viken Babikian
+
+**Name:** Viken Babikian
+**Organization:** Boston University
+**Country:** United States
+**Opportunity Type:** Senior neurology / academic bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neurology; neuroimaging; cerebrovascular research
+**Relevant Capabilities:** Clinical neuroscience; neuroimaging; mentorship; Armenia-facing medical education
+**Relevant Work / Program:** Senior Boston University neurologist with continued participation in Armenian-American medical and educational initiatives.
+**Why It May Matter:** Represents an established senior scientific connection between major US academic medicine and Armenia.
+**Potential Contribution to Phase II:** Scientific introductions; clinical-neuroscience mentorship; institutional bridging.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Primarily a scientific-network and clinical bridge.
+
+### OPP-056 — Carol A. Mason
+
+**Name:** Carol A. Mason
+**Organization:** Columbia University / Zuckerman Institute
+**Country:** United States
+**Opportunity Type:** Senior neuroscience / scientific-network bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Developmental neuroscience
+**Relevant Capabilities:** Senior neuroscience expertise; major academic network; scientific leadership; mentorship
+**Relevant Work / Program:** Senior Columbia neuroscientist, former Society for Neuroscience president, and prominent member of the international neuroscience community.
+**Why It May Matter:** Direct TMR overlap is limited, but her scientific standing and Armenian family background may create a high-level mentorship or network opportunity.
+**Potential Contribution to Phase II:** Introductions; strategic scientific guidance; broader neuroscience-network access.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Network value substantially exceeds direct technical fit.
+
+### OPP-057 — Talene Yacoubian
+
+**Name:** Talene Yacoubian
+**Organization:** University of Alabama at Birmingham (UAB)
+**Country:** United States
+**Opportunity Type:** Academic neuroscientist / Armenia-facing bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neurology; neurobiology; neurodegeneration
+**Relevant Capabilities:** Neuroscience expertise; neurological research; Armenia-facing scientific participation
+**Relevant Work / Program:** Professor of Neurology and Neurobiology with involvement in Armenian clinical-neuroscience programming.
+**Why It May Matter:** Combines strong neuroscience credentials with demonstrated participation in Armenia-facing scientific activity.
+**Potential Contribution to Phase II:** Scientific mentorship; introductions; neurological-science guidance; diaspora network access.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Direct sleep-memory relevance is limited.
+
+### OPP-058 — Rami Apelian
+
+**Name:** Rami Apelian
+**Organization:** California clinical neurology / Armenian-American medical ecosystem
+**Country:** United States
+**Opportunity Type:** Clinical neurophysiology bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Clinical neurophysiology; epilepsy; neurology; neural stimulation
+**Relevant Capabilities:** EEG / neurophysiology; epilepsy expertise; neuromodulation; clinical neuroscience; Armenian medical network
+**Relevant Work / Program:** Neurologist with clinical-neurophysiology and epilepsy expertise and involvement with Armenian-American medical organizations.
+**Why It May Matter:** Offers a clinically grounded combination of EEG/neurophysiology, neural-stimulation knowledge, and diaspora-network access.
+**Potential Contribution to Phase II:** EEG consultation; clinical neurophysiology guidance; neuromodulation perspective; introductions.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Clinical rather than laboratory opportunity.
+
+### OPP-059 — Armen J. Cherik
+
+**Name:** Armen J. Cherik
+**Organization:** California neurology / sleep-medicine ecosystem
+**Country:** United States
+**Opportunity Type:** Clinical sleep / neurodiagnostic bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neurology; sleep medicine; neurodiagnostics
+**Relevant Capabilities:** Sleep medicine; neurodiagnostics; clinical neurology; Armenian-American medical network
+**Relevant Work / Program:** Neurologist and sleep-medicine physician with neurodiagnostic experience and leadership involvement in Armenian-American medical organizations.
+**Why It May Matter:** Combines sleep expertise with practical neurodiagnostic experience and a strong Armenian professional network.
+**Potential Contribution to Phase II:** Sleep consultation; neurodiagnostic guidance; practical clinical perspective; diaspora introductions.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Potentially useful practical bridge for sleep-related validation questions.
+
+### OPP-060 — Maral Aghvinian Vartanian / Meedk Scientific Bridge
+
+**Name:** Maral Aghvinian Vartanian
+**Organization:** Meedk / Armenian brain-health research ecosystem
+**Country:** United States / Global Armenian network
+**Opportunity Type:** Neuropsychology / scientific-community bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Clinical neuropsychology; brain health; sociocultural neuroscience
+**Relevant Capabilities:** Neuropsychology; Armenian brain-health engagement; mentorship; scientific community building
+**Relevant Work / Program:** Involved with Meedk, an initiative focused on brain-health knowledge, mentorship, research, and collaboration across Armenian communities.
+**Why It May Matter:** Could provide access to a younger and highly engaged Armenian brain-science community rather than only traditional senior academic channels.
+**Potential Contribution to Phase II:** Mentorship; community connection; neuropsychology input; introductions to Armenian neuroscientists.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Meedk itself should later be reconsidered under Section 10 as a network opportunity.
+
+### OPP-061 — Lily Kamalyan
+
+**Name:** Lily Kamalyan
+**Organization:** Columbia University
+**Country:** United States
+**Opportunity Type:** Early-career neuroscience / community bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neuropsychology; cognitive aging; brain health
+**Relevant Capabilities:** Neuropsychological research; cognitive science; Armenian scientific-community engagement
+**Relevant Work / Program:** Early-career researcher involved in neuropsychology/cognitive-aging research and Armenian-oriented brain-health dissemination.
+**Why It May Matter:** Potentially more accessible than senior investigators while still providing a scientifically credible connection into international research environments.
+**Potential Contribution to Phase II:** Early-career scientific dialogue; introductions; cognitive-science perspective; Armenian scientific-network connection.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Accessibility may eventually be an important advantage.
+
+### OPP-062 — Dolores Hambardzumyan
+
+**Name:** Dolores Hambardzumyan
+**Organization:** University of Pennsylvania
+**Country:** United States
+**Opportunity Type:** Senior neuroscience / Armenia-trained scientific bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neurosurgery; brain-tumor biology; neuroscience
+**Relevant Capabilities:** Senior neuroscience research; institutional leadership; US academic-network access; Armenia-trained scientific background
+**Relevant Work / Program:** Professor of Neurosurgery and scientific leader in brain-tumor research who received earlier academic/scientific training in Armenia before developing her research career in the United States.
+**Why It May Matter:** Direct TMR relevance is low, but she represents a strong Armenia-trained-to-US-neuroscience bridge with access to a major academic ecosystem.
+**Potential Contribution to Phase II:** Scientific mentorship; institutional introductions; guidance on building international neuroscience relationships.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Strong bridge identity, lower direct Neuro-TMR overlap.
+
+### OPP-063 — Mariam Melkumyan
+
+**Name:** Mariam Melkumyan
+**Organization:** National Institutes of Health (NIH) / NIAAA research ecosystem
+**Country:** United States
+**Opportunity Type:** Early-career neuroscientist / Armenian scientific bridge
+**Global / Armenia / Diaspora:** Diaspora
+**Research Area:** Neuroscience; neural circuits; neuroimmune signaling
+**Relevant Capabilities:** Experimental neuroscience; NIH research environment; early-career scientific connectivity; Armenia-facing motivation
+**Relevant Work / Program:** Armenian-born neuroscientist working in an NIH research environment on neural-circuit and neuroimmune questions.
+**Why It May Matter:** May provide a more accessible early-career bridge into high-quality US neuroscience while also possessing an explicit interest in improving neuroscience understanding in Armenia.
+**Potential Contribution to Phase II:** Scientific mentorship; introductions; early-career collaboration; connection to broader NIH neuroscience networks.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Contact Information:** Verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Notes:** Particularly interesting as a potentially accessible younger-scientist bridge.
