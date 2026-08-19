@@ -790,3 +790,208 @@ No opportunity should be pursued simply because it is locally available.
 - Section 08 should remain distinct from grant funding: the core question is not “who gives money to the project?” but “what structured programme could place the researcher inside a stronger scientific environment?”
 
 
+---
+
+## 2026-08-19 — Section 08
+
+### Search Lane
+Fellowships, Placements & Research Programs
+
+### Search Focus
+- structured neuroscience research internships
+- sleep-neuroscience training programmes
+- computational-neuroscience research programmes
+- international laboratory placements
+- research mobility fellowships
+- programmes that could convert existing Path E relationships into real laboratory immersion
+- Armenia-supported international scientific placements
+- opportunities capable of materially improving scientific skills, mentorship, network, or laboratory access
+
+### Research Strategy Adjustment
+The Opportunity Universe had already exceeded 100 opportunities before Section 08.
+
+For this reason, Section 08 used a stricter discovery rule:
+
+> **Do not add programmes simply to reach a target count. Include only opportunities that add a genuinely new and potentially high-value mechanism.**
+
+Depth was therefore concentrated on strong programmes rather than expanding toward the previous 15-opportunity target.
+
+### Research Limits Used
+- focused high-value search rather than broad catalogue construction
+- four functional lanes:
+  1. real laboratory immersion
+  2. neuroscience mobility / exchange mechanisms
+  3. specialist experimental training
+  4. computational neuroscience research development
+- final count: 12 opportunities
+- stopped when additional results became generic, redundant, geographically restrictive, or weakly connected to Neuro-TMR
+- no application, final eligibility assessment, ranking, or prioritization performed
+
+### Sources Explored
+- OIST
+- EPFL
+- RIKEN Center for Brain Science
+- Max Planck / Tübingen research ecosystem
+- ISTA
+- Cold Spring Harbor Laboratory
+- FENS / IBRO
+- CAJAL Advanced Neuroscience Training
+- Neuromatch
+- Marine Biological Laboratory
+- Armenian national scientific mobility / professional-training programmes
+- official programme and host-institution documentation
+
+### Opportunities Added
+- OPP-109 — OIST Research Internship Program
+- OPP-110 — EPFL School of Life Sciences Summer Research Program
+- OPP-111 — RIKEN Center for Brain Science Summer Program
+- OPP-112 — CaCTüS — Computation and Cognition Tübingen Summer Internship
+- OPP-113 — ISTA Year-Round Scientific Internships
+- OPP-114 — Cold Spring Harbor Laboratory Undergraduate Research Program
+- OPP-115 — FENS / IBRO-PERC Exchange Fellowships Programme
+- OPP-116 — CAJAL Neurobiology of Sleep
+- OPP-117 — Neuromatch Academy — Computational Neuroscience
+- OPP-118 — Neuromatch Impact Scholars Program
+- OPP-119 — MBL Neural Systems & Behavior
+- OPP-120 — Armenia Professional Training Programme
+
+### Interesting Patterns
+- Section 08 is strategically different from Sections 01–04:
+  - earlier sections identify **who or where**
+  - Section 08 identifies **how the researcher could actually enter those scientific environments**
+- High-value programmes separate into four useful roles:
+
+#### Real Laboratory Immersion
+- OIST
+- EPFL
+- RIKEN CBS
+- CaCTüS
+- ISTA
+- CSHL
+
+#### Neuroscience Mobility / Method Acquisition
+- FENS / IBRO-PERC Exchange Fellowships
+- Armenia Professional Training Programme
+
+#### Intensive Specialist Training
+- CAJAL Neurobiology of Sleep
+- MBL Neural Systems & Behavior
+
+#### Computational Research Development
+- Neuromatch Computational Neuroscience
+- Neuromatch Impact Scholars
+
+- RIKEN CBS is especially relevant because its research ecosystem includes sleep, cognition, learning, EEG, and sleep-dependent brain processes.
+- CAJAL Neurobiology of Sleep is one of the most directly aligned structured opportunities discovered across the entire database because its training includes:
+  - sleep physiology
+  - EEG
+  - auditory stimulation
+  - memory and plasticity
+  - learning tasks
+  - computational analysis
+- CaCTüS provides a strong bridge between the existing ML background and formal computational-neuroscience research.
+- Neuromatch provides a lower-barrier pathway from computational training toward mentored neuroscience research and potentially citable output.
+- The Armenia Professional Training Programme could become especially powerful when combined with:
+  - an Armenian institution from Section 03
+  - an international lab from Section 01 or Section 02
+  - a concrete research question or Path V capability
+- Fellowship and placement mechanisms can therefore act as a bridge between opportunity discovery and actual collaboration.
+
+### Cross-Section Development Pattern
+A possible future pathway identified during discovery is:
+
+**Section 01 / 02**
+- identify strong international laboratory
+
+↓
+
+**Path A / Path E**
+- establish scientific relationship
+
+↓
+
+**Section 08**
+- use fellowship / placement mechanism to enter the laboratory
+
+↓
+
+**Section 05 / Path V**
+- contribute concrete analysis, validation, or research work
+
+↓
+
+**Section 06 / 07**
+- pursue larger funding or institutional development if scientific results justify it
+
+This is a discovery-stage strategic model only and does not represent a finalized execution plan.
+
+### Particularly Important Opportunities for Later Clarification
+Without assigning formal priority yet, several Section 08 opportunities deserve careful attention during later qualification:
+
+- OPP-111 — RIKEN Center for Brain Science Summer Program
+- OPP-112 — CaCTüS
+- OPP-115 — FENS / IBRO-PERC Exchange Fellowships
+- OPP-116 — CAJAL Neurobiology of Sleep
+- OPP-117 — Neuromatch Computational Neuroscience
+- OPP-118 — Neuromatch Impact Scholars
+- OPP-120 — Armenia Professional Training Programme
+
+Reasons include direct Neuro-TMR topic alignment, research immersion quality, computational relevance, or ability to convert international relationships into real placements.
+
+This list is **not yet a ranking or outreach decision**.
+
+### Important Qualification Requirements
+Later qualification should verify for each opportunity:
+
+- current / recurring programme status
+- next application opening
+- exact deadline
+- minimum age
+- undergraduate / graduate / postgraduate eligibility
+- citizenship / nationality restrictions
+- required university affiliation
+- required research experience
+- English-language requirements
+- funding / stipend coverage
+- travel support
+- accommodation support
+- programme duration
+- ability to select a specific laboratory
+- neuroscience / sleep / EEG host availability
+- whether independent applicants from Armenia are eligible
+- likelihood of fitting the researcher's actual career stage at application time
+
+### Timing Note
+Some programmes operate only once per year and may change host laboratories between cycles.
+
+CAJAL Neurobiology of Sleep showed inconsistent deadline information across programme pages during discovery. Its exact current deadline must therefore be verified from the active application portal before any decision.
+
+A deadline-monitoring task has been created for the major Section 08 opportunities so that meaningful application-window or eligibility changes can be surfaced without repeatedly re-running the entire discovery process.
+
+### Opportunities Deliberately Excluded
+Section 08 did not expand into:
+
+- generic summer schools with mainly lectures and networking
+- broad internships with little neuroscience relevance
+- geographically restricted programmes with no realistic pathway
+- programmes duplicating stronger opportunities already discovered
+- full PhD programmes
+- generic university admissions pathways
+
+Full degree programmes may be strategically important to long-term career development but are outside the intended scope of this discovery section.
+
+### New Search Directions
+- Section 09 should focus on **Industry, Hardware & Technology Access**.
+- Because the Opportunity Universe now contains 120 entries, Section 09 should remain selective.
+- Research should focus only on opportunities capable of materially advancing:
+  - EEG hardware access
+  - SDK / API access
+  - research-device partnerships
+  - wearable neurotechnology integration
+  - real-time signal acquisition
+  - audio / stimulation hardware
+  - technical validation
+  - prototype deployment
+- Generic consumer-device companies should not be added unless there is a credible mechanism for research access, integration, data access, SDK access, hardware support, or partnership.
+
+
