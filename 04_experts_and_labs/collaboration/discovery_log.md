@@ -240,3 +240,93 @@ Armenian Scientific Ecosystem
 - Section 04 should focus on **Armenian Diaspora Scientific Bridges**, especially Armenian or Armenian-origin researchers abroad working in sleep, memory, EEG, neurotechnology, biomedical engineering, or computational neuroscience.
 - Section 05 should later revisit Armenian clinical and engineering opportunities from the perspective of **validation data, infrastructure, and experimental access**.
 - Section 11 may later revisit Armenian institutions that could matter for ethics, governance, supervision, and institutional enablement if empirical work begins.
+
+---
+
+## 2026-08-19 — Section 04
+
+### Search Lane
+
+Armenian Diaspora Scientific Bridges
+
+### Search Focus
+
+* Armenian and Armenian-origin neuroscientists working internationally
+* diaspora researchers in sleep medicine, EEG, neurophysiology, neuroengineering, and cognition
+* researchers with demonstrated academic, medical, or scientific connections to Armenia
+* senior scientific-network bridges
+* potentially accessible early-career Armenian scientists abroad
+
+### Research Limits Used
+
+* controlled diaspora-specific search
+* inclusion required a meaningful combination of:
+
+  1. Armenian / Armenian-origin connection
+  2. scientifically relevant capability
+  3. plausible bridge mechanism for Neuro-TMR or Armenian science
+* target: approximately 12–15 meaningful opportunities
+* final count: 15 opportunities
+* no qualification, outreach prioritization, accessibility scoring, or contact verification performed
+
+### Sources Explored
+
+* official university and medical-school profiles
+* official laboratory and institutional pages
+* YSMU and Armenia-facing academic collaboration records
+* Armenian-American medical and scientific organization pages
+* Armenian brain-health / neuroscience community initiatives
+* public scientific profiles used to verify both research role and diaspora/Armenia connection
+
+### Opportunities Added
+
+* OPP-049 — Ardem Patapoutian, Scripps Research
+* OPP-050 — Paul Nuyujukian, Stanford Brain Interfacing Laboratory
+* OPP-051 — Hrayr Attarian, Northwestern Medicine / Feinberg School of Medicine
+* OPP-052 — Lorig Panossian, Northern California sleep-medicine ecosystem
+* OPP-053 — Talin Babikian, UCLA Semel Institute / BrainSPORT
+* OPP-054 — Nerses Sanossian, USC
+* OPP-055 — Viken Babikian, Boston University
+* OPP-056 — Carol A. Mason, Columbia / Zuckerman Institute
+* OPP-057 — Talene Yacoubian, University of Alabama at Birmingham
+* OPP-058 — Rami Apelian, clinical neurophysiology / epilepsy
+* OPP-059 — Armen J. Cherik, neurology / sleep medicine
+* OPP-060 — Maral Aghvinian Vartanian, Armenian brain-health / neuropsychology bridge
+* OPP-061 — Lily Kamalyan, Columbia University
+* OPP-062 — Dolores Hambardzumyan, University of Pennsylvania
+* OPP-063 — Mariam Melkumyan, NIH / NIAAA ecosystem
+
+### Interesting Patterns
+
+* Diaspora relevance and direct TMR relevance are not the same thing. The strongest opportunities combine **scientific capability + Armenian connection + bridge potential**.
+* A small subset has particularly close technical relevance to Neuro-TMR:
+
+  * Hrayr Attarian — sleep medicine / EEG / PSG
+  * Paul Nuyujukian — neural interfaces / real-time decoding
+  * Lorig Panossian — sleep medicine
+  * Talin Babikian — neuropsychology / behavioral validation
+  * Armen Cherik — sleep medicine / neurodiagnostics
+* Several senior scientists have already demonstrated real Armenia-facing academic or medical activity rather than only Armenian ancestry.
+* Early-career scientists may be strategically valuable because accessibility and willingness to engage can sometimes be higher than for globally prominent senior professors.
+* Diaspora opportunities may contribute through **introductions, mentorship, institutional bridges, and scientific-network access** even when their own research does not directly involve TMR.
+* Section 04 should therefore not be judged only by direct research-topic overlap during later qualification.
+
+### Opportunities Deliberately Deferred to Other Sections
+
+Several useful diaspora organizations and professional structures were identified but were not counted as Section 04 scientist opportunities because they fit better elsewhere:
+
+* Armenian American Medical Society
+* Armenian Healthcare Association of the Bay Area
+* Meedk as an organizational/network entity
+* related Armenian scientific and professional networks
+
+These should be reconsidered systematically under:
+
+**Section 10 — Networks, Events & Second-Order Opportunities**
+
+### New Search Directions
+
+* Section 05 should now move from people and institutional bridges to **Validation Data, Research Infrastructure & Experimental Access**.
+* Section 05 should search globally for public/restricted PSG and EEG datasets, wearable EEG datasets, simultaneous PSG + wearable recordings, sleep laboratories, equipment-access routes, and experimental infrastructure that could directly strengthen Path V.
+* Some Section 03 and Section 04 opportunities may later reappear as cross-references in Section 05 when evaluating real EEG / PSG / laboratory access, but they should not be duplicated as new opportunity IDs unless the resource itself is a distinct opportunity.
+* Section 10 should later revisit the Armenian-American professional and scientific organizations discovered during this search as network multipliers.
