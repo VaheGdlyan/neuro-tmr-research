@@ -742,3 +742,392 @@ Status: Discovered — unqualified
 Next Action: Hold for post-discovery verification and qualification
 Source Basis: University of Freiburg BrainLinks-BrainTools — https://uni-freiburg.de/brainlinks-braintools/
 Notes: Strong general closed-loop neurotechnology capability.
+
+
+---
+
+## 03 — Armenian Scientific Ecosystem
+
+> Discovery status: **Section 03 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or selected for outreach**.
+>
+> Section 03 captures Armenian scientific, clinical, engineering, and institutional opportunities that may materially advance Neuro-TMR.
+
+### OPP-031 — COBRAIN Scientific-Educational Center for Fundamental Brain Research
+
+**Name:** COBRAIN Scientific-Educational Center for Fundamental Brain Research  
+**Organization:** Yerevan State Medical University (YSMU)  
+**Country:** Armenia  
+**Opportunity Type:** Scientific center / neuroscience research ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Fundamental brain research; neuroscience capacity building; translational brain science  
+**Relevant Capabilities:** Neuroscience expertise; institutional research ecosystem; international scientific linkage; local research capacity  
+**Relevant Work / Program:** Advanced brain-research center established to strengthen neuroscience research and education in Armenia through international and national support mechanisms.  
+**Why It May Matter:** Represents one of the clearest institutional neuroscience opportunities in Armenia and could provide scientific mentorship, academic legitimacy, and local research linkage.  
+**Potential Contribution to Phase II:** Scientific collaboration; local neuroscience bridge; possible supervision or guidance; connection to Armenian brain-research ecosystem.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official institutional pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** One of the strongest Armenian institutional neuroscience opportunities discovered so far.
+
+### OPP-032 — Scientific Research Center, Neuroscience Laboratory
+
+**Name:** Neuroscience Laboratory  
+**Organization:** Scientific Research Center, Yerevan State Medical University (YSMU)  
+**Country:** Armenia  
+**Opportunity Type:** Research laboratory  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neuroscience  
+**Relevant Capabilities:** Neuroscience research; university-based laboratory structure; possible brain-science collaboration  
+**Relevant Work / Program:** Dedicated neuroscience laboratory operating within YSMU's research center structure.  
+**Why It May Matter:** Provides a more specific local neuroscience-lab opportunity than university-level institutional affiliation alone.  
+**Potential Contribution to Phase II:** Local scientific dialogue; research collaboration; possible methodological or experimental alignment.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official institutional pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Direct local neuroscience-lab opportunity.
+
+### OPP-033 — Department of Neurology & Clinical Research Network
+
+**Name:** Department of Neurology & associated clinical research ecosystem  
+**Organization:** Yerevan State Medical University (YSMU)  
+**Country:** Armenia  
+**Opportunity Type:** Academic clinical department / clinical research ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neurology; clinical neurophysiology; neurological clinical research  
+**Relevant Capabilities:** Clinical neurology; neurophysiological expertise; hospital network access; clinical research environment  
+**Relevant Work / Program:** Department operates through Armenian clinical bases and participates in an organized clinical research environment.  
+**Why It May Matter:** Could provide access to local neurological expertise, institutional medical credibility, and possible clinical pathways relevant to EEG/sleep work.  
+**Potential Contribution to Phase II:** Clinical consultation; possible access pathways; neurophysiological expertise; institutional linkage.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official institutional pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** More clinically oriented than a pure sleep lab, but potentially useful.
+
+### OPP-034 — L. A. Orbeli Institute of Physiology
+
+**Name:** L. A. Orbeli Institute of Physiology  
+**Organization:** National Academy of Sciences of the Republic of Armenia (NAS RA)  
+**Country:** Armenia  
+**Opportunity Type:** National research institute  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neurophysiology; physiology; learning and memory psychophysiology  
+**Relevant Capabilities:** Neurophysiology; learning and memory research; physiological-state measurement; neuronal-network modeling; synaptic/memory-related research  
+**Relevant Work / Program:** Institute includes laboratories and research lines covering learning and memory psychophysiology, synaptic activity in memory-related systems, and physiological-state measurement.  
+**Why It May Matter:** One of the strongest foundational neuroscience and physiology opportunities in Armenia, with meaningful relevance to memory-related scientific questions.  
+**Potential Contribution to Phase II:** Scientific collaboration; physiological reasoning; foundational neuroscience input; possible local research bridge.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official NAS RA pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** One of the strongest Armenian direct-science discoveries.
+
+### OPP-035 — H. Buniatyan Institute of Biochemistry
+
+**Name:** H. Buniatyan Institute of Biochemistry  
+**Organization:** National Academy of Sciences of the Republic of Armenia (NAS RA)  
+**Country:** Armenia  
+**Opportunity Type:** National research institute  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neurochemistry; biochemistry; brain-related molecular mechanisms  
+**Relevant Capabilities:** Neurochemistry; neurotransmitter-related expertise; brain biochemistry  
+**Relevant Work / Program:** Institute's specialization includes neurochemistry and related brain-molecular research themes.  
+**Why It May Matter:** Not a direct EEG/TMR opportunity, but a legitimate Armenian brain-science capability that may matter if deeper mechanistic questions become relevant.  
+**Potential Contribution to Phase II:** Brain-science consultation; possible mechanistic collaboration; broader neuroscience ecosystem connection.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official NAS RA pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Broader brain-science opportunity rather than a direct Path V-style opportunity.
+
+### OPP-036 — Laboratory of Human and Animal Integrative and Adaptive Physiology
+
+**Name:** Laboratory of Human and Animal Integrative and Adaptive Physiology  
+**Organization:** Research Institute of Biology, Yerevan State University (YSU)  
+**Country:** Armenia  
+**Opportunity Type:** Research laboratory  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Physiology; adaptation; brain-related physiological research  
+**Relevant Capabilities:** Experimental physiology; biological research; institutional collaboration potential  
+**Relevant Work / Program:** Laboratory studies physiological adaptation and related biological systems and already collaborates with other Armenian scientific and medical structures.  
+**Why It May Matter:** Could become a local physiological-science bridge, especially in combination with other Armenian opportunities.  
+**Potential Contribution to Phase II:** Scientific consultation; local research collaboration; physiology support.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official YSU pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Better interpreted as part of the local ecosystem than as a direct standalone TMR opportunity.
+
+### OPP-037 — Psychology Research Center
+
+**Name:** Psychology Research Center  
+**Organization:** Yerevan State University (YSU)  
+**Country:** Armenia  
+**Opportunity Type:** Research center  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Psychology; psychophysiology; cognitive sciences  
+**Relevant Capabilities:** Cognitive research; psychophysiology; behavioral methodology; participant-facing research design  
+**Relevant Work / Program:** The center explicitly includes psychophysiology and cognitive science among its directions.  
+**Why It May Matter:** Neuro-TMR will eventually require good behavioral task design and cognitive outcome measurement, not only EEG engineering.  
+**Potential Contribution to Phase II:** Behavioral validation design; cognitive methodology; participant/task-side collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official YSU pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Stronger for outcome/task methodology than for neurotechnology itself.
+
+### OPP-038 — Neuro-Psycholinguistics Laboratory
+
+**Name:** Neuro-Psycholinguistics Laboratory  
+**Organization:** H. Acharyan Institute of Language, NAS RA  
+**Country:** Armenia  
+**Opportunity Type:** Research laboratory  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neuro-psycholinguistics; language; cognition; EEG-linked experimental work  
+**Relevant Capabilities:** EEG use; GSR use; language/cognition research; experimental psycholinguistics  
+**Relevant Work / Program:** The laboratory combines linguistics, psychology, and neuroscience and reports experimental use of EEG and GSR.  
+**Why It May Matter:** Especially relevant if Neuro-TMR later develops toward vocabulary/language-learning or language-based memory experiments.  
+**Potential Contribution to Phase II:** Cognitive-task design; language-learning paradigms; local EEG-linked experimental collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official institutional pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** One of the more unexpectedly relevant Armenian discoveries.
+
+### OPP-039 — Neurotechnology Laboratory, Engineering City
+
+**Name:** Neurotechnology Laboratory  
+**Organization:** Enterprise Incubator Foundation (EIF), Engineering City  
+**Country:** Armenia  
+**Opportunity Type:** Applied research / neurotechnology laboratory  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neurotechnology; EEG acquisition and processing; data science; applied experimentation  
+**Relevant Capabilities:** EEG acquisition; EEG processing; neurotechnology experimentation; engineering + neuroscience + data-science linkage  
+**Relevant Work / Program:** Local neurotechnology lab with modern equipment, ongoing neurotechnology experiments, and explicit EEG-processing capability.  
+**Why It May Matter:** One of the most operationally relevant Armenian opportunities because it sits close to the Neuro-TMR intersection of ML, EEG, and engineering.  
+**Potential Contribution to Phase II:** Path V support; EEG processing collaboration; local technical experimentation; neurotechnology mentorship or access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official EIF pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** One of the strongest Armenian technical discoveries in the section.
+
+### OPP-040 — Coding and Signal Processing Department
+
+**Name:** Coding and Signal Processing Department  
+**Organization:** Institute for Informatics and Automation Problems (IIAP), NAS RA  
+**Country:** Armenia  
+**Opportunity Type:** Research department  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Digital signal processing; computational methods  
+**Relevant Capabilities:** Signal processing; computational analysis; mathematical/computational support  
+**Relevant Work / Program:** Department works in digital signal and image processing and related computational areas.  
+**Why It May Matter:** Path V will eventually require serious signal-processing reasoning, and local capability here may support co-creation even without sleep specialization.  
+**Potential Contribution to Phase II:** Signal-processing consultation; algorithmic collaboration; local technical counterpart for EEG analysis questions.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official IIAP pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Adjacent-computational opportunity within the Armenian ecosystem.
+
+### OPP-041 — Telecommunications / Signal Processing Laboratories
+
+**Name:** Telecommunications / Signal Processing Laboratories  
+**Organization:** Russian-Armenian University (RAU)  
+**Country:** Armenia  
+**Opportunity Type:** University laboratory ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Signal processing; telecommunications; EEG-related signal analysis  
+**Relevant Capabilities:** Digital signal processing; laboratory infrastructure; published EEG-related signal-analysis work  
+**Relevant Work / Program:** RAU maintains signal-processing laboratories, and relevant faculty work includes EEG-signal extraction/analysis.  
+**Why It May Matter:** More relevant than its label initially suggests because it may provide local signal-processing partnership around EEG-related computational problems.  
+**Potential Contribution to Phase II:** Signal-processing collaboration; engineering support; methodological assistance for Path V.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official RAU pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Opportunity discovered through capability relevance rather than direct neuroscience branding.
+
+### OPP-042 — Bioengineering / Biomedical Engineering Ecosystem
+
+**Name:** Bioengineering / Biomedical Engineering ecosystem  
+**Organization:** Russian-Armenian University (RAU)  
+**Country:** Armenia  
+**Opportunity Type:** Academic program / interdisciplinary ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Bioengineering; biomedical engineering; instrumentation  
+**Relevant Capabilities:** Biomedical engineering; interdisciplinary technical education; possible sensing/instrumentation relevance  
+**Relevant Work / Program:** RAU has interdisciplinary bioengineering/bioinformatics structures and biomedical-engineering pathways.  
+**Why It May Matter:** Could become part of a co-creation route for instrumentation, biomedical sensing, or engineering-side support.  
+**Potential Contribution to Phase II:** Engineering collaboration; biomedical-device reasoning; student/research ecosystem access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official RAU pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Broader engineering ecosystem rather than direct sleep-neuroscience opportunity.
+
+### OPP-043 — Mariam Avagyan / sleep-EEG signal-analysis capability
+
+**Name:** Mariam Avagyan / sleep-EEG signal-analysis capability  
+**Organization:** American University of Armenia (AUA)  
+**Country:** Armenia  
+**Opportunity Type:** Individual scientific opportunity  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** REM-sleep EEG; hippocampal EEG dynamics; neural-network methods; signal analysis  
+**Relevant Capabilities:** EEG analysis; sleep-related electrophysiology; machine learning; neural-signal interpretation  
+**Relevant Work / Program:** Faculty profile indicates research including REM-sleep EEG and related signal-analysis work.  
+**Why It May Matter:** One of the closest individual Armenian academic fits to the actual electrophysiological side of the Neuro-TMR problem.  
+**Potential Contribution to Phase II:** Sleep-EEG consultation; local academic guidance; possible methodological collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official faculty page identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** High-interest individual discovery.
+
+### OPP-044 — Levon Hovhannisyan / wearable physiological systems capability
+
+**Name:** Levon Hovhannisyan / wearable physiological systems capability  
+**Organization:** American University of Armenia (AUA)  
+**Country:** Armenia  
+**Opportunity Type:** Individual technical opportunity  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Biomedical devices; wearable sensing; digital signal processing; PPG-related systems  
+**Relevant Capabilities:** Wearable-device design; physiological sensing; DSP; medical-device systems  
+**Relevant Work / Program:** Faculty profile documents work on biomedical/wearable devices and continuous physiological sensing.  
+**Why It May Matter:** Potentially useful for future wearable or hybrid-sensing questions in Neuro-TMR.  
+**Potential Contribution to Phase II:** Engineering advice; wearable-sensing collaboration; device/system reasoning.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official faculty page identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** More future-technology oriented than direct Phase-II validation.
+
+### OPP-045 — Biomedical Engineering / Electronics & Measurement Systems ecosystem
+
+**Name:** Biomedical Engineering / Electronics & Measurement Systems ecosystem  
+**Organization:** National Polytechnic University of Armenia (NPUA)  
+**Country:** Armenia  
+**Opportunity Type:** University engineering ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Biomedical engineering; electronics; measurement systems; instrumentation  
+**Relevant Capabilities:** Instrumentation; measurement systems; engineering education; biomedical engineering  
+**Relevant Work / Program:** NPUA maintains biomedical-engineering and electronics/measurement-related educational and technical structures.  
+**Why It May Matter:** Could become a local engineering support route for sensing, hardware, instrumentation, or student/research collaboration.  
+**Potential Contribution to Phase II:** Engineering support; device/instrumentation collaboration; educational/research network access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official NPUA pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Broad engineering ecosystem opportunity.
+
+### OPP-046 — Neurology, Electrophysiology & Sleep Laboratory
+
+**Name:** Neurology, Electrophysiology & Sleep Laboratory  
+**Organization:** Erebuni Medical Center  
+**Country:** Armenia  
+**Opportunity Type:** Clinical medical center / EEG-PSG infrastructure  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neurology; EEG; polysomnography; sleep laboratory; neurophysiology  
+**Relevant Capabilities:** EEG; sleep-deprivation EEG; EEG monitoring; sleep laboratory; polysomnography; long-duration video-EEG  
+**Relevant Work / Program:** Clinical neurology department with electrophysiology facilities and a sleep laboratory capable of polysomnography.  
+**Why It May Matter:** Probably the clearest Armenian discovery for actual local EEG/PSG/sleep infrastructure.  
+**Potential Contribution to Phase II:** PSG/EEG access; clinical neurophysiology consultation; possible future validation infrastructure.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official medical-center pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** One of the strongest practical Armenian infrastructure opportunities discovered so far.
+
+### OPP-047 — Neurology & Epileptology / EEG ecosystem
+
+**Name:** Neurology & Epileptology / EEG ecosystem  
+**Organization:** Arabkir Medical Center  
+**Country:** Armenia  
+**Opportunity Type:** Clinical medical center / neurophysiology ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neurology; epileptology; EEG; neurophysiology  
+**Relevant Capabilities:** Short- and long-term video-EEG; epilepsy monitoring; advanced electrophysiology; clinical neurological expertise  
+**Relevant Work / Program:** Maintains significant neurophysiological capability, including video-EEG and advanced electrophysiological practice.  
+**Why It May Matter:** Another major Armenian clinical-neurophysiology opportunity, especially for EEG expertise and possible future clinical/infrastructure linkage.  
+**Potential Contribution to Phase II:** Clinical EEG expertise; possible infrastructure access; local neurological collaboration.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official medical-center pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Strong clinical-EEG opportunity; somewhat less directly sleep-focused than Erebuni.
+
+### OPP-048 — Life Sciences International Postgraduate Educational Center / UNESCO Chair in Life Sciences
+
+**Name:** Life Sciences International Postgraduate Educational Center / UNESCO Chair in Life Sciences  
+**Organization:** Armenian life-sciences educational/research ecosystem  
+**Country:** Armenia  
+**Opportunity Type:** Educational and research-support ecosystem  
+**Global / Armenia / Diaspora:** Armenia  
+**Research Area:** Neuroscience; biophysics; biotechnology; biomedical engineering; scientific training  
+**Relevant Capabilities:** Training; academic networking; interdisciplinary scientific development; international linkage  
+**Relevant Work / Program:** Promotes collaborative research and advanced training in neuroscience, biophysics, biotechnology, and biomedical engineering.  
+**Why It May Matter:** Less about direct EEG infrastructure and more about mentorship, academic development, training, and institutional bridging.  
+**Potential Contribution to Phase II:** Training; scientific networking; institutional support; broader research ecosystem access.  
+**Scientific Fit:** Not scored — discovery stage  
+**Practical Accessibility:** Not scored — discovery stage  
+**Potential Impact:** Not scored — discovery stage  
+**Priority:** Not assigned — qualification stage  
+**Contact Information:** Official institutional pages identified; verify during qualification  
+**Status:** Discovered — unqualified  
+**Next Action:** Hold for post-discovery verification and qualification  
+**Notes:** Broader institutional-enablement opportunity.
