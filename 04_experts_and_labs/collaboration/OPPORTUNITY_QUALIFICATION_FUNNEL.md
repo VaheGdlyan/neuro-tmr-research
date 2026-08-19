@@ -3,8 +3,17 @@
 **Phase:** Phase II — Expert Review, Collaboration & Validation  
 **Path:** Path E — Scientific Collaboration / Opportunity Discovery  
 **Status:** LOCKED SPECIFICATION  
-**Version:** 1.0  
+**Version:** 1.1
 **Date:** 2026-08-20
+## Version History
+
+### v1.1 — 2026-08-20
+
+Added `L1_SPLIT` after the first structural-cleaning pass revealed that one discovery record may contain multiple independently actionable qualification units.
+
+This amendment does not change the qualification philosophy, thresholds, or later-layer criteria.
+
+Split children inherit the frozen provenance of the original discovery record and are **not** treated as new post-freeze discoveries.
 
 ---
 
