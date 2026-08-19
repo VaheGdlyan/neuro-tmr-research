@@ -347,3 +347,252 @@ No opportunity exited the qualification funnel during L3.
 The absence of L3 attrition does not imply quality, relevance, priority, or actionability.
 
 Those dimensions remain untested.
+
+---
+
+## L4 — Neuro-TMR Contribution Relevance
+
+**Date:** 2026-08-20  
+**Starting Qualification Units:** 168  
+**Layer Status:** COMPLETE ✅
+
+## Decision Rule
+
+L4 asked:
+
+> **If Neuro-TMR obtained this opportunity, what concrete contribution could it make to the project?**
+
+The following statuses were used:
+
+- `L4_DIRECT_HIGH`
+- `L4_STRONG_ADJACENT`
+- `L4_CONDITIONAL_FUTURE`
+- `L4_WEAK`
+- `L4_NONE`
+
+L4 did not evaluate:
+
+- scientific quality,
+- evidence strength beyond what was needed to establish contribution,
+- redundancy,
+- comparative value,
+- expected response probability,
+- cost-benefit,
+- strategic actionability,
+- ranking,
+- priority,
+- or outreach.
+
+Those dimensions remain reserved for L5 and later layers.
+
+## Complete L4 Contribution Register
+
+| Qualification Unit | L4 Status | Primary Contribution |
+|---|---|---|
+| OPP-001 | `L4_DIRECT_HIGH` | TMR protocol, cue design, and behavioral-validation guidance |
+| OPP-002 | `L4_DIRECT_HIGH` | Sleep oscillation physiology and phase-aware closed-loop timing |
+| OPP-003 | `L4_DIRECT_HIGH` | TMR neural decoding and future reactivation-feedback design |
+| OPP-004 | `L4_DIRECT_HIGH` | Sleep engineering, EEG replay detection, and closed-loop auditory stimulation |
+| OPP-005 | `L4_DIRECT_HIGH` | TMR cueing and sleep-memory experimental design |
+| OPP-006 | `L4_DIRECT_HIGH` | Cue eligibility, sleep responsiveness, and stimulation safeguards |
+| OPP-007 | `L4_DIRECT_HIGH` | Sleep-memory physiology and slow-oscillation closed-loop validation |
+| OPP-008 | `L4_DIRECT_HIGH` | TMR protocol design, EEG reactivation markers, and emotional-memory validation |
+| OPP-009 | `L4_DIRECT_HIGH` | Oscillatory event detection and sleep-memory physiology |
+| OPP-010 | `L4_DIRECT_HIGH` | Translational scope for enhancement, updating, and memory outcomes |
+| OPP-011 | `L4_DIRECT_HIGH` | TMR plus automatic sleep-event detection and cue scheduling |
+| OPP-012 | `L4_DIRECT_HIGH` | Computational memory modelling linked to empirical TMR |
+| OPP-013 | `L4_DIRECT_HIGH` | Real-world learning outcomes and translational TMR task design |
+| OPP-014 | `L4_DIRECT_HIGH` | Real-time sleep-stimulation architecture, timing, and latency |
+| OPP-015 | `L4_DIRECT_HIGH` | Real-time sleep staging, acoustic stimulation, and wearable translation |
+| OPP-016 | `L4_STRONG_ADJACENT` | EEG preprocessing, synchronization, artifact handling, and tooling |
+| OPP-017 | `L4_STRONG_ADJACENT` | Online EEG decoding, calibration, and uncertainty handling |
+| OPP-018 | `L4_STRONG_ADJACENT` | Closed-loop neural-interface architecture and feedback design |
+| OPP-019 | `L4_DIRECT_HIGH` | Ear-EEG and sparse-channel sleep staging |
+| OPP-020 | `L4_DIRECT_HIGH` | Real-time sparse-EEG sleep decoding and closed-loop gating |
+| OPP-021 | `L4_DIRECT_HIGH` | Clinical/computational sleep validation and PSG benchmarking |
+| OPP-022 | `L4_CONDITIONAL_FUTURE` | Future soft wearable electrophysiology and home sensing |
+| OPP-023 | `L4_CONDITIONAL_FUTURE` | Future conformable EEG/electrode interfaces |
+| OPP-024 | `L4_CONDITIONAL_FUTURE` | Future body-conformal bioelectronics and multimodal sensing |
+| OPP-025 | `L4_STRONG_ADJACENT` | In-ear EEG plus multimodal physiological sensing |
+| OPP-026 | `L4_DIRECT_HIGH` | Wearable-versus-PSG sleep validation |
+| OPP-027 | `L4_CONDITIONAL_FUTURE` | Future neural-interface and electrode technology |
+| OPP-028 | `L4_STRONG_ADJACENT` | Sleep neurophysiology and causal sleep modulation |
+| OPP-029 | `L4_STRONG_ADJACENT` | Mobile/around-ear EEG and real-world acquisition |
+| OPP-030 | `L4_STRONG_ADJACENT` | General closed-loop neurotechnology architecture and neural-signal control |
+| OPP-031 | `L4_STRONG_ADJACENT` | Local Armenian neuroscience institutional bridge |
+| OPP-032 | `L4_STRONG_ADJACENT` | Local neuroscience laboratory collaboration |
+| OPP-033 | `L4_STRONG_ADJACENT` | Clinical neurology and neurophysiology linkage |
+| OPP-034 | `L4_STRONG_ADJACENT` | Neurophysiology and learning/memory scientific input |
+| OPP-035 | `L4_WEAK` | Possible neurochemical/mechanistic consultation |
+| OPP-036 | `L4_NONE` | No concrete Neuro-TMR contribution identified beyond broad physiology |
+| OPP-037 | `L4_STRONG_ADJACENT` | Behavioral and cognitive validation design |
+| OPP-038 | `L4_STRONG_ADJACENT` | Language-memory task design with EEG-linked experimentation |
+| OPP-039 | `L4_DIRECT_HIGH` | Local EEG/neurotechnology support for Path V |
+| OPP-040 | `L4_STRONG_ADJACENT` | Signal-processing and algorithmic support |
+| OPP-041 | `L4_STRONG_ADJACENT` | EEG-related signal analysis and engineering support |
+| OPP-042 | `L4_CONDITIONAL_FUTURE` | Future biomedical-engineering co-creation |
+| OPP-043 | `L4_STRONG_ADJACENT` | Signal processing and machine learning with historical sleep-EEG experience |
+| OPP-044 | `L4_CONDITIONAL_FUTURE` | Future wearable/peripheral physiological sensing |
+| OPP-045 | `L4_CONDITIONAL_FUTURE` | Future instrumentation and biomedical-device engineering |
+| OPP-046 | `L4_DIRECT_HIGH` | Local PSG/EEG validation infrastructure |
+| OPP-047 | `L4_STRONG_ADJACENT` | Clinical EEG and neurophysiology expertise |
+| OPP-048 | `L4_WEAK` | Broad scientific training and institutional networking |
+| OPP-049 | `L4_WEAK` | High-level neuroscience introductions and mentorship |
+| OPP-050 | `L4_STRONG_ADJACENT` | Neuroengineering, neural decoding, and closed-loop systems |
+| OPP-051 | `L4_DIRECT_HIGH` | Sleep medicine and PSG/EEG validation |
+| OPP-052 | `L4_STRONG_ADJACENT` | Sleep-medicine consultation plus diaspora bridge |
+| OPP-053 | `L4_STRONG_ADJACENT` | Cognitive and neuropsychological endpoint design |
+| OPP-054 | `L4_WEAK` | Armenia-facing clinical-neuroscience introductions |
+| OPP-055 | `L4_WEAK` | Armenia-facing neurology and academic introductions |
+| OPP-056 | `L4_WEAK` | High-level neuroscience mentorship and network access |
+| OPP-057 | `L4_WEAK` | Armenia-facing neuroscience introductions |
+| OPP-058 | `L4_STRONG_ADJACENT` | Clinical EEG/neurophysiology and neuromodulation perspective |
+| OPP-059 | `L4_STRONG_ADJACENT` | Sleep medicine and neurodiagnostic consultation |
+| OPP-060 | `L4_STRONG_ADJACENT` | Armenian brain-health mentorship and network bridge |
+| OPP-061 | `L4_WEAK` | Early-career neuropsychology/cognitive-science network bridge |
+| OPP-062 | `L4_WEAK` | International neuroscience institutional introductions |
+| OPP-063 | `L4_WEAK` | Early-career NIH neuroscience bridge |
+| OPP-064 | `L4_DIRECT_HIGH` | Large-scale PSG repository and dataset gateway |
+| OPP-065 | `L4_DIRECT_HIGH` | Large-scale PSG sleep-staging generalization |
+| OPP-066 | `L4_DIRECT_HIGH` | Home PSG and actigraphy multimodal comparison |
+| OPP-067 | `L4_DIRECT_HIGH` | Multi-site sleep-model generalization |
+| OPP-068 | `L4_DIRECT_HIGH` | Home-versus-laboratory domain-shift validation |
+| OPP-069 | `L4_DIRECT_HIGH` | Baseline reproducible sleep-stage classification |
+| OPP-070 | `L4_DIRECT_HIGH` | Clinical external sleep-stage validation |
+| OPP-071 | `L4_STRONG_ADJACENT` | NREM microstructure and sleep-stability analysis |
+| OPP-072 | `L4_DIRECT_HIGH` | Population and night-to-night variability validation |
+| OPP-073 | `L4_DIRECT_HIGH` | Cross-dataset generalization and reproducibility |
+| OPP-074 | `L4_DIRECT_HIGH` | Arousal and sleep-disturbance detection |
+| OPP-075 | `L4_DIRECT_HIGH` | Wearable EEG versus PSG validation |
+| OPP-076 | `L4_DIRECT_HIGH` | Ear-EEG sensor-reduction experiments |
+| OPP-077 | `L4_DIRECT_HIGH` | Scorer disagreement and sleep-stage label uncertainty |
+| OPP-078A | `L4_STRONG_ADJACENT` | EEG data-discovery and computational research infrastructure |
+| OPP-078B | `L4_DIRECT_HIGH` | Open real-time sleep-EEG, event-detection, and stimulation tooling |
+| OPP-079 | `L4_STRONG_ADJACENT` | International collaborative health-research funding |
+| OPP-080 | `L4_DIRECT_HIGH` | Brain-health and neuroscience research funding |
+| OPP-081 | `L4_STRONG_ADJACENT` | Institutional capacity building and European laboratory linkage |
+| OPP-082 | `L4_CONDITIONAL_FUTURE` | Future regional neurotechnology/research-ecosystem development |
+| OPP-083 | `L4_CONDITIONAL_FUTURE` | Future independent PI-led neuroscience research programme |
+| OPP-084 | `L4_CONDITIONAL_FUTURE` | Future large-scale multi-PI interdisciplinary research |
+| OPP-085 | `L4_CONDITIONAL_FUTURE` | Future early-career research support |
+| OPP-086 | `L4_CONDITIONAL_FUTURE` | Future independent research-programme development |
+| OPP-087 | `L4_CONDITIONAL_FUTURE` | Future large-scale discovery-research support |
+| OPP-088 | `L4_STRONG_ADJACENT` | International interdisciplinary life-science collaboration funding |
+| OPP-089 | `L4_CONDITIONAL_FUTURE` | Future breakthrough neurotechnology proof-of-principle funding |
+| OPP-090 | `L4_CONDITIONAL_FUTURE` | Future translation of eligible research results |
+| OPP-091 | `L4_CONDITIONAL_FUTURE` | Future deep-tech startup maturation |
+| OPP-092 | `L4_CONDITIONAL_FUTURE` | Future neurotechnology scale-up and commercialization |
+| OPP-093 | `L4_STRONG_ADJACENT` | U.S. neurotechnology/human-neuroscience funding collaboration |
+| OPP-094 | `L4_CONDITIONAL_FUTURE` | Future young-team pilot research funding |
+| OPP-095 | `L4_DIRECT_HIGH` | Armenia laboratory building with international scientific leadership |
+| OPP-096 | `L4_DIRECT_HIGH` | Integration of international scientists into Armenia-based research |
+| OPP-097 | `L4_CONDITIONAL_FUTURE` | Future prototype and translational R&D support |
+| OPP-098 | `L4_CONDITIONAL_FUTURE` | Future state-priority research funding |
+| OPP-099 | `L4_CONDITIONAL_FUTURE` | Future doctoral/young-researcher support |
+| OPP-100 | `L4_DIRECT_HIGH` | EEG/PSG and laboratory-equipment infrastructure |
+| OPP-101 | `L4_DIRECT_HIGH` | International PI-led Armenia research-team formation |
+| OPP-102 | `L4_STRONG_ADJACENT` | Focused pilot-research funding |
+| OPP-103 | `L4_CONDITIONAL_FUTURE` | Future startup and idea-stage product development |
+| OPP-104 | `L4_DIRECT_HIGH` | Compute infrastructure for Path V and ML experiments |
+| OPP-105 | `L4_CONDITIONAL_FUTURE` | Future high-tech workforce support |
+| OPP-106 | `L4_CONDITIONAL_FUTURE` | Future R&D fiscal support |
+| OPP-107 | `L4_WEAK` | Modest youth-innovation funding, recognition, and visibility |
+| OPP-108 | `L4_CONDITIONAL_FUTURE` | Future acceleration, infrastructure, and investment |
+| OPP-109 | `L4_STRONG_ADJACENT` | Broad international research immersion and mentorship |
+| OPP-110 | `L4_STRONG_ADJACENT` | Neuroscience/neuroengineering laboratory immersion |
+| OPP-111 | `L4_STRONG_ADJACENT` | Sleep/cognition neuroscience immersion |
+| OPP-112 | `L4_STRONG_ADJACENT` | Computational-neuroscience and ML research training |
+| OPP-113 | `L4_STRONG_ADJACENT` | Targeted long-duration international research placement |
+| OPP-114 | `L4_STRONG_ADJACENT` | High-level experimental and quantitative neuroscience immersion |
+| OPP-115 | `L4_STRONG_ADJACENT` | Method-transfer placement in an external neuroscience laboratory |
+| OPP-116 | `L4_DIRECT_HIGH` | Specialized sleep-EEG, auditory-stimulation, and memory-method training |
+| OPP-117 | `L4_STRONG_ADJACENT` | Computational-neuroscience skill development |
+| OPP-118 | `L4_STRONG_ADJACENT` | Mentored computational research and scientific-output development |
+| OPP-119 | `L4_STRONG_ADJACENT` | Advanced experimental-neuroscience training |
+| OPP-120 | `L4_DIRECT_HIGH` | Funded international laboratory placement and method transfer |
+| OPP-121 | `L4_DIRECT_HIGH` | Real-time wearable sleep EEG, API access, and closed-loop audio |
+| OPP-122 | `L4_DIRECT_HIGH` | Wearable EEG/SDK prototyping |
+| OPP-123 | `L4_DIRECT_HIGH` | Open raw-EEG closed-loop prototyping |
+| OPP-124 | `L4_DIRECT_HIGH` | Sleep-specific wearable EEG and SDK integration |
+| OPP-125 | `L4_DIRECT_HIGH` | Home sleep-EEG validation reference platform |
+| OPP-126 | `L4_DIRECT_HIGH` | Research-grade low-latency closed-loop EEG |
+| OPP-127 | `L4_STRONG_ADJACENT` | Dry mobile EEG with developer API |
+| OPP-128 | `L4_DIRECT_HIGH` | Reference-grade real-time EEG validation |
+| OPP-129 | `L4_DIRECT_HIGH` | Low-channel frontal sleep-EEG validation |
+| OPP-130 | `L4_STRONG_ADJACENT` | Developer-oriented EEG/Python prototyping |
+| OPP-131 | `L4_STRONG_ADJACENT` | Peripheral arousal and autonomic-state sensing |
+| OPP-132 | `L4_DIRECT_HIGH` | Closed-loop EEG-acoustic architecture and potential partnership |
+| OPP-133 | `L4_STRONG_ADJACENT` | Broad neuroscience collaborator discovery and visibility |
+| OPP-134 | `L4_STRONG_ADJACENT` | Sleep-specific scientific networking and collaboration |
+| OPP-135 | `L4_STRONG_ADJACENT` | Sleep-research networking and collaboration |
+| OPP-136 | `L4_STRONG_ADJACENT` | Global sleep-science network access |
+| OPP-137 | `L4_STRONG_ADJACENT` | European neuroscience methods and collaboration network |
+| OPP-138 | `L4_STRONG_ADJACENT` | Neuroscience training, mobility, and grant network |
+| OPP-139 | `L4_STRONG_ADJACENT` | Neurotechnology engineering and industry community |
+| OPP-140 | `L4_STRONG_ADJACENT` | Biomedical signal-processing and neural-engineering network |
+| OPP-141 | `L4_STRONG_ADJACENT` | Memory and cognitive-neuroscience network |
+| OPP-142 | `L4_STRONG_ADJACENT` | ML-neuroscience and computational-research network |
+| OPP-143 | `L4_STRONG_ADJACENT` | EEG methods and technical community |
+| OPP-144 | `L4_STRONG_ADJACENT` | Armenian brain-health mentorship and scientific network |
+| OPP-145 | `L4_STRONG_ADJACENT` | Armenian clinical, neurology, and sleep-medicine network |
+| OPP-146 | `L4_CONDITIONAL_FUTURE` | Future YSMU human-research ethics pathway |
+| OPP-147 | `L4_CONDITIONAL_FUTURE` | Future AUA human-research ethics pathway |
+| OPP-148 | `L4_CONDITIONAL_FUTURE` | Future AUA grants, contracts, IP, and research administration |
+| OPP-149 | `L4_CONDITIONAL_FUTURE` | Future YSMU scientific-governance pathway |
+| OPP-150 | `L4_CONDITIONAL_FUTURE` | Future Armenian medical-device clinical-investigation pathway |
+| OPP-151 | `L4_CONDITIONAL_FUTURE` | Future Armenian privacy and research-data governance |
+| OPP-152 | `L4_CONDITIONAL_FUTURE` | Future secure human-study data-management infrastructure |
+| OPP-153 | `L4_STRONG_ADJACENT` | EEG/ERP preregistration, transparency, and reproducibility |
+| OPP-154 | `L4_CONDITIONAL_FUTURE` | Future public human-study registration and results transparency |
+| OPP-155 | `L4_CONDITIONAL_FUTURE` | Future U.S. multi-site IRB reliance |
+| OPP-156 | `L4_CONDITIONAL_FUTURE` | Future HHS-linked institutional human-research assurance |
+| OPP-157 | `L4_CONDITIONAL_FUTURE` | Future independent/central IRB support |
+| OPP-158 | `L4_CONDITIONAL_FUTURE` | Future pretrained sleep representations and transfer learning |
+| OPP-159 | `L4_CONDITIONAL_FUTURE` | Future post-cue memory-reactivation decoding and feedback |
+| OPP-160 | `L4_STRONG_ADJACENT` | General EEG representation learning and transfer |
+| OPP-161 | `L4_CONDITIONAL_FUTURE` | Future PPG/autonomic representations for multimodal sensing |
+| OPP-162 | `L4_CONDITIONAL_FUTURE` | Future memory-difficulty-aware adaptive cue scheduling |
+| OPP-163 | `L4_DIRECT_HIGH` | Phase-aware TMR timing and closed-loop methodology |
+| OPP-164 | `L4_CONDITIONAL_FUTURE` | Future spindle/microstate-aware cue control |
+| OPP-165 | `L4_CONDITIONAL_FUTURE` | Future integrated in-ear EEG plus auditory stimulation hardware |
+| OPP-166 | `L4_CONDITIONAL_FUTURE` | Future federated multi-site model validation |
+| OPP-167 | `L4_WEAK` | Speculative long-horizon brain-twin/stimulation simulation |
+
+## L4 Summary
+
+- `L4_DIRECT_HIGH`: **54**
+- `L4_STRONG_ADJACENT`: **58**
+- `L4_CONDITIONAL_FUTURE`: **43**
+- `L4_WEAK`: **12**
+- `L4_NONE`: **1**
+
+### Hard Relevance Exit
+
+`OPP-036 — Laboratory of Human and Animal Integrative and Adaptive Physiology`
+
+**Status:** `L4_NONE`
+
+**Reason:**  
+Current research activity is centered on broad/adaptive physiology, histological and cellular responses, hypoxia, and related biological questions. No sufficiently concrete contribution to the current or reasonably foreseeable Neuro-TMR scientific, technical, validation, institutional, funding, network, or future-architecture requirements was identified.
+
+**Exit Reason:** `EXIT_NO_RELEVANCE`
+
+### L4 Funnel Result
+
+**168 qualification units**
+
+↓
+
+**167 with at least a defensible Neuro-TMR contribution**
+
++
+
+**1 with no material Neuro-TMR contribution**
+
+### Units Proceeding to L5
+
+**167**
+
+`L4_WEAK` opportunities remain visible for L5 because they still possess a minimally defensible contribution, but their relevance is already recognized as small or vague.
+
+They should not be interpreted as qualified or recommended opportunities.
