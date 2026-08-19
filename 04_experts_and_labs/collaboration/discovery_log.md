@@ -171,3 +171,72 @@ Section 03 should shift geographically and practically toward the Armenian Scien
 Section 05 should later revisit several Section 02 leads when searching specifically for datasets, equipment, validation infrastructure, and experimental access.
 
 Section 09 should later revisit wearable/bioelectronics groups from the perspective of research hardware, SDK/device access, and technology partnerships rather than scientific capability alone.
+
+
+---
+
+## 2026-08-19 — Section 03
+
+### Search Lane
+Armenian Scientific Ecosystem
+
+### Search Focus
+- Armenian neuroscience and neurophysiology institutions
+- Armenian clinical EEG / PSG / sleep infrastructure
+- Armenian engineering, signal-processing, and neurotechnology capability
+- Armenian psychology / cognition / language-related research capability
+- Armenian scientific institutions that could support co-created Neuro-TMR work
+
+### Research Limits Used
+- slightly deeper than Sections 01–02
+- 4 bounded search lanes:
+  1. fundamental neuroscience / physiology
+  2. clinical EEG / PSG / sleep medicine
+  3. engineering / signal processing / neurotechnology
+  4. cognition / behavior / language
+- final count: 18 opportunities
+- no qualification, priority ranking, contact verification, or outreach research performed
+
+### Sources Explored
+- official Armenian university pages
+- official NAS RA institute pages
+- official medical-center / hospital pages
+- official EIF / Engineering City pages
+- official faculty and laboratory pages
+- official educational and research-support ecosystem pages
+
+### Opportunities Added
+- OPP-031 — YSMU COBRAIN Scientific-Educational Center for Fundamental Brain Research
+- OPP-032 — YSMU Scientific Research Center, Neuroscience Laboratory
+- OPP-033 — YSMU Department of Neurology & Clinical Research Network
+- OPP-034 — L. A. Orbeli Institute of Physiology, NAS RA
+- OPP-035 — H. Buniatyan Institute of Biochemistry, NAS RA
+- OPP-036 — YSU Research Institute of Biology, Laboratory of Human and Animal Integrative and Adaptive Physiology
+- OPP-037 — YSU Psychology Research Center
+- OPP-038 — H. Acharyan Institute of Language, Neuro-Psycholinguistics Laboratory
+- OPP-039 — EIF Science Incubator, Neurotechnology Laboratory
+- OPP-040 — IIAP NAS RA, Coding and Signal Processing Department
+- OPP-041 — Russian-Armenian University, Telecommunications / Signal Processing Laboratories
+- OPP-042 — Russian-Armenian University, Bioengineering / Biomedical Engineering ecosystem
+- OPP-043 — American University of Armenia, Mariam Avagyan / sleep-EEG signal-analysis capability
+- OPP-044 — American University of Armenia, Levon Hovhannisyan / wearable physiological systems capability
+- OPP-045 — National Polytechnic University of Armenia, Biomedical Engineering / Electronics & Measurement Systems ecosystem
+- OPP-046 — Erebuni Medical Center, Neurology, Electrophysiology & Sleep Laboratory
+- OPP-047 — Arabkir Medical Center, Neurology & Epileptology / EEG ecosystem
+- OPP-048 — Life Sciences International Postgraduate Educational Center / UNESCO Chair in Life Sciences
+
+### Interesting Patterns
+- Armenia does not appear to have an obvious established TMR laboratory, but it does contain multiple **component capabilities** relevant to Neuro-TMR.
+- The Armenian ecosystem separates into four useful layers:
+  - **brain science** (COBRAIN, Orbeli, YSMU neuroscience, Buniatyan, YSU physiology)
+  - **clinical EEG / PSG / neurophysiology** (Erebuni, Arabkir, YSMU neurology)
+  - **neurotechnology / engineering / signal processing** (EIF, IIAP, RAU, NPUA, AUA)
+  - **cognition / language / behavioral research** (YSU Psychology, Neuro-Psycholinguistics Lab)
+- The strongest Armenian opportunity may not be a single institution; it may eventually be a **co-created combination of local capabilities**.
+- Several opportunities are more operationally relevant than expected, especially EIF Neurotechnology Laboratory, Erebuni's EEG/PSG/sleep infrastructure, and Orbeli's learning/memory neurophysiology.
+- Armenian opportunities may be especially valuable because of accessibility, repeated interaction, mentorship potential, and realistic transition from communication to actual work.
+
+### New Search Directions
+- Section 04 should focus on **Armenian Diaspora Scientific Bridges**, especially Armenian or Armenian-origin researchers abroad working in sleep, memory, EEG, neurotechnology, biomedical engineering, or computational neuroscience.
+- Section 05 should later revisit Armenian clinical and engineering opportunities from the perspective of **validation data, infrastructure, and experimental access**.
+- Section 11 may later revisit Armenian institutions that could matter for ethics, governance, supervision, and institutional enablement if empirical work begins.
