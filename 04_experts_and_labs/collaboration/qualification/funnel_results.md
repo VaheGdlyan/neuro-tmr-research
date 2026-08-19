@@ -134,6 +134,71 @@ Those questions belong to later funnel layers.
 
 ### Next Layer
 
-**L3 — Access / Eligibility / Usability**
+---
+
+## L3 — Access / Eligibility / Usability
+
+**Date:** 2026-08-20
+
+**Starting Qualification Units:** 168
+
+### Decisions
+
+- `L3_ACCESSIBLE_NOW`: **114**
+- `L3_ACCESSIBLE_WITH_BRIDGE`: **22**
+- `L3_CONDITIONAL_TIMING`: **32**
+- `L3_NOT_REALISTICALLY_ACCESSIBLE`: **0**
+- `L3_UNKNOWN`: **0**
+
+### Funnel Result
+
+**168 L2-verified qualification units**
+
+↓
+
+**114 directly accessible**
+
++
+
+**22 accessible through an identifiable bridge**
+
++
+
+**32 conditional / timing-dependent**
+
+↓
+
+**168 retained qualification units**
+
+### Attrition
+
+**0**
+
+No opportunity was eliminated during L3.
+
+This result means that every retained opportunity has either:
+
+- a direct current access route,
+- a plausible bridge-based access route,
+- or a defined future/timing-dependent access condition.
+
+It does **not** mean that every opportunity is:
+
+- materially relevant to Neuro-TMR,
+- scientifically strong,
+- distinctive,
+- worth the effort,
+- actionable,
+- or appropriate for outreach.
+
+Those questions remain reserved for later qualification layers.
+
+### L3 Status
+
+**COMPLETE ✅**
+
+### Next Layer
+
+**L4 — Neuro-TMR Contribution Relevance**
 
 **Status:** NOT STARTED
