@@ -330,3 +330,142 @@ These should be reconsidered systematically under:
 * Section 05 should search globally for public/restricted PSG and EEG datasets, wearable EEG datasets, simultaneous PSG + wearable recordings, sleep laboratories, equipment-access routes, and experimental infrastructure that could directly strengthen Path V.
 * Some Section 03 and Section 04 opportunities may later reappear as cross-references in Section 05 when evaluating real EEG / PSG / laboratory access, but they should not be duplicated as new opportunity IDs unless the resource itself is a distinct opportunity.
 * Section 10 should later revisit the Armenian-American professional and scientific organizations discovered during this search as network multipliers.
+
+
+---
+
+## 2026-08-19 — Section 05
+
+### Search Lane
+
+Validation Data, Research Infrastructure & Experimental Access
+
+### Search Focus
+
+* large PSG and reference sleep datasets
+* public and controlled-access EEG sleep datasets
+* wearable / sparse-channel / ear-EEG validation data
+* simultaneous wearable EEG + PSG recordings
+* sleep-arousal and sleep-microstructure annotations
+* home-versus-laboratory recordings
+* computational and real-time sleep-research infrastructure
+
+### Research Limits Used
+
+* 4 bounded search lanes:
+
+  1. large PSG / reference datasets
+  2. wearable and reduced-sensor validation data
+  3. arousal and sleep-microstructure resources
+  4. reusable computational / experimental infrastructure
+* target: approximately 15 opportunities
+* final count: 15 opportunities
+* stopped before expanding into a general catalogue of sleep datasets
+* no dataset selection, downloading, Path V experiment design, accessibility scoring, or qualification performed
+
+### Sources Explored
+
+* National Sleep Research Resource (NSRR)
+* PhysioNet
+* NEMAR
+* OpenNeuro
+* official dataset documentation
+* official research-platform pages
+* primary publications / dataset descriptions where needed to establish the resource's purpose and signal content
+
+### Opportunities Added
+
+* OPP-064 — National Sleep Research Resource (NSRR)
+* OPP-065 — Sleep Heart Health Study (SHHS)
+* OPP-066 — MESA Sleep
+* OPP-067 — STAGES
+* OPP-068 — HomePAP
+* OPP-069 — Sleep-EDF Expanded
+* OPP-070 — HMC Sleep Staging Database
+* OPP-071 — CAP Sleep Database
+* OPP-072 — ISRUC-Sleep
+* OPP-073 — Montreal Archive of Sleep Studies (MASS)
+* OPP-074 — PhysioNet / CinC 2018 Sleep Arousal Dataset
+* OPP-075 — Bitbrain Open Access Sleep (BOAS)
+* OPP-076 — Ear-EEG Sleep Monitoring 2017 (EESM17)
+* OPP-077 — Dreem Open Datasets (DOD-H / DOD-O)
+* OPP-078 — NEMAR + Dreamento Research Infrastructure Pathway
+
+### Interesting Patterns
+
+* Section 05 provides a realistic **validation ladder** rather than one universal dataset.
+* Different resources answer different scientific questions:
+
+  * basic sleep-stage classification
+  * cross-dataset generalization
+  * clinical robustness
+  * home-versus-laboratory domain shift
+  * reduced / wearable EEG performance
+  * human scorer disagreement
+  * arousal detection
+  * NREM microstructure
+  * real-time experimental infrastructure
+* BOAS is particularly relevant because simultaneous wearable forehead EEG and clinical PSG can directly support the question of how much information is lost when reducing the sensing setup.
+* The PhysioNet 2018 arousal dataset is directly relevant to the Path A feedback that a first-generation system should avoid excessive arousals and substantial sleep disruption.
+* Multi-scorer datasets such as Dreem DOD-H / DOD-O highlight that human sleep-stage labels themselves contain uncertainty; future Path V evaluation should therefore avoid treating one scorer's labels as perfect ground truth.
+* HomePAP introduces an important translational dimension by allowing home and laboratory conditions to be considered separately.
+* Section 05 confirms that Path V does not need to begin with participant recruitment or proprietary data; substantial validation work can be performed with existing resources.
+
+### Possible Path V Validation Ladder
+
+A preliminary conceptual ladder identified during discovery is:
+
+1. **Sleep-EDF / MASS / ISRUC**
+
+   * initial pipeline and baseline sleep-stage classification
+
+2. **SHHS / STAGES / MESA**
+
+   * larger-scale and heterogeneous generalization
+
+3. **HMC**
+
+   * clinical-domain robustness
+
+4. **BOAS / EESM17**
+
+   * wearable and reduced-channel EEG testing
+
+5. **PhysioNet 2018**
+
+   * arousal / disturbance detection
+
+6. **CAP Sleep Database**
+
+   * NREM instability and microstructure
+
+7. **HomePAP**
+
+   * home-versus-laboratory domain shift
+
+8. **NEMAR / Dreamento**
+
+   * transition from offline analysis toward reusable real-time research infrastructure
+
+This ladder is only a discovery-stage observation and is **not yet the final Path V experimental design**.
+
+### Cross-References to Existing Opportunities
+
+* Section 03 opportunities such as **Erebuni Medical Center**, **EIF Neurotechnology Laboratory**, and other Armenian EEG infrastructure may later be evaluated as real experimental-access mechanisms.
+* Section 02 opportunities such as **ETH SleepLoopFM**, **Aarhus Ear-EEG**, and related wearable/real-time EEG groups may later provide infrastructure or methodological access.
+* These existing opportunities should be cross-referenced rather than duplicated with new IDs unless a genuinely distinct dataset, facility, or access mechanism is identified.
+
+### New Search Directions
+
+* Section 06 should now shift from scientific and technical resources to **Global Funding & Research Support**.
+* Search should focus on funding mechanisms that could realistically support neuroscience, sleep research, neurotechnology, young researchers, equipment, research travel, validation work, or international scientific collaboration.
+* Funding opportunities should be treated as distinct mechanisms rather than merely collecting famous grant agencies.
+* Later qualification should determine which Section 05 resources are best suited for:
+
+  * training
+  * validation
+  * reduced-channel testing
+  * arousal monitoring
+  * experimental prototyping
+    rather than assuming every dataset serves the same purpose.
+

@@ -1454,3 +1454,341 @@ Notes: Strong general closed-loop neurotechnology capability.
 **Status:** Discovered — unqualified
 **Next Action:** Hold for post-discovery verification and qualification
 **Notes:** Particularly interesting as a potentially accessible younger-scientist bridge.
+
+
+## 05 — Validation Data, Research Infrastructure & Experimental Access
+
+> Discovery status: **Section 05 controlled discovery pass completed (2026-08-19).**
+>
+> These entries are **discovered but not yet qualified, prioritized, or selected for use/access requests**.
+>
+> Section 05 captures datasets, research infrastructure, experimental platforms, and validation resources that could materially strengthen Neuro-TMR Phase II and especially Path V.
+
+### OPP-064 — National Sleep Research Resource (NSRR)
+
+**Name:** National Sleep Research Resource (NSRR)
+**Organization:** NHLBI-supported sleep-data infrastructure
+**Country:** United States / Global access
+**Opportunity Type:** Sleep-data repository / research infrastructure
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Polysomnography; sleep epidemiology; actigraphy; physiological sleep data
+**Relevant Capabilities:** Large-scale PSG access; harmonized variables; multiple cohorts; actigraphy; clinical and physiological sleep data
+**Relevant Work / Program:** Central research infrastructure hosting multiple major sleep cohorts and associated physiological datasets.
+**Why It May Matter:** Could serve as a primary gateway for identifying and accessing large, heterogeneous PSG resources for Path V rather than relying on a single benchmark dataset.
+**Potential Contribution to Phase II:** Dataset discovery; large-scale PSG validation; cross-cohort analysis; generalization testing.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Verify access requirements during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Source Basis:** https://sleepdata.org/about
+**Notes:** Infrastructure-level opportunity rather than one individual dataset.
+
+### OPP-065 — Sleep Heart Health Study (SHHS)
+
+**Name:** Sleep Heart Health Study (SHHS)
+**Organization:** National Sleep Research Resource
+**Country:** United States
+**Opportunity Type:** Large-scale PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep physiology; PSG; sleep-disordered breathing; longitudinal sleep research
+**Relevant Capabilities:** Thousands of PSG recordings; EEG; physiological channels; sleep-stage labels; large population cohort
+**Relevant Work / Program:** Large longitudinal sleep cohort containing overnight PSG and associated clinical variables.
+**Why It May Matter:** Provides large-scale conventional PSG data suitable for developing and testing sleep-stage models beyond small benchmark datasets.
+**Potential Contribution to Phase II:** Sleep-stage classification; cross-subject generalization; large-cohort robustness analysis.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Access procedures through NSRR; verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Source Basis:** https://sleepdata.org/datasets/shhs/pages
+**Notes:** Strong large-scale reference PSG opportunity.
+
+### OPP-066 — MESA Sleep
+
+**Name:** Multi-Ethnic Study of Atherosclerosis (MESA) Sleep
+**Organization:** National Sleep Research Resource
+**Country:** United States
+**Opportunity Type:** PSG + actigraphy dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep physiology; home PSG; actigraphy; multimodal sleep monitoring
+**Relevant Capabilities:** Full unattended PSG; wrist actigraphy; clinical variables; large participant cohort
+**Relevant Work / Program:** More than two thousand participants underwent overnight PSG alongside actigraphy and broader health measurements.
+**Why It May Matter:** Creates a useful bridge between clinical-grade sleep physiology and lower-burden wearable sensing.
+**Potential Contribution to Phase II:** Multimodal comparison; PSG-vs-actigraphy reasoning; home sleep analysis; future reduced-sensor validation.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Access through NSRR; verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Source Basis:** https://sleepdata.org/datasets/mesa
+**Notes:** Particularly useful for studying relationships between full PSG and wearable-type monitoring.
+
+### OPP-067 — STAGES
+
+**Name:** Stanford Technology Analytics and Genomics in Sleep (STAGES)
+**Organization:** Multi-center sleep research consortium / NSRR
+**Country:** United States
+**Opportunity Type:** Multi-site clinical PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep medicine; PSG; actigraphy; neuropsychological and clinical measures
+**Relevant Capabilities:** Multi-site PSG; heterogeneous patients; actigraphy; questionnaires; neuropsychological data
+**Relevant Work / Program:** Multi-center dataset assembled across multiple collection sites and sleep centers.
+**Why It May Matter:** Particularly useful for testing whether sleep-stage algorithms generalize across institutions, acquisition environments, and heterogeneous populations.
+**Potential Contribution to Phase II:** Cross-site validation; domain generalization; robustness analysis; clinically heterogeneous testing.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Verify through NSRR during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Source Basis:** https://sleepdata.org/datasets/stages
+**Notes:** Strong candidate for testing generalization rather than only raw classifier performance.
+
+### OPP-068 — HomePAP
+
+**Name:** Home Positive Airway Pressure (HomePAP) Study
+**Organization:** National Sleep Research Resource
+**Country:** United States
+**Opportunity Type:** Home / laboratory PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Home sleep testing; laboratory PSG; sleep-disordered breathing
+**Relevant Capabilities:** Home recordings; laboratory PSG; raw physiological sleep data
+**Relevant Work / Program:** Contains both home-oriented and laboratory sleep-study pathways.
+**Why It May Matter:** Provides a potential dataset for studying domain shift between controlled laboratory conditions and more realistic home sleep measurement.
+**Potential Contribution to Phase II:** Home-vs-lab robustness analysis; translational validation; real-world deployment reasoning.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Verify through NSRR during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for post-discovery verification and qualification
+**Source Basis:** https://sleepdata.org/datasets/homepap
+**Notes:** Particularly relevant to eventual home Neuro-TMR deployment.
+
+### OPP-069 — Sleep-EDF Expanded
+
+**Name:** Sleep-EDF Expanded
+**Organization:** PhysioNet
+**Country:** International / open access
+**Opportunity Type:** Open PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep staging; EEG; PSG
+**Relevant Capabilities:** EEG; EOG; EMG; expert hypnograms; whole-night recordings
+**Relevant Work / Program:** Widely used open sleep-staging benchmark containing whole-night PSG recordings with expert sleep-stage annotations.
+**Why It May Matter:** Small and accessible enough to support rapid baseline Path V development before moving to larger and more difficult datasets.
+**Potential Contribution to Phase II:** First sleep-stage baseline; pipeline development; reduced-channel experiments; reproducible benchmarking.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Open via PhysioNet
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later Path V dataset selection
+**Source Basis:** https://physionet.org/content/sleep-edfx/1.0.0/
+**Notes:** Likely practical as an early Path V baseline resource.
+
+### OPP-070 — HMC Sleep Staging Database
+
+**Name:** Haaglanden Medisch Centrum Sleep Staging Database
+**Organization:** Haaglanden Medisch Centrum / PhysioNet
+**Country:** Netherlands
+**Opportunity Type:** Clinical PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Clinical sleep staging; polysomnography
+**Relevant Capabilities:** Whole-night PSG; clinical population; expert sleep-stage labels; multiple physiological channels
+**Relevant Work / Program:** Sleep-clinic PSG dataset containing heterogeneous clinical recordings.
+**Why It May Matter:** Could provide a harder external validation set after development on cleaner or more conventional benchmark datasets.
+**Potential Contribution to Phase II:** Clinical-domain validation; robustness testing; distribution-shift analysis.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Open through PhysioNet
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later qualification and dataset-role assignment
+**Source Basis:** https://physionet.org/content/hmc-sleep-staging/1.1/
+**Notes:** Useful as an external clinical test rather than necessarily primary training data.
+
+### OPP-071 — CAP Sleep Database
+
+**Name:** CAP Sleep Database
+**Organization:** PhysioNet
+**Country:** International / open access
+**Opportunity Type:** PSG + sleep-microstructure dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep staging; Cyclic Alternating Pattern; NREM instability
+**Relevant Capabilities:** PSG; sleep-stage labels; CAP annotations; EEG; EOG; EMG; respiration; oxygen saturation; ECG
+**Relevant Work / Program:** Sleep dataset with annotations for both conventional sleep stages and Cyclic Alternating Pattern activity.
+**Why It May Matter:** Neuro-TMR may eventually need more than categorical N2/N3 labels; NREM stability and microstructure could influence cue eligibility and disturbance risk.
+**Potential Contribution to Phase II:** NREM microstructure analysis; sleep-instability research; possible future cue-safety features.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Open through PhysioNet
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later qualification
+**Source Basis:** https://physionet.org/content/capslpdb/
+**Notes:** Distinct from ordinary sleep-staging datasets because of microstructure annotations.
+
+### OPP-072 — ISRUC-Sleep
+
+**Name:** ISRUC-Sleep
+**Organization:** University of Coimbra research ecosystem
+**Country:** Portugal
+**Opportunity Type:** Public PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep staging; sleep disorders; physiological monitoring
+**Relevant Capabilities:** EEG; PSG; respiratory signals; expert scoring; healthy and clinical participants; repeated recordings in subset
+**Relevant Work / Program:** Public sleep dataset with multiple participant groups and independently scored sleep recordings.
+**Why It May Matter:** Useful for studying population heterogeneity and, in repeated-session data, night-to-night variability within individuals.
+**Potential Contribution to Phase II:** Cross-subject validation; within-subject analysis; robustness across sleep conditions.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Public dataset; verify current distribution method during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later dataset-role assessment
+**Source Basis:** https://sleeptight.isr.uc.pt/
+**Notes:** Potentially valuable for both inter- and intra-subject variability.
+
+### OPP-073 — Montreal Archive of Sleep Studies (MASS)
+
+**Name:** Montreal Archive of Sleep Studies (MASS)
+**Organization:** Montreal research sleep ecosystem
+**Country:** Canada
+**Opportunity Type:** Open PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep staging; PSG; electrophysiology
+**Relevant Capabilities:** Multiple PSG subsets; expert scoring; established use in automatic sleep-stage research
+**Relevant Work / Program:** Publicly available whole-night sleep recordings widely used in automated sleep research.
+**Why It May Matter:** Provides an independent dataset suitable for testing cross-dataset generalization rather than evaluating only on the dataset used for development.
+**Potential Contribution to Phase II:** External validation; generalization testing; reproducibility.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Public repository; verify during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later qualification
+**Source Basis:** DOI: 10.5683/SP3/CHG82L
+**Notes:** Useful as an independent benchmark rather than another redundant training dataset.
+
+### OPP-074 — PhysioNet / CinC 2018 Sleep Arousal Dataset
+
+**Name:** PhysioNet / Computing in Cardiology Challenge 2018 Sleep Arousal Dataset
+**Organization:** PhysioNet
+**Country:** International / open access
+**Opportunity Type:** PSG + arousal annotation dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep arousal detection; PSG; physiological disturbance
+**Relevant Capabilities:** Sample-level arousal annotations; EEG; EOG; EMG; ECG; SaO₂; sleep-stage labels
+**Relevant Work / Program:** Large PSG resource designed around detection of non-apnea sleep arousals.
+**Why It May Matter:** Directly relevant to Neuro-TMR's safety/control problem because a future system may need to detect whether cue delivery disturbs sleep.
+**Potential Contribution to Phase II:** Arousal-detection experiments; sleep-disturbance modeling; future post-cue safety monitoring.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Available through PhysioNet
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later Path V qualification
+**Source Basis:** https://physionet.org/content/challenge-2018/1.0.0/
+**Notes:** Particularly relevant to Schechtman's feedback about preserving sleep architecture and avoiding excessive arousal.
+
+### OPP-075 — Bitbrain Open Access Sleep (BOAS)
+
+**Name:** Bitbrain Open Access Sleep (BOAS) Dataset
+**Organization:** Bitbrain / NEMAR ecosystem
+**Country:** Spain / International access
+**Opportunity Type:** Simultaneous PSG + wearable EEG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Sleep staging; wearable EEG; PSG validation
+**Relevant Capabilities:** Simultaneous clinical PSG and wearable forehead EEG; expert-consensus labels; wearable-vs-reference comparison
+**Relevant Work / Program:** Dataset containing simultaneous PSG and wearable EEG recordings from the same nights.
+**Why It May Matter:** Creates a direct experimental route for asking how much sleep-state information is lost when moving from full PSG toward wearable EEG.
+**Potential Contribution to Phase II:** Wearable-vs-PSG comparison; reduced-channel validation; direct test of EEG V1 hardware assumptions.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Available through NEMAR; verify details during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later Path V dataset selection
+**Source Basis:** https://nemar.org/dataset/on005555
+**Notes:** One of the strongest Section 05 discoveries for the current Neuro-TMR sensing question.
+
+### OPP-076 — Ear-EEG Sleep Monitoring 2017 (EESM17)
+
+**Name:** Ear-EEG Sleep Monitoring 2017 (EESM17)
+**Organization:** OpenNeuro / ear-EEG research ecosystem
+**Country:** Denmark / International access
+**Opportunity Type:** Ear-EEG + partial PSG dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Wearable EEG; ear-EEG; sleep monitoring
+**Relevant Capabilities:** Ear-EEG; simultaneous reference physiological recording; multiple ear electrodes; overnight sleep data
+**Relevant Work / Program:** Open dataset containing overnight ear-EEG recordings acquired alongside partial PSG measurements.
+**Why It May Matter:** Allows investigation of whether unconventional, low-burden EEG placements retain useful sleep-stage information.
+**Potential Contribution to Phase II:** Reduced-sensor experiments; electrode-placement analysis; wearable EEG feasibility.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Public via OpenNeuro
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later Path V qualification
+**Source Basis:** OpenNeuro dataset ds004348
+**Notes:** Small dataset, but unique because of ear-EEG design.
+
+### OPP-077 — Dreem Open Datasets (DOD-H / DOD-O)
+
+**Name:** Dreem Open Datasets — DOD-H / DOD-O
+**Organization:** Dreem research ecosystem
+**Country:** France / International access
+**Opportunity Type:** PSG / multi-scorer sleep dataset
+**Global / Armenia / Diaspora:** Global
+**Research Area:** Automatic sleep staging; expert agreement; healthy and OSA populations
+**Relevant Capabilities:** Multiple sleep technologist scorers; healthy and clinical recordings; consensus labels; sleep-stage benchmarking
+**Relevant Work / Program:** Public sleep datasets designed for automated sleep-staging research with multiple independent human scorers.
+**Why It May Matter:** Provides a way to study label uncertainty and scorer disagreement rather than assuming one hypnogram is perfect ground truth.
+**Potential Contribution to Phase II:** Human-vs-model comparison; label uncertainty analysis; realistic ceiling estimation for sleep-stage classifiers.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Verify current download/access route during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later qualification
+**Notes:** Particularly useful for understanding the limitations of sleep-stage ground truth.
+
+### OPP-078 — NEMAR + Dreamento Research Infrastructure Pathway
+
+**Name:** NEMAR + Dreamento Research Infrastructure Pathway
+**Organization:** NEMAR / Dreamento open research ecosystems
+**Country:** International
+**Opportunity Type:** Computational and experimental research infrastructure
+**Global / Armenia / Diaspora:** Global
+**Research Area:** EEG data analysis; real-time sleep EEG; closed-loop research tooling
+**Relevant Capabilities:** EEG dataset discovery; computational analysis; sleep recording; sleep scoring; event detection; real-time sensory stimulation
+**Relevant Work / Program:** NEMAR provides open neural-data discovery and computational resources, while Dreamento provides open-source software for sleep EEG recording, scoring, event detection, and sensory stimulation.
+**Why It May Matter:** Together they could reduce the amount of infrastructure Neuro-TMR must build from scratch when moving from offline analysis toward closed-loop experimentation.
+**Potential Contribution to Phase II:** Data analysis infrastructure; Path V tooling; real-time sleep software reference; future closed-loop prototyping.
+**Scientific Fit:** Not scored — discovery stage
+**Practical Accessibility:** Not scored — discovery stage
+**Potential Impact:** Not scored — discovery stage
+**Priority:** Not assigned — qualification stage
+**Access Information:** Open-source / open research infrastructure; verify specific requirements during qualification
+**Status:** Discovered — unqualified
+**Next Action:** Hold for later qualification and Path V architecture review
+**Notes:** Infrastructure opportunity rather than one dataset.
+
