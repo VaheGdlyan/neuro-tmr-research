@@ -58,3 +58,82 @@ The split does not constitute new discovery.
 **COMPLETE ✅**
 
 L2 starting universe: **168 qualification units**
+
+---
+
+## L2 — Reality & Current-State Verification
+
+**Date:** 2026-08-20
+
+**Starting Qualification Units:** 168
+
+### Decisions
+
+- `L2_VERIFIED_CURRENT`: **164**
+- `L2_VERIFIED_CHANGED`: **4**
+- `L2_UNCERTAIN`: **0**
+- `L2_OBSOLETE`: **0**
+- `L2_CLAIM_INCORRECT`: **0**
+
+### Changed Records
+
+- OPP-043 — current research focus corrected; historical sleep-EEG work distinguished from current signal-processing / mathematical deep-learning work
+- OPP-048 — current formal UNESCO designation corrected to the UNITWIN Network on Research and Postgraduate Education in Biophysics, Biotechnology and Environmental Health
+- OPP-094 — current organizational attribution corrected to the Young Scientists Support Program (YSSP / ԵԳԱԾ)
+- OPP-101 — current ADVANCE administration corrected to reflect transfer of core funding and administration to HESC from January 2025
+
+### Structural Exceptions
+
+None.
+
+The L1 split remains:
+
+- OPP-078A — NEMAR Research Infrastructure
+- OPP-078B — Dreamento Open Sleep-EEG / Closed-Loop Research Toolbox
+
+No additional merge, split, reclassification, or structural correction was required.
+
+### Funnel Result
+
+**168 qualification units**
+
+↓
+
+**164 verified current**
+
++
+
+**4 verified changed and corrected**
+
+↓
+
+**168 retained qualification units**
+
+### Attrition
+
+**0**
+
+L2 did not eliminate any opportunity.
+
+This result means only that the retained opportunities are real/current enough to continue qualification.
+
+It does **not** imply that they are:
+
+- accessible,
+- relevant enough,
+- high quality,
+- distinct in strategic value,
+- actionable,
+- or worth pursuing.
+
+Those questions belong to later funnel layers.
+
+### L2 Status
+
+**COMPLETE ✅**
+
+### Next Layer
+
+**L3 — Access / Eligibility / Usability**
+
+**Status:** NOT STARTED
