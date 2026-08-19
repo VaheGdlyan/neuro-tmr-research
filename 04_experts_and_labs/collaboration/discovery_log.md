@@ -469,3 +469,158 @@ This ladder is only a discovery-stage observation and is **not yet the final Pat
   * experimental prototyping
     rather than assuming every dataset serves the same purpose.
 
+
+    ---
+
+## 2026-08-19 — Section 06
+
+### Search Lane
+
+Global Funding & Research Support
+
+### Search Focus
+
+* international neuroscience and brain-health funding
+* large collaborative health-research programmes
+* investigator-led frontier research funding
+* international interdisciplinary science grants
+* early-stage deep-tech neurotechnology funding
+* translation from research results toward validated technology
+* startup-scale deep-tech funding
+* opportunities structurally accessible through Armenia's Horizon Europe association
+
+### Research Limits Used
+
+* 4 bounded funding lanes:
+
+  1. international collaborative neuroscience / health funding
+  2. investigator and frontier-science funding
+  3. science-to-technology / deep-tech translation
+  4. later-stage commercialization and neurotechnology scale-up
+* target: approximately 15 strategically distinct funding mechanisms
+* final count: 15 opportunities
+* avoided expanding into dozens of small grants, prizes, travel awards, or individual Horizon calls
+* no application decision, proposal drafting, host selection, or final eligibility verification performed
+
+### Sources Explored
+
+* European Commission / Horizon Europe
+* European Research Executive Agency
+* European Research Council
+* European Innovation Council
+* European Partnership for Brain Health
+* Wellcome
+* Human Frontier Science Program
+* NIH BRAIN Initiative
+* official programme and eligibility documentation
+
+### Opportunities Added
+
+* OPP-079 — Horizon Europe, Cluster 1: Health
+* OPP-080 — European Partnership for Brain Health
+* OPP-081 — Horizon Europe WIDERA, Twinning
+* OPP-082 — Horizon Europe WIDERA, Excellence Hubs
+* OPP-083 — ERC Starting Grant
+* OPP-084 — ERC Synergy Grant
+* OPP-085 — Wellcome Early-Career Award
+* OPP-086 — Wellcome Career Development Award
+* OPP-087 — Wellcome Discovery Award
+* OPP-088 — Human Frontier Science Program Research Grants
+* OPP-089 — EIC Pathfinder Open
+* OPP-090 — EIC Transition
+* OPP-091 — EIC Pre-Accelerator
+* OPP-092 — EIC Accelerator Open
+* OPP-093 — NIH BRAIN Initiative funding ecosystem
+
+### Interesting Patterns
+
+* Funding opportunities divide naturally by **development stage** rather than by prestige.
+* Neuro-TMR may eventually have access to several distinct funding pathways:
+
+  * scientific collaboration and brain-health research
+  * investigator-led academic research
+  * international high-risk interdisciplinary science
+  * early deep-tech development
+  * research-result translation
+  * startup maturation and commercialization
+* Armenia's association with Horizon Europe materially changes the opportunity landscape because Armenian institutions can potentially participate in major European research and innovation programmes.
+* This increases the strategic importance of Section 03 because an Armenian university or research institute could eventually serve not only as a collaborator, but also as an **institutional host or consortium partner**.
+* The strongest funding mechanism depends on the scientific maturity of Neuro-TMR; funding should follow evidence rather than determine the research question.
+* EP BrainHealth appears particularly aligned with the neuroscience/brain-health side of the project.
+* EIC Pathfinder is especially relevant to a future high-risk closed-loop neurotechnology programme.
+* EIC Pre-Accelerator is notable because Armenia is explicitly within the target geography for the programme.
+* ERC and Wellcome opportunities are primarily long-term investigator-development routes rather than immediately actionable grants.
+* NIH BRAIN Initiative funding is potentially highly relevant scientifically, but access may depend strongly on collaboration with eligible US research institutions.
+
+### Preliminary Funding Ladder
+
+A discovery-stage development ladder became visible:
+
+#### Academic / Scientific Research
+
+* Horizon Europe Cluster 1: Health
+* European Partnership for Brain Health
+* HFSP Research Grants
+* Wellcome programmes
+* ERC programmes
+
+#### Institutional Capacity Building
+
+* Horizon Europe Twinning
+* Horizon Europe Excellence Hubs
+
+#### High-Risk Deep-Tech Research
+
+* EIC Pathfinder
+
+#### Research Result → Technology Validation
+
+* EIC Transition
+
+#### Armenian / Widening Deep-Tech SME Development
+
+* EIC Pre-Accelerator
+
+#### Validated Startup → International Scale
+
+* EIC Accelerator
+
+#### US Neurotechnology Research Ecosystem
+
+* NIH BRAIN Initiative
+
+This ladder is a **discovery-stage conceptual model only** and does not imply current eligibility.
+
+### Important Qualification Requirement
+
+Funding opportunities must later be separated by:
+
+* current eligibility
+* required institutional host
+* consortium requirements
+* investigator career-stage requirements
+* technology-readiness level
+* funding size
+* eligible costs
+* application cycles / deadlines
+* Armenia eligibility
+* whether Neuro-TMR must remain academic or become a company
+* whether prior funded research is required
+* scientific alignment with the project's actual stage
+
+No funding opportunity should be pursued simply because it offers a large amount of money.
+
+### Cross-Track Implications
+
+* Section 03 Armenian institutions may become potential hosts or consortium partners for European research funding.
+* Section 04 diaspora researchers may potentially help create international scientific consortia or institutional introductions.
+* Sections 01 and 02 could provide the scientific and technical collaborators required for larger Horizon, HFSP, EIC, or similar applications.
+* Section 05 validation resources could support preliminary evidence needed before attempting more competitive translational funding.
+
+### New Search Directions
+
+* Section 07 should now focus specifically on **Armenian Funding & National Support** rather than repeating international programmes.
+* Search should include Armenian national scientific grants, youth-research support, innovation funding, equipment/infrastructure programmes, national technology initiatives, and other Armenia-specific mechanisms.
+* Section 08 should separately investigate fellowships, placements, research programmes, and structured opportunities for individual researcher development.
+
+
