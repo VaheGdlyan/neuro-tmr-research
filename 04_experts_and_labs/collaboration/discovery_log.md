@@ -1210,3 +1210,241 @@ Section 09 did not expand into:
   - organizations capable of introductions, visibility, collaboration discovery, or funding discovery
 
 
+  ---
+
+## 2026-08-19 — Section 10
+
+### Search Lane
+Networks, Events & Second-Order Opportunities
+
+### Search Focus
+- major neuroscience societies
+- sleep-science and sleep-medicine networks
+- cognitive neuroscience communities
+- computational neuroscience communities
+- neurotechnology and neural-engineering networks
+- EEG-method communities
+- Armenian scientific / brain-health networks
+- Armenian-diaspora medical networks
+- events and communities capable of creating downstream collaborators, funding, hardware access, mentorship, or visibility
+
+### Research Strategy Adjustment
+The Opportunity Universe had already reached more than 130 entries before Section 10.
+
+Section 10 therefore used a strict second-order rule:
+
+> **Do not add an event simply because Neuro-TMR could attend it. Include only networks and events that could materially multiply access to researchers, collaborations, methods, funding, hardware, visibility, mentorship, or institutional introductions.**
+
+### Research Limits Used
+- three bounded search passes
+- emphasis on network multipliers rather than conference volume
+- avoided assigning separate IDs to multiple events operated by the same core scientific network unless the mechanisms were genuinely distinct
+- final count: 13 opportunities
+- stopped when additional results became generic science conferences, startup events, or redundant professional societies
+- no attendance recommendation, membership decision, abstract submission, outreach, or event prioritization performed
+
+### Sources Explored
+- Society for Neuroscience
+- European Sleep Research Society
+- Sleep Research Society
+- World Sleep Society
+- FENS
+- IBRO
+- NeuroTechX
+- IEEE Engineering in Medicine and Biology Society
+- Cognitive Neuroscience Society
+- Cognitive Computational Neuroscience
+- CuttingEEG / CuttingGardens
+- Meedk
+- Armenian American Medical Society
+- official society and conference pages
+
+### Opportunities Added
+- OPP-133 — Society for Neuroscience / Neuroscience Annual Meeting
+- OPP-134 — European Sleep Research Society / Sleep Europe
+- OPP-135 — Sleep Research Society / SLEEP + ASCS
+- OPP-136 — World Sleep Society / World Sleep Congress
+- OPP-137 — Federation of European Neuroscience Societies / FENS Forum
+- OPP-138 — International Brain Research Organization
+- OPP-139 — NeuroTechX Global Community
+- OPP-140 — IEEE Engineering in Medicine and Biology Society / EMBC
+- OPP-141 — Cognitive Neuroscience Society
+- OPP-142 — Cognitive Computational Neuroscience
+- OPP-143 — CuttingGardens / CuttingEEG Community
+- OPP-144 — Meedk — Global Armenian Brain-Health Network
+- OPP-145 — Armenian American Medical Society
+
+### Interesting Patterns
+- Section 10 opportunities differ from most earlier database entries because their main value is **multiplication** rather than one direct resource.
+- A strong network may generate:
+  - new researchers
+  - laboratory introductions
+  - hardware contacts
+  - funding leads
+  - training opportunities
+  - collaborators
+  - technical methods
+  - future presentation venues
+- Sleep-specific networks remain especially valuable because they place sleep scientists, clinicians, technologists, and increasingly sleep-technology researchers inside the same ecosystem.
+- NeuroTechX is particularly relevant to the engineering side because it connects developers, researchers, open-source neurotechnology, and several companies already present in Section 09.
+- CuttingGardens / CuttingEEG provides a highly focused EEG-method community that may become directly useful during Path V.
+- Meedk provides a mechanism for connecting the Armenian scientific ecosystem with the Armenian diaspora through brain-health-specific networking rather than a generic diaspora structure.
+- AAMS may provide lower-direct-fit but potentially useful clinical and diaspora introductions.
+
+### Second-Order Opportunity Logic
+
+A possible chain identified during discovery is:
+
+**Network / Event**
+
+↓
+
+**Researcher or technical contact**
+
+↓
+
+**Laboratory / hardware / dataset introduction**
+
+↓
+
+**Concrete collaboration**
+
+↓
+
+**Path V or experimental evidence**
+
+↓
+
+**Funding / larger research programme**
+
+This is why Section 10 should not be evaluated only by direct topic overlap.
+
+### Preliminary Network Roles
+
+#### Sleep-Specific Scientific Networks
+- European Sleep Research Society / Sleep Europe
+- Sleep Research Society
+- World Sleep Society
+
+#### Broad Neuroscience Networks
+- Society for Neuroscience
+- FENS
+- IBRO
+
+#### Cognition / Computational Neuroscience
+- Cognitive Neuroscience Society
+- Cognitive Computational Neuroscience
+
+#### Neurotechnology / Engineering
+- NeuroTechX
+- IEEE EMBS / EMBC
+
+#### EEG Methodology
+- CuttingGardens / CuttingEEG
+
+#### Armenian / Diaspora Multipliers
+- Meedk
+- Armenian American Medical Society
+
+### Possible Future Visibility Ladder
+A discovery-stage visibility progression became visible:
+
+#### Early Technical / Community Stage
+- CuttingGardens / CuttingEEG
+- NeuroTechX
+
+#### Computational / Engineering Results
+- CCN
+- CNS
+- EMBC
+
+#### Sleep-Specific Scientific Validation
+- Sleep Europe
+- SRS
+- World Sleep
+
+#### Broader Neuroscience Visibility
+- FENS
+- SfN
+
+This is **not yet a conference submission strategy**.
+
+### Particularly Important Opportunities for Later Qualification
+Without assigning formal priority yet, several Section 10 opportunities deserve careful attention later:
+
+- OPP-134 — European Sleep Research Society / Sleep Europe
+- OPP-138 — IBRO
+- OPP-139 — NeuroTechX
+- OPP-143 — CuttingGardens / CuttingEEG
+- OPP-144 — Meedk
+
+Reasons include direct scientific fit, technical relevance, downstream opportunity generation, or Armenian-network leverage.
+
+This list is **not yet a ranking or action decision**.
+
+### Cross-Section Relationships
+- ESRS / SRS / World Sleep may expose additional Section 01-style sleep and TMR collaborators.
+- FENS / SfN / IBRO may expose neuroscience opportunities outside the initial discovery universe.
+- NeuroTechX may multiply access to Section 09 hardware companies and engineering collaborators.
+- CuttingEEG may strengthen Section 05 / Path V EEG methodology.
+- Meedk may connect Section 03 Armenian institutions with Section 04 diaspora scientists.
+- AAMS may connect Section 04 diaspora clinicians with Armenian clinical institutions from Section 03.
+- EP BrainHealth from Section 06 also has network value but should remain under its existing ID rather than being duplicated.
+
+### Opportunities Deliberately Not Duplicated
+The following were intentionally not assigned new Section 10 IDs because they already exist elsewhere:
+
+- European Partnership for Brain Health
+- FAST Foundation ecosystem
+- individual Section 04 diaspora networks represented through specific scientist opportunities
+- hardware-company communities already represented in Section 09
+- multiple events operated by the same society when one network-level record was sufficient
+
+### Opportunities Deliberately Excluded
+Section 10 did not expand into:
+
+- generic startup conferences
+- broad AI conferences without neuroscience relevance
+- general medical congresses
+- generic science festivals
+- local events with no clear second-order mechanism
+- duplicate annual meetings
+- events useful only for passive attendance
+
+### Important Qualification Requirements
+Later qualification should determine for each network/event:
+
+- current membership requirements
+- student / early-career access
+- membership cost
+- event registration cost
+- travel burden
+- Armenia eligibility
+- abstract deadlines
+- poster / oral submission opportunities
+- travel grants
+- mentorship programmes
+- online participation
+- local chapters
+- special interest groups
+- networking mechanisms
+- industry participation
+- sleep / EEG / TMR topic density
+- realistic probability of meaningful introductions
+- ability to participate before having a published Neuro-TMR result
+
+### New Search Directions
+- Section 11 should focus on **Research Governance, Ethics & Institutional Enablement**.
+- Because the Opportunity Universe has reached 145 entries, Section 11 should be highly selective.
+- Research should focus only on mechanisms that could materially enable legitimate human research or institutional progression, including:
+  - ethics / IRB pathways
+  - institutional research governance
+  - clinical research support
+  - data protection / health-data governance
+  - research sponsorship
+  - protocol review
+  - human-participant research infrastructure
+  - regulatory or translational support
+- Generic legal organizations or broad ethics resources should not be added unless they create a concrete pathway for Neuro-TMR research.
+
+
