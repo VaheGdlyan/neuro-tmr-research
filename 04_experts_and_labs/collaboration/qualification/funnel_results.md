@@ -265,7 +265,75 @@ Their survival does not imply quality or priority.
 
 ### Next Layer
 
-**L5 — Quality / Evidence / Distinct Value**
+---
+
+## L5 — Quality / Evidence / Distinct Value
+
+**Date:** 2026-08-20
+
+**Starting Qualification Units:** 167
+
+### Decisions
+
+- `L5_HIGH_DISTINCT`: **66**
+- `L5_GOOD`: **71**
+- `L5_USEFUL_REDUNDANT`: **27**
+- `L5_WEAK_EVIDENCE`: **1**
+- `L5_LOW_VALUE`: **2**
+
+### Funnel Result
+
+**167 L4-relevant qualification units**
+
+↓
+
+**66 High / Distinct**
+
++
+
+**71 Good**
+
++
+
+**27 Useful / Redundant**
+
++
+
+**1 Weak Evidence**
+
++
+
+**2 Low Value**
+
+↓
+
+**167 characterized units proceed to L6**
+
+### Attrition
+
+**0**
+
+L5 did not automatically eliminate opportunities.
+
+This is deliberate.
+
+Quality, evidence maturity, and distinctiveness are inputs into the final pre-qualification decision in:
+
+**L6 — Strategic Actionability**
+
+The 27 `L5_USEFUL_REDUNDANT` opportunities enter L6 with reduced distinct-value evidence.
+
+The single `L5_WEAK_EVIDENCE` opportunity enters L6 with an explicit evidence-maturity limitation.
+
+The two `L5_LOW_VALUE` opportunities enter L6 with substantial negative evidence and will require a strong strategic justification to survive.
+
+### L5 Status
+
+**COMPLETE ✅**
+
+### Next Layer
+
+**L6 — Strategic Actionability**
 
 **Starting Universe:** 167
 
