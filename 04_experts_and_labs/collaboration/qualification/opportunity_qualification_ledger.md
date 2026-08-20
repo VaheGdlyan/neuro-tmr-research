@@ -1311,3 +1311,117 @@ Only these 120 qualified candidates receive L7 decision-critical enrichment.
 L7 must continue to follow the rule:
 
 > **Research the decision-critical unknowns, then stop.**
+
+## L7 — Targeted Deep Enrichment
+
+### Input Population
+
+L7 received the **120 opportunities** that passed the L6 strategic-actionability gate:
+
+| L6 Status                        | Count | L7       |
+| -------------------------------- | ----: | -------- |
+| `L6_ACTIONABLE`                  |    37 | Included |
+| `L6_ACTIONABLE_WITH_PREPARATION` |    44 | Included |
+| `L6_RESERVE_CANDIDATE`           |    39 | Included |
+| `L6_WATCH`                       |    37 | Excluded |
+| `L6_REJECT`                      |    10 | Excluded |
+
+**L7 population = 120**
+
+### Enrichment Architecture
+
+The 120 candidates were organized into eight functional research families:
+
+1. **F1 — Scientific Collaboration & Expertise**
+2. **F2 — Data / Research Infrastructure & Path V Resources**
+3. **F3 — Funding & Institutional Support**
+4. **F4 — Fellowships / Placements / Training**
+5. **F5 — Hardware / Industry / Technology Access**
+6. **F6 — Networks / Events / Multipliers**
+7. **F7 — Governance / Institutional Enablement**
+8. **F8 — Future-Horizon Strategic Technologies**
+
+The family structure is functional rather than hierarchical.
+
+It determines **what questions must be researched**, not how highly the candidate will ultimately rank.
+
+### Enrichment Principle
+
+L7 used a decision-critical research rule:
+
+> Research only information that could materially affect the candidate's L8 evaluation.
+
+For every opportunity, the process therefore focused on unresolved issues such as:
+
+* concrete Neuro-TMR contribution;
+* access mechanism;
+* current activity;
+* usable infrastructure or data;
+* technical integration;
+* eligibility;
+* funding/program timing;
+* institutional dependencies;
+* collaboration requirements;
+* governance requirements;
+* technological maturity.
+
+### Stopping Rule
+
+Enrichment stopped when additional desk research was unlikely to alter the later comparative judgment.
+
+Residual uncertainty was retained when it required an external trigger rather than additional research.
+
+Residual classes include:
+
+* `CONTACT_DEPENDENT`
+* `COMMERCIAL_OR_INTEGRATION_DEPENDENT`
+* `FUTURE_CYCLE_DEPENDENT`
+* `ELIGIBILITY_OR_STAGE_DEPENDENT`
+* `EVENT_CYCLE_DEPENDENT`
+* `HOST_OR_INSTITUTION_DEPENDENT`
+* `STUDY_TRIGGER_DEPENDENT`
+* `FUTURE_HORIZON_DEPENDENT`
+
+These residuals do not prevent L8 comparison.
+
+### Family-Level Completion State
+
+| Family                                                 | L7 Completion State |
+| ------------------------------------------------------ | ------------------- |
+| F1 — Scientific Collaboration & Expertise              | `L7_READY`          |
+| F2 — Data / Research Infrastructure & Path V Resources | `L7_READY`          |
+| F3 — Funding & Institutional Support                   | `L7_READY`          |
+| F4 — Fellowships / Placements / Training               | `L7_READY`          |
+| F5 — Hardware / Industry / Technology Access           | `L7_READY`          |
+| F6 — Networks / Events / Multipliers                   | `L7_READY`          |
+| F7 — Governance / Institutional Enablement             | `L7_READY`          |
+| F8 — Future-Horizon Strategic Technologies             | `L7_READY`          |
+
+### L7 Gate Result
+
+**120 entered L7.**
+
+**120 completed enrichment.**
+
+**0 were removed.**
+
+**120 advance to L8.**
+
+L7 does not assign:
+
+* final priority;
+* cross-family ranking;
+* active outreach status;
+* reserve outreach status;
+* outreach wave;
+* messaging strategy.
+
+Those decisions remain downstream.
+
+### Status
+
+**L7 COMPLETE — 120 decision-ready candidates**
+
+### Next Formal Operation
+
+**L8 — Within-Family Comparative Evaluation and Ranking**
