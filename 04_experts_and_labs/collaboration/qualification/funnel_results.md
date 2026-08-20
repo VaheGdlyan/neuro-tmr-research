@@ -449,6 +449,83 @@ This consists of:
 
 **L7 — Targeted Enrichment**
 
-**Starting Universe:** 120
+## L7 — Targeted Deep Enrichment
 
-**Status:** NOT STARTED
+**Input:** 120 candidates
+
+L7 operated on the complete qualified population advancing from L6:
+
+* 37 `ACTIONABLE`
+* 44 `ACTIONABLE_WITH_PREPARATION`
+* 39 `RESERVE_CANDIDATE`
+
+**Total: 120**
+
+### Execution
+
+The candidates were processed through eight functional enrichment families:
+
+| Family | Function                                          | L7 Status |
+| ------ | ------------------------------------------------- | --------- |
+| F1     | Scientific Collaboration & Expertise              | Complete  |
+| F2     | Data / Research Infrastructure & Path V Resources | Complete  |
+| F3     | Funding & Institutional Support                   | Complete  |
+| F4     | Fellowships / Placements / Training               | Complete  |
+| F5     | Hardware / Industry / Technology Access           | Complete  |
+| F6     | Networks / Events / Multipliers                   | Complete  |
+| F7     | Governance / Institutional Enablement             | Complete  |
+| F8     | Future-Horizon Strategic Technologies             | Complete  |
+
+### L7 Result
+
+| Result                                    |   Count |
+| ----------------------------------------- | ------: |
+| Candidates entering L7                    |     120 |
+| Candidates enriched to stopping threshold |     120 |
+| Candidates removed during L7              |       0 |
+| Candidates advancing to L8                | **120** |
+
+L7 was an **enrichment layer rather than an elimination layer**.
+
+The purpose was to resolve material unknowns before comparison, not to rank or select candidates.
+
+Remaining uncertainties are now predominantly classified as:
+
+* contact-dependent;
+* commercial/integration-dependent;
+* future-cycle-dependent;
+* eligibility/stage-dependent;
+* event-cycle-dependent;
+* host/institution-dependent;
+* study/protocol-triggered;
+* future-horizon/maturity-dependent.
+
+These residuals do not represent incomplete L7 research where additional desk research would materially improve the decision.
+
+### Funnel Position After L7
+
+```text
+167 discovered records
+        ↓
+168 qualification units after L1 structural split
+        ↓
+168 after L2
+        ↓
+168 after L3
+        ↓
+167 after L4
+        ↓
+167 after L5
+        ↓
+120 after L6 strategic actionability gate
+        ↓
+120 after L7 targeted enrichment
+        ↓
+NEXT: L8 within-family comparative evaluation
+```
+
+### Status
+
+**L7 COMPLETE**
+
+**120 / 120 candidates are decision-ready for L8.**
