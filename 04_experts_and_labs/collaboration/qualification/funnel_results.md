@@ -338,3 +338,117 @@ The two `L5_LOW_VALUE` opportunities enter L6 with substantial negative evidence
 **Starting Universe:** 167
 
 **Status:** NOT STARTED
+
+---
+
+## L6 — Strategic Actionability
+
+**Date:** 2026-08-20
+
+**Starting Qualification Units:** 167
+
+### Decisions
+
+- `L6_ACTIONABLE`: **37**
+- `L6_ACTIONABLE_WITH_PREPARATION`: **44**
+- `L6_RESERVE_CANDIDATE`: **39**
+- `L6_WATCH`: **37**
+- `L6_REJECT`: **10**
+
+### Qualified Candidate Universe
+
+The L7 candidate universe consists of:
+
+- 37 Actionable
+- 44 Actionable With Preparation
+- 39 Reserve Candidates
+
+**Total Qualified Candidate Universe: 120**
+
+### Deferred Watch Universe
+
+**37**
+
+Watch opportunities remain recorded and may be reconsidered after a defined trigger.
+
+They do not receive L7 enrichment during the current funnel pass.
+
+### Hard Rejections
+
+**10**
+
+- OPP-035
+- OPP-048
+- OPP-054
+- OPP-055
+- OPP-056
+- OPP-057
+- OPP-061
+- OPP-062
+- OPP-063
+- OPP-167
+
+### Funnel Result
+
+**167 L5-characterized opportunities**
+
+↓
+
+**120 Qualified Candidates**
+
++
+
+**37 Watch**
+
++
+
+**10 Reject**
+
+### Active Funnel Reduction
+
+**47 opportunities do not proceed directly to L7**
+
+This consists of:
+
+- 37 deferred Watch opportunities
+- 10 hard strategic exits
+
+### Cumulative Funnel
+
+**167 frozen discovery records**
+
+↓
+
+**168 structural qualification units after L1 split**
+
+↓
+
+**168 verified in L2**
+
+↓
+
+**168 access-classified in L3**
+
+↓
+
+**167 materially relevant after L4**
+
+↓
+
+**167 quality-characterized in L5**
+
+↓
+
+**120 Qualified Candidate Universe after L6**
+
+### L6 Status
+
+**COMPLETE ✅**
+
+### Next Layer
+
+**L7 — Targeted Enrichment**
+
+**Starting Universe:** 120
+
+**Status:** NOT STARTED
