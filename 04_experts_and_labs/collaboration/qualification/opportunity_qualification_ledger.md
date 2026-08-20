@@ -873,3 +873,441 @@ This prevents L5 from becoming an undeclared strategic-actionability layer.
 **167**
 
 No L5 decision should be interpreted as outreach selection or ranking.
+
+---
+
+## L6 — Strategic Actionability
+
+**Date:** 2026-08-20  
+**Starting Qualification Units:** 167  
+**Layer Status:** COMPLETE ✅
+
+## Purpose
+
+L6 determined whether each L5-characterized opportunity is strategically worth additional Neuro-TMR effort.
+
+The layer integrated:
+
+- L3 access / eligibility / usability,
+- L4 Neuro-TMR contribution relevance,
+- L5 quality / evidence / distinct value,
+- required preparation,
+- dependencies,
+- effort,
+- timing,
+- expected value,
+- current project bottlenecks,
+- opportunity cost,
+- alternative opportunities,
+- and existence of a meaningful next action.
+
+The central question was:
+
+> **Is this opportunity worth spending additional Neuro-TMR time, attention, preparation, relationships, money, or research effort on?**
+
+L6 did not rank qualified opportunities against one another globally.
+
+No 80/20 split was performed.
+
+---
+
+## L6 Status Semantics
+
+### `L6_ACTIONABLE`
+
+A concrete, proportionate next action exists now and the expected Neuro-TMR value justifies taking the opportunity forward.
+
+### `L6_ACTIONABLE_WITH_PREPARATION`
+
+The opportunity is worth pursuing, but a specific prerequisite should be completed first.
+
+Typical prerequisites include:
+
+- defining a collaboration ask,
+- coordinating with Path A,
+- identifying a host,
+- establishing institutional affiliation,
+- preparing technical requirements,
+- confirming financing,
+- obtaining a research bridge,
+- or reaching a defined technical milestone.
+
+### `L6_RESERVE_CANDIDATE`
+
+The opportunity remains genuinely qualified and potentially useful but should not consume the same immediate effort as stronger current mechanisms.
+
+Common reasons include:
+
+- functional redundancy,
+- broader scope,
+- weaker marginal contribution,
+- higher effort,
+- dependence on another opportunity,
+- or availability of a stronger alternative.
+
+Reserve Candidate is not rejection.
+
+### `L6_WATCH`
+
+The opportunity is legitimate but should not receive expensive L7 enrichment at the present project stage.
+
+A future trigger could return it to active qualification.
+
+Typical triggers include:
+
+- new funding call,
+- academic eligibility,
+- company formation,
+- prototype maturity,
+- human-study initiation,
+- regulated-device development,
+- multi-site validation,
+- or stronger scientific evidence.
+
+### `L6_REJECT`
+
+Current evidence indicates that additional Path E effort is not justified.
+
+The opportunity remains visible in the historical qualification record with an explicit exit reason.
+
+---
+
+## `L6_ACTIONABLE` — 37
+
+- OPP-012
+- OPP-013
+- OPP-015
+- OPP-016
+- OPP-020
+- OPP-026
+- OPP-031
+- OPP-034
+- OPP-038
+- OPP-039
+- OPP-046
+- OPP-051
+- OPP-052
+- OPP-059
+- OPP-060
+- OPP-064
+- OPP-065
+- OPP-066
+- OPP-067
+- OPP-069
+- OPP-070
+- OPP-072
+- OPP-074
+- OPP-075
+- OPP-076
+- OPP-077
+- OPP-078A
+- OPP-078B
+- OPP-104
+- OPP-122
+- OPP-123
+- OPP-134
+- OPP-139
+- OPP-143
+- OPP-144
+- OPP-153
+- OPP-163
+
+---
+
+## `L6_ACTIONABLE_WITH_PREPARATION` — 44
+
+- OPP-001
+- OPP-002
+- OPP-003
+- OPP-004
+- OPP-005
+- OPP-006
+- OPP-007
+- OPP-008
+- OPP-009
+- OPP-010
+- OPP-011
+- OPP-014
+- OPP-019
+- OPP-021
+- OPP-025
+- OPP-029
+- OPP-033
+- OPP-037
+- OPP-047
+- OPP-050
+- OPP-053
+- OPP-058
+- OPP-071
+- OPP-094
+- OPP-095
+- OPP-096
+- OPP-100
+- OPP-101
+- OPP-102
+- OPP-115
+- OPP-116
+- OPP-120
+- OPP-121
+- OPP-124
+- OPP-126
+- OPP-128
+- OPP-129
+- OPP-132
+- OPP-135
+- OPP-138
+- OPP-145
+- OPP-158
+- OPP-160
+- OPP-164
+
+---
+
+## `L6_RESERVE_CANDIDATE` — 39
+
+- OPP-017
+- OPP-018
+- OPP-028
+- OPP-030
+- OPP-032
+- OPP-040
+- OPP-041
+- OPP-042
+- OPP-043
+- OPP-044
+- OPP-045
+- OPP-049
+- OPP-068
+- OPP-073
+- OPP-079
+- OPP-080
+- OPP-088
+- OPP-093
+- OPP-099
+- OPP-107
+- OPP-125
+- OPP-127
+- OPP-130
+- OPP-131
+- OPP-133
+- OPP-136
+- OPP-137
+- OPP-140
+- OPP-141
+- OPP-142
+- OPP-146
+- OPP-147
+- OPP-148
+- OPP-149
+- OPP-151
+- OPP-152
+- OPP-154
+- OPP-159
+- OPP-162
+
+---
+
+## `L6_WATCH` — 37
+
+- OPP-022
+- OPP-023
+- OPP-024
+- OPP-027
+- OPP-081
+- OPP-082
+- OPP-083
+- OPP-084
+- OPP-085
+- OPP-086
+- OPP-087
+- OPP-089
+- OPP-090
+- OPP-091
+- OPP-092
+- OPP-097
+- OPP-098
+- OPP-103
+- OPP-105
+- OPP-106
+- OPP-108
+- OPP-109
+- OPP-110
+- OPP-111
+- OPP-112
+- OPP-113
+- OPP-114
+- OPP-117
+- OPP-118
+- OPP-119
+- OPP-150
+- OPP-155
+- OPP-156
+- OPP-157
+- OPP-161
+- OPP-165
+- OPP-166
+
+These opportunities do not proceed to L7 at the current stage.
+
+They remain preserved for trigger-based reassessment.
+
+---
+
+## `L6_REJECT` — 10
+
+### OPP-035 — H. Buniatyan Institute of Biochemistry
+
+**Exit:** `EXIT_LOW_EXPECTED_VALUE`
+
+The institution is scientifically legitimate, but its neurochemical contribution remains too peripheral to current and foreseeable Neuro-TMR requirements relative to stronger Armenian neuroscience opportunities.
+
+### OPP-048 — Life Sciences International Postgraduate Educational Center / UNESCO-UNITWIN ecosystem
+
+**Exit:** `EXIT_LOW_EXPECTED_VALUE`
+
+Broad training and institutional networking are available through multiple stronger and more concrete opportunities in the existing portfolio.
+
+### OPP-054 — Nerses Sanossian
+
+**Exit:** `EXIT_REDUNDANT`
+
+General clinical-neuroscience and Armenia-facing bridge value is substantially covered by more directly relevant sleep, EEG, neurophysiology, and neuroengineering opportunities.
+
+### OPP-055 — Viken Babikian
+
+**Exit:** `EXIT_REDUNDANT`
+
+Senior neurology and Armenia-facing network value are legitimate but insufficiently distinctive within the current diaspora portfolio.
+
+### OPP-056 — Carol A. Mason
+
+**Exit:** `EXIT_LOW_EXPECTED_VALUE`
+
+Scientific stature is extremely high, but no sufficiently concrete Neuro-TMR-specific contribution was identified to justify additional qualification effort.
+
+Prestige alone is insufficient for survival.
+
+### OPP-057 — Talene Yacoubian
+
+**Exit:** `EXIT_REDUNDANT`
+
+Strong neuroscience credentials are present, but the identified neurodegeneration / general mentorship contribution overlaps with stronger Neuro-TMR-relevant bridges.
+
+### OPP-061 — Lily Kamalyan
+
+**Exit:** `EXIT_REDUNDANT`
+
+Early-career cognitive/neuropsychology bridge value is already represented more strongly by other Armenian-diaspora opportunities and network mechanisms.
+
+### OPP-062 — Dolores Hambardzumyan
+
+**Exit:** `EXIT_LOW_EXPECTED_VALUE`
+
+The scientific and institutional network is strong, but the current brain-tumour research focus and generic introduction pathway do not create sufficient Neuro-TMR-specific expected value.
+
+### OPP-063 — Mariam Melkumyan
+
+**Exit:** `EXIT_LOW_EXPECTED_VALUE`
+
+The opportunity entered L6 with low distinct value and no new strategic mechanism was identified that justified continued investment.
+
+### OPP-167 — The Virtual Brain / Personalized Brain-Twin Ecosystem
+
+**Exit:** `EXIT_LOW_EXPECTED_VALUE`
+
+The platform is scientifically mature and distinctive, but its Neuro-TMR application remains highly speculative.
+
+No current evidence demonstrates useful prediction of:
+
+- TMR efficacy,
+- cue-induced reactivation,
+- sleep-stage intervention outcomes,
+- or individualized Neuro-TMR control.
+
+The required modelling effort is therefore disproportionate to current expected project value.
+
+---
+
+## Qualified Candidate Universe
+
+The opportunities proceeding to L7 are:
+
+- `L6_ACTIONABLE`
+- `L6_ACTIONABLE_WITH_PREPARATION`
+- `L6_RESERVE_CANDIDATE`
+
+### Count
+
+- Actionable: **37**
+- Actionable With Preparation: **44**
+- Reserve Candidate: **39**
+
+**QUALIFIED CANDIDATE UNIVERSE: 120**
+
+---
+
+## Deferred Watch Universe
+
+`L6_WATCH`: **37**
+
+Watch opportunities are not rejected.
+
+They do not receive L7 enrichment during the current qualification pass.
+
+A watch opportunity may be reactivated if its defined timing, maturity, eligibility, funding, regulatory, or project-stage condition changes.
+
+---
+
+## Hard Exits
+
+`L6_REJECT`: **10**
+
+These opportunities exit the active Path E qualification funnel with preserved traceability.
+
+---
+
+## L6 Funnel Result
+
+**167 L5-characterized opportunities**
+
+↓
+
+**37 Actionable**
+
++
+
+**44 Actionable With Preparation**
+
++
+
+**39 Reserve Candidates**
+
+=
+
+**120 Qualified Candidate Universe**
+
+and
+
+**37 Watch**
+
++
+
+**10 Reject**
+
+=
+
+**47 not proceeding to L7**
+
+---
+
+## Next Layer
+
+**L7 — Targeted Enrichment**
+
+**Starting Universe: 120**
+
+Only these 120 qualified candidates receive L7 decision-critical enrichment.
+
+L7 must continue to follow the rule:
+
+> **Research the decision-critical unknowns, then stop.**
