@@ -596,3 +596,280 @@ Current research activity is centered on broad/adaptive physiology, histological
 `L4_WEAK` opportunities remain visible for L5 because they still possess a minimally defensible contribution, but their relevance is already recognized as small or vague.
 
 They should not be interpreted as qualified or recommended opportunities.
+
+---
+
+## L5 — Quality / Evidence / Distinct Value
+
+**Date:** 2026-08-20  
+**Starting Qualification Units:** 167  
+**Layer Status:** COMPLETE ✅
+
+## Purpose
+
+L5 evaluated the strength of each opportunity itself after its Neuro-TMR contribution had already been established in L4.
+
+The layer asked:
+
+- Is the opportunity scientifically / institutionally / technically credible?
+- Is the claimed capability supported by meaningful evidence?
+- Is the contribution distinctive within its opportunity family?
+- Does it provide something meaningfully different from stronger alternatives?
+
+L5 did **not** re-score Neuro-TMR relevance.
+
+L5 also did not evaluate:
+
+- strategic actionability,
+- probability of successful engagement,
+- effort,
+- cost-benefit,
+- urgency,
+- ranking,
+- portfolio priority,
+- or outreach.
+
+Those questions remain reserved for L6 and later layers.
+
+## Status Interpretation
+
+### `L5_HIGH_DISTINCT`
+
+Strong evidence / quality plus a clearly differentiated capability or mechanism.
+
+### `L5_GOOD`
+
+Credible and useful opportunity with sufficient evidence, but without exceptional distinctiveness.
+
+### `L5_USEFUL_REDUNDANT`
+
+Credible and potentially useful, but its functional contribution substantially overlaps with stronger or equivalent opportunities elsewhere in the portfolio.
+
+This does **not** mean structural duplication.
+
+### `L5_WEAK_EVIDENCE`
+
+The opportunity is plausible and potentially useful, but evidence supporting the relevant capability remains immature, limited, prototype-level, or insufficiently validated.
+
+### `L5_LOW_VALUE`
+
+The opportunity is legitimate, but currently adds too little distinct value relative to the rest of the qualified portfolio.
+
+This is not necessarily a judgment of the underlying researcher, institution, technology, or programme's general quality.
+
+---
+
+## L5_HIGH_DISTINCT — 66
+
+- OPP-001 → OPP-004
+- OPP-006 → OPP-007
+- OPP-011
+- OPP-014 → OPP-016
+- OPP-019 → OPP-020
+- OPP-025 → OPP-026
+- OPP-029
+- OPP-034
+- OPP-038 → OPP-039
+- OPP-046
+- OPP-050 → OPP-051
+- OPP-060
+- OPP-064
+- OPP-071
+- OPP-074 → OPP-077
+- OPP-078B
+- OPP-080
+- OPP-088 → OPP-089
+- OPP-093
+- OPP-095 → OPP-096
+- OPP-100 → OPP-101
+- OPP-104
+- OPP-111 → OPP-112
+- OPP-115 → OPP-118
+- OPP-120 → OPP-121
+- OPP-123 → OPP-126
+- OPP-128 → OPP-129
+- OPP-132
+- OPP-134
+- OPP-138 → OPP-139
+- OPP-143 → OPP-144
+- OPP-150 → OPP-151
+- OPP-153
+- OPP-158 → OPP-159
+- OPP-163 → OPP-164
+- OPP-167
+
+---
+
+## L5_GOOD — 71
+
+- OPP-005
+- OPP-008 → OPP-010
+- OPP-012 → OPP-013
+- OPP-017 → OPP-018
+- OPP-021
+- OPP-024
+- OPP-028
+- OPP-031
+- OPP-033
+- OPP-035
+- OPP-037
+- OPP-040
+- OPP-043 → OPP-044
+- OPP-047
+- OPP-049
+- OPP-052 → OPP-053
+- OPP-058 → OPP-059
+- OPP-065 → OPP-070
+- OPP-072
+- OPP-078A
+- OPP-079
+- OPP-081 → OPP-087
+- OPP-090 → OPP-092
+- OPP-094
+- OPP-097 → OPP-098
+- OPP-102
+- OPP-107 → OPP-110
+- OPP-113 → OPP-114
+- OPP-119
+- OPP-122
+- OPP-127
+- OPP-130 → OPP-131
+- OPP-135 → OPP-136
+- OPP-140
+- OPP-145 → OPP-148
+- OPP-152
+- OPP-154
+- OPP-160 → OPP-162
+- OPP-166
+
+---
+
+## L5_USEFUL_REDUNDANT — 27
+
+- OPP-022
+- OPP-023
+- OPP-027
+- OPP-030
+- OPP-032
+- OPP-041
+- OPP-042
+- OPP-045
+- OPP-054 → OPP-057
+- OPP-061 → OPP-062
+- OPP-073
+- OPP-099
+- OPP-103
+- OPP-105 → OPP-106
+- OPP-133
+- OPP-137
+- OPP-141 → OPP-142
+- OPP-149
+- OPP-155 → OPP-157
+
+### Redundancy Interpretation
+
+These are structurally distinct opportunities retained from L1.
+
+Their L5 status means only that their functional value overlaps substantially with other qualified opportunities.
+
+Important overlap clusters include:
+
+- wearable / bioelectronics capability,
+- Armenian engineering capability,
+- general diaspora scientific bridges,
+- conventional PSG validation datasets,
+- Armenian future company-support mechanisms,
+- broad neuroscience / cognitive-science networks,
+- and future U.S.-linked governance mechanisms.
+
+No record is being reclassified as an L1 duplicate.
+
+---
+
+## L5_WEAK_EVIDENCE — 1
+
+### OPP-165 — Integrated In-Ear EEG + Auditory Stimulation Platform
+
+The platform demonstrates an integrated in-ear EEG and auditory-stimulation concept and successful measurement of several electrophysiological signals.
+
+However, evidence remains prototype-level.
+
+Current evidence does not establish:
+
+- overnight sleep performance,
+- reliable sleep-stage classification,
+- TMR operation,
+- closed-loop memory intervention,
+- or robust long-duration deployment.
+
+The opportunity remains scientifically plausible and distinctive enough to continue qualification, but its evidence maturity is explicitly limited.
+
+---
+
+## L5_LOW_VALUE — 2
+
+### OPP-048 — Life Sciences International Postgraduate Educational Center / UNESCO-UNITWIN ecosystem
+
+The institution is legitimate, but its identified Neuro-TMR contribution is broad training, networking, and institutional linkage.
+
+Within the current Path E portfolio, those functions are already represented more concretely by stronger Armenian scientific, institutional, network, training, and research mechanisms.
+
+The opportunity therefore adds limited marginal value.
+
+### OPP-063 — Mariam Melkumyan
+
+The researcher represents a legitimate Armenian / NIH neuroscience bridge.
+
+However, the currently identified contribution is primarily general scientific dialogue and introductions.
+
+Within the diaspora portfolio, multiple opportunities provide stronger or more distinctive combinations of:
+
+- sleep expertise,
+- EEG / neurophysiology,
+- neuroengineering,
+- neuropsychology,
+- Armenian institutional linkage,
+- or established brain-science networking.
+
+The currently demonstrated marginal contribution is therefore low.
+
+---
+
+## L5 Summary
+
+- `L5_HIGH_DISTINCT`: **66**
+- `L5_GOOD`: **71**
+- `L5_USEFUL_REDUNDANT`: **27**
+- `L5_WEAK_EVIDENCE`: **1**
+- `L5_LOW_VALUE`: **2**
+
+**Total:** 167
+
+## L5 Attrition Policy
+
+No opportunity is automatically removed solely because it receives:
+
+- `L5_USEFUL_REDUNDANT`
+- `L5_WEAK_EVIDENCE`
+- or `L5_LOW_VALUE`
+
+The purpose of L5 is characterization of quality, evidence, and distinct value.
+
+L6 will integrate these findings with:
+
+- L3 accessibility,
+- L4 relevance,
+- dependencies,
+- effort,
+- timing,
+- expected value,
+- bottleneck contribution,
+- and existence of a concrete next action.
+
+This prevents L5 from becoming an undeclared strategic-actionability layer.
+
+### Units Proceeding to L6
+
+**167**
+
+No L5 decision should be interpreted as outreach selection or ranking.
