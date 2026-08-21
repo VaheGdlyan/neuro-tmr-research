@@ -1,137 +1,143 @@
-# L8 — Comparative Evaluation & Ranking
+\# L8 — Comparative Evaluation & Ranking
 
 ## Purpose
 
-L8 compares the **120 opportunities that completed L7** and determines which opportunities deserve the highest strategic priority for Neuro-TMR.
+L8 compares the **120 opportunities that completed L7** and determines their relative strategic value to Neuro-TMR.
 
-Unlike earlier layers, L8 is explicitly comparative and may substantially reduce the active opportunity universe.
+Unlike earlier qualification layers, L8 is explicitly comparative and may substantially reduce the active opportunity universe.
 
 The governing principle is:
 
 > **Rank opportunities according to their expected contribution to Neuro-TMR's current and foreseeable bottlenecks — not prestige, visibility, or theoretical relevance alone.**
 
-Scientific quality matters, but quality without realistic access or concrete project value does not automatically create high strategic priority.
+---
+
+## Two Independent Rankings
+
+Every L7 candidate receives **two separate scores**.
+
+### 1. Within-Family Score — 0–100
+
+Measures how strong an opportunity is relative to other opportunities providing the same type of value.
+
+Each F1–F8 family uses its own explicitly defined criteria and weights.
+
+Examples:
+
+* F1 — scientific expertise and collaboration value
+* F2 — data quality and Path V utility
+* F3 — funding accessibility and strategic fit
+* F4 — training, mentorship and eligibility
+* F5 — EEG capability and technical integration
+* F6 — network and multiplier value
+* F7 — human-study enablement
+* F8 — future strategic technology value
+
+Family scores produce **within-family rankings**.
 
 ---
 
-## Evaluation Structure
+### 2. Global Cross-Family Score — 0–100
 
-L8 uses a **100-point comparative framework**.
+Measures the opportunity's strategic value to Neuro-TMR regardless of family.
 
-### Universal Score — 70 Points
+The global criteria are:
 
-Applied to every opportunity:
+| Criterion                            |  Weight |
+| ------------------------------------ | ------: |
+| Contribution to Neuro-TMR objectives |      25 |
+| Critical bottleneck resolution       |      20 |
+| Realistic actionability / access     |      15 |
+| Expected impact                      |      10 |
+| Non-substitutability / unique value  |      10 |
+| Cross-project leverage               |      10 |
+| Time-to-value                        |       5 |
+| Evidence confidence                  |       5 |
+| **Total**                            | **100** |
 
-| Criterion                           | Weight |
-| ----------------------------------- | -----: |
-| Neuro-TMR strategic contribution    |     20 |
-| Bottleneck resolution               |     15 |
-| Realistic actionability / access    |     15 |
-| Expected impact if successful       |     10 |
-| Time-to-value                       |      5 |
-| Evidence / current-state confidence |      5 |
+The family and global scores are **never added together**.
 
-### Family-Specific Score — 30 Points
-
-The remaining 30 points evaluate what makes an opportunity strong **within its own functional family**.
-
-Examples include:
-
-* scientific expertise and collaboration potential for F1;
-* dataset usability and Path V value for F2;
-* eligibility and funding accessibility for F3;
-* training and mentorship value for F4;
-* real-time EEG and integration capability for F5;
-* network and multiplier value for F6;
-* study-enablement value for F7;
-* maturity and future strategic value for F8.
-
-The exact family criteria must be fixed before scoring begins.
+They answer different questions.
 
 ---
 
-## Dependency Adjustment
+## Scoring Scale
 
-A candidate may receive a **0 to −10 dependency penalty** when meaningful value depends on difficult prerequisites such as:
+Each criterion uses an integer **0–5 evidence-based rating**:
 
-* institutional affiliation;
-* future academic stage;
-* consortium formation;
-* commercial negotiation;
-* long waiting periods;
-* multiple unresolved external dependencies.
+* `0` — no meaningful value
+* `1` — very weak
+* `2` — limited
+* `3` — credible / moderate
+* `4` — strong
+* `5` — exceptional and well-supported
 
-This ensures that theoretical value is distinguished from realistic present value.
+Weighted points are calculated from these ratings.
+
+---
+
+## Dependency Penalty
+
+After raw scoring, a discrete dependency adjustment may be applied:
+
+`0, -2, -4, -6, -8, -10, or -12`
+
+The penalty represents genuine external blockers such as:
+
+* required institutional host;
+* future eligibility stage;
+* consortium requirement;
+* closed future cycle;
+* vendor-controlled integration;
+* major approval dependency;
+* long activation horizon.
+
+Ordinary difficulty already captured by the scoring criteria must **not be penalized twice**.
+
+Candidates with no credible route forward should be classified as `DROP` or `DEFER` rather than given artificially extreme penalties.
 
 ---
 
 ## Additional Interpretation Fields
 
-Each opportunity should also record:
+Each opportunity also records:
 
 * **Substitutability:** Low / Medium / High
 * **Current Priority:** Low / Medium / High / Critical
 * **Future Strategic Value:** Low / Medium / High / Critical
 * **Evaluation Confidence:** Low / Medium / High
 
-These fields support interpretation but do not replace the numerical score.
+These fields help interpret numerical rankings.
 
 ---
 
 ## Ranking Procedure
 
-L8 proceeds in four steps:
+1. Lock all family-specific and global criteria before scoring.
+2. Score **all 120 L7 candidates** within their family.
+3. Score all 120 using the global framework.
+4. Apply dependency penalties consistently.
+5. Produce within-family rankings.
+6. Produce the global cross-family ranking.
+7. Evaluate redundancy, substitutability and strategically unique capabilities.
+8. Make evidence-based `KEEP`, `RESERVE`, `DEFER`, or `DROP` decisions.
 
-1. **Viability / dominance check**
-   Identify candidates that are clearly inaccessible, redundant, outdated, or dominated by stronger alternatives.
+No fixed survival quota is imposed in advance.
 
-2. **Universal scoring**
-   Apply the common 70-point framework.
-
-3. **Within-family evaluation**
-   Apply the relevant 30-point family-specific criteria and rank candidates inside F1–F8.
-
-4. **Cross-family portfolio evaluation**
-   Compare the strongest candidates across families according to overall Neuro-TMR strategic value.
-
-A simple global `1–120` ranking should not be treated as sufficient because different families provide fundamentally different forms of value.
-
----
-
-## Reduction Principle
-
-L8 is allowed to eliminate opportunities.
-
-However:
-
-> **No fixed survival quota should be imposed in advance.**
-
-Candidates should be removed when comparative evidence shows that their expected value is insufficient relative to stronger or more accessible alternatives.
-
-Strategically unique candidates may be preserved even when their numerical score is lower if no realistic substitute provides the same capability.
+Strategically unique opportunities may be preserved even when their numerical ranking is lower if no realistic substitute provides the same capability.
 
 ---
 
 ## Methodological Rule
 
-The scoring framework and family-specific criteria must be **locked before candidate scoring begins**.
+> **The scoring criteria and weights are frozen before candidate scoring begins and must not be changed merely because the resulting rankings are unexpected.**
 
-Weights must not be changed afterward simply because the resulting rankings are unexpected.
-
-This preserves the integrity of the comparative evaluation.
+This protects the integrity of L8.
 
 ---
 
-## Output
+## Input and Output
 
-L8 should produce:
+**Input:** 120 L7-ready opportunities
 
-* ranked candidates within each F1–F8 family;
-* adjusted comparative scores;
-* clear removal decisions where justified;
-* surviving candidates for later portfolio construction;
-* documented reasoning for strategically important exceptions.
-
-**Input: 120 L7-ready opportunities**
-
-**Output: evidence-ranked and reduced opportunity universe for the next Path E layer.**
+**Output:** independently scored within-family and global rankings, dependency-adjusted results, and an evidence-based reduced universe for the next Path E layer.
