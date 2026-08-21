@@ -39,7 +39,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 | OPP ID | Opportunity | Current Action | Channel | Date | Status | Next Action | Next Check / Target | Notes |
 |---|---|---|---|---|---|---|---|---|
 | OPP-143 | CuttingGardens / CuttingEEG Community | Participation + financial-support inquiry sent | Email | 2026-08-21 | `WAITING_RESPONSE` | Wait for reply; follow up only after a reasonable response window if needed | Not yet scheduled | Asked about supported participation routes, funding/waivers, age eligibility, and any viable onsite or remote option. No payment committed. |
-| OPP-134 | European Sleep Research Society / Sleep Europe | Official registration reply received: scientific-programme participation is only available to participants over 18 | Email | 2026-08-21 | `BLOCKED` | No further funding/registration action unless the age requirement can be satisfied for the 2026 congress; otherwise close this cycle and retain ESRS for a future eligible year | 2026 Sleep Europe cycle | Congress Secretariat/Registration Manager replied directly. Financial-support questions are moot unless age eligibility is first satisfied. |
+| OPP-134 | European Sleep Research Society / Sleep Europe | Participation eligibility + financial-support inquiry sent | Email | 2026-08-21 | `WAITING_RESPONSE` | Wait for reply; evaluate only supported/waived participation routes before committing money | Not yet scheduled | Asked about participation at age 17 and registration/travel/sponsorship/waiver possibilities. No payment committed. |
 | OPP-104 | Armenian Artificial Intelligence Virtual Institute / HPC State Support | Eligibility clarification email sent after repeated unsuccessful phone attempts | Phone + Email | 2026-08-21 | `WAITING_RESPONSE` | Wait for written response; follow up through the program/Ministry route if needed | Next check: after 2 business days | Dedicated AIVI line and Ministry information line did not answer. Ministry hotline advised calling later, but further attempts still did not produce a program conversation. Professional eligibility email sent to the dedicated AIVI address. |
 
 ---
@@ -69,21 +69,20 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 ### OPP-134 — European Sleep Research Society / Sleep Europe
 
-**Initial action:** Participation eligibility and financial-support inquiry sent by email.  
-**Response received:** 2026-08-21.  
-**From:** Sleep Europe 2026 Congress Secretariat / Registration Manager.
-
-**Official response summary:** Participation in the scientific programme is only available to participants **over 18 years of age**.
-
-**Interpretation:** The 2026 Sleep Europe execution path is currently blocked by age eligibility before funding, travel, registration-waiver, or digital-participation questions become relevant.
-
+**Action:** Participation eligibility and financial-support inquiry sent by email.  
+**Result:** Awaiting response.  
 **Money committed:** None.  
-**Execution state:** `BLOCKED`
+**Execution state:** `WAITING_RESPONSE`
 
-**Next step:** No further registration or funding action should be taken unless the age criterion can be satisfied for the 2026 congress. Otherwise, close the 2026 execution cycle and retain ESRS/Sleep Europe as a future opportunity once eligible.
+**Requested clarification/support:**
+- whether a 17-year-old researcher may participate;
+- whether onsite and/or digital participation is possible;
+- registration fee waiver / scholarship;
+- travel or accommodation support;
+- sponsored participation;
+- reduced-fee or supported digital participation.
 
-**Optional courtesy response:** Send a brief thank-you acknowledging the clarification.
-
+**Next step:** Wait for ESRS response. Do not pay or register until eligibility and support possibilities are clear.
 
 ---
 
@@ -125,7 +124,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 | Date | OPP ID | From | Response Summary | Decision / Interpretation | Next Action |
 |---|---|---|---|---|---|
-| 2026-08-21 | OPP-134 | Sleep Europe 2026 Congress Secretariat / Registration Manager | Scientific-programme participation is only available to participants over 18 | Age eligibility blocks the 2026 participation path before funding/registration questions | No further action unless age criterion can be satisfied; otherwise close 2026 cycle |
+| — | — | — | No external responses recorded yet | — | — |
 
 ---
 
@@ -153,7 +152,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 | OPP-134 — Sleep Europe | Eligibility / financial-support inquiry sent | `WAITING_RESPONSE` | ESRS reply |
 | OPP-104 — AIVI | Phone routes attempted; eligibility email sent | `WAITING_RESPONSE` | AIVI / Ministry reply |
 
-**P0 execution state:** all currently available outbound actions have been completed without committing money. Sleep Europe has now returned a definitive age-eligibility constraint for the 2026 cycle.
+**P0 execution state:** all currently available outbound actions have been completed without committing money.
 
 **Operational consequence:** Path E should continue into P1 / Path V work while these external responses are pending.
 
@@ -171,7 +170,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 ## Waiting
 
 - **OPP-143 — CuttingGardens:** participation + financial-support inquiry sent.
-- **OPP-134 — Sleep Europe:** official reply received; 2026 scientific-programme participation is blocked by the over-18 requirement.
+- **OPP-134 — Sleep Europe:** participation eligibility + financial-support inquiry sent.
 - **OPP-104 — AIVI:** eligibility clarification email sent after unsuccessful phone attempts.
 
 ## Do Not Do Yet
