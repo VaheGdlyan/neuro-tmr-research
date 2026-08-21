@@ -1,4 +1,4 @@
-\# L8 — Comparative Evaluation & Ranking
+# L8 — Comparative Evaluation & Ranking
 
 ## Purpose
 
