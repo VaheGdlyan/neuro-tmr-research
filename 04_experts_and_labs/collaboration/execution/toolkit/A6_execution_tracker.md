@@ -1,7 +1,7 @@
 # A6 — Path E Execution Tracker
 
 Date opened: 2026-08-21
-Last updated: 2026-08-26
+Last updated: 2026-08-28
 Stage: PATH E EXECUTION / PRE-PATH V
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
 Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
@@ -10,10 +10,10 @@ Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md,
 
 This file is the live record of what has actually been done for Path E opportunities.
 
-active_opportunity_execution_ledger.md = what should be done for every active opportunity.
-execution_roadmap.md = what should happen first and in what order.
-path_e_execution_phase_classification.md = which execution phase each opportunity belongs to.
-Pre-Path V/pre_path_v_immediate_execution.md = what must be completed or initiated before Path V.
+active_opportunity_execution_ledger.md = what should be done for every active opportunity.  
+execution_roadmap.md = what should happen first and in what order.  
+path_e_execution_phase_classification.md = which execution phase each opportunity belongs to.  
+Pre-Path V/pre_path_v_immediate_execution.md = what must be completed or initiated before Path V.  
 A6_execution_tracker.md = what has actually been done, what is active, what is waiting, and what happens next.
 
 Update this file whenever an email is sent, a call is made, an application is submitted, access is requested, a technical opportunity is activated, a reply arrives, a meeting is scheduled, or an opportunity becomes blocked/completed.
@@ -35,12 +35,12 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 ## Live Execution Board
 
-| OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                        | Channel                    | Date       | Status       | Next Action                                                                                                                                                                      | Next Check / Target                                     | Notes                                                                                                                                                                                                                                                                                |
-| -------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| OPP-078A | NEMAR Research Infrastructure                                          | BOAS pilot `sub-26 / pid=18` raw-data inspection completed; minimal BOAS ingestion/helper layer implemented through automated structural validation                   | Direct technical execution | 2026-08-26 | IN_PROGRESS  | Continue NEMAR Step 8.7 — exact labeled epoch extraction, then complete remaining ingestion/reproducibility work                                                                 | Immediate                                               | NEMAR environment, BOAS metadata due diligence, selective retrieval, raw signal inspection, and ingestion Steps 8.1–8.6 are complete. Engineering implementation remains exclusively in the private engineering repo; A6 records only high-level execution state and outcomes.       |
-| OPP-143  | CuttingGardens / CuttingEEG Community                                  | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support | Email                      | 2026-08-21 | BLOCKED      | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or if post-event replay material becomes available         | Post-event replay check after 2026-09-25                | Organizer did not state an absolute age ban, but level-fit is weak and the global organization cannot provide travel/accommodation support.                                                                                                                                          |
-| OPP-134  | European Sleep Research Society / Sleep Europe                         | Official registration reply received: scientific-programme participation is only available to participants over 18                                                    | Email                      | 2026-08-21 | BLOCKED      | No further funding/registration action unless the age requirement can be satisfied for the 2026 congress; otherwise retain ESRS for a future eligible cycle                      | 2026 Sleep Europe cycle                                 | Congress Secretariat/Registration Manager replied directly. Financial-support questions are moot unless age eligibility is first satisfied.                                                                                                                                          |
-| OPP-104  | Armenian Artificial Intelligence Virtual Institute / HPC State Support | Official eligibility/program-status clarification received                                                                                                            | Email                      | 2026-08-24 | TRIGGER_WAIT | No application action now. Re-open when the government decision is adopted and the next application round is officially announced; reassess final eligibility rules at that time | Trigger: official publication of next application round | Draft rules are still being developed. The described physical-person categories include higher-education students and persons with higher or secondary vocational education. General secondary-school student status alone was not listed. Second application round is not yet open. |
+| OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                                   | Channel                    | Date       | Status       | Next Action                                                                                                                                                      | Next Check / Target                                     | Notes                                                                                                                                                                                                                                                                                                                                 |
+| -------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OPP-078A | NEMAR Research Infrastructure                                          | Pre-Path V NEMAR/BOAS technical objective completed: reproducible access, raw-data inspection, validated minimal ingestion, formal EDA, and engineering-readiness assessment    | Direct technical execution | 2026-08-28 | IN_PROGRESS  | Stop further Pre-Path V deepening. Carry BOAS/NEMAR forward as a Path V data and validation resource                                                            | Re-enter during Path V                                  | The Pre-Path V NEMAR gate is satisfied. BOAS was assessed READY WITH CONSTRAINTS. `IN_PROGRESS` is retained because NEMAR remains an active Path V resource, not because additional Pre-Path V NEMAR work is required. Detailed technical implementation remains exclusively in the private engineering repository.                         |
+| OPP-143  | CuttingGardens / CuttingEEG Community                                  | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support            | Email                      | 2026-08-21 | BLOCKED      | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or if post-event replay material becomes available | Post-event replay check after 2026-09-25                | Organizer did not state an absolute age ban, but level-fit is weak and the global organization cannot provide travel/accommodation support.                                                                                                                                                                                                 |
+| OPP-134  | European Sleep Research Society / Sleep Europe                         | Official registration reply received: scientific-programme participation is only available to participants over 18                                                               | Email                      | 2026-08-21 | BLOCKED      | No further funding/registration action unless the age requirement can be satisfied for the 2026 congress; otherwise retain ESRS for a future eligible cycle      | 2026 Sleep Europe cycle                                 | Congress Secretariat/Registration Manager replied directly. Financial-support questions are moot unless age eligibility is first satisfied.                                                                                                                                                                                              |
+| OPP-104  | Armenian Artificial Intelligence Virtual Institute / HPC State Support | Official eligibility/program-status clarification received                                                                                                                       | Email                      | 2026-08-24 | TRIGGER_WAIT | No application action now. Re-open when the government decision is adopted and the next application round is officially announced; reassess final eligibility rules at that time | Trigger: official publication of next application round | Draft rules are still being developed. The described physical-person categories include higher-education students and persons with higher or secondary vocational education. General secondary-school student status alone was not listed. Second application round is not yet open.                                                             |
 
 # Opportunity Action Log
 
@@ -48,8 +48,8 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 ### OPP-143 — CuttingGardens / CuttingEEG Community
 
-Initial action: Participation and financial-support inquiry sent by email.
-Response received: 2026-08-21.
+Initial action: Participation and financial-support inquiry sent by email.  
+Response received: 2026-08-21.  
 From: Adrien / CuttingEEG.
 
 Response summary:
@@ -63,7 +63,7 @@ Response summary:
 
 Interpretation: The standard 2026 attendance route is not practically viable at the current stage.
 
-Money committed: None.
+Money committed: None.  
 Execution state: BLOCKED
 
 Next step: Re-open only if:
@@ -73,15 +73,15 @@ Next step: Re-open only if:
 
 ### OPP-134 — European Sleep Research Society / Sleep Europe
 
-Initial action: Participation eligibility and financial-support inquiry sent by email.
-Response received: 2026-08-21.
+Initial action: Participation eligibility and financial-support inquiry sent by email.  
+Response received: 2026-08-21.  
 From: Sleep Europe 2026 Congress Secretariat / Registration Manager.
 
 Official response summary: Participation in the scientific programme is only available to participants over 18 years of age.
 
 Interpretation: The 2026 Sleep Europe execution path is blocked by participant eligibility before funding, travel or registration-support questions become relevant.
 
-Money committed: None.
+Money committed: None.  
 Execution state: BLOCKED
 
 Next step: No further 2026 registration/funding action under the current eligibility condition. Preserve ESRS/Sleep Europe as a future opportunity.
@@ -113,8 +113,8 @@ State after outbound action: WAITING_RESPONSE
 
 ### OPP-104 — Armenian Artificial Intelligence Virtual Institute / HPC State Support
 
-Response received: 2026-08-24
-From: AIVI team
+Response received: 2026-08-24  
+From: AIVI team  
 Channel: Email
 
 ### Official Response Summary
@@ -182,8 +182,8 @@ Current next action: None.
 
 ### OPP-078A — NEMAR Research Infrastructure
 
-Execution activated: 2026-08-25
-Execution type: Direct technical infrastructure
+Execution activated: 2026-08-25  
+Execution type: Direct technical infrastructure  
 Current state: IN_PROGRESS
 
 ### Objective
@@ -225,7 +225,7 @@ This research repository records only:
 
 ### Pre-Path V Completion Condition
 
-OPP-078A can be marked COMPLETED for the Pre-Path V gate when:
+OPP-078A can satisfy the Pre-Path V gate when:
 
 * NEMAR is operational from the engineering environment;
 * one relevant sleep dataset has been identified;
@@ -234,7 +234,7 @@ OPP-078A can be marked COMPLETED for the Pre-Path V gate when:
 * the EEG/PSG and associated labels can be technically inspected/loaded;
 * the workflow is documented reproducibly.
 
-Model training, sleep-stage baseline development, latency analysis, and cueing are not required for completion of this opportunity. Those belong to Path V.
+Model training, sleep-stage baseline development, latency analysis, and cueing are not required for completion of the Pre-Path V NEMAR objective. Those belong to Path V.
 
 ### Next Action
 
@@ -244,7 +244,7 @@ Proceed with NEMAR Stage 1 — Environment and access verification inside the pr
 
 ### OPP-078A — NEMAR Research Infrastructure
 
-Execution type: Direct technical infrastructure
+Execution type: Direct technical infrastructure  
 Current state: IN_PROGRESS
 
 ### Major Execution Progress
@@ -295,202 +295,3 @@ Unscored leading data:       0 s
 Unscored trailing data:      23 s / 5,888 samples
 PSG full preload:            False
 Headband full preload:       False
-```
-
-Structural validation passed.
-
-### High-Level Interpretation
-
-The NEMAR/BOAS route has progressed from dataset access and manual inspection into a reproducible software-access layer.
-
-The private engineering system can now:
-
-* locate the required BOAS source files;
-* preserve recording/night identity separately from real-participant identity;
-* interpret BOAS sleep-stage event tables;
-* open PSG/headband EDFs without preloading the complete recordings;
-* apply explicit BOAS channel semantics rather than trusting generic EDF channel typing;
-* automatically enforce core signal/annotation structural invariants.
-
-No preprocessing, formal EDA, model training, staging-performance evaluation, latency analysis, or cueing work has been performed as part of these ingestion milestones.
-
-### Repository Boundary
-
-Detailed implementation, tests, commands and engineering results remain exclusively in the private:
-
-`neuro-tmr-engineering`
-
-repository.
-
-Temporary Step 7 inspection plots were intentionally not retained as repository artifacts.
-
-Formal reproducible figures and quantitative signal analysis are deferred to the dedicated BOAS EDA stage.
-
-### Current State
-
-`OPP-078A — NEMAR` remains:
-
-> **IN_PROGRESS**
-
-The opportunity is not closed at this stage.
-
-### Next Action
-
-Continue with:
-
-> **NEMAR Step 8.7 — exact labeled epoch extraction**
-
-Then continue the remaining ingestion, reproducibility, dataset-to-Path-V mapping, compute-route assessment and NEMAR closure work according to the locked execution roadmap.
-
----
-
-# Response Log
-
-| Date       | OPP ID  | From                                                          | Response Summary                                                                                                                                                                                                                                                                                      | Decision / Interpretation                                                                                                                                            | Next Action                                                                                |
-| ---------- | ------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 2026-08-21 | OPP-143 | Adrien / CuttingEEG                                           | Event targets PhD/advanced researchers; high-school attendance is a major stretch; no global travel/accommodation support; individual Garden sponsorship may be possible; replay material may become available                                                                                        | Standard 2026 attendance route is not currently practical                                                                                                            | Reconsider only on a concrete Garden sponsorship trigger or post-event replay availability |
-| 2026-08-21 | OPP-134 | Sleep Europe 2026 Congress Secretariat / Registration Manager | Scientific-programme participation is only available to participants over 18                                                                                                                                                                                                                          | Eligibility blocks the present 2026 participation route                                                                                                              | No further current-cycle action; retain for future eligibility                             |
-| 2026-08-24 | OPP-104 | Armenian Artificial Intelligence Virtual Institute team       | Government procedure is still under development; draft physical-person categories include higher-education students and persons with higher or secondary vocational education; scientific/technical evidence will be assessed with application documents; next application round is not yet announced | Current clarification objective achieved. No application can be pursued now. Final eligibility must be reassessed when formal rules and the next round are published | Move to TRIGGER_WAIT; monitor official program reopening; do not delay Path V              |
-
-# Applications / Registrations / Access Requests
-
-| Date | OPP ID  | Submission                                                                 | Status   | Confirmation / Reference                                                                | Next Step                      |
-| ---- | ------- | -------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------- | ------------------------------ |
-| —    | OPP-104 | No formal AIVI compute application submitted                               | NOT_OPEN | AIVI confirmed on 2026-08-24 that the next application round has not yet been announced | Reassess when next round opens |
-| —    | —       | No other formal application/registration/access request recorded in A6 yet | —        | —                                                                                       | —                              |
-
-# Meetings / Calls
-
-| Date | OPP ID | Contact / Organization | Purpose | Outcome | Follow-up |
-|---|---|---|---|---|
-| 2026-08-21 | OPP-104 | Armenian Ministry of High-Tech Industry hotline | Find correct AIVI contact / clarify how to reach program | Hotline advised calling again around 14:00; later attempts still did not reach the program team | Inquiry moved to dedicated AIVI email; official response later received on 2026-08-24 |
-
-# Pre-Path V Execution Snapshot — 2026-08-26
-
-| Opportunity                                             | Current State | Immediate Requirement                                                                                                         |
-| ------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| OPP-078A — NEMAR                                        | IN_PROGRESS   | Continue from Step 8.7 exact labeled epoch extraction; complete remaining ingestion/reproducibility work before NEMAR closure |
-| OPP-064 — NSRR                                          | NOT_STARTED   | Open justified dataset-access/request route                                                                                   |
-| OPP-015 — Centre for Sleep and Cognition / Michael Chee | NOT_STARTED   | Send focused scientific-methods outreach                                                                                      |
-| OPP-039 — Neurotechnology Laboratory, Engineering City  | NOT_STARTED   | Initiate focused local technical contact                                                                                      |
-| OPP-031 — COBRAIN / YSMU                                | NOT_STARTED   | Initiate exploratory scientific/institutional contact                                                                         |
-| OPP-104 — AIVI                                          | TRIGGER_WAIT  | No current action; re-open when application round is announced                                                                |
-
-# Path A — Do Not Duplicate
-
-* OPP-011 — Cecilia Forcato
-* OPP-014 — Hong-Viet V. Ngo-Dehning
-
-These remain outside immediate Path E execution until their Path A state changes.
-
-# Pre-Path V Command Board — 2026-08-26
-
-## Active Now
-
-### 1. OPP-078A — NEMAR Research Infrastructure
-
-Status: IN_PROGRESS
-
-Completed execution sequence to date:
-
-```text
-Environment
-→ BOAS dataset selection
-→ metadata due diligence
-→ selective real-data retrieval
-→ actual PSG/headband signal inspection
-→ minimal ingestion architecture
-→ file discovery
-→ participant-identity resolution
-→ event semantics
-→ raw EDF access
-→ explicit channel grouping
-→ structural validation
-```
-
-Current next step:
-
-> **Step 8.7 — exact labeled epoch extraction**
-
-NEMAR remains the current active execution target.
-
-## Execute After NEMAR Gate
-
-### 2. OPP-064 — National Sleep Research Resource
-
-* create/verify account;
-* identify justified cohorts;
-* open/submit required access routes;
-* record external approval dependencies.
-
-### 3. OPP-015 — Centre for Sleep and Cognition / Michael Chee
-
-Send one focused scientific-methods outreach around real-time staging/intervention validation or wearable translation.
-
-### 4. OPP-039 — Neurotechnology Laboratory, Engineering City
-
-Initiate focused local technical contact regarding EEG equipment, acquisition, signal processing and possible future technical support.
-
-### 5. OPP-031 — COBRAIN / YSMU
-
-Initiate exploratory institutional/scientific contact regarding mentorship, hosting, affiliation or appropriate neuroscience support.
-
-# Trigger Wait
-
-## OPP-104 — AIVI
-
-Wait for:
-
-* formal government decision;
-* next application-round announcement;
-* final eligibility rules.
-
-Do not delay Path V.
-
-## OPP-143 — CuttingGardens
-
-Re-open only on a credible sponsorship/hosting or replay-material trigger.
-
-## OPP-134 — Sleep Europe
-
-Current 2026 participation route remains blocked; retain for future eligible cycle.
-
-# Pre-Path V Exit Rule
-
-Do not wait for external responses after the appropriate action under our control has been completed.
-
-The gate is satisfied when:
-
-* NEMAR workflow is operational enough for reproducible use;
-* NSRR access/request route has been opened;
-* NUS outreach has been sent;
-* Engineering City contact has been initiated;
-* COBRAIN contact has been initiated;
-* AIVI remains correctly recorded in TRIGGER_WAIT;
-* Path A-overlap opportunities remain protected from duplicate outreach.
-
-Then:
-
-> PRE-PATH V → COMPLETE
-
-and:
-
-> PATH V — VALIDATION-LITE → START
-
-# Tracker Update Rule
-
-For every meaningful action, update the Live Execution Board and add a chronological note when useful.
-
-For outbound opportunities:
-
-> Action → Date → Channel → Status → External response → Next action
-
-For direct technical opportunities:
-
-> Opportunity activated → Technical milestone → High-level output → Next technical dependency
-
-For trigger-wait opportunities:
-
-> Current route resolved → Future trigger defined → No active effort until trigger
-
-A6 remains the operational memory of Path E while detailed engineering implementation remains exclusively inside the private engineering repository.
