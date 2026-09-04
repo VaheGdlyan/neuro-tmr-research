@@ -38,6 +38,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 | OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                               | Channel                    | Date       | Status           | Next Action                                                                                                                                                        | Next Check / Target                                      | Notes                                                                                                                                                                                                                                                                                                                                 |
 | -------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Candidate-specific scientific-methods outreach sent on validation evidence required before reduced-channel EEG N3 estimates are trusted to gate acoustic cues in a stage-aware closed-loop system | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. Convert useful guidance into an explicit Path V requirement/experiment. If referred, follow the referral. If no reply, send one concise follow-up after ~7–10 business days | Follow-up window: ~2026-09-15 to 2026-09-18              | Outreach was grounded in Chee/NUS work on real-time sleep staging, confidence-aware inference, acoustic intervention, external validation and wearable translation. No attachments, funding request, mentorship request, hardware request or broad collaboration ask was made. |
+| OPP-039  | Engineering City Neurotechnology Laboratory / EIF Science Incubator         | Deep local-collaboration due diligence completed and targeted institutional collaboration inquiry sent through the official High-Tech Accelerator / EIF route, requesting connection to the relevant Neurotechnology Laboratory technical/research lead and discussion of a small EEG/closed-loop validation collaboration | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If routed to a technical lead, schedule a short technical meeting/lab visit and build a direct capability map. If no reply after ~2–3 business days, use one controlled follow-up, preferably by phone when available | Follow-up target: ~2026-09-08 to 2026-09-09              | Local strategic opportunity. Public evidence confirms EEG acquisition/processing and active neurotechnology work, while exact equipment, real-time API/streaming, synchronization, sleep-specific capability, ethics route and external-project mechanism remain to be verified directly. First ask deliberately avoided funding, equipment loan, internship, human study or product-validation requests. |
 | OPP-064  | National Sleep Research Resource (NSRR)                                | SHHS and STAGES Standard Individual data-access requests successfully submitted after completing the required scientific, compliance, security and guardian-signing workflow | NSRR portal + Email        | 2026-09-01 | WAITING_RESPONSE | Wait for NSRR review. Respond if additional information is requested. Do not download data until access is approved and Path V defines a justified acquisition step | Review window: up to ~2 weeks; check around 2026-09-15   | SHHS role = large-scale PSG robustness/generalization. STAGES role = protected multi-site/clinical external generalization. MESA remains reserve. No NSRR raw data has been downloaded and the download token remains unused. Submitted application/compliance records remain private outside Git.                                     |
 | OPP-078A | NEMAR Research Infrastructure                                          | Pre-Path V NEMAR/BOAS technical objective completed: reproducible access, raw-data inspection, validated minimal ingestion, formal EDA, and engineering-readiness assessment | Direct technical execution | 2026-08-28 | IN_PROGRESS      | Stop further Pre-Path V deepening. Carry BOAS/NEMAR forward as a Path V data and validation resource                                                              | Re-enter during Path V                                   | The Pre-Path V NEMAR gate is satisfied. BOAS was assessed READY WITH CONSTRAINTS. `IN_PROGRESS` is retained because NEMAR remains an active Path V resource, not because additional Pre-Path V NEMAR work is required. Detailed technical implementation remains exclusively in the private engineering repository.                       |
 | OPP-143  | CuttingGardens / CuttingEEG Community                                  | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support        | Email                      | 2026-08-21 | BLOCKED          | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or if post-event replay material becomes available | Post-event replay check after 2026-09-25                 | Organizer did not state an absolute age ban, but level-fit is weak and the global organization cannot provide travel/accommodation support.                                                                                                                                                                                         |
@@ -1153,11 +1154,190 @@ Active execution now advances to:
 
 > **OPP-039 — Engineering City Neurotechnology Laboratory**
 
+### OPP-039 — Engineering City Neurotechnology Laboratory
+
+Execution type: Local institutional / technical research collaboration  
+Current state: WAITING_RESPONSE
+
+### Strategic Importance
+
+OPP-039 was treated as a high-value local collaboration opportunity because it could potentially address a class of Neuro-TMR problems that remote scientific outreach and public datasets cannot solve directly:
+
+* real EEG acquisition;
+* signal-processing integration;
+* real-time data streaming;
+* event timing and synchronization;
+* cue-trigger integration;
+* end-to-end latency measurement;
+* repeated local technical iteration;
+* later prototype/instrumentation work.
+
+The opportunity was not treated as a substitute for sleep-science expertise or as evidence that Engineering City already has a complete sleep-laboratory pathway.
+
+### Institutional / Capability Due Diligence
+
+Before outreach, the Engineering City / EIF / Neurotechnology Laboratory ecosystem was investigated in depth.
+
+The opportunity was refined to the following role:
+
+> **potential local engineering and experimental partner for Neuro-TMR Path V, beginning with technical EEG acquisition and closed-loop integration rather than a human efficacy study.**
+
+Public evidence established that the Neurotechnology Laboratory operates within the EIF / High-Tech Accelerator / Engineering City ecosystem and is oriented toward neurotechnology, EEG acquisition/processing, data analysis and applied experimentation.
+
+The broader local ecosystem also appears relevant to later:
+
+* electronics/prototyping;
+* hardware integration;
+* scientific-incubation support;
+* Armenian neuroscience/engineering network development.
+
+### Important Unknowns Preserved
+
+The outreach did not assume facts that were not directly verified.
+
+The following remain to be established through direct contact or a technical meeting:
+
+* exact EEG hardware/model/configuration;
+* channel counts and electrode options;
+* raw-data availability;
+* sampling structure;
+* real-time SDK/API support;
+* LSL or equivalent streaming support;
+* event-marker / synchronization capability;
+* audio-trigger integration;
+* sleep-specific or overnight acquisition capability;
+* EOG/EMG/PSG capability;
+* current Neurotechnology Laboratory technical/scientific lead;
+* current internal neurotechnology projects;
+* external independent-project collaboration mechanism;
+* ethics / human-research pathway for any later prospective work.
+
+These unknowns must be resolved before Neuro-TMR builds Path V assumptions around the laboratory.
+
+### Frozen First Collaboration Objective
+
+The initial institutional objective was defined as:
+
+> **determine whether the Engineering City Neurotechnology Laboratory can become Neuro-TMR's local technical partner for real EEG acquisition and real-time closed-loop validation, beginning with a small technical integration test rather than a human efficacy study.**
+
+The intended first technical step, if capability and collaboration fit are confirmed, would be a minimal integration feasibility test such as:
+
+```text
+EEG source / acquisition
+        ↓
+real-time data interface
+        ↓
+Python processing / event logic
+        ↓
+timestamped trigger
+        ↓
+dummy audio output
+        ↓
+end-to-end latency measurement
+```
+
+This is a candidate collaboration direction, not a committed experiment.
+
+### Preferred Local Contact Strategy
+
+Because the opportunity is local and the exact technical laboratory lead was not publicly clear, telephone-first contact was initially preferred.
+
+The intended telephone objective was deliberately narrow:
+
+> reach the correct Neurotechnology Laboratory / EIF Science Incubator person, briefly introduce Neuro-TMR, and secure a short technical meeting or lab visit.
+
+The call was not intended to request equipment, funding, an internship, or a human study.
+
+### Channel Adaptation
+
+Telephone contact was not practically available at the time of execution.
+
+Rather than delay the Pre-Path V action, the channel was adapted to professional email through the official High-Tech Accelerator / EIF institutional route.
+
+This preserved the same objective:
+
+* introduce Neuro-TMR briefly;
+* state that scientific/offline EEG groundwork is already complete;
+* explain the transition toward real-time Validation-Lite;
+* identify the relevance of EEG acquisition, processing, timing and closed-loop integration;
+* request routing to the person responsible for the Neurotechnology Laboratory's EEG/research work;
+* propose a short technical meeting / local discussion if appropriate.
+
+### Outreach Action
+
+On 2026-09-04, a targeted institutional collaboration inquiry was sent.
+
+The first-contact message intentionally did **not** request:
+
+* equipment ownership/loan;
+* funding;
+* internship placement;
+* broad mentorship;
+* immediate human sleep experimentation;
+* product validation;
+* commercial endorsement.
+
+The initial request was limited to determining whether a real technical collaboration fit exists.
+
+### Success Conditions
+
+Primary first-stage success:
+
+> connection to the actual Neurotechnology Laboratory technical/research lead and a short technical meeting or lab visit.
+
+A successful first meeting should establish:
+
+1. **WHO** — who leads the EEG/neurotechnology work;
+2. **WHAT** — exact hardware/software/research capabilities;
+3. **ACCESS** — what collaboration or project-access mechanism is possible;
+4. **NEXT TEST** — whether one small technically meaningful integration/validation step can be defined.
+
+Secondary useful outcomes include:
+
+* referral to another relevant EIF / Engineering City technical group;
+* direct equipment/capability clarification;
+* request for a concise Neuro-TMR technical brief;
+* invitation to visit the laboratory;
+* identification of a local neuroscience/engineering partner better suited to the project.
+
+### Current State
+
+The initial outbound action under Neuro-TMR's control is complete.
+
+Therefore:
+
+> **OPP-039 → WAITING_RESPONSE**
+
+### Follow-Up Rule
+
+If a reply arrives:
+
+* preserve the exact response;
+* distinguish direct capability evidence from interpretation;
+* identify the named technical counterpart;
+* schedule a technical discussion / lab visit if offered;
+* build an OPP-039 capability map before proposing deeper collaboration;
+* define only one small next technical action if the fit is real.
+
+If no reply arrives after approximately 2–3 business days:
+
+* use one controlled follow-up;
+* prefer the official telephone route when practical;
+* do not mass-email multiple Engineering City / EIF contacts simultaneously.
+
+Do not delay other Pre-Path V work while waiting.
+
+### Next Active Opportunity
+
+Active execution now advances to:
+
+> **OPP-031 — COBRAIN / YSMU**
+
 # Current Pre-Path V Command Board
 
 ## Active Now
 
-### OPP-039 — Engineering City Neurotechnology Laboratory
+### OPP-031 — COBRAIN / YSMU
 
 State:
 
@@ -1165,17 +1345,37 @@ State:
 
 Before contact:
 
-1. investigate the current laboratory/institutional route;
-2. verify current capabilities and personnel;
-3. identify the concrete overlap with Neuro-TMR;
-4. determine what resource, validation or technical bottleneck the opportunity could actually address;
-5. define one primary objective;
-6. verify the correct contact route;
+1. investigate the current COBRAIN / YSMU structure and active people;
+2. verify the current neuroscience / neurotechnology / EEG capabilities relevant to Neuro-TMR;
+3. determine what local scientific, institutional or future human-validation bottleneck the opportunity could address;
+4. distinguish its role from Engineering City's engineering/instrumentation role;
+5. define one concrete collaboration objective;
+6. verify the correct current contact route;
 7. only then prepare outreach.
 
-Do not begin with generic collaboration language.
+Do not begin with generic institutional networking language.
 
 ## Waiting Response
+
+### OPP-039 — Engineering City Neurotechnology Laboratory
+
+State:
+
+> **WAITING_RESPONSE**
+
+Primary objective:
+
+> determine whether the laboratory can become a local technical partner for real EEG acquisition and closed-loop Validation-Lite integration.
+
+Preferred successful next step:
+
+> connection to the relevant technical lead + short technical meeting / lab visit + direct capability map.
+
+Follow-up target:
+
+> approximately **2026-09-08 to 2026-09-09** if no response arrives.
+
+Do not wait for a reply before continuing Pre-Path V.
 
 ### OPP-015 — Centre for Sleep and Cognition / Michael Chee
 
@@ -1316,11 +1516,13 @@ The current Pre-Path V opportunity state is:
    * no further immediate action required unless reply/follow-up trigger occurs.
 
 4. **OPP-039 — Engineering City Neurotechnology Laboratory**
-   * **NEXT ACTIVE EXECUTION**;
-   * contact still to be initiated.
+   * targeted institutional collaboration inquiry sent;
+   * overall state = WAITING_RESPONSE;
+   * no further immediate action required unless reply/follow-up trigger occurs.
 
 5. **OPP-031 — COBRAIN / YSMU**
-   * contact still to be initiated after OPP-039.
+   * **NEXT ACTIVE EXECUTION**;
+   * research, capability mapping and contact preparation still to be completed.
 
 6. **OPP-104 — AIVI**
    * TRIGGER_WAIT;
@@ -1338,7 +1540,7 @@ When:
 
 * OPP-064 remains correctly documented as `WAITING_RESPONSE`;
 * OPP-015 remains correctly documented as `WAITING_RESPONSE`;
-* OPP-039 contact has been initiated;
+* OPP-039 remains correctly documented as `WAITING_RESPONSE`;
 * OPP-031 contact has been initiated;
 * AIVI remains correctly documented as `TRIGGER_WAIT`;
 * Forcato/Ngo Path A overlap remains protected;
@@ -1355,11 +1557,12 @@ Do not delay Path V solely because:
 
 * SHHS/STAGES approval is pending;
 * Michael Chee / NUS has not replied;
+* Engineering City / EIF has not replied;
 * other external parties remain asynchronous.
 
 # Current Immediate Command
 
-> **BEGIN OPP-039 — ENGINEERING CITY NEUROTECHNOLOGY LABORATORY**
+> **BEGIN OPP-031 — COBRAIN / YSMU**
 
-OPP-064 and OPP-015 now run asynchronously in `WAITING_RESPONSE` while active Pre-Path V execution moves forward.
+OPP-064, OPP-015 and OPP-039 now run asynchronously in `WAITING_RESPONSE` while active Pre-Path V execution moves forward.
 
