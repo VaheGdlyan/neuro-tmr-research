@@ -2,7 +2,7 @@
 
 Date opened: 2026-08-21
 Last updated: 2026-09-04
-Stage: PATH E EXECUTION / PRE-PATH V
+Stage: PATH E EXECUTION / PRE-PATH V COMPLETE — PATH V READY
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
 Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
 
@@ -39,6 +39,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 | -------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Candidate-specific scientific-methods outreach sent on validation evidence required before reduced-channel EEG N3 estimates are trusted to gate acoustic cues in a stage-aware closed-loop system | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. Convert useful guidance into an explicit Path V requirement/experiment. If referred, follow the referral. If no reply, send one concise follow-up after ~7–10 business days | Follow-up window: ~2026-09-15 to 2026-09-18              | Outreach was grounded in Chee/NUS work on real-time sleep staging, confidence-aware inference, acoustic intervention, external validation and wearable translation. No attachments, funding request, mentorship request, hardware request or broad collaboration ask was made. |
 | OPP-039  | Engineering City Neurotechnology Laboratory / EIF Science Incubator         | Deep local-collaboration due diligence completed and targeted institutional collaboration inquiry sent through the official High-Tech Accelerator / EIF route, requesting connection to the relevant Neurotechnology Laboratory technical/research lead and discussion of a small EEG/closed-loop validation collaboration | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If routed to a technical lead, schedule a short technical meeting/lab visit and build a direct capability map. If no reply after ~2–3 business days, use one controlled follow-up, preferably by phone when available | Follow-up target: ~2026-09-08 to 2026-09-09              | Local strategic opportunity. Public evidence confirms EEG acquisition/processing and active neurotechnology work, while exact equipment, real-time API/streaming, synchronization, sleep-specific capability, ethics route and external-project mechanism remain to be verified directly. First ask deliberately avoided funding, equipment loan, internship, human study or product-validation requests. |
+| OPP-031  | COBRAIN Scientific-Educational Center / YSMU                         | Deep institutional due diligence completed; targeted scientific/institutional collaboration inquiry sent to Mariam Movsisyan / YSMU KTTO, requesting an exploratory meeting and routing to the appropriate COBRAIN/YSMU scientific counterpart | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If a meeting/referral is offered, map the realistic mentorship, hosting, governance or research-enablement route. If no reply after ~5–7 business days, send one concise follow-up | Follow-up target: ~2026-09-11 to 2026-09-15              | Role = local neuroscience scientific/institutional bridge, not the primary EEG-hardware or sleep-lab route. Potential value includes scientific mentorship, experimental-design support, institutional hosting, ethics/governance, clinical-research coordination and network access. No human-study, funding, lab-access or formal-affiliation request was made initially. |
 | OPP-064  | National Sleep Research Resource (NSRR)                                | SHHS and STAGES Standard Individual data-access requests successfully submitted after completing the required scientific, compliance, security and guardian-signing workflow | NSRR portal + Email        | 2026-09-01 | WAITING_RESPONSE | Wait for NSRR review. Respond if additional information is requested. Do not download data until access is approved and Path V defines a justified acquisition step | Review window: up to ~2 weeks; check around 2026-09-15   | SHHS role = large-scale PSG robustness/generalization. STAGES role = protected multi-site/clinical external generalization. MESA remains reserve. No NSRR raw data has been downloaded and the download token remains unused. Submitted application/compliance records remain private outside Git.                                     |
 | OPP-078A | NEMAR Research Infrastructure                                          | Pre-Path V NEMAR/BOAS technical objective completed: reproducible access, raw-data inspection, validated minimal ingestion, formal EDA, and engineering-readiness assessment | Direct technical execution | 2026-08-28 | IN_PROGRESS      | Stop further Pre-Path V deepening. Carry BOAS/NEMAR forward as a Path V data and validation resource                                                              | Re-enter during Path V                                   | The Pre-Path V NEMAR gate is satisfied. BOAS was assessed READY WITH CONSTRAINTS. `IN_PROGRESS` is retained because NEMAR remains an active Path V resource, not because additional Pre-Path V NEMAR work is required. Detailed technical implementation remains exclusively in the private engineering repository.                       |
 | OPP-143  | CuttingGardens / CuttingEEG Community                                  | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support        | Email                      | 2026-08-21 | BLOCKED          | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or if post-event replay material becomes available | Post-event replay check after 2026-09-25                 | Organizer did not state an absolute age ban, but level-fit is weak and the global organization cannot provide travel/accommodation support.                                                                                                                                                                                         |
@@ -1333,29 +1334,189 @@ Active execution now advances to:
 
 > **OPP-031 — COBRAIN / YSMU**
 
+
+### OPP-031 — COBRAIN Scientific-Educational Center / YSMU
+
+Execution type: Local neuroscience institutional collaboration  
+Current state: WAITING_RESPONSE
+
+### Strategic Role
+
+OPP-031 was treated as a local scientific/institutional collaboration opportunity rather than as another EEG-hardware or generic networking target.
+
+The opportunity was refined to the following Neuro-TMR role:
+
+> **potential Armenian scientific host / institutional bridge for the transition from independent Validation-Lite toward later institutionally governed neuroscience validation.**
+
+Its value is deliberately separated from the roles of other active opportunities:
+
+* **OPP-015 / Michael Chee — NUS** → sleep-staging, acoustic-intervention and wearable-validation methodology;
+* **OPP-039 / Engineering City** → real EEG acquisition, instrumentation, streaming, timing and local engineering integration;
+* **OPP-031 / COBRAIN-YSMU** → neuroscience mentorship, institutional research pathway, experimental-design support, ethics/governance and later clinical-research enablement.
+
+### Institutional Due Diligence
+
+Before outreach, COBRAIN/YSMU was investigated as an active 2026 research institution rather than relying on the historical Horizon 2020 project alone.
+
+The due diligence established that:
+
+* the COBRAIN Scientific-Educational Center for Fundamental Brain Research remains an active YSMU research center;
+* current activity includes fundamental neuroscience research, training, international collaboration and ongoing scientific programs;
+* Prof. Konstantin Yenkoyan is a central scientific/institutional leader connected to COBRAIN and YSMU research strategy;
+* YSMU's Knowledge and Technology Transfer Office provides a current institutional collaboration route;
+* YSMU has a formal Ethics Committee and research-governance infrastructure relevant to future human-subjects work;
+* YSMU's research/technology-transfer structure includes protocol-development, ethics/regulatory and clinical-research coordination functions;
+* COBRAIN has substantial fundamental-neuroscience and electrophysiology capability.
+
+### Important Guardrails
+
+The research did **not** establish that COBRAIN/YSMU currently provides:
+
+* a human scalp-EEG sleep laboratory;
+* PSG infrastructure;
+* automatic sleep-staging expertise as a core capability;
+* overnight sleep-acquisition capability;
+* direct TMR efficacy expertise;
+* an immediately available human-validation route for Neuro-TMR.
+
+Therefore OPP-031 is not being used to replace Engineering City or external sleep-methodology expertise.
+
+No human experiment should be proposed until:
+
+* Path V generates sufficient technical evidence;
+* a legitimate scientific host exists;
+* an appropriate protocol is defined;
+* the relevant ethics/governance pathway is established.
+
+### Frozen Collaboration Objective
+
+The first institutional objective was defined as:
+
+> **determine whether COBRAIN/YSMU can provide an appropriate scientific mentorship, hosting or research-enablement pathway for Neuro-TMR as it progresses from independent EEG-based Validation-Lite toward later institutionally governed neuroscience validation.**
+
+The central institutional question was:
+
+> **Could COBRAIN/YSMU provide an appropriate scientific host or mentorship pathway for Neuro-TMR, and if so, what would the correct institutional route be?**
+
+### Contact Strategy
+
+Because telephone contact was not practically available at the time of execution, the opportunity was approached through targeted institutional email rather than delayed.
+
+The primary contact was:
+
+> **Mariam Movsisyan — YSMU Knowledge and Technology Transfer Office**
+
+The official KTTO route was included as a visible copy so that the inquiry entered both the named-person and institutional collaboration channels.
+
+The first-contact message was designed to:
+
+* introduce Neuro-TMR briefly and accurately;
+* establish that scientific synthesis and real EEG/PSG offline work already exist;
+* explain the current Validation-Lite transition;
+* distinguish the desired YSMU role from engineering/hardware support;
+* ask about scientific mentorship / research-hosting mechanisms;
+* request a short exploratory meeting with the appropriate COBRAIN/YSMU scientific counterpart;
+* offer a concise technical summary if requested.
+
+No attachment was included initially.
+
+### Requests Deliberately Not Made
+
+The first contact did **not** request:
+
+* funding;
+* equipment;
+* laboratory access;
+* immediate formal affiliation;
+* IRB/ethics approval;
+* participant recruitment;
+* a human TMR experiment;
+* endorsement;
+* co-authorship;
+* generic mentorship without a defined project role.
+
+The first step is institutional fit discovery, not escalation into a prospective human study.
+
+### Success Conditions
+
+Primary success:
+
+> a named COBRAIN/YSMU scientific counterpart plus an explicit institutional next step.
+
+Strong useful outcomes include:
+
+* invitation to a 20–30 minute exploratory meeting;
+* request for a concise Neuro-TMR technical brief;
+* referral to Prof. Yenkoyan or another relevant YSMU scientist;
+* explanation of a legitimate mentorship/hosting mechanism;
+* identification of a sleep-neurology / neurophysiology / clinical-research collaborator;
+* explicit requirements Neuro-TMR should satisfy before YSMU could support later validation.
+
+A polite but non-specific reply is not sufficient by itself; the objective is a concrete route or counterpart.
+
+### Current State
+
+The initial outbound action under Neuro-TMR's control is complete.
+
+Therefore:
+
+> **OPP-031 → WAITING_RESPONSE**
+
+### Follow-Up Rule
+
+If a reply arrives:
+
+* preserve the exact response;
+* distinguish institutional fact from interpretation;
+* identify the named scientific/institutional counterpart;
+* prepare only the material specifically requested;
+* convert any useful requirement into a documented Path V or POST-Path V condition.
+
+If no response arrives after approximately 5–7 business days:
+
+* send one concise follow-up through the same route;
+* do not mass-email multiple YSMU/COBRAIN researchers simultaneously.
+
+### Pre-Path V Consequence
+
+OPP-031 was the final remaining active outbound opportunity in the frozen Pre-Path V exit gate.
+
+With this contact initiated:
+
+> **all Pre-Path V actions currently under Neuro-TMR's control are complete.**
+
+External replies remain asynchronous and do not block the transition to Path V.
+
+
 # Current Pre-Path V Command Board
 
-## Active Now
+## Active Pre-Path V Work
+
+> **NONE — PRE-PATH V EXIT GATE SATISFIED**
+
+There are no remaining active outbound Pre-Path V opportunities under the frozen execution plan.
+
+All remaining external dependencies are now asynchronous.
+
+## Waiting Response
 
 ### OPP-031 — COBRAIN / YSMU
 
 State:
 
-> **NEXT ACTIVE EXECUTION**
+> **WAITING_RESPONSE**
 
-Before contact:
+Primary objective:
 
-1. investigate the current COBRAIN / YSMU structure and active people;
-2. verify the current neuroscience / neurotechnology / EEG capabilities relevant to Neuro-TMR;
-3. determine what local scientific, institutional or future human-validation bottleneck the opportunity could address;
-4. distinguish its role from Engineering City's engineering/instrumentation role;
-5. define one concrete collaboration objective;
-6. verify the correct current contact route;
-7. only then prepare outreach.
+> determine whether COBRAIN/YSMU can provide a concrete scientific mentorship, hosting or institutional research-enablement route for Neuro-TMR.
 
-Do not begin with generic institutional networking language.
+Preferred useful next step:
 
-## Waiting Response
+> named scientific counterpart + exploratory meeting / explicit institutional route.
+
+Follow-up target:
+
+> approximately **2026-09-11 to 2026-09-15** if no response arrives.
 
 ### OPP-039 — Engineering City Neurotechnology Laboratory
 
@@ -1367,15 +1528,13 @@ Primary objective:
 
 > determine whether the laboratory can become a local technical partner for real EEG acquisition and closed-loop Validation-Lite integration.
 
-Preferred successful next step:
+Preferred useful next step:
 
 > connection to the relevant technical lead + short technical meeting / lab visit + direct capability map.
 
 Follow-up target:
 
 > approximately **2026-09-08 to 2026-09-09** if no response arrives.
-
-Do not wait for a reply before continuing Pre-Path V.
 
 ### OPP-015 — Centre for Sleep and Cognition / Michael Chee
 
@@ -1390,8 +1549,6 @@ Primary ask:
 Follow-up window:
 
 > **2026-09-15 to 2026-09-18**
-
-Do not wait for a reply before continuing Pre-Path V.
 
 ### OPP-064 — National Sleep Research Resource
 
@@ -1449,9 +1606,9 @@ BOAS:
 
 > **READY WITH CONSTRAINTS**
 
-Do not deepen BOAS/NEMAR further during Pre-Path V.
+Do not reopen broad BOAS/NEMAR exploration.
 
-Re-enter when Path V requires actual staging, model-development, evaluation or reproducibility work.
+Re-enter only when Path V requires actual staging, model-development, evaluation or reproducibility work.
 
 ## Trigger Wait
 
@@ -1496,13 +1653,14 @@ Do not duplicate Path A outreach for:
 
 Path A overlap remains protected.
 
-# Remaining Pre-Path V Exit Gate
+# Pre-Path V Exit Gate — SATISFIED
 
-The current Pre-Path V opportunity state is:
+The frozen Pre-Path V gate is now fully satisfied.
 
 1. **OPP-078A — NEMAR**
    * Pre-Path V objective COMPLETE.
-   * Preserve as Path V resource.
+   * BOAS = READY WITH CONSTRAINTS.
+   * Preserve as a Path V resource.
 
 2. **OPP-064 — NSRR**
    * SHHS submitted.
@@ -1511,58 +1669,62 @@ The current Pre-Path V opportunity state is:
    * No further immediate action required.
 
 3. **OPP-015 — Centre for Sleep and Cognition / Michael Chee**
-   * outreach sent;
-   * overall state = WAITING_RESPONSE;
-   * no further immediate action required unless reply/follow-up trigger occurs.
+   * targeted methodological outreach sent.
+   * Overall state = WAITING_RESPONSE.
+   * No further immediate action required unless reply/follow-up trigger occurs.
 
 4. **OPP-039 — Engineering City Neurotechnology Laboratory**
-   * targeted institutional collaboration inquiry sent;
-   * overall state = WAITING_RESPONSE;
-   * no further immediate action required unless reply/follow-up trigger occurs.
+   * targeted local technical-collaboration inquiry sent.
+   * Overall state = WAITING_RESPONSE.
+   * No further immediate action required unless reply/follow-up trigger occurs.
 
 5. **OPP-031 — COBRAIN / YSMU**
-   * **NEXT ACTIVE EXECUTION**;
-   * research, capability mapping and contact preparation still to be completed.
+   * targeted local scientific/institutional collaboration inquiry sent.
+   * Overall state = WAITING_RESPONSE.
+   * No further immediate action required unless reply/follow-up trigger occurs.
 
 6. **OPP-104 — AIVI**
-   * TRIGGER_WAIT;
-   * no current action required.
+   * TRIGGER_WAIT.
+   * No active action required before Path V.
 
 7. **OPP-011 / OPP-014**
-   * Path A protected;
-   * no duplicate Path E outreach.
+   * Path A protected.
+   * No duplicate Path E outreach required.
 
-External replies are not required before Path V once the remaining outbound actions under Neuro-TMR's control are completed.
+Therefore:
 
-# Transition Rule
+> **There are no remaining Pre-Path V opportunity actions under Neuro-TMR's control.**
 
-When:
+External replies are explicitly not required for transition.
 
-* OPP-064 remains correctly documented as `WAITING_RESPONSE`;
-* OPP-015 remains correctly documented as `WAITING_RESPONSE`;
-* OPP-039 remains correctly documented as `WAITING_RESPONSE`;
-* OPP-031 contact has been initiated;
-* AIVI remains correctly documented as `TRIGGER_WAIT`;
-* Forcato/Ngo Path A overlap remains protected;
+# Transition Decision — 2026-09-04
 
-then:
+All conditions of the frozen transition rule are now satisfied.
+
+Therefore:
 
 > **PRE-PATH V → COMPLETE**
 
 and:
 
-> **PATH V — VALIDATION-LITE → START**
+> **PATH V — VALIDATION-LITE → READY TO START**
+
+Path A and the active Path E opportunities continue asynchronously.
 
 Do not delay Path V solely because:
 
-* SHHS/STAGES approval is pending;
+* SHHS/STAGES review is pending;
 * Michael Chee / NUS has not replied;
 * Engineering City / EIF has not replied;
-* other external parties remain asynchronous.
+* COBRAIN / YSMU has not replied;
+* other protected or trigger-wait opportunities remain unresolved externally.
+
+Any future reply that materially changes a scientific or engineering assumption should be incorporated into Path V through an explicit requirement, experiment, guardrail or decision update.
 
 # Current Immediate Command
 
-> **BEGIN OPP-031 — COBRAIN / YSMU**
+> **BEGIN PATH V — VALIDATION-LITE**
 
-OPP-064, OPP-015 and OPP-039 now run asynchronously in `WAITING_RESPONSE` while active Pre-Path V execution moves forward.
+Pre-Path V is formally complete.
 
+OPP-064, OPP-015, OPP-039 and OPP-031 now run asynchronously in `WAITING_RESPONSE`, while OPP-078A / BOAS re-enters only when required by Path V engineering.
