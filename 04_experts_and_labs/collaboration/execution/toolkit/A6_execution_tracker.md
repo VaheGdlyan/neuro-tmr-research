@@ -1,7 +1,7 @@
 # A6 — Path E Execution Tracker
 
 Date opened: 2026-08-21
-Last updated: 2026-09-01
+Last updated: 2026-09-04
 Stage: PATH E EXECUTION / PRE-PATH V
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
 Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
@@ -37,6 +37,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 | OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                               | Channel                    | Date       | Status           | Next Action                                                                                                                                                        | Next Check / Target                                      | Notes                                                                                                                                                                                                                                                                                                                                 |
 | -------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Candidate-specific scientific-methods outreach sent on validation evidence required before reduced-channel EEG N3 estimates are trusted to gate acoustic cues in a stage-aware closed-loop system | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. Convert useful guidance into an explicit Path V requirement/experiment. If referred, follow the referral. If no reply, send one concise follow-up after ~7–10 business days | Follow-up window: ~2026-09-15 to 2026-09-18              | Outreach was grounded in Chee/NUS work on real-time sleep staging, confidence-aware inference, acoustic intervention, external validation and wearable translation. No attachments, funding request, mentorship request, hardware request or broad collaboration ask was made. |
 | OPP-064  | National Sleep Research Resource (NSRR)                                | SHHS and STAGES Standard Individual data-access requests successfully submitted after completing the required scientific, compliance, security and guardian-signing workflow | NSRR portal + Email        | 2026-09-01 | WAITING_RESPONSE | Wait for NSRR review. Respond if additional information is requested. Do not download data until access is approved and Path V defines a justified acquisition step | Review window: up to ~2 weeks; check around 2026-09-15   | SHHS role = large-scale PSG robustness/generalization. STAGES role = protected multi-site/clinical external generalization. MESA remains reserve. No NSRR raw data has been downloaded and the download token remains unused. Submitted application/compliance records remain private outside Git.                                     |
 | OPP-078A | NEMAR Research Infrastructure                                          | Pre-Path V NEMAR/BOAS technical objective completed: reproducible access, raw-data inspection, validated minimal ingestion, formal EDA, and engineering-readiness assessment | Direct technical execution | 2026-08-28 | IN_PROGRESS      | Stop further Pre-Path V deepening. Carry BOAS/NEMAR forward as a Path V data and validation resource                                                              | Re-enter during Path V                                   | The Pre-Path V NEMAR gate is satisfied. BOAS was assessed READY WITH CONSTRAINTS. `IN_PROGRESS` is retained because NEMAR remains an active Path V resource, not because additional Pre-Path V NEMAR work is required. Detailed technical implementation remains exclusively in the private engineering repository.                       |
 | OPP-143  | CuttingGardens / CuttingEEG Community                                  | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support        | Email                      | 2026-08-21 | BLOCKED          | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or if post-event replay material becomes available | Post-event replay check after 2026-09-25                 | Organizer did not state an absolute age ban, but level-fit is weak and the global organization cannot provide travel/accommodation support.                                                                                                                                                                                         |
@@ -296,3 +297,1069 @@ Unscored leading data:       0 s
 Unscored trailing data:      23 s / 5,888 samples
 PSG full preload:            False
 Headband full preload:       False
+```
+
+### Engineering Boundary
+
+Step 8 remains deliberately limited to ingestion.
+
+No:
+
+* preprocessing;
+* filtering;
+* normalization;
+* artifact rejection;
+* feature engineering;
+* model training;
+* staging baseline development
+
+belongs inside this step.
+
+### Next Action
+
+Complete exact labeled epoch extraction, integrated validation and cross-recording generalization before beginning the BOAS EDA.
+
+
+## 2026-08-27
+
+### OPP-078A — NEMAR Research Infrastructure
+
+Execution type: Direct technical infrastructure  
+Current state: IN_PROGRESS
+
+### NEMAR Step 8 — Minimal Python Ingestion COMPLETE
+
+NEMAR Step 8 was completed and closed.
+
+Private engineering implementation includes:
+
+```text
+src/neuro_tmr/ingestion/boas.py
+tests/test_boas_ingestion.py
+```
+
+Core API:
+
+```python
+recording = load_boas_recording(data_root, sub_id)
+epoch = recording.get_epoch(index)
+```
+
+Validated capabilities:
+
+* BOAS subject/night discovery;
+* `sub-* → pid` real-participant identity resolution;
+* event-table loading;
+* explicit BOAS sleep-stage semantics;
+* PSG/headband EDF opening with `preload=False`;
+* explicit physiological channel grouping;
+* structural validation;
+* exact labeled 30-second epoch extraction;
+* annotation-to-sample alignment;
+* integrated recording verification;
+* cross-recording metadata/event generalization.
+
+### Exact Labeled Epoch Validation
+
+Locked pilot:
+
+`sub-26 / pid=18`
+
+Reference epoch:
+
+```text
+Epoch index:          288
+Onset:                8640 s
+Sample window:        [2211840:2219520]
+Samples:              7680
+Human consensus:      N3
+PSG AI:               N2
+Headband AI:          N2
+PSG EEG shape:        (6, 7680)
+Headband EEG shape:   (2, 7680)
+Finite values:        confirmed
+Full EDF preload:     False
+```
+
+Additional edge epochs were validated, including the first and final scored epochs.
+
+The 23-second unscored trailing segment remained preserved and correctly excluded from scored-epoch extraction.
+
+### Cross-Recording Generalization Check
+
+A second BOAS recording:
+
+`sub-1 / pid=89`
+
+was discovered and loaded at the metadata/event level without code changes.
+
+PSG and headband event tables contained:
+
+```text
+915 epochs
+```
+
+The first epoch mapped correctly to:
+
+```text
+onset:       0 s
+duration:    30 s
+begsample:   1
+endsample:   7680
+```
+
+No second raw EDF pair was required for this metadata-level generalization check.
+
+### Regression Protection
+
+The ingestion test suite reached:
+
+> **24 passed**
+
+This closes NEMAR Step 8.
+
+### Step 9 — BOAS EDA STARTED
+
+The BOAS EDA was then started using the reproducible ingestion foundation.
+
+Initial EDA focus:
+
+* cohort structure;
+* real participant identity;
+* sleep-stage distributions;
+* N3 availability;
+* PSG AI vs human-consensus agreement;
+* headband AI vs human-consensus agreement;
+* reduced-sensor failure modes;
+* signal-level stage structure.
+
+A key split constraint was preserved:
+
+> future train/validation/test separation must respect real `pid`, not merely `sub-*`, because some participants contribute repeated nights.
+
+Current execution state: IN_PROGRESS
+
+Next action: Complete the BOAS EDA and produce the final engineering-readiness assessment.
+
+## 2026-08-28
+
+### OPP-078A — NEMAR Research Infrastructure
+
+Execution type: Direct technical infrastructure  
+Current state: IN_PROGRESS
+
+### NEMAR Step 9 — BOAS EDA COMPLETE
+
+The formal BOAS exploratory data analysis and engineering-readiness synthesis were completed.
+
+Final synthesis:
+
+```text
+inspection/boas_eda_engineering_readiness.md
+```
+
+Final decision:
+
+> **BOAS — READY WITH CONSTRAINTS**
+
+### Cohort / Stage Landscape
+
+Dataset-level analysis established approximately:
+
+```text
+Recording nights:                   128
+Real participants:                  100
+Total scored epochs:                120,095
+Approx. scored hours:               1000.8 h
+Standard human-consensus epochs:    119,759
+```
+
+Future data splitting must use real participant identity:
+
+> `pid`
+
+rather than treating repeated `sub-*` recordings as independent participants.
+
+### N3 Landscape
+
+Human-consensus N3 represented approximately:
+
+> **4.36%**
+
+of standard scored epochs.
+
+Approximate total N3:
+
+> **43.5 hours**
+
+N3 was present in:
+
+```text
+91 / 128 recording nights
+77 / 100 real participants
+```
+
+Interpretation:
+
+N3 is a minority class but is sufficiently represented to remain a meaningful scientific and engineering target.
+
+Therefore:
+
+> N3 must be treated explicitly in Validation-Lite rather than hidden inside aggregate multiclass accuracy.
+
+### Existing AI Agreement
+
+Approximate dataset-wide agreement with human-consensus staging:
+
+```text
+PSG AI mean agreement:       ~87.18%
+Headband AI mean agreement:  ~86.61%
+```
+
+Aggregate accuracy alone was insufficient because headband predictions contained more unavailable/special outputs.
+
+Effective correct usable N3 coverage:
+
+```text
+PSG:       ~67.77%
+Headband:  ~53.80%
+```
+
+Interpretation:
+
+* reduced-channel/headband staging remains plausible;
+* aggregate accuracy does not establish sensor sufficiency;
+* N3-specific performance remains a meaningful stress test;
+* N1 remains difficult for both systems;
+* reduced sensing must be validated rather than assumed equivalent to full PSG.
+
+### Signal-Level N3 Finding
+
+The locked pilot showed clear low-frequency/high-amplitude structure during human-consensus N3 in both PSG and headband EEG.
+
+Pilot relative delta contribution:
+
+```text
+PSG_F3:  ~92.93%
+HB_1:    ~90.31%
+```
+
+This is evidence of strong N3 slow-frequency structure in the pilot.
+
+It is not evidence that:
+
+* absolute PSG/headband amplitudes are interchangeable;
+* a fixed µV threshold should transfer between devices;
+* whole-epoch sigma power constitutes spindle detection;
+* reduced headband EEG provides all information available in full PSG.
+
+### Auxiliary Physiology
+
+The PSG includes EOG and EMG information unavailable as dedicated modalities in the limited headband EEG.
+
+Important engineering implication:
+
+> Reduced headband staging is not simply “full PSG with fewer columns.”
+
+EOG and EMG contain stage-discriminative information, particularly relevant to difficult distinctions involving N1 and REM.
+
+### Engineering Guardrails
+
+The EDA established that later Path V work must account for:
+
+* participant-level leakage;
+* minority-class N3 performance;
+* special/unavailable predictions;
+* device-specific amplitude scaling;
+* signal-quality/artifact handling;
+* acquisition-domain differences;
+* reduced-sensor information loss.
+
+### Final BOAS Readiness Interpretation
+
+BOAS is suitable for:
+
+* reproducible offline staging work;
+* N3-focused development and evaluation;
+* simultaneous PSG vs reduced-sensor analysis;
+* participant-aware evaluation;
+* reduced-sensor failure-mode analysis;
+* signal-quality and artifact-handling work;
+* establishing an offline data interface before real-time implementation.
+
+BOAS alone does not validate:
+
+* real-time inference latency;
+* streaming acquisition reliability;
+* cue-delivery latency;
+* cue-trigger timing;
+* post-cue arousal / sleep-preservation behavior;
+* final hardware selection;
+* final Neuro-TMR model performance;
+* cross-dataset / broad-population generalization.
+
+Those remain Path V questions.
+
+### Pre-Path V Decision
+
+The NEMAR Pre-Path V objective is now:
+
+> **COMPLETE**
+
+However, overall OPP-078A remains:
+
+> **IN_PROGRESS**
+
+because NEMAR/BOAS remains an active future Path V data and validation resource.
+
+Earlier longer NEMAR Step 10–14 planning is no longer a Pre-Path V blocker.
+
+Do not:
+
+* deepen NEMAR further during Pre-Path V;
+* start another broad BOAS EDA;
+* download the full BOAS raw dataset;
+* treat NEMAR as permanently finished.
+
+Re-enter NEMAR/BOAS when Path V requires staging, modeling, evaluation or reproducibility work.
+
+### Next Pre-Path V Opportunity
+
+With the NEMAR Pre-Path V objective complete, active execution moves to:
+
+> **OPP-064 — National Sleep Research Resource (NSRR)**
+
+## 2026-08-31
+
+### OPP-064 — National Sleep Research Resource (NSRR)
+
+Execution activated: 2026-08-31  
+Execution type: Controlled-access sleep-data infrastructure  
+Current state at activation: IN_PROGRESS
+
+### Objective
+
+Establish a controlled-access large-scale PSG data gateway for Neuro-TMR Path V generalization work while preserving explicit dataset roles, data-use compliance, external-validation boundaries, and minimal necessary acquisition.
+
+The execution philosophy is:
+
+> **ACCESS NOW ≠ DOWNLOAD NOW**
+
+The goal of Pre-Path V is to establish a legitimate and reproducible access route.
+
+Bulk data acquisition is not a Pre-Path V requirement.
+
+### Selected NSRR Dataset Roles
+
+#### SHHS — Sleep Heart Health Study
+
+Primary role:
+
+> large-scale PSG robustness and cross-subject/acquisition-domain generalization.
+
+Possible later secondary role:
+
+> development/pretraining resource if justified by a defined Path V experiment.
+
+Boundary:
+
+SHHS must not automatically be described as a final untouched external test if SHHS data later participate in model development, tuning or representation learning.
+
+#### STAGES
+
+Primary role:
+
+> protected multi-site / clinical external-generalization resource.
+
+Reasons include:
+
+* multi-site acquisition;
+* clinical heterogeneity;
+* cross-center variation;
+* acquisition-domain heterogeneity;
+* external-validation value.
+
+Initial rule:
+
+> **Do not use STAGES for routine model tuning.**
+
+Future evaluation should preserve site/center information where available and report site-aware performance.
+
+#### MESA
+
+Current role:
+
+> **RESERVE ONLY**
+
+Do not request MESA merely to increase available data volume.
+
+Activate only if Path V creates a concrete scientific need.
+
+### NSRR Account / Access Preparation
+
+Completed:
+
+* NSRR account created;
+* email confirmed;
+* login and dashboard access verified;
+* SHHS controlled-access route opened;
+* private NSRR storage/compliance workspace established outside Git.
+
+No NSRR raw data was downloaded.
+
+The NSRR download token remained unused.
+
+### Human Research Protection Preparation
+
+Before completing the SHHS DAUA, foundational Human Research Protection training was completed.
+
+Training completion records were retained privately outside Git.
+
+The training is treated correctly as evidence of foundational human-research-protection education.
+
+It is not treated as:
+
+* IRB approval;
+* institutional affiliation;
+* professional research licensure;
+* independent authorization to conduct prospective human-subjects research.
+
+### SHHS Request Preparation
+
+A Standard Individual SHHS request was prepared.
+
+The application was developed around:
+
+* offline secondary analysis of de-identified polysomnography;
+* EEG-based sleep-stage inference;
+* emphasis on NREM/N3;
+* participant-aware evaluation;
+* class-aware metrics;
+* explicit N3-focused analysis;
+* acquisition-domain generalization;
+* no participant identification/re-identification;
+* no use of SHHS to test TMR memory efficacy itself;
+* no incorporation of NSRR controlled data into a public repository or product.
+
+### Minor-Applicant Signing Clarification
+
+Before the SHHS DAUA was signed, an administrative question regarding execution of the agreement by a minor applicant was identified.
+
+A professional clarification request was sent to the NSRR Data Access Team.
+
+The SHHS DAUA was kept unsigned until official guidance was received.
+
+At the end of 2026-08-31:
+
+> SHHS request prepared through the signature stage but not yet submitted.
+
+OPP-064 remained:
+
+> **IN_PROGRESS**
+
+The external clarification did not block continued Pre-Path V execution planning.
+
+## 2026-09-01
+
+### OPP-064 — National Sleep Research Resource (NSRR)
+
+Execution type: Controlled-access sleep-data infrastructure
+
+### Official NSRR Signing Guidance Received
+
+A direct response was received from the NSRR Program Manager regarding the correct application route for a minor.
+
+The response established that:
+
+* a minor applicant should not personally execute the DAUA;
+* a parent/legal guardian may sign the application on behalf of the minor;
+* the Specific Purpose should identify the person signing and their relationship to the applicant;
+* the parent/legal guardian should review the application and DAUA language before signing;
+* minor students should provide their actual school as the Institution;
+* if the school does not provide a student email address, use of a personal email may be explained in the Specific Purpose;
+* the Specific Purpose should clearly state the research goal, justify the dataset selection, identify relevant data/variables, and briefly describe the planned analysis.
+
+This direct guidance resolved the outstanding SHHS signing-route uncertainty.
+
+### SHHS Application Revision
+
+The SHHS request was revised accordingly.
+
+High-level corrections included:
+
+* truthful student/institutional positioning;
+* explicit explanation of the personal-email route where required;
+* expansion of the Specific Purpose to include:
+  * clear research objective;
+  * scientific justification for SHHS;
+  * EEG and sleep-stage annotations as primary analysis variables;
+  * EOG/EMG as possible reference/comparison physiology;
+  * participant-level separation;
+  * stage-specific and N3-specific evaluation;
+  * explicit research-stage boundaries;
+* guardian-signing statement added;
+* parent/legal guardian reviewed the DAUA and signed the application on behalf of the minor applicant.
+
+No institutional affiliation, PI, supervisor, IRB approval or other status was invented.
+
+### IRB Supporting Document Step
+
+The NSRR portal presented an optional supporting-document step for evidence of:
+
+* IRB approval; or
+* an IRB exemption determination.
+
+No such document exists for the current independent secondary-analysis project.
+
+The portal explicitly instructed applicants without IRB review to skip this optional step.
+
+Therefore:
+
+> no IRB document was uploaded.
+
+No unrelated document was substituted for an IRB determination.
+
+### SHHS REQUEST SUBMITTED
+
+On 2026-09-01, the SHHS Standard Individual data-access request was:
+
+> **SUCCESSFULLY SUBMITTED**
+
+NSRR confirmed that:
+
+* the request was received successfully;
+* access will become available if the request is approved;
+* review may take up to approximately two weeks.
+
+Current SHHS state:
+
+> **SUBMITTED / UNDER REVIEW**
+
+No SHHS raw data has been downloaded.
+
+### STAGES Request Initiated
+
+After SHHS submission, a separate Standard Individual request was opened for STAGES.
+
+The STAGES application was deliberately kept scientifically distinct from SHHS.
+
+Project role:
+
+> **multi-site / clinical external validation**
+
+The STAGES Specific Purpose emphasized:
+
+* multi-site PSG;
+* clinical heterogeneity;
+* cross-center generalization;
+* acquisition-domain heterogeneity;
+* participant-aware evaluation;
+* preservation of site/center information where available;
+* stage-specific and N3-focused metrics;
+* site-aware comparison;
+* external generalization rather than routine development/tuning.
+
+A key methodological boundary was stated:
+
+> **STAGES is intended primarily as an external generalization resource and will not be used for routine model tuning.**
+
+The same truthful minor-applicant and guardian-signing route established by NSRR was used.
+
+No IRB document was uploaded because no IRB approval/exemption determination exists and the optional portal step permitted applicants without IRB review to skip it.
+
+### STAGES REQUEST SUBMITTED
+
+On 2026-09-01, the STAGES Standard Individual data-access request was:
+
+> **SUCCESSFULLY SUBMITTED**
+
+NSRR again indicated that review may take up to approximately two weeks.
+
+Current STAGES state:
+
+> **SUBMITTED / UNDER REVIEW**
+
+No STAGES raw data has been downloaded.
+
+### Private Documentation
+
+Private records of both submitted applications and submission confirmations should be retained outside Git under:
+
+```text
+~/neuro-tmr-data/nsrr/requests/
+├── shhs/
+└── stages/
+```
+
+These private records may include:
+
+* submitted application copy;
+* submission confirmation;
+* relevant NSRR correspondence;
+* compliance/supporting records.
+
+Do not commit:
+
+* DAUA documents;
+* signatures;
+* personal contact/address information;
+* training certificates;
+* controlled NSRR data
+
+to either Git repository.
+
+### OPP-064 Completion Decision
+
+The current action under Neuro-TMR's control has now been completed for both selected NSRR resources.
+
+SHHS:
+
+> **SUBMITTED / UNDER REVIEW**
+
+STAGES:
+
+> **SUBMITTED / UNDER REVIEW**
+
+MESA:
+
+> **RESERVE — NOT REQUESTED**
+
+Therefore the overall OPP-064 execution state becomes:
+
+> **WAITING_RESPONSE**
+
+### Review / Follow-Up Rule
+
+NSRR indicated a review window of up to approximately two weeks.
+
+Target status check:
+
+> **2026-09-15**
+
+If a response arrives earlier:
+
+* review it immediately;
+* record the exact decision or information request;
+* respond if action is required.
+
+If no response is received by approximately the end of the stated review window:
+
+* check the NSRR request dashboard;
+* prepare a concise professional follow-up if necessary.
+
+### Download Rule After Approval
+
+Approval does not automatically trigger large-scale acquisition.
+
+For either SHHS or STAGES:
+
+1. confirm the exact approved access state;
+2. inspect documentation and manifests;
+3. inspect available file structure and sizes;
+4. retrieve metadata/annotations first;
+5. retrieve only a minimal structural PSG sample if required;
+6. verify file/participant/annotation/channel linkage;
+7. STOP;
+8. acquire larger data only when Path V defines a concrete experiment.
+
+Do not download hundreds of gigabytes simply because permission is granted.
+
+### Final OPP-064 Pre-Path V Interpretation
+
+The NSRR Pre-Path V objective is:
+
+> **COMPLETE ON OUR SIDE / WAITING EXTERNAL REVIEW**
+
+OPP-064 does not block continued Pre-Path V execution.
+
+Active execution then moved to:
+
+> **OPP-015 — Centre for Sleep and Cognition / Michael Chee**
+
+## 2026-09-04
+
+### OPP-015 — Centre for Sleep and Cognition / Michael Chee
+
+Execution type: Scientific-methods collaboration  
+Current state: WAITING_RESPONSE
+
+### Candidate-Specific Due Diligence
+
+Before outreach, OPP-015 was investigated as a specific methodological collaboration opportunity rather than generic networking.
+
+The opportunity was refined to the following project role:
+
+> challenge and improve the scientific boundary between automatic sleep-stage inference and intervention eligibility in a research-stage closed-loop TMR system.
+
+Relevant capability overlap identified included:
+
+* real-time automatic sleep-stage classification;
+* confidence-aware sleep-state inference;
+* acoustic intervention;
+* external-dataset generalization;
+* PSG-to-wearable validation;
+* wearable EEG / translational sleep measurement;
+* sleep-preservation and intervention methodology.
+
+The opportunity was not treated as a request for:
+
+* generic mentorship;
+* funding;
+* equipment;
+* institutional affiliation;
+* endorsement;
+* an immediate human study;
+* broad collaboration without a defined bottleneck.
+
+### Neuro-TMR Bottleneck
+
+BOAS analysis showed that aggregate PSG/headband staging agreement could appear relatively similar while intervention-relevant N3 usability differed materially.
+
+Approximate existing BOAS staging-output observations:
+
+```text
+PSG AI overall agreement:       ~87.18%
+Headband AI overall agreement:  ~86.61%
+
+PSG correct usable N3 coverage:       ~67.77%
+Headband correct usable N3 coverage:  ~53.80%
+```
+
+These are analyses of staging outputs supplied with BOAS, not performance claims for a Neuro-TMR model.
+
+The observation motivated the distinction between:
+
+> **sleep-stage classification performance**
+
+and:
+
+> **whether a sleep-state estimate is sufficiently trustworthy to control an intervention.**
+
+### Frozen Primary Methodological Ask
+
+The outreach was deliberately centered on one primary question:
+
+> **For a first-generation stage-aware closed-loop TMR system, what validation evidence would you consider minimally sufficient before reduced-channel EEG estimates of N3 are trusted to gate acoustic cues, beyond conventional aggregate sleep-staging accuracy?**
+
+Potential implications for Path V include:
+
+* N3 precision / false-positive control;
+* confidence calibration;
+* abstention;
+* temporal stability;
+* transition handling;
+* signal-quality gating;
+* reduced-sensor sufficiency;
+* external generalization;
+* sleep-preservation logic.
+
+These remain hypotheses and potential design consequences until supported by evidence or expert guidance.
+
+### Backup Success Outcome
+
+A valid secondary success condition was frozen as:
+
+> referral to the member of the Centre for Sleep and Cognition most relevant to real-time staging, acoustic intervention, or wearable EEG validation.
+
+A referral is treated as a successful scientific outcome rather than a failed attempt to reach the PI directly.
+
+### Contact Route
+
+The primary contact route was verified as Prof. Michael Chee's current official NUS academic email.
+
+First-contact rules:
+
+* direct email to Prof. Chee;
+* no CC/BCC distribution to other lab members;
+* no attachment on first contact;
+* no broad evidence package;
+* one methodological question;
+* offer to share a concise technical summary if useful.
+
+### Outreach Action
+
+On 2026-09-04, a targeted scientific-methods email was sent directly to Prof. Michael Chee.
+
+The email:
+
+* introduced Neuro-TMR briefly as an independent EEG-guided, stage-aware closed-loop TMR research project;
+* stated that the project is transitioning from evidence synthesis/offline validation toward Validation-Lite;
+* connected the methodological question specifically to Chee/NUS work on real-time staging, confidence estimates, acoustic intervention and PSG-to-wearable validation;
+* provided the relevant BOAS aggregate-vs-N3 observation;
+* asked the single frozen methodological question;
+* allowed a relevant reference or referral as a useful response;
+* offered a concise technical summary if useful.
+
+No:
+
+* age information;
+* generic mentorship request;
+* funding request;
+* hardware/lab-access request;
+* endorsement request;
+* broad collaboration commitment;
+* manuscript attachment
+
+was included.
+
+### Success Conditions
+
+Primary success:
+
+> technically meaningful methodological guidance that changes, confirms or sharpens a Path V validation requirement.
+
+Secondary success:
+
+> referral to the CSC researcher most relevant to real-time staging, acoustic intervention or wearable EEG validation.
+
+Additional useful outcomes:
+
+* relevant paper/method/tool recommendation;
+* invitation to share a concise technical brief;
+* short technical discussion.
+
+Long-term collaboration is not required for the first-contact action to succeed.
+
+### Current State
+
+The outbound action under Neuro-TMR's control is complete.
+
+Therefore:
+
+> **OPP-015 → WAITING_RESPONSE**
+
+### Follow-Up Rule
+
+If no response is received after approximately 7–10 business days:
+
+* send one concise follow-up in the same email thread.
+
+Approximate follow-up window:
+
+> **2026-09-15 to 2026-09-18**
+
+If a reply arrives:
+
+* preserve the exact methodological content;
+* separate direct guidance from interpretation;
+* convert useful guidance into an explicit Path V requirement, metric, experiment or guardrail;
+* follow any relevant referral rather than duplicating outreach blindly.
+
+Do not delay other Pre-Path V execution while waiting.
+
+### Next Active Opportunity
+
+Active execution now advances to:
+
+> **OPP-039 — Engineering City Neurotechnology Laboratory**
+
+# Current Pre-Path V Command Board
+
+## Active Now
+
+### OPP-039 — Engineering City Neurotechnology Laboratory
+
+State:
+
+> **NEXT ACTIVE EXECUTION**
+
+Before contact:
+
+1. investigate the current laboratory/institutional route;
+2. verify current capabilities and personnel;
+3. identify the concrete overlap with Neuro-TMR;
+4. determine what resource, validation or technical bottleneck the opportunity could actually address;
+5. define one primary objective;
+6. verify the correct contact route;
+7. only then prepare outreach.
+
+Do not begin with generic collaboration language.
+
+## Waiting Response
+
+### OPP-015 — Centre for Sleep and Cognition / Michael Chee
+
+State:
+
+> **WAITING_RESPONSE**
+
+Primary ask:
+
+> validation evidence required before reduced-channel EEG N3 estimates are trusted to gate acoustic cues.
+
+Follow-up window:
+
+> **2026-09-15 to 2026-09-18**
+
+Do not wait for a reply before continuing Pre-Path V.
+
+### OPP-064 — National Sleep Research Resource
+
+Overall state:
+
+> **WAITING_RESPONSE**
+
+#### SHHS
+
+State:
+
+> **SUBMITTED / UNDER REVIEW**
+
+Role:
+
+> large-scale PSG robustness / cross-subject and acquisition-domain generalization.
+
+#### STAGES
+
+State:
+
+> **SUBMITTED / UNDER REVIEW**
+
+Role:
+
+> protected multi-site / clinical external generalization.
+
+#### MESA
+
+State:
+
+> **RESERVE**
+
+No active request.
+
+Target NSRR status check:
+
+> **2026-09-15**
+
+No active work is required unless NSRR replies earlier.
+
+## Path V Resource — Pre-Path V Objective Complete
+
+### OPP-078A — NEMAR Research Infrastructure
+
+Overall state:
+
+> **IN_PROGRESS**
+
+Pre-Path V objective:
+
+> **COMPLETE**
+
+BOAS:
+
+> **READY WITH CONSTRAINTS**
+
+Do not deepen BOAS/NEMAR further during Pre-Path V.
+
+Re-enter when Path V requires actual staging, model-development, evaluation or reproducibility work.
+
+## Trigger Wait
+
+### OPP-104 — Armenian Artificial Intelligence Virtual Institute / HPC State Support
+
+State:
+
+> **TRIGGER_WAIT**
+
+Re-open only when:
+
+* the governing government decision is adopted;
+* the next application round is officially announced;
+* final eligibility conditions are published.
+
+AIVI does not block Path V.
+
+## Blocked / Future Cycle
+
+### OPP-143 — CuttingGardens / CuttingEEG
+
+State:
+
+> **BLOCKED**
+
+Re-open only if a credible sponsorship/hosting route or useful post-event material appears.
+
+### OPP-134 — European Sleep Research Society / Sleep Europe
+
+State:
+
+> **BLOCKED**
+
+Preserve for a future eligible cycle.
+
+## Path A Protected
+
+Do not duplicate Path A outreach for:
+
+* **OPP-011 — Cecilia Forcato**
+* **OPP-014 — Hong-Viet Ngo-Dehning**
+
+Path A overlap remains protected.
+
+# Remaining Pre-Path V Exit Gate
+
+The current Pre-Path V opportunity state is:
+
+1. **OPP-078A — NEMAR**
+   * Pre-Path V objective COMPLETE.
+   * Preserve as Path V resource.
+
+2. **OPP-064 — NSRR**
+   * SHHS submitted.
+   * STAGES submitted.
+   * Overall state = WAITING_RESPONSE.
+   * No further immediate action required.
+
+3. **OPP-015 — Centre for Sleep and Cognition / Michael Chee**
+   * outreach sent;
+   * overall state = WAITING_RESPONSE;
+   * no further immediate action required unless reply/follow-up trigger occurs.
+
+4. **OPP-039 — Engineering City Neurotechnology Laboratory**
+   * **NEXT ACTIVE EXECUTION**;
+   * contact still to be initiated.
+
+5. **OPP-031 — COBRAIN / YSMU**
+   * contact still to be initiated after OPP-039.
+
+6. **OPP-104 — AIVI**
+   * TRIGGER_WAIT;
+   * no current action required.
+
+7. **OPP-011 / OPP-014**
+   * Path A protected;
+   * no duplicate Path E outreach.
+
+External replies are not required before Path V once the remaining outbound actions under Neuro-TMR's control are completed.
+
+# Transition Rule
+
+When:
+
+* OPP-064 remains correctly documented as `WAITING_RESPONSE`;
+* OPP-015 remains correctly documented as `WAITING_RESPONSE`;
+* OPP-039 contact has been initiated;
+* OPP-031 contact has been initiated;
+* AIVI remains correctly documented as `TRIGGER_WAIT`;
+* Forcato/Ngo Path A overlap remains protected;
+
+then:
+
+> **PRE-PATH V → COMPLETE**
+
+and:
+
+> **PATH V — VALIDATION-LITE → START**
+
+Do not delay Path V solely because:
+
+* SHHS/STAGES approval is pending;
+* Michael Chee / NUS has not replied;
+* other external parties remain asynchronous.
+
+# Current Immediate Command
+
+> **BEGIN OPP-039 — ENGINEERING CITY NEUROTECHNOLOGY LABORATORY**
+
+OPP-064 and OPP-015 now run asynchronously in `WAITING_RESPONSE` while active Pre-Path V execution moves forward.
+
