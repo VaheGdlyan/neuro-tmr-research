@@ -1,8 +1,8 @@
 # A6 — Path E Execution Tracker
 
 Date opened: 2026-08-21
-Last updated: 2026-09-04
-Stage: PATH E EXECUTION / PRE-PATH V COMPLETE — PATH V READY
+Last updated: 2026-09-06
+Stage: PATH E ASYNCHRONOUS EXECUTION / PATH V IN PROGRESS
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
 Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
 
@@ -37,7 +37,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 | OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                               | Channel                    | Date       | Status           | Next Action                                                                                                                                                        | Next Check / Target                                      | Notes                                                                                                                                                                                                                                                                                                                                 |
 | -------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Candidate-specific scientific-methods outreach sent on validation evidence required before reduced-channel EEG N3 estimates are trusted to gate acoustic cues in a stage-aware closed-loop system | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. Convert useful guidance into an explicit Path V requirement/experiment. If referred, follow the referral. If no reply, send one concise follow-up after ~7–10 business days | Follow-up window: ~2026-09-15 to 2026-09-18              | Outreach was grounded in Chee/NUS work on real-time sleep staging, confidence-aware inference, acoustic intervention, external validation and wearable translation. No attachments, funding request, mentorship request, hardware request or broad collaboration ask was made. |
+| OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Targeted methodological outreach received a substantive reply addressing participant composition, age/motion, headband quality, acoustic-stimulation/arousal trade-offs, wearability and commercialization concerns | Email                      | 2026-09-05 | COMPLETED        | Preserve the guidance as Path V design input. No required immediate follow-up; re-engage only if a later Path V result creates a specific evidence-based question | Re-entry only on concrete Path V trigger                       | The initial methodological objective was achieved. The reply did not provide a numerical validation threshold, but it sharpened the dimensions that reduced-channel N3 gating and cueing must eventually validate. Commercialization skepticism and the reported head-wear aversion figure are recorded as expert opinion/observation, not as established project conclusions. |
 | OPP-039  | Engineering City Neurotechnology Laboratory / EIF Science Incubator         | Deep local-collaboration due diligence completed and targeted institutional collaboration inquiry sent through the official High-Tech Accelerator / EIF route, requesting connection to the relevant Neurotechnology Laboratory technical/research lead and discussion of a small EEG/closed-loop validation collaboration | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If routed to a technical lead, schedule a short technical meeting/lab visit and build a direct capability map. If no reply after ~2–3 business days, use one controlled follow-up, preferably by phone when available | Follow-up target: ~2026-09-08 to 2026-09-09              | Local strategic opportunity. Public evidence confirms EEG acquisition/processing and active neurotechnology work, while exact equipment, real-time API/streaming, synchronization, sleep-specific capability, ethics route and external-project mechanism remain to be verified directly. First ask deliberately avoided funding, equipment loan, internship, human study or product-validation requests. |
 | OPP-031  | COBRAIN Scientific-Educational Center / YSMU                         | Deep institutional due diligence completed; targeted scientific/institutional collaboration inquiry sent to Mariam Movsisyan / YSMU KTTO, requesting an exploratory meeting and routing to the appropriate COBRAIN/YSMU scientific counterpart | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If a meeting/referral is offered, map the realistic mentorship, hosting, governance or research-enablement route. If no reply after ~5–7 business days, send one concise follow-up | Follow-up target: ~2026-09-11 to 2026-09-15              | Role = local neuroscience scientific/institutional bridge, not the primary EEG-hardware or sleep-lab route. Potential value includes scientific mentorship, experimental-design support, institutional hosting, ethics/governance, clinical-research coordination and network access. No human-study, funding, lab-access or formal-affiliation request was made initially. |
 | OPP-064  | National Sleep Research Resource (NSRR)                                | SHHS and STAGES Standard Individual data-access requests successfully submitted after completing the required scientific, compliance, security and guardian-signing workflow | NSRR portal + Email        | 2026-09-01 | WAITING_RESPONSE | Wait for NSRR review. Respond if additional information is requested. Do not download data until access is approved and Path V defines a justified acquisition step | Review window: up to ~2 weeks; check around 2026-09-15   | SHHS role = large-scale PSG robustness/generalization. STAGES role = protected multi-site/clinical external generalization. MESA remains reserve. No NSRR raw data has been downloaded and the download token remains unused. Submitted application/compliance records remain private outside Git.                                     |
@@ -1488,7 +1488,204 @@ With this contact initiated:
 External replies remain asynchronous and do not block the transition to Path V.
 
 
-# Current Pre-Path V Command Board
+
+## 2026-09-06
+
+### OPP-015 — Centre for Sleep and Cognition / Michael Chee
+
+Execution type: Scientific-methods collaboration  
+Response received: 2026-09-05  
+Reviewed / integrated: 2026-09-06  
+Current state: **COMPLETED — INITIAL METHODOLOGICAL OBJECTIVE ACHIEVED**
+
+### Response Summary
+
+Prof. Michael Chee replied directly to the Neuro-TMR methodological question.
+
+The response emphasized that reduced-channel / headband sleep-staging reliability cannot be interpreted independently of the participant population and device context.
+
+Key factors explicitly identified in the reply were:
+
+* participant composition;
+* age;
+* motion;
+* differences in EEG-headband quality;
+* the challenge of delivering acoustic stimulation that is effective without being arousing;
+* practical acceptance of wearing a head-mounted device.
+
+Prof. Chee also expressed a strongly skeptical personal view regarding consumer commercialization of TMR, based particularly on head-worn-device acceptability.
+
+The public research tracker records a faithful summary of the correspondence rather than reproducing private email text verbatim.
+
+### Direct Methodological Meaning for Neuro-TMR
+
+The reply did **not** define a numerical minimum accuracy, N3 precision threshold, calibration criterion, or other single sufficiency threshold.
+
+Instead, it sharpened the validation problem in several important ways.
+
+#### 1. Participant composition must be treated as a real validation dimension
+
+Performance should not be assumed uniform across participants.
+
+The reply specifically identifies:
+
+* age;
+* motion
+
+as relevant factors.
+
+Path V implication:
+
+> later reduced-channel validation should examine robustness across participant and signal-condition variation rather than relying only on one aggregate metric.
+
+This does not change the current PV-1 small-cohort baseline, whose purpose remains pipeline/model understanding rather than population-level generalization.
+
+#### 2. Headband quality is device-specific
+
+Different EEG headbands may produce meaningfully different data quality.
+
+Path V implication:
+
+> evidence obtained using one reduced-channel or headband configuration cannot automatically be transferred to another device.
+
+This reinforces the existing Neuro-TMR rule that reduced sensing must be **validated**, not assumed equivalent to PSG or to another wearable configuration.
+
+#### 3. Correct stage inference is necessary but not sufficient for cueing
+
+The reply identifies an additional intervention problem:
+
+> acoustic stimulation must be strong/effective enough to perform its intended role while remaining non-arousing.
+
+Path V implication:
+
+sleep-stage recognition and intervention delivery remain separate validation layers.
+
+A future closed-loop pathway therefore requires both:
+
+```text
+reliable cue-eligibility inference
+        +
+non-arousing / sleep-preserving acoustic delivery
+```
+
+The current offline staging baseline does not validate the second layer.
+
+#### 4. Wearability / adherence is a genuine translational risk
+
+Prof. Chee reported that a meaningful fraction of participants in his experience do not like wearing anything on their head.
+
+This is recorded as:
+
+> **expert observation / practical warning**
+
+rather than as a dataset-level population estimate for Neuro-TMR.
+
+Path V / later translation implication:
+
+* comfort;
+* adherence;
+* willingness to use head-worn sensing repeatedly;
+* hardware burden
+
+must eventually be treated separately from classifier accuracy.
+
+#### 5. Commercialization skepticism is expert judgment, not project conclusion
+
+Prof. Chee expressed the opinion that TMR may remain primarily an academic tool and may not survive commercialization.
+
+Neuro-TMR interpretation:
+
+> this is a serious expert warning that should be preserved, but it is not treated as proof that commercial translation is impossible.
+
+The project therefore does **not** convert this opinion into a validated commercial conclusion.
+
+Instead, it creates an explicit future product-risk question:
+
+> even if closed-loop TMR is technically feasible, is the sensing/intervention form factor acceptable enough for sustained real-world use?
+
+### Relationship to Existing BOAS Evidence
+
+The response is consistent with the existing BOAS engineering guardrails.
+
+BOAS already established that:
+
+* aggregate staging agreement can hide intervention-relevant N3 differences;
+* reduced sensing is not simply full PSG with fewer channels;
+* signal quality and acquisition domain matter;
+* participant-aware evaluation is necessary;
+* N3 performance must be evaluated explicitly.
+
+Prof. Chee's reply adds practical expert emphasis on:
+
+* participant composition;
+* age / motion;
+* device quality;
+* cue-related arousal;
+* head-worn usability.
+
+These are therefore preserved as **future validation dimensions**, not retroactively claimed as already solved.
+
+### Path V Consequence
+
+The current PV-1 execution plan remains unchanged.
+
+PV-1 should continue with:
+
+* six-channel PSG EEG;
+* participant-separated train/validation/test;
+* simple interpretable offline spectral baseline;
+* explicit stage-wise and N3-focused evaluation.
+
+Do **not** expand the first baseline merely because of this reply.
+
+The response becomes most actionable when Path V later reaches:
+
+* reduced-channel / headband comparison;
+* signal-quality robustness;
+* broader participant generalization;
+* cue eligibility;
+* acoustic cue-harness / sleep-preservation testing;
+* hardware / product-form-factor decisions.
+
+### OPP-015 Success Decision
+
+The original primary success condition was:
+
+> technically meaningful methodological guidance that changes, confirms or sharpens a Path V validation requirement.
+
+That condition has been met.
+
+Therefore the initial OPP-015 objective becomes:
+
+> **COMPLETED**
+
+This does **not** mean the scientific relationship is permanently closed.
+
+Re-open OPP-015 only if:
+
+* a later Path V result produces a precise methodological follow-up question;
+* Prof. Chee explicitly invites further discussion;
+* a referral or concrete collaboration route is subsequently offered.
+
+No broad or generic follow-up is required.
+
+A short courtesy thank-you may be sent without reopening the opportunity or adding a new scientific ask.
+
+### Evidence Boundary
+
+The following must **not** be promoted into established Neuro-TMR evidence solely from this email:
+
+* a universal numerical effect of age on staging performance;
+* a universal motion threshold;
+* equivalence or ranking of particular EEG headbands;
+* a universal percentage of users who reject head-worn devices;
+* proof that TMR cannot be commercialized.
+
+These remain either expert guidance, expert observation, or expert opinion until independently supported.
+
+---
+
+# Pre-Path V Command Board — 2026-09-04 Snapshot
 
 ## Active Pre-Path V Work
 
@@ -1728,3 +1925,128 @@ Any future reply that materially changes a scientific or engineering assumption 
 Pre-Path V is formally complete.
 
 OPP-064, OPP-015, OPP-039 and OPP-031 now run asynchronously in `WAITING_RESPONSE`, while OPP-078A / BOAS re-enters only when required by Path V engineering.
+# Current Cross-Path Command Board — 2026-09-06
+
+## Path V
+
+State:
+
+> **IN PROGRESS**
+
+Current experiment:
+
+> **PV-1 — BOAS Small-Cohort Offline Staging Pilot**
+
+Current engineering stop point:
+
+* five-participant participant-separated PV-1 cohort frozen;
+* required PSG/headband files acquired;
+* ingestion generalized and verified across all five recordings;
+* real BOAS EOG naming heterogeneity handled and regression-protected;
+* first-model input/preprocessing philosophy frozen;
+* 60-feature PSG spectral representation frozen;
+* one real N3 spectral sanity check passed;
+* `features/` package skeleton exists;
+* reusable `spectral.py` implementation and `test_spectral_features.py` implementation are the next engineering actions.
+
+No Path V engineering command was executed on 2026-09-06.
+
+Next Path V action:
+
+> implement and test the reusable PV-1 spectral feature extractor before processing the full pilot cohort.
+
+## Path E — Completed Initial Objective
+
+### OPP-015 — Centre for Sleep and Cognition / Michael Chee
+
+State:
+
+> **COMPLETED — INITIAL METHODOLOGICAL OBJECTIVE ACHIEVED**
+
+Outcome:
+
+> substantive expert guidance received and converted into explicit future validation dimensions.
+
+No required immediate follow-up.
+
+Re-open only on a concrete Path V methodological trigger.
+
+## Path E — Waiting Response
+
+### OPP-039 — Engineering City Neurotechnology Laboratory
+
+State:
+
+> **WAITING_RESPONSE**
+
+Follow-up target if no response:
+
+> approximately **2026-09-08 to 2026-09-09**
+
+### OPP-031 — COBRAIN / YSMU
+
+State:
+
+> **WAITING_RESPONSE**
+
+Follow-up target if no response:
+
+> approximately **2026-09-11 to 2026-09-15**
+
+### OPP-064 — National Sleep Research Resource
+
+Overall state:
+
+> **WAITING_RESPONSE**
+
+SHHS:
+
+> **SUBMITTED / UNDER REVIEW**
+
+STAGES:
+
+> **SUBMITTED / UNDER REVIEW**
+
+MESA:
+
+> **RESERVE — NOT REQUESTED**
+
+Target status check if no earlier decision:
+
+> **2026-09-15**
+
+## Path E — Trigger Wait
+
+### OPP-104 — Armenian Artificial Intelligence Virtual Institute / HPC State Support
+
+State:
+
+> **TRIGGER_WAIT**
+
+No action until the governing decision, next application round, and final eligibility conditions are published.
+
+## Path E — Blocked / Future Cycle
+
+* **OPP-143 — CuttingGardens / CuttingEEG → BLOCKED**
+* **OPP-134 — ESRS / Sleep Europe → BLOCKED**
+
+## Path A Protection
+
+Do not duplicate Path E outreach for:
+
+* **OPP-011 — Cecilia Forcato**
+* **OPP-014 — Hong-Viet Ngo-Dehning**
+
+Path A continues asynchronously.
+
+# Current Immediate Command — 2026-09-06
+
+> **CONTINUE PATH V FROM THE EXACT PV-1 FEATURE-EXTRACTION STOP POINT**
+
+Do not restart Pre-Path V.
+
+Do not redesign the frozen Path V architecture.
+
+Do not expand PV-1 because of the OPP-015 response.
+
+Use the Chee guidance when the project later reaches reduced-channel robustness, device-quality dependence, cue-related arousal, and wearability/product-risk validation.
