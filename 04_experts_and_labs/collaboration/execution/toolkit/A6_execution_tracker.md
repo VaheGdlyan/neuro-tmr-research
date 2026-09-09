@@ -1,7 +1,7 @@
 # A6 — Path E Execution Tracker
 
 Date opened: 2026-08-21
-Last updated: 2026-09-06
+Last updated: 2026-09-09
 Stage: PATH E ASYNCHRONOUS EXECUTION / PATH V IN PROGRESS
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
 Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
@@ -38,7 +38,7 @@ Update this file whenever an email is sent, a call is made, an application is su
 | OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                               | Channel                    | Date       | Status           | Next Action                                                                                                                                                        | Next Check / Target                                      | Notes                                                                                                                                                                                                                                                                                                                                 |
 | -------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Targeted methodological outreach received a substantive reply addressing participant composition, age/motion, headband quality, acoustic-stimulation/arousal trade-offs, wearability and commercialization concerns | Email                      | 2026-09-05 | COMPLETED        | Preserve the guidance as Path V design input. No required immediate follow-up; re-engage only if a later Path V result creates a specific evidence-based question | Re-entry only on concrete Path V trigger                       | The initial methodological objective was achieved. The reply did not provide a numerical validation threshold, but it sharpened the dimensions that reduced-channel N3 gating and cueing must eventually validate. Commercialization skepticism and the reported head-wear aversion figure are recorded as expert opinion/observation, not as established project conclusions. |
-| OPP-039  | Engineering City Neurotechnology Laboratory / EIF Science Incubator         | Deep local-collaboration due diligence completed and targeted institutional collaboration inquiry sent through the official High-Tech Accelerator / EIF route, requesting connection to the relevant Neurotechnology Laboratory technical/research lead and discussion of a small EEG/closed-loop validation collaboration | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If routed to a technical lead, schedule a short technical meeting/lab visit and build a direct capability map. If no reply after ~2–3 business days, use one controlled follow-up, preferably by phone when available | Follow-up target: ~2026-09-08 to 2026-09-09              | Local strategic opportunity. Public evidence confirms EEG acquisition/processing and active neurotechnology work, while exact equipment, real-time API/streaming, synchronization, sleep-specific capability, ethics route and external-project mechanism remain to be verified directly. First ask deliberately avoided funding, equipment loan, internship, human study or product-validation requests. |
+| OPP-039  | Engineering City Neurotechnology Laboratory / EIF Science Incubator | Engineering City / EIF routed the 2026-09-04 inquiry internally; Arpine Davtyan replied directly, requested a mobile number, and stated that she would call to arrange a meeting and discuss possible collaboration in more detail | Email → phone / meeting arrangement | 2026-09-09 | IN_PROGRESS | Wait for Arpine's call. Capture meeting format, participants, purpose and expectations first; then prepare specifically for the actual meeting context. Do not assume technical capabilities or propose a human study before the discussion | Phone call / meeting arrangement pending | Strong positive collaboration signal. No meeting date/time or technical partnership is confirmed yet. Exact EEG hardware, streaming/API, synchronization, sleep/overnight capability, PSG/EOG/EMG support, collaboration mechanism and later ethics route remain unverified until direct discussion. |
 | OPP-031  | COBRAIN Scientific-Educational Center / YSMU                         | Deep institutional due diligence completed; targeted scientific/institutional collaboration inquiry sent to Mariam Movsisyan / YSMU KTTO, requesting an exploratory meeting and routing to the appropriate COBRAIN/YSMU scientific counterpart | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If a meeting/referral is offered, map the realistic mentorship, hosting, governance or research-enablement route. If no reply after ~5–7 business days, send one concise follow-up | Follow-up target: ~2026-09-11 to 2026-09-15              | Role = local neuroscience scientific/institutional bridge, not the primary EEG-hardware or sleep-lab route. Potential value includes scientific mentorship, experimental-design support, institutional hosting, ethics/governance, clinical-research coordination and network access. No human-study, funding, lab-access or formal-affiliation request was made initially. |
 | OPP-064  | National Sleep Research Resource (NSRR)                                | SHHS and STAGES Standard Individual data-access requests successfully submitted after completing the required scientific, compliance, security and guardian-signing workflow | NSRR portal + Email        | 2026-09-01 | WAITING_RESPONSE | Wait for NSRR review. Respond if additional information is requested. Do not download data until access is approved and Path V defines a justified acquisition step | Review window: up to ~2 weeks; check around 2026-09-15   | SHHS role = large-scale PSG robustness/generalization. STAGES role = protected multi-site/clinical external generalization. MESA remains reserve. No NSRR raw data has been downloaded and the download token remains unused. Submitted application/compliance records remain private outside Git.                                     |
 | OPP-078A | NEMAR Research Infrastructure                                          | Pre-Path V NEMAR/BOAS technical objective completed: reproducible access, raw-data inspection, validated minimal ingestion, formal EDA, and engineering-readiness assessment | Direct technical execution | 2026-08-28 | IN_PROGRESS      | Stop further Pre-Path V deepening. Carry BOAS/NEMAR forward as a Path V data and validation resource                                                              | Re-enter during Path V                                   | The Pre-Path V NEMAR gate is satisfied. BOAS was assessed READY WITH CONSTRAINTS. `IN_PROGRESS` is retained because NEMAR remains an active Path V resource, not because additional Pre-Path V NEMAR work is required. Detailed technical implementation remains exclusively in the private engineering repository.                       |
@@ -1685,6 +1685,141 @@ These remain either expert guidance, expert observation, or expert opinion until
 
 ---
 
+
+## 2026-09-09
+
+### OPP-039 — Engineering City Neurotechnology Laboratory / EIF Science Incubator
+
+Execution type: Local institutional / technical research collaboration  
+Response received: 2026-09-09  
+Current state: **IN_PROGRESS — MEETING ARRANGEMENT**
+
+### Response / Internal Routing
+
+The 2026-09-04 technical-collaboration inquiry was routed internally through the Engineering City / EIF institutional chain.
+
+The email thread shows that the inquiry was forwarded within the EIF / Engineering City route and then reached:
+
+* **Arpine Davtyan**;
+* **Narek Nazaryan**.
+
+Arpine Davtyan replied directly to Neuro-TMR.
+
+Her response:
+
+* thanked Neuro-TMR for the email;
+* requested a mobile phone number;
+* stated that she would call to arrange a meeting;
+* explicitly framed the planned discussion around possible collaboration in more detail.
+
+### Direct Interpretation
+
+This is materially stronger than a generic acknowledgement.
+
+It establishes that:
+
+* the institutional contact route worked;
+* the inquiry was considered relevant enough for internal forwarding;
+* a named counterpart has engaged directly;
+* the next step is a live discussion rather than another cold outreach;
+* possible collaboration is explicitly on the agenda.
+
+However, the response does **not** yet establish:
+
+* a confirmed technical partnership;
+* a scheduled meeting date/time;
+* exact laboratory equipment;
+* raw EEG access;
+* real-time SDK/API or LSL support;
+* event-marker / synchronization capability;
+* audio-trigger integration;
+* sleep-specific / overnight acquisition capability;
+* PSG, EOG or EMG capability;
+* a formal external-project mechanism;
+* an ethics / human-research route;
+* a commitment of equipment, personnel, funding or laboratory time.
+
+Therefore the correct state is:
+
+> **IN_PROGRESS — MEETING ARRANGEMENT**
+
+not `COMPLETED` and not yet `SCHEDULED`.
+
+### Relation to the Frozen OPP-039 Success Condition
+
+The original primary first-stage success condition was:
+
+> connection to the actual Neurotechnology Laboratory technical/research side and a short technical meeting or lab visit.
+
+The response satisfies the **connection / active-routing** component and creates a direct path toward the meeting component.
+
+The first-stage objective will be considered fully achieved when a concrete meeting/discussion occurs and the collaboration fit can be assessed directly.
+
+### Immediate Reply
+
+The appropriate reply is a concise same-thread response providing the requested mobile number and confirming willingness to meet.
+
+No technical summary, attachment, funding request, equipment request or human-study proposal should be added at this stage unless requested.
+
+### Next Action
+
+Wait for Arpine's phone call.
+
+During the call, first capture:
+
+1. **meeting format** — phone, online or in-person;
+2. **meeting date/time**;
+3. **who will attend**;
+4. **what they expect Neuro-TMR to present or prepare**;
+5. **whether the discussion will be primarily technical, institutional or both**.
+
+Only after those facts are known should meeting preparation be finalized.
+
+### Meeting-Level Objective
+
+The later meeting should remain centered on the previously frozen four-part capability map:
+
+1. **WHO** — who leads / owns the relevant EEG-neurotechnology work;
+2. **WHAT** — actual hardware, software and research capabilities;
+3. **ACCESS** — realistic collaboration / project-access mechanism;
+4. **NEXT TEST** — whether one small technically meaningful integration or validation step can be defined.
+
+A candidate technical direction remains:
+
+```text
+EEG source / acquisition
+        ↓
+real-time data interface
+        ↓
+Python processing / event logic
+        ↓
+timestamped trigger
+        ↓
+dummy audio output
+        ↓
+end-to-end latency measurement
+```
+
+This remains a candidate direction only.
+
+Do not propose prospective human TMR experimentation before:
+
+* technical fit is established;
+* Path V produces sufficient engineering evidence;
+* a legitimate scientific / institutional host exists;
+* an appropriate protocol is defined;
+* ethics / governance requirements are understood.
+
+### Path V Consequence
+
+OPP-039 continues **asynchronously**.
+
+The positive response does **not** pause or redesign PV-1.
+
+Path V should continue from its current engineering stop point while the Engineering City call / meeting is arranged.
+
+---
+
 # Pre-Path V Command Board — 2026-09-04 Snapshot
 
 ## Active Pre-Path V Work
@@ -1925,7 +2060,8 @@ Any future reply that materially changes a scientific or engineering assumption 
 Pre-Path V is formally complete.
 
 OPP-064, OPP-015, OPP-039 and OPP-031 now run asynchronously in `WAITING_RESPONSE`, while OPP-078A / BOAS re-enters only when required by Path V engineering.
-# Current Cross-Path Command Board — 2026-09-06
+
+# Current Cross-Path Command Board — 2026-09-09
 
 ## Path V
 
@@ -1937,23 +2073,63 @@ Current experiment:
 
 > **PV-1 — BOAS Small-Cohort Offline Staging Pilot**
 
-Current engineering stop point:
+Current engineering state:
 
-* five-participant participant-separated PV-1 cohort frozen;
-* required PSG/headband files acquired;
-* ingestion generalized and verified across all five recordings;
-* real BOAS EOG naming heterogeneity handled and regression-protected;
-* first-model input/preprocessing philosophy frozen;
-* 60-feature PSG spectral representation frozen;
-* one real N3 spectral sanity check passed;
-* `features/` package skeleton exists;
-* reusable `spectral.py` implementation and `test_spectral_features.py` implementation are the next engineering actions.
+* five-participant, participant-separated PV-1 cohort remains frozen;
+* required PSG/headband files are acquired;
+* ingestion is generalized and verified across all five PV-1 recordings;
+* real BOAS EOG naming heterogeneity is handled and regression-protected;
+* first-model input/preprocessing philosophy remains frozen;
+* 60-feature PSG spectral representation remains frozen;
+* one real N3 spectral sanity check has passed;
+* `src/neuro_tmr/features/` package exists;
+* `src/neuro_tmr/features/spectral.py` has been written with the intended PV-1 spectral-feature implementation;
+* the beginning of the file was visually checked and is consistent with the frozen contract;
+* **no syntax/import verification has yet been run**;
+* `tests/test_spectral_features.py` has not yet been implemented.
 
-No Path V engineering command was executed on 2026-09-06.
+Current Path V stop point:
+
+> **PAUSED IMMEDIATELY AFTER WRITING `spectral.py`; BEFORE SYNTAX/IMPORT CHECK AND BEFORE UNIT-TEST IMPLEMENTATION**
 
 Next Path V action:
 
-> implement and test the reusable PV-1 spectral feature extractor before processing the full pilot cohort.
+> verify the written `spectral.py` implementation, then perform a controlled syntax/import check before creating and running the spectral-feature unit tests.
+
+Do not process the full ~4,962-epoch PV-1 cohort yet.
+
+Do not begin classifier training yet.
+
+## Path E — Active
+
+### OPP-039 — Engineering City Neurotechnology Laboratory / EIF
+
+State:
+
+> **IN_PROGRESS — MEETING ARRANGEMENT**
+
+Current facts:
+
+* the original inquiry was routed internally;
+* Arpine Davtyan replied directly;
+* a mobile number was requested;
+* Arpine stated that she would call to arrange a meeting and discuss possible collaboration in more detail.
+
+Next action:
+
+> **WAIT FOR ARPINE'S CALL**
+
+When the call arrives:
+
+* capture meeting format/date/time;
+* identify expected attendees;
+* determine what they want prepared;
+* distinguish technical vs institutional meeting purpose;
+* only then prepare the meeting in detail.
+
+Do not mark the opportunity `SCHEDULED` until a concrete meeting date/time exists.
+
+Do not treat Engineering City as a confirmed technical partner until actual capabilities and collaboration conditions are verified.
 
 ## Path E — Completed Initial Objective
 
@@ -1965,23 +2141,13 @@ State:
 
 Outcome:
 
-> substantive expert guidance received and converted into explicit future validation dimensions.
+> substantive expert guidance received and converted into future validation dimensions.
 
-No required immediate follow-up.
+No immediate scientific follow-up is required.
 
 Re-open only on a concrete Path V methodological trigger.
 
 ## Path E — Waiting Response
-
-### OPP-039 — Engineering City Neurotechnology Laboratory
-
-State:
-
-> **WAITING_RESPONSE**
-
-Follow-up target if no response:
-
-> approximately **2026-09-08 to 2026-09-09**
 
 ### OPP-031 — COBRAIN / YSMU
 
@@ -2023,7 +2189,7 @@ State:
 
 > **TRIGGER_WAIT**
 
-No action until the governing decision, next application round, and final eligibility conditions are published.
+No action until the governing decision, next application round and final eligibility conditions are published.
 
 ## Path E — Blocked / Future Cycle
 
@@ -2039,14 +2205,15 @@ Do not duplicate Path E outreach for:
 
 Path A continues asynchronously.
 
-# Current Immediate Command — 2026-09-06
+# Current Immediate Command — 2026-09-09
 
-> **CONTINUE PATH V FROM THE EXACT PV-1 FEATURE-EXTRACTION STOP POINT**
+> **CONTINUE PATH V FROM THE EXACT `spectral.py` VERIFICATION STOP POINT WHILE OPP-039 RUNS ASYNCHRONOUSLY**
 
 Do not restart Pre-Path V.
 
 Do not redesign the frozen Path V architecture.
 
-Do not expand PV-1 because of the OPP-015 response.
+Do not pause PV-1 solely because Engineering City has responded.
 
-Use the Chee guidance when the project later reaches reduced-channel robustness, device-quality dependence, cue-related arousal, and wearability/product-risk validation.
+Do not prepare a large Engineering City meeting package until Arpine's call establishes the actual meeting context.
+
