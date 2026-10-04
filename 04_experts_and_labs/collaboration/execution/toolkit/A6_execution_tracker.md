@@ -1,8 +1,8 @@
 # A6 — Path E Execution Tracker
 
 Date opened: 2026-08-21
-Last updated: 2026-09-09
-Stage: PATH E ASYNCHRONOUS EXECUTION / PATH V IN PROGRESS
+Last updated: 2026-10-04
+Stage: PATH E ASYNCHRONOUS EXECUTION / PATH V IN PROGRESS — OFFLINE BASELINE PHASE CLOSED / PV-3 PREPARING
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
 Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
 
@@ -35,16 +35,16 @@ Update this file whenever an email is sent, a call is made, an application is su
 
 ## Live Execution Board
 
-| OPP ID   | Opportunity                                                            | Current Action                                                                                                                                                               | Channel                    | Date       | Status           | Next Action                                                                                                                                                        | Next Check / Target                                      | Notes                                                                                                                                                                                                                                                                                                                                 |
-| -------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| OPP-015  | Centre for Sleep and Cognition / Michael Chee — NUS                      | Targeted methodological outreach received a substantive reply addressing participant composition, age/motion, headband quality, acoustic-stimulation/arousal trade-offs, wearability and commercialization concerns | Email                      | 2026-09-05 | COMPLETED        | Preserve the guidance as Path V design input. No required immediate follow-up; re-engage only if a later Path V result creates a specific evidence-based question | Re-entry only on concrete Path V trigger                       | The initial methodological objective was achieved. The reply did not provide a numerical validation threshold, but it sharpened the dimensions that reduced-channel N3 gating and cueing must eventually validate. Commercialization skepticism and the reported head-wear aversion figure are recorded as expert opinion/observation, not as established project conclusions. |
-| OPP-039  | Engineering City Neurotechnology Laboratory / EIF Science Incubator | Engineering City / EIF routed the 2026-09-04 inquiry internally; Arpine Davtyan replied directly, requested a mobile number, and stated that she would call to arrange a meeting and discuss possible collaboration in more detail | Email → phone / meeting arrangement | 2026-09-09 | IN_PROGRESS | Wait for Arpine's call. Capture meeting format, participants, purpose and expectations first; then prepare specifically for the actual meeting context. Do not assume technical capabilities or propose a human study before the discussion | Phone call / meeting arrangement pending | Strong positive collaboration signal. No meeting date/time or technical partnership is confirmed yet. Exact EEG hardware, streaming/API, synchronization, sleep/overnight capability, PSG/EOG/EMG support, collaboration mechanism and later ethics route remain unverified until direct discussion. |
-| OPP-031  | COBRAIN Scientific-Educational Center / YSMU                         | Deep institutional due diligence completed; targeted scientific/institutional collaboration inquiry sent to Mariam Movsisyan / YSMU KTTO, requesting an exploratory meeting and routing to the appropriate COBRAIN/YSMU scientific counterpart | Email                      | 2026-09-04 | WAITING_RESPONSE | Wait for reply. If a meeting/referral is offered, map the realistic mentorship, hosting, governance or research-enablement route. If no reply after ~5–7 business days, send one concise follow-up | Follow-up target: ~2026-09-11 to 2026-09-15              | Role = local neuroscience scientific/institutional bridge, not the primary EEG-hardware or sleep-lab route. Potential value includes scientific mentorship, experimental-design support, institutional hosting, ethics/governance, clinical-research coordination and network access. No human-study, funding, lab-access or formal-affiliation request was made initially. |
-| OPP-064  | National Sleep Research Resource (NSRR)                                | SHHS and STAGES Standard Individual data-access requests successfully submitted after completing the required scientific, compliance, security and guardian-signing workflow | NSRR portal + Email        | 2026-09-01 | WAITING_RESPONSE | Wait for NSRR review. Respond if additional information is requested. Do not download data until access is approved and Path V defines a justified acquisition step | Review window: up to ~2 weeks; check around 2026-09-15   | SHHS role = large-scale PSG robustness/generalization. STAGES role = protected multi-site/clinical external generalization. MESA remains reserve. No NSRR raw data has been downloaded and the download token remains unused. Submitted application/compliance records remain private outside Git.                                     |
-| OPP-078A | NEMAR Research Infrastructure                                          | Pre-Path V NEMAR/BOAS technical objective completed: reproducible access, raw-data inspection, validated minimal ingestion, formal EDA, and engineering-readiness assessment | Direct technical execution | 2026-08-28 | IN_PROGRESS      | Stop further Pre-Path V deepening. Carry BOAS/NEMAR forward as a Path V data and validation resource                                                              | Re-enter during Path V                                   | The Pre-Path V NEMAR gate is satisfied. BOAS was assessed READY WITH CONSTRAINTS. `IN_PROGRESS` is retained because NEMAR remains an active Path V resource, not because additional Pre-Path V NEMAR work is required. Detailed technical implementation remains exclusively in the private engineering repository.                       |
-| OPP-143  | CuttingGardens / CuttingEEG Community                                  | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support        | Email                      | 2026-08-21 | BLOCKED          | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or if post-event replay material becomes available | Post-event replay check after 2026-09-25                 | Organizer did not state an absolute age ban, but level-fit is weak and the global organization cannot provide travel/accommodation support.                                                                                                                                                                                         |
-| OPP-134  | European Sleep Research Society / Sleep Europe                         | Official registration reply received: scientific-programme participation is only available to participants over 18                                                         | Email                      | 2026-08-21 | BLOCKED          | No further funding/registration action unless the age requirement can be satisfied for the 2026 congress; otherwise retain ESRS for a future eligible cycle        | 2026 Sleep Europe cycle                                  | Congress Secretariat/Registration Manager replied directly. Financial-support questions are moot unless age eligibility is first satisfied.                                                                                                                                                                                          |
-| OPP-104  | Armenian Artificial Intelligence Virtual Institute / HPC State Support | Official eligibility/program-status clarification received                                                                                                                   | Email                      | 2026-08-24 | TRIGGER_WAIT     | No application action now. Re-open when the government decision is adopted and the next application round is officially announced; reassess final eligibility rules | Trigger: official publication of next application round | Draft rules are still being developed. The described physical-person categories include higher-education students and persons with higher or secondary vocational education. General secondary-school student status alone was not listed. Second application round is not yet open.                                                 |
+| OPP ID | Opportunity | Current Action | Channel | Date | Status | Next Action | Next Check / Target | Notes |
+|---|---|---|---|---|---|---|---|---|
+| OPP-015 | Centre for Sleep and Cognition / Michael Chee — NUS | Targeted methodological outreach received a substantive reply addressing participant composition, age/motion, headband quality, acoustic-stimulation/arousal trade-offs, wearability and commercialization concerns. | Email | 2026-09-05 | COMPLETED | Preserve the guidance as Path V design input. Re-engage only if a later Path V result creates a specific evidence-based question. | Re-entry only on concrete Path V trigger | Initial methodological objective achieved. Guidance is preserved as expert input rather than converted into unsupported universal thresholds or product conclusions. |
+| OPP-039 | Engineering City Neurotechnology Laboratory / EIF Science Incubator | Positive institutional routing and direct reply were obtained in September. Neuro-TMR now deliberately postpones the technical meeting/collaboration step until PV-3 produces a working software-only causal replay/controller/dummy-trigger artifact. | Email → later technical meeting | 2026-10-04 | TRIGGER_WAIT | Do not pursue the meeting as an immediate dependency. Re-open when PV-3 has a reproducible sequential-replay pipeline, simple controller logic, timestamped dummy trigger and initial software-latency evidence that can make the discussion technically concrete. | Trigger: working PV-3 real-time-like software prototype | This is a sequencing decision, not a rejection of the collaboration. The September positive signal remains valid, but exact hardware, streaming/API, synchronization, sleep capability and collaboration mechanism remain unverified until a future technical discussion. |
+| OPP-031 | COBRAIN Scientific-Educational Center / YSMU | Deep institutional due diligence completed; targeted scientific/institutional collaboration inquiry sent to Mariam Movsisyan / YSMU KTTO. | Email | 2026-09-04 | WAITING_RESPONSE | Preserve the opportunity as the local scientific/institutional bridge. Reconcile status before any new outreach; if no reply was received outside this tracker, use at most one concise follow-up when the institutional route becomes timely. | Re-entry on concrete institutional / Post-Path V need | No later response is recorded in this A6 version. Role remains scientific mentorship, hosting, governance and later human-validation enablement rather than the immediate engineering path. |
+| OPP-064 | National Sleep Research Resource (NSRR) | Two separate NSRR approval emails were received after the two submitted Standard Individual requests. The project therefore treats SHHS and STAGES as approved / access available, with exact dataset-to-dashboard mapping to be confirmed during the first minimal access check. | NSRR portal + Email | 2026-09-18 | COMPLETED | Path E access objective is complete. Path V should perform only a minimal SHHS/STAGES access-and-compatibility audit now: confirm access, inspect documentation/manifests/file structure, inspect participant/channel/annotation linkage, and retrieve only a minimal structural sample if required. Then stop until a specific external-generalization experiment is frozen. | Immediate minimal readiness audit; no bulk acquisition | SHHS role remains large-scale PSG robustness/generalization. STAGES remains the protected multi-site/clinical external-generalization resource and must not become a routine tuning set. MESA remains reserve/not requested. Two approval emails correspond to the two active requests; dashboard confirmation will provide the final administrative mapping. |
+| OPP-078A | NEMAR Research Infrastructure / BOAS | BOAS has now supported the completed offline modeling phase: PV-1 small-cohort baseline and PV-2 full-cohort PSG-EEG vs Headband-EEG baseline comparison. BOAS is being re-entered for PV-3 causal sequential replay and controller-readiness work. | Direct technical execution | 2026-10-04 | IN_PROGRESS | After the minimal NSRR readiness audit and PV-3 contract freeze, use BOAS chronological data/predictions for temporal failure analysis, causal replay, simple cue-eligibility controller logic, timestamped dummy triggers and software-latency measurement. | PV-3 — immediate Path V core after NSRR minimal audit | NEMAR/BOAS remains the active engineering resource. PV-2 is closed and should not be reopened without a concrete defect/new question. PV-3 is not a new SOTA training cycle; it is the bridge from frozen offline staging to a minimal real-time-like software loop. |
+| OPP-143 | CuttingGardens / CuttingEEG Community | Organizer reply received: event is aimed at PhD students / advanced researchers; high-school participation is a major stretch; no global travel/accommodation support. | Email | 2026-08-21 | BLOCKED | Do not pursue normal 2026 participation. Re-open only if a specific Garden sponsorship/hosting route becomes credible or useful replay material becomes available. | Future trigger only | Standard 2026 attendance route remains impractical under the recorded constraints. |
+| OPP-134 | European Sleep Research Society / Sleep Europe | Official registration reply received: scientific-programme participation is only available to participants over 18. | Email | 2026-08-21 | BLOCKED | Preserve for a future eligible cycle. | Future eligible cycle | Funding/travel questions remain secondary to age eligibility. |
+| OPP-104 | Armenian Artificial Intelligence Virtual Institute / HPC State Support | Official eligibility/program-status clarification received. | Email | 2026-08-24 | TRIGGER_WAIT | Re-open only when the government decision is adopted, the next application round is announced, and final eligibility conditions are published. | Trigger: official next application round | AIVI does not block Path V. |
 
 # Opportunity Action Log
 
@@ -2216,4 +2216,465 @@ Do not redesign the frozen Path V architecture.
 Do not pause PV-1 solely because Engineering City has responded.
 
 Do not prepare a large Engineering City meeting package until Arpine's call establishes the actual meeting context.
+---
 
+# 2026-09-18 — NSRR ACCESS APPROVAL UPDATE
+
+## OPP-064 — National Sleep Research Resource (NSRR)
+
+Execution type: Controlled-access sleep-data infrastructure  
+State change: **WAITING_RESPONSE → COMPLETED — ACCESS APPROVED**
+
+### Approval Result
+
+After the two Standard Individual requests submitted on 2026-09-01, Neuro-TMR received **two separate NSRR approval emails** on 2026-09-18 stating that the data request had been approved and that the available data could now be explored.
+
+The two active submitted requests were:
+
+1. **SHHS — Sleep Heart Health Study**
+2. **STAGES**
+
+The project therefore treats:
+
+> **SHHS → APPROVED / ACCESS AVAILABLE**
+
+and:
+
+> **STAGES → APPROVED / ACCESS AVAILABLE**
+
+The approval-email body itself is generic and does not name the dataset. Because there were exactly two active requests and two approval messages, the project uses the two-approval interpretation operationally. The first minimal NSRR dashboard/access check should confirm the exact request-to-dataset mapping before any acquisition step.
+
+MESA remains:
+
+> **RESERVE — NOT REQUESTED**
+
+### Path E Completion Decision
+
+The original OPP-064 objective was to establish a legitimate controlled-access gateway for later Path V generalization work.
+
+That objective is now achieved.
+
+Therefore:
+
+> **OPP-064 — COMPLETED FOR THE ACCESS OBJECTIVE**
+
+This does not mean that SHHS or STAGES has already been technically ingested, modeled, or evaluated.
+
+### Path V Acquisition Rule After Approval
+
+The previously frozen rule remains unchanged:
+
+> **ACCESS APPROVED ≠ BULK DOWNLOAD**
+
+The immediate Path V action is intentionally minimal:
+
+1. confirm the approved dashboard/access state;
+2. inspect current dataset documentation;
+3. inspect manifests / available file hierarchy and sizes;
+4. identify participant / visit / site identity structure;
+5. identify EEG channel/montage and sampling structure;
+6. inspect sleep-stage annotation structure;
+7. retrieve metadata/annotations first where practical;
+8. retrieve only a minimal structural PSG example if needed to verify linkage;
+9. STOP.
+
+Do not acquire a large cohort until a specific external-generalization experiment is frozen.
+
+### Dataset Roles Remain Frozen
+
+#### SHHS
+
+Primary role:
+
+> **large-scale PSG robustness and cross-subject / acquisition-domain generalization**
+
+SHHS may later require a harmonized/common-channel experiment before direct comparison with BOAS.
+
+#### STAGES
+
+Primary role:
+
+> **protected multi-site / clinical external-generalization resource**
+
+Strong protection rule:
+
+> **DO NOT use STAGES for routine model tuning.**
+
+Preserve site/center information and any current dataset-quality/duplicate notes during the later ingestion audit.
+
+---
+
+# 2026-10-04 — PATH V OFFLINE BASELINE CLOSURE AND PV-3 TRANSITION
+
+## Path V Milestone
+
+The first Validation-Lite offline-modeling section is now complete.
+
+### PV-1 — BOAS Small-Cohort Offline Staging Pilot
+
+State:
+
+> **CLOSED**
+
+Role achieved:
+
+> first simple, reproducible participant-separated PSG-EEG staging baseline and end-to-end modeling-pipeline validation.
+
+PV-1 remains a pilot result and is not used as the primary full-cohort comparison.
+
+### PV-2 — BOAS Full-Cohort PSG-EEG vs Headband-EEG Baseline Comparison
+
+State:
+
+> **CLOSED**
+
+Final matched modeling cohort:
+
+- **116,950** retained matched epochs;
+- **128** recording nights;
+- **100** real participants (`pid`);
+- five grouped participant folds;
+- same human-consensus labels and same matched epochs for both sensing domains.
+
+Frozen pooled headline results:
+
+| Metric | Headband-EEG | PSG-EEG |
+|---|---:|---:|
+| Accuracy | 0.5946 | 0.7193 |
+| Macro-F1 | 0.4905 | 0.6073 |
+| N3 Precision | 0.2525 | 0.3795 |
+| N3 Recall | 0.8280 | 0.9251 |
+| N3 F1 | 0.3870 | 0.5382 |
+
+Participant-level primary inference:
+
+- mean participant Macro-F1 difference (PSG − Headband): **+0.1148**;
+- 95% participant-bootstrap CI: **[+0.0967, +0.1331]**;
+- PSG better on participant Macro-F1 in **93 / 100** participants;
+- Holm-adjusted paired Wilcoxon p-value: **1.56 × 10⁻15**.
+
+High-level interpretation:
+
+> Under the frozen PV-2 spectral-feature + class-balanced Logistic Regression methodology, the 6-channel PSG-EEG domain demonstrated a substantial, consistent and statistically robust advantage over the 2-channel BOAS Headband-EEG domain.
+
+Important boundary:
+
+> this is a sensing/acquisition-domain comparison under the frozen baseline; it does not establish that channel count alone caused the difference, universal PSG superiority, clinical-grade staging, or product readiness.
+
+Final research-facing closure artifact:
+
+`experiments/pv2_boas_psg_vs_headband/pv2_boas_psg_vs_headband_final/gate7_paired_baseline_analysis.md`
+
+PV-2 should not be reopened without:
+
+- a concrete methodological defect;
+- a reproducibility failure;
+- or a genuinely new experimental question.
+
+---
+
+## PV-3 — NEXT PATH V EXPERIMENT
+
+Working title:
+
+> **PV-3 — BOAS Causal Sleep-State Gating & Closed-Loop Replay Feasibility**
+
+Simple project representation:
+
+> **Very simple real-time-like sleep-stage classification and dummy cueing using sequential BOAS replay.**
+
+### Purpose
+
+PV-3 converts the frozen BOAS offline staging baseline into a **software-only causal sequential pipeline**.
+
+The intended path is:
+
+```text
+recorded BOAS EEG
+        ↓
+sequential / chronological replay
+        ↓
+causal 30-second signal windows
+        ↓
+frozen spectral feature extraction
+        ↓
+frozen baseline sleep-stage model
+        ↓
+Wake / N1 / N2 / N3 / REM prediction
+        ↓
+simple controller / cue-eligibility logic
+        ↓
+CUE_ALLOWED / CUE_BLOCKED
+        ↓
+timestamped dummy trigger
+        ↓
+latency and behavior log
+```
+
+### Core Scientific / Engineering Question
+
+> Can the frozen offline BOAS staging baseline operate causally through time and support a reproducible minimal control loop that produces sensible cue-eligibility decisions and timestamped dummy triggers without using future information?
+
+### PV-3 Initial Work Sequence
+
+Before coding the controller, freeze the PV-3 experiment contract.
+
+Then:
+
+1. reconstruct PV-2 out-of-fold predictions chronologically by recording;
+2. analyze temporal N3 behavior:
+   - true N3 bouts;
+   - predicted N3 bouts;
+   - false-N3 run lengths;
+   - missed N3 bouts;
+   - transition behavior;
+   - stage toggling;
+3. design the simplest evidence-based temporal controller rule;
+4. simulate the controller on existing chronological predictions;
+5. implement causal raw BOAS replay;
+6. verify that completed causal windows reproduce the frozen offline inference when inputs are equivalent;
+7. add timestamped dummy triggers;
+8. measure software latency component-by-component.
+
+### PV-3 Boundaries
+
+PV-3 is **not**:
+
+- a deep-learning architecture search;
+- a new SOTA sleep-staging competition;
+- a live-human EEG experiment;
+- an OpenBCI/hardware experiment;
+- a clinical validation study;
+- phase-aware slow-oscillation stimulation;
+- a real TMR memory-efficacy experiment;
+- a calibrated-probability controller;
+- or product validation.
+
+The output should be a:
+
+> **minimal software-only, causal, replay-validated sleep-state control prototype**
+
+not a validated live real-time medical/product system.
+
+---
+
+## OPP-039 — ENGINEERING CITY SEQUENCING UPDATE
+
+Previous state:
+
+> **IN_PROGRESS — MEETING ARRANGEMENT**
+
+New state:
+
+> **TRIGGER_WAIT**
+
+### Reason for the Change
+
+The September reply remains a positive collaboration signal, but Neuro-TMR now has a clearer internal engineering sequence.
+
+Before asking an external laboratory to help with:
+
+- live EEG acquisition;
+- streaming;
+- synchronization;
+- event markers;
+- audio-trigger integration;
+- hardware latency;
+
+Neuro-TMR should first demonstrate the corresponding software logic on prerecorded BOAS data.
+
+Therefore Engineering City is deliberately postponed until PV-3 produces a working software artifact.
+
+### Re-Entry Trigger
+
+Re-open OPP-039 when Neuro-TMR has, at minimum:
+
+```text
+sequential BOAS replay
+        ↓
+causal sleep-stage inference
+        ↓
+simple cue-eligibility controller
+        ↓
+timestamped dummy trigger
+        ↓
+initial software-latency audit
+```
+
+At that point, the Engineering City discussion can become concrete:
+
+> Can the laboratory help replace the prerecorded software source with real EEG acquisition and validate streaming, synchronization, trigger delivery and end-to-end hardware latency?
+
+This sequencing change is not a negative judgment about Engineering City and does not imply that collaboration interest has disappeared.
+
+---
+
+## OPP-078A — NEMAR / BOAS CURRENT PATH V ROLE
+
+State:
+
+> **IN_PROGRESS**
+
+The completed BOAS work now includes:
+
+- reproducible NEMAR/BOAS access and ingestion;
+- formal EDA;
+- PV-1 offline pilot;
+- PV-2 full-cohort matched PSG-EEG vs Headband-EEG baseline;
+- paired error/failure analysis;
+- N3 operational analysis;
+- participant-level analysis;
+- participant-level statistical inference;
+- final PV-2 closure.
+
+BOAS now re-enters as the primary data source for:
+
+> **PV-3 causal sequential replay and controller-readiness engineering.**
+
+Do not restart broad BOAS EDA or reopen PV-2.
+
+---
+
+# Current Cross-Path Command Board — 2026-10-04
+
+## Path V
+
+State:
+
+> **IN PROGRESS — OFFLINE BASELINE PHASE CLOSED / PV-3 PREPARING**
+
+### Closed
+
+- **PV-1 — CLOSED**
+- **PV-2 — CLOSED**
+
+### Current Next Experiment
+
+> **PV-3 — BOAS Causal Sleep-State Gating & Closed-Loop Replay Feasibility**
+
+Current PV-3 state:
+
+> **PREPARING — EXPERIMENT CONTRACT NOT YET FROZEN**
+
+Immediate order:
+
+1. perform the minimal SHHS/STAGES access-and-compatibility audit required by the new NSRR approvals;
+2. stop NSRR acquisition after the readiness audit;
+3. freeze the PV-3 scientific/engineering contract;
+4. return to BOAS;
+5. begin chronological PV-2 prediction reconstruction and temporal failure analysis;
+6. advance only after interpreting each gate.
+
+Do not begin with LSL, hardware, audio stimulation or a new model architecture.
+
+---
+
+## Path E — Completed
+
+### OPP-015 — Centre for Sleep and Cognition / Michael Chee
+
+> **COMPLETED — INITIAL METHODOLOGICAL OBJECTIVE ACHIEVED**
+
+### OPP-064 — NSRR
+
+> **COMPLETED — SHHS/STAGES ACCESS APPROVED**
+
+SHHS:
+
+> **APPROVED / ACCESS AVAILABLE**
+
+STAGES:
+
+> **APPROVED / ACCESS AVAILABLE**
+
+MESA:
+
+> **RESERVE — NOT REQUESTED**
+
+---
+
+## Path E — Trigger Wait
+
+### OPP-039 — Engineering City Neurotechnology Laboratory / EIF
+
+> **TRIGGER_WAIT**
+
+Re-open after a working PV-3 software-only replay/controller/dummy-trigger prototype exists.
+
+### OPP-104 — Armenian Artificial Intelligence Virtual Institute / HPC State Support
+
+> **TRIGGER_WAIT**
+
+No action until the governing decision, next application round and final eligibility conditions are published.
+
+---
+
+## Path E — Waiting / Status Reconciliation
+
+### OPP-031 — COBRAIN / YSMU
+
+The last state recorded in A6 remains:
+
+> **WAITING_RESPONSE**
+
+No later response is recorded in this tracker version.
+
+Do not let this opportunity block PV-3. Reconcile the correspondence status separately before any new institutional action.
+
+---
+
+## Path E — Newly Satisfied Trigger, Not Yet Actioned
+
+### OPP-020 — SleepLoopFM / Sensory-Motor Systems Lab
+
+The original activation condition:
+
+> first concrete BOAS baseline + N3/gating failure mode
+
+has now been satisfied by PV-2.
+
+However:
+
+> **no new outreach action is recorded in A6 yet.**
+
+If activated, the outreach should use one precise evidence-backed question about sparse-EEG causal temporal context / intervention eligibility and should remain asynchronous to PV-3 engineering.
+
+---
+
+## Path E — Blocked / Future Cycle
+
+- **OPP-143 — CuttingGardens / CuttingEEG → BLOCKED**
+- **OPP-134 — ESRS / Sleep Europe → BLOCKED**
+
+---
+
+## Path A Protection
+
+Do not duplicate Path E outreach for:
+
+- **OPP-011 — Cecilia Forcato**
+- **OPP-014 — Hong-Viet Ngo-Dehning**
+
+Path A remains asynchronous.
+
+---
+
+# Current Immediate Command — 2026-10-04
+
+> **UPDATE NSRR FROM PENDING TO APPROVED, PERFORM ONLY THE MINIMAL SHHS/STAGES READINESS AUDIT, THEN FREEZE AND BEGIN PV-3 ON BOAS.**
+
+Engineering City is deliberately deferred until PV-3 produces a working software-only real-time-like artifact.
+
+Do not:
+
+- bulk-download SHHS or STAGES;
+- use STAGES for routine tuning;
+- reopen PV-2;
+- start a new deep staging model;
+- purchase/integrate real EEG hardware;
+- begin human TMR experimentation;
+- let asynchronous Path E opportunities block PV-3.
+
+The governing principle remains:
+
+> **EVIDENCE BEFORE ENGINEERING.**
