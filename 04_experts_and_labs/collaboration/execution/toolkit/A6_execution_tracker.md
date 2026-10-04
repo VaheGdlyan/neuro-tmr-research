@@ -4,7 +4,6 @@ Date opened: 2026-08-21
 Last updated: 2026-10-04
 Stage: PATH E ASYNCHRONOUS EXECUTION / PATH V IN PROGRESS — OFFLINE BASELINE PHASE CLOSED / PV-3 PREPARING
 Toolkit Artifact: A6 — Live operational log for actions taken on active opportunities
-Related documents: execution_roadmap.md, active_opportunity_execution_ledger.md, final_active_opportunities.md, path_e_execution_phase_classification.md, Pre-Path V/pre_path_v_immediate_execution.md
 
 ## Purpose
 
